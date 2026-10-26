@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Simple Past: Questions with question words in the Simple Past",
+    "title": "Simple Past: Wh-Questions",
+    "body": {
+      "explanation": {
+        "tr": "Soru kelimeli (Wh-) Simple Past soruları:\n• Soru kelimesi + did + özne + yalın fiil?\n  Where did you go? What did she buy? When did they arrive?\n• 'be' ile: Soru kelimesi + was/were + özne?\n  Where were you? Why was he angry?\n• Özne soruları (Who/What özne ise) did almaz:\n  Who called you? (✓) – Who did call you? (✗)\n  What happened? (✓)\nSoru kelimeleri: what, where, when, why, who, how, how long, how much.",
+        "tk": "Sorag sözli (Wh-) Simple Past soraglary:\n• Sorag sözi + did + eýe + esasy işlik?\n  Where did you go? What did she buy? When did they arrive?\n• 'be' bilen: Sorag sözi + was/were + eýe?\n  Where were you? Why was he angry?\n• Eýe soraglary (Who/What eýe bolsa) did almaýar:\n  Who called you? (✓) – Who did call you? (✗)\n  What happened? (✓)\nSorag sözleri: what, where, when, why, who, how, how long, how much.",
+        "ru": "Специальные вопросы (Wh-) в Simple Past:\n• Вопросительное слово + did + подлежащее + глагол?\n  Where did you go? What did she buy? When did they arrive?\n• С 'be': вопросительное слово + was/were + подлежащее?\n  Where were you? Why was he angry?\n• Вопросы к подлежащему (Who/What — подлежащее) без did:\n  Who called you? (✓) – Who did call you? (✗)\n  What happened? (✓)\nВопросительные слова: what, where, when, why, who, how, how long, how much."
+      },
+      "examples": [
+        { "en": "Where did you spend your holiday?", "tr": "Tatilini nerede geçirdin?", "tk": "Dynç alyşyňy nirede geçirdiň?", "ru": "Где ты провёл отпуск?" },
+        { "en": "What did you have for dinner?", "tr": "Akşam yemeğinde ne yedin?", "tk": "Agşamlyk naharyna näme iýdiň?", "ru": "Что ты ел на ужин?" },
+        { "en": "Why was the shop closed?", "tr": "Dükkân neden kapalıydı?", "tk": "Dükan näme üçin ýapykdy?", "ru": "Почему магазин был закрыт?" },
+        { "en": "Who broke the window?", "tr": "Pencereyi kim kırdı?", "tk": "Penjiräni kim döwdi?", "ru": "Кто разбил окно?" },
+        { "en": "How long did the journey take?", "tr": "Yolculuk ne kadar sürdü?", "tk": "Syýahat näçe wagt aldy?", "ru": "Сколько длилась поездка?" },
+        { "en": "When did you start learning English?", "tr": "İngilizce öğrenmeye ne zaman başladın?", "tk": "Iňlis dilini haçan öwrenip başladyň?", "ru": "Когда ты начал учить английский?" }
+      ],
+      "exercises": [
+        { "question": "Where ___ you go last summer?", "options": ["did", "were", "do", "was"], "answer": 0, "explanation": { "tr": "Wh + did + özne + fiil.", "tk": "Wh + did + eýe + işlik.", "ru": "Wh + did + подлежащее + глагол." } },
+        { "question": "What did she ___ at the market?", "options": ["bought", "buy", "buys", "buying"], "answer": 1, "explanation": { "tr": "did + yalın fiil.", "tk": "did + esasy işlik.", "ru": "did + начальная форма." } },
+        { "question": "Why ___ you late yesterday?", "options": ["did", "was", "were", "are"], "answer": 2, "explanation": { "tr": "be + you → were.", "tk": "be + you → were.", "ru": "be + you → were." } },
+        { "question": "Who ___ the cake?", "options": ["did eat", "ate", "did ate", "eats"], "answer": 1, "explanation": { "tr": "Özne sorusu → did yok: Who ate?", "tk": "Eýe soragy → did ýok: Who ate?", "ru": "Вопрос к подлежащему → без did: Who ate?" } },
+        { "question": "When ___ the train leave?", "options": ["was", "did", "does", "were"], "answer": 1, "explanation": { "tr": "When + did + özne + fiil.", "tk": "When + did + eýe + işlik.", "ru": "When + did + подлежащее + глагол." } },
+        { "question": "What ___ last night? I heard a loud noise.", "options": ["did happen", "happened", "was happen", "happen"], "answer": 1, "explanation": { "tr": "Özne sorusu: What happened?", "tk": "Eýe soragy: What happened?", "ru": "Вопрос к подлежащему: What happened?" } },
+        { "question": "How much ___ your new phone cost?", "options": ["did", "was", "does", "were"], "answer": 0, "explanation": { "tr": "How much + did + özne + cost.", "tk": "How much + did + eýe + cost.", "ru": "How much + did + подлежащее + cost." } },
+        { "question": "Choose the correct question.", "options": ["Where did you lived?", "Where you lived?", "Where did you live?", "Where were you live?"], "answer": 2, "explanation": { "tr": "did + yalın fiil: live.", "tk": "did + esasy işlik: live.", "ru": "did + начальная форма: live." } },
+        { "question": "Where ___ your keys? – They were in my bag.", "options": ["did", "was", "were", "are"], "answer": 2, "explanation": { "tr": "keys (çoğul) → were.", "tk": "keys (köplük) → were.", "ru": "keys (мн. ч.) → were." } },
+        { "question": "Find the mistake: \"Who did tell you the secret?\"", "options": ["Who did tell", "you", "the secret", "There is no mistake"], "answer": 0, "explanation": { "tr": "Özne sorusu: Who told you?", "tk": "Eýe soragy: Who told you?", "ru": "Вопрос к подлежащему: Who told you?" } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Simple Past: Rules – Simple Past",
+    "title": "Simple Past: All the Rules",
+    "body": {
+      "explanation": {
+        "tr": "Simple Past kuralları özeti:\n1. Kullanım: geçmişte belli bir zamanda bitmiş eylemler (yesterday, last week, in 2020, ago).\n2. Olumlu: düzenli fiil + -ed / düzensiz fiilin 2. hâli. Tüm öznelerde aynı.\n3. Olumsuz: didn't + yalın fiil → I didn't go.\n4. Soru: Did + özne + yalın fiil? → Did you go?\n5. be: was / were; olumsuz wasn't / weren't; soru Was he...? Were they...?\n6. Ard arda olan geçmiş olaylar: I got up, had breakfast and left.\n-ed yazım: like → liked, cry → cried, play → played, plan → planned.",
+        "tk": "Simple Past düzgünleriniň jemi:\n1. Ulanylyşy: geçmişde belli bir wagtda gutaran hereketler (yesterday, last week, in 2020, ago).\n2. Tassyklaýjy: dogry işlik + -ed / nädogry işligiň 2-nji görnüşi. Ähli eýelerde birmeňzeş.\n3. Ýokluk: didn't + esasy işlik → I didn't go.\n4. Sorag: Did + eýe + esasy işlik? → Did you go?\n5. be: was / were; ýokluk wasn't / weren't; sorag Was he...? Were they...?\n6. Yzygiderli geçmiş wakalar: I got up, had breakfast and left.\n-ed ýazylyşy: like → liked, cry → cried, play → played, plan → planned.",
+        "ru": "Сводка правил Simple Past:\n1. Употребление: законченные действия в определённый момент прошлого (yesterday, last week, in 2020, ago).\n2. Утверждение: правильный глагол + -ed / вторая форма неправильного. Одинаково для всех лиц.\n3. Отрицание: didn't + начальная форма → I didn't go.\n4. Вопрос: Did + подлежащее + начальная форма? → Did you go?\n5. be: was / were; отрицание wasn't / weren't; вопрос Was he...? Were they...?\n6. Последовательные события в прошлом: I got up, had breakfast and left.\nОрфография -ed: like → liked, cry → cried, play → played, plan → planned."
+      },
+      "examples": [
+        { "en": "I moved to Ashgabat in 2019.", "tr": "2019'da Aşkabat'a taşındım.", "tk": "Men 2019-njy ýylda Aşgabada göçdüm.", "ru": "Я переехал в Ашхабад в 2019 году." },
+        { "en": "She didn't like the soup.", "tr": "Çorbayı beğenmedi.", "tk": "Oňa çorba ýaramady.", "ru": "Ей не понравился суп." },
+        { "en": "Did you finish your project?", "tr": "Projeni bitirdin mi?", "tk": "Taslamaňy tamamladyňmy?", "ru": "Ты закончил проект?" },
+        { "en": "We weren't at home last night.", "tr": "Dün gece evde değildik.", "tk": "Düýn agşam biz öýde däldik.", "ru": "Вчера вечером нас не было дома." },
+        { "en": "He opened the door, looked around and went in.", "tr": "Kapıyı açtı, etrafa baktı ve içeri girdi.", "tk": "Ol gapyny açdy, töweregine seretdi we içeri girdi.", "ru": "Он открыл дверь, огляделся и вошёл." },
+        { "en": "They planned the trip two months ago.", "tr": "Geziyi iki ay önce planladılar.", "tk": "Olar syýahaty iki aý ozal meýilleşdirdiler.", "ru": "Они спланировали поездку два месяца назад." }
+      ],
+      "exercises": [
+        { "question": "Which time expression goes with the Simple Past?", "options": ["tomorrow", "two days ago", "next week", "now"], "answer": 1, "explanation": { "tr": "ago → geçmiş.", "tk": "ago → geçmiş.", "ru": "ago → прошлое." } },
+        { "question": "I ___ my homework yesterday.", "options": ["didn't do", "didn't did", "don't did", "not did"], "answer": 0, "explanation": { "tr": "didn't + yalın fiil.", "tk": "didn't + esasy işlik.", "ru": "didn't + начальная форма." } },
+        { "question": "They ___ a holiday in Turkey last year.", "options": ["planed", "planned", "planing", "plannd"], "answer": 1, "explanation": { "tr": "plan → planned (ünsüz ikilenir).", "tk": "plan → planned (çekimsiz iki esse).", "ru": "plan → planned (удвоение)." } },
+        { "question": "___ he at work on Monday?", "options": ["Did", "Was", "Were", "Is"], "answer": 1, "explanation": { "tr": "be + he → Was.", "tk": "be + he → Was.", "ru": "be + he → Was." } },
+        { "question": "We ___ very hungry after the walk.", "options": ["was", "were", "did", "are"], "answer": 1, "explanation": { "tr": "we → were.", "tk": "we → were.", "ru": "we → were." } },
+        { "question": "She ___ to music and then went to sleep.", "options": ["listen", "listened", "listens", "listenned"], "answer": 1, "explanation": { "tr": "listen + -ed.", "tk": "listen + -ed.", "ru": "listen + -ed." } },
+        { "question": "The baby ___ because she was hungry.", "options": ["cryed", "cried", "crying", "cries"], "answer": 1, "explanation": { "tr": "cry → cried.", "tk": "cry → cried.", "ru": "cry → cried." } },
+        { "question": "Did you ___ the email?", "options": ["sent", "send", "sended", "sending"], "answer": 1, "explanation": { "tr": "Did + yalın fiil.", "tk": "Did + esasy işlik.", "ru": "Did + начальная форма." } },
+        { "question": "The shops ___ open on Sunday.", "options": ["wasn't", "weren't", "didn't", "don't was"], "answer": 1, "explanation": { "tr": "shops (çoğul) → weren't.", "tk": "shops (köplük) → weren't.", "ru": "shops (мн. ч.) → weren't." } },
+        { "question": "Find the mistake: \"I didn't saw him yesterday.\"", "options": ["I didn't", "saw", "him", "yesterday"], "answer": 1, "explanation": { "tr": "didn't + see.", "tk": "didn't + see.", "ru": "didn't + see." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Simple Past: Sentences and questions in the Simple Past",
+    "title": "Simple Past: Sentences and Questions Practice",
+    "body": {
+      "explanation": {
+        "tr": "Bu alıştırmada Simple Past'ta cümle ve soru kurmayı birlikte çalışacaksın.\n• Olumlu: My friend called me yesterday.\n• Olumsuz: My friend didn't call me yesterday.\n• Evet/hayır sorusu: Did your friend call you yesterday?\n• Wh- sorusu: When did your friend call you?\n• Cevap verirken soruyla aynı zamanı kullan: Did you see it? – Yes, I saw it. / No, I didn't see it.",
+        "tk": "Bu gönükmede Simple Past-da sözlem we sorag düzmegi bilelikde türgenleşersiň.\n• Tassyklaýjy: My friend called me yesterday.\n• Ýokluk: My friend didn't call me yesterday.\n• Hawa/ýok soragy: Did your friend call you yesterday?\n• Wh- soragy: When did your friend call you?\n• Jogap berlende sorag bilen şol bir zamany ulan: Did you see it? – Yes, I saw it. / No, I didn't see it.",
+        "ru": "В этом упражнении ты тренируешь утверждения и вопросы в Simple Past вместе.\n• Утверждение: My friend called me yesterday.\n• Отрицание: My friend didn't call me yesterday.\n• Общий вопрос: Did your friend call you yesterday?\n• Специальный вопрос: When did your friend call you?\n• Отвечай в том же времени: Did you see it? – Yes, I saw it. / No, I didn't see it."
+      },
+      "examples": [
+        { "en": "Tom lost his phone on the bus.", "tr": "Tom telefonunu otobüste kaybetti.", "tk": "Tom telefonyny awtobusda ýitirdi.", "ru": "Том потерял телефон в автобусе." },
+        { "en": "Did Tom lose his phone? – Yes, he did.", "tr": "Tom telefonunu kaybetti mi? – Evet.", "tk": "Tom telefonyny ýitirdimi? – Hawa.", "ru": "Том потерял телефон? – Да." },
+        { "en": "Where did he lose it? – On the bus.", "tr": "Nerede kaybetti? – Otobüste.", "tk": "Ony nirede ýitirdi? – Awtobusda.", "ru": "Где он его потерял? – В автобусе." },
+        { "en": "We didn't see the beginning of the film.", "tr": "Filmin başını görmedik.", "tk": "Biz filmiň başyny görmedik.", "ru": "Мы не видели начало фильма." },
+        { "en": "Why did you leave early?", "tr": "Neden erken ayrıldın?", "tk": "Näme üçin ir gitdiň?", "ru": "Почему ты рано ушёл?" },
+        { "en": "My grandma made a delicious cake.", "tr": "Büyükannem lezzetli bir pasta yaptı.", "tk": "Mamam tagamly tort bişirdi.", "ru": "Бабушка испекла вкусный торт." }
+      ],
+      "exercises": [
+        { "question": "She ___ (write) a poem for her mother.", "options": ["writed", "wrote", "written", "writes"], "answer": 1, "explanation": { "tr": "write → wrote.", "tk": "write → wrote.", "ru": "write → wrote." } },
+        { "question": "___ you ___ the dishes? (wash)", "options": ["Did / wash", "Did / washed", "Do / washed", "Were / wash"], "answer": 0, "explanation": { "tr": "Did + yalın fiil.", "tk": "Did + esasy işlik.", "ru": "Did + начальная форма." } },
+        { "question": "We ___ (not / have) time for breakfast.", "options": ["didn't had", "didn't have", "hadn't", "don't have"], "answer": 1, "explanation": { "tr": "didn't + have.", "tk": "didn't + have.", "ru": "didn't + have." } },
+        { "question": "What ___ you ___ for your birthday? (get)", "options": ["did / got", "did / get", "were / get", "do / got"], "answer": 1, "explanation": { "tr": "What + did + özne + get.", "tk": "What + did + eýe + get.", "ru": "What + did + подлежащее + get." } },
+        { "question": "\"Did you see Ali?\" – \"Yes, I ___ him at the shop.\"", "options": ["see", "saw", "seen", "did saw"], "answer": 1, "explanation": { "tr": "Olumlu cevap: saw.", "tk": "Tassyklaýjy jogap: saw.", "ru": "Утвердительный ответ: saw." } },
+        { "question": "They ___ (arrive) at midnight.", "options": ["arrived", "arriveed", "arrive", "arrives"], "answer": 0, "explanation": { "tr": "arrive + d.", "tk": "arrive + d.", "ru": "arrive + d." } },
+        { "question": "How ___ you ___ to school? (come)", "options": ["did / came", "did / come", "were / come", "do / came"], "answer": 1, "explanation": { "tr": "did + come.", "tk": "did + come.", "ru": "did + come." } },
+        { "question": "My dad ___ (fix) the car last weekend.", "options": ["fixes", "fixed", "fixxed", "fix"], "answer": 1, "explanation": { "tr": "fix + ed.", "tk": "fix + ed.", "ru": "fix + ed." } },
+        { "question": "Choose the correct negative: \"He took the bus.\"", "options": ["He didn't took the bus.", "He didn't take the bus.", "He not took the bus.", "He doesn't take the bus."], "answer": 1, "explanation": { "tr": "didn't + take.", "tk": "didn't + take.", "ru": "didn't + take." } },
+        { "question": "Who ___ (win) the race?", "options": ["did win", "won", "winned", "wins"], "answer": 1, "explanation": { "tr": "Özne sorusu: Who won?", "tk": "Eýe soragy: Who won?", "ru": "Вопрос к подлежащему: Who won?" } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Simple Past: Signal words in the Simple Past",
+    "title": "Signal Words for the Simple Past",
+    "body": {
+      "explanation": {
+        "tr": "Simple Past'ı gösteren sinyal kelimeler, geçmişte belli bir zamanı işaret eder:\n• yesterday, the day before yesterday\n• last night / last week / last year\n• ... ago: two days ago, a long time ago\n• in + geçmiş yıl: in 1998, in 2015\n• when I was a child, at that time, then\nBu kelimeler varsa Present Perfect değil Simple Past kullan:\n• I saw him yesterday. (✓) – I have seen him yesterday. (✗)",
+        "tk": "Simple Past-y görkezýän alamat sözler geçmişde belli bir wagty aňladýar:\n• yesterday, the day before yesterday\n• last night / last week / last year\n• ... ago: two days ago, a long time ago\n• in + geçen ýyl: in 1998, in 2015\n• when I was a child, at that time, then\nBu sözler bar bolsa, Present Perfect däl-de Simple Past ulan:\n• I saw him yesterday. (✓) – I have seen him yesterday. (✗)",
+        "ru": "Слова-маркеры Simple Past указывают на определённое время в прошлом:\n• yesterday, the day before yesterday\n• last night / last week / last year\n• ... ago: two days ago, a long time ago\n• in + прошедший год: in 1998, in 2015\n• when I was a child, at that time, then\nЕсли есть такие слова — нужен Simple Past, а не Present Perfect:\n• I saw him yesterday. (✓) – I have seen him yesterday. (✗)"
+      },
+      "examples": [
+        { "en": "I met her three years ago.", "tr": "Onunla üç yıl önce tanıştım.", "tk": "Men onuň bilen üç ýyl ozal tanyşdym.", "ru": "Я познакомился с ней три года назад." },
+        { "en": "We watched a great film last night.", "tr": "Dün gece harika bir film izledik.", "tk": "Düýn agşam ajaýyp film gördük.", "ru": "Вчера вечером мы посмотрели отличный фильм." },
+        { "en": "When I was a child, I lived in a village.", "tr": "Çocukken bir köyde yaşadım.", "tk": "Çagakam men obada ýaşadym.", "ru": "В детстве я жил в деревне." },
+        { "en": "They built this bridge in 1985.", "tr": "Bu köprüyü 1985'te yaptılar.", "tk": "Olar bu köprüni 1985-nji ýylda gurdular.", "ru": "Этот мост построили в 1985 году." },
+        { "en": "She called me the day before yesterday.", "tr": "Evvelsi gün beni aradı.", "tk": "Ol öňňin maňa jaň etdi.", "ru": "Она звонила мне позавчера." },
+        { "en": "Last year we travelled to Italy.", "tr": "Geçen yıl İtalya'ya seyahat ettik.", "tk": "Geçen ýyl biz Italiýa syýahat etdik.", "ru": "В прошлом году мы ездили в Италию." }
+      ],
+      "exercises": [
+        { "question": "Which is a signal word for the Simple Past?", "options": ["already", "last week", "since", "every day"], "answer": 1, "explanation": { "tr": "last week → Simple Past.", "tk": "last week → Simple Past.", "ru": "last week → Simple Past." } },
+        { "question": "I ___ him two hours ago.", "options": ["have seen", "saw", "see", "am seeing"], "answer": 1, "explanation": { "tr": "ago → Simple Past: saw.", "tk": "ago → Simple Past: saw.", "ru": "ago → Simple Past: saw." } },
+        { "question": "My parents ___ married in 2005.", "options": ["get", "got", "have got", "are getting"], "answer": 1, "explanation": { "tr": "in 2005 → got.", "tk": "in 2005 → got.", "ru": "in 2005 → got." } },
+        { "question": "___ I visited my cousins.", "options": ["Tomorrow", "Next Sunday", "Last Sunday", "Every Sunday"], "answer": 2, "explanation": { "tr": "visited (geçmiş) → Last Sunday.", "tk": "visited (geçmiş) → Last Sunday.", "ru": "visited (прошлое) → Last Sunday." } },
+        { "question": "When I was young, I ___ afraid of the dark.", "options": ["am", "was", "have been", "be"], "answer": 1, "explanation": { "tr": "when I was young → was.", "tk": "when I was young → was.", "ru": "when I was young → was." } },
+        { "question": "Choose the correct sentence.", "options": ["I have bought this bag yesterday.", "I bought this bag yesterday.", "I buy this bag yesterday.", "I was buy this bag yesterday."], "answer": 1, "explanation": { "tr": "yesterday → Simple Past.", "tk": "yesterday → Simple Past.", "ru": "yesterday → Simple Past." } },
+        { "question": "The train ___ ten minutes ago.", "options": ["leaves", "has left", "left", "is leaving"], "answer": 2, "explanation": { "tr": "ago → left.", "tk": "ago → left.", "ru": "ago → left." } },
+        { "question": "Where were you ___?", "options": ["tomorrow", "last night", "next week", "now"], "answer": 1, "explanation": { "tr": "were → geçmiş: last night.", "tk": "were → geçmiş: last night.", "ru": "were → прошлое: last night." } },
+        { "question": "She ___ to the dentist the day before yesterday.", "options": ["went", "goes", "has gone", "will go"], "answer": 0, "explanation": { "tr": "the day before yesterday → went.", "tk": "the day before yesterday → went.", "ru": "the day before yesterday → went." } },
+        { "question": "Find the mistake: \"We have moved here in 2018.\"", "options": ["We have moved", "here", "in 2018", "There is no mistake"], "answer": 0, "explanation": { "tr": "in 2018 → We moved.", "tk": "in 2018 → We moved.", "ru": "in 2018 → We moved." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Simple Past: Simple Past – Negation of sentences in English",
+    "title": "Simple Past: Negative Sentences",
+    "body": {
+      "explanation": {
+        "tr": "Simple Past'ta olumsuz cümle:\n• didn't (did not) + yalın fiil: I didn't go. She didn't eat.\n• Fiil yalın hâle döner: went → didn't go, saw → didn't see.\n• 'be' fiilinde did kullanılmaz: wasn't / weren't\n  I wasn't tired. They weren't at home.\n• could → couldn't: I couldn't sleep.\nKısaltma konuşmada çok yaygındır: didn't, wasn't, weren't.",
+        "tk": "Simple Past-da ýokluk sözlem:\n• didn't (did not) + esasy işlik: I didn't go. She didn't eat.\n• Işlik esasy görnüşe dolanýar: went → didn't go, saw → didn't see.\n• 'be' işliginde did ulanylmaýar: wasn't / weren't\n  I wasn't tired. They weren't at home.\n• could → couldn't: I couldn't sleep.\nGysgaltma gürleşikde örän ýaýran: didn't, wasn't, weren't.",
+        "ru": "Отрицание в Simple Past:\n• didn't (did not) + начальная форма: I didn't go. She didn't eat.\n• Глагол возвращается в начальную форму: went → didn't go, saw → didn't see.\n• С 'be' did не используется: wasn't / weren't\n  I wasn't tired. They weren't at home.\n• could → couldn't: I couldn't sleep.\nВ речи обычно сокращают: didn't, wasn't, weren't."
+      },
+      "examples": [
+        { "en": "I didn't sleep well last night.", "tr": "Dün gece iyi uyumadım.", "tk": "Düýn gije gowy ýatmadym.", "ru": "Вчера ночью я плохо спал." },
+        { "en": "She didn't come to the party.", "tr": "Partiye gelmedi.", "tk": "Ol oturylyşyga gelmedi.", "ru": "Она не пришла на вечеринку." },
+        { "en": "We weren't hungry.", "tr": "Aç değildik.", "tk": "Biz aç däldik.", "ru": "Мы не были голодны." },
+        { "en": "The film wasn't very interesting.", "tr": "Film pek ilginç değildi.", "tk": "Film kän bir gyzykly däldi.", "ru": "Фильм был не очень интересным." },
+        { "en": "He couldn't find his glasses.", "tr": "Gözlüğünü bulamadı.", "tk": "Ol äýnegini tapyp bilmedi.", "ru": "Он не мог найти очки." },
+        { "en": "They didn't buy anything.", "tr": "Hiçbir şey almadılar.", "tk": "Olar hiç zat satyn almadylar.", "ru": "Они ничего не купили." }
+      ],
+      "exercises": [
+        { "question": "I went to school. → I ___ to school.", "options": ["didn't went", "didn't go", "wasn't go", "not went"], "answer": 1, "explanation": { "tr": "didn't + go.", "tk": "didn't + go.", "ru": "didn't + go." } },
+        { "question": "She was angry. → She ___ angry.", "options": ["didn't", "wasn't", "weren't", "didn't be"], "answer": 1, "explanation": { "tr": "was → wasn't.", "tk": "was → wasn't.", "ru": "was → wasn't." } },
+        { "question": "They watched TV. → They ___ TV.", "options": ["didn't watched", "didn't watch", "weren't watch", "don't watch"], "answer": 1, "explanation": { "tr": "didn't + watch.", "tk": "didn't + watch.", "ru": "didn't + watch." } },
+        { "question": "We were late. → We ___ late.", "options": ["wasn't", "weren't", "didn't", "aren't"], "answer": 1, "explanation": { "tr": "were → weren't.", "tk": "were → weren't.", "ru": "were → weren't." } },
+        { "question": "He could swim. → He ___ swim.", "options": ["didn't could", "couldn't", "can't", "wasn't"], "answer": 1, "explanation": { "tr": "could → couldn't.", "tk": "could → couldn't.", "ru": "could → couldn't." } },
+        { "question": "My sister ___ her room yesterday.", "options": ["didn't clean", "didn't cleaned", "not cleaned", "doesn't cleaned"], "answer": 0, "explanation": { "tr": "didn't + yalın fiil.", "tk": "didn't + esasy işlik.", "ru": "didn't + начальная форма." } },
+        { "question": "The weather ___ good, so we stayed inside.", "options": ["didn't", "wasn't", "weren't", "isn't"], "answer": 1, "explanation": { "tr": "weather (tekil) → wasn't.", "tk": "weather (birlik) → wasn't.", "ru": "weather (ед. ч.) → wasn't." } },
+        { "question": "Choose the correct negative: \"Ali ate the apple.\"", "options": ["Ali didn't ate the apple.", "Ali didn't eat the apple.", "Ali wasn't eat the apple.", "Ali not ate the apple."], "answer": 1, "explanation": { "tr": "didn't + eat.", "tk": "didn't + eat.", "ru": "didn't + eat." } },
+        { "question": "I ___ understand the question.", "options": ["didn't", "wasn't", "weren't", "not"], "answer": 0, "explanation": { "tr": "Ana fiil (understand) → didn't.", "tk": "Esasy işlik (understand) → didn't.", "ru": "Смысловой глагол (understand) → didn't." } },
+        { "question": "Find the mistake: \"The children wasn't at school.\"", "options": ["The children", "wasn't", "at school", "There is no mistake"], "answer": 1, "explanation": { "tr": "children (çoğul) → weren't.", "tk": "children (köplük) → weren't.", "ru": "children (мн. ч.) → weren't." } }
+      ]
+    }
+  }
+]

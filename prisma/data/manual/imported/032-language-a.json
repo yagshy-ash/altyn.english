@@ -1,0 +1,101 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Language, Proverbs: Abbreviations for Texting in English",
+    "title": "Texting Abbreviations",
+    "body": {
+      "explanation": {
+        "tr": "Mesajlaşırken İngilizcede çok kısaltma kullanılır. Bunlar resmî yazıda (e-posta, ödev) kullanılmaz!\n• BTW = by the way (bu arada)\n• LOL = laughing out loud (çok güldüm)\n• OMG = oh my God (aman Tanrım)\n• ASAP = as soon as possible (en kısa sürede)\n• IDK = I don't know (bilmiyorum)\n• TBH = to be honest (dürüst olmak gerekirse)\n• BRB = be right back (hemen dönerim)\n• THX / TY = thanks / thank you\n• PLS = please, U = you, R = are, GR8 = great, 2MORO = tomorrow, B4 = before\n• FYI = for your information (bilgin olsun)",
+        "tk": "Hat alyşylanda iňlis dilinde köp gysgaltma ulanylýar. Olar resmi ýazgylarda (e-poçta, öý işi) ulanylmaýar!\n• BTW = by the way (aýtmaýyn diýme)\n• LOL = laughing out loud (gaty güldüm)\n• OMG = oh my God (wah, Hudaýym)\n• ASAP = as soon as possible (mümkin boldugyça çalt)\n• IDK = I don't know (bilemok)\n• TBH = to be honest (dogrusyny aýtsam)\n• BRB = be right back (häzir gelýärin)\n• THX / TY = thanks / thank you\n• PLS = please, U = you, R = are, GR8 = great, 2MORO = tomorrow, B4 = before\n• FYI = for your information (maglumat üçin)",
+        "ru": "В переписке по-английски используют много сокращений. В официальных текстах (письма, домашние работы) их не пишут!\n• BTW = by the way (кстати)\n• LOL = laughing out loud (очень смешно)\n• OMG = oh my God (о боже)\n• ASAP = as soon as possible (как можно скорее)\n• IDK = I don't know (не знаю)\n• TBH = to be honest (честно говоря)\n• BRB = be right back (сейчас вернусь)\n• THX / TY = thanks / thank you\n• PLS = please, U = you, R = are, GR8 = great, 2MORO = tomorrow, B4 = before\n• FYI = for your information (к сведению)"
+      },
+      "examples": [
+        { "en": "BTW, the party starts at 8.", "tr": "Bu arada, parti 8'de başlıyor.", "tk": "Aýtmaýyn diýme, oturylyşyk 8-de başlanýar.", "ru": "Кстати, вечеринка начинается в 8." },
+        { "en": "Call me ASAP!", "tr": "En kısa sürede beni ara!", "tk": "Mümkin boldugyça çalt maňa jaň et!", "ru": "Позвони мне как можно скорее!" },
+        { "en": "IDK where he is.", "tr": "Nerede olduğunu bilmiyorum.", "tk": "Onuň nirededigini bilemok.", "ru": "Не знаю, где он." },
+        { "en": "C U 2MORO! (See you tomorrow!)", "tr": "Yarın görüşürüz!", "tk": "Ertir görüşeris!", "ru": "Увидимся завтра!" },
+        { "en": "TBH, I didn't like the film.", "tr": "Dürüst olmak gerekirse filmi beğenmedim.", "tk": "Dogrusyny aýtsam, film maňa ýaramady.", "ru": "Честно говоря, фильм мне не понравился." },
+        { "en": "BRB, my mum is calling me.", "tr": "Hemen dönerim, annem beni çağırıyor.", "tk": "Häzir gelýärin, ejem meni çagyrýar.", "ru": "Сейчас вернусь, мама зовёт." }
+      ],
+      "exercises": [
+        { "question": "ASAP means:", "options": ["as soon as possible", "always say a prayer", "as simple as possible", "ask someone and pay"], "answer": 0, "explanation": { "tr": "En kısa sürede.", "tk": "Mümkin boldugyça çalt.", "ru": "Как можно скорее." } },
+        { "question": "BTW means:", "options": ["better than waiting", "by the way", "back to work", "between the walls"], "answer": 1, "explanation": { "tr": "Bu arada.", "tk": "Aýtmaýyn diýme.", "ru": "Кстати." } },
+        { "question": "IDK means:", "options": ["I don't know", "I did it", "I don't kid", "It doesn't kill"], "answer": 0, "explanation": { "tr": "Bilmiyorum.", "tk": "Bilemok.", "ru": "Не знаю." } },
+        { "question": "What does \"GR8\" mean?", "options": ["grade", "great", "green", "greet"], "answer": 1, "explanation": { "tr": "GR + 8 (eight) = great.", "tk": "GR + 8 (eight) = great.", "ru": "GR + 8 (eight) = great." } },
+        { "question": "\"C U 2MORO\" means:", "options": ["See you tomorrow", "Call us today", "Come up tomorrow", "Can you two more"], "answer": 0, "explanation": { "tr": "Yarın görüşürüz.", "tk": "Ertir görüşeris.", "ru": "Увидимся завтра." } },
+        { "question": "TBH means:", "options": ["to be happy", "to be honest", "take both hands", "too bad, honey"], "answer": 1, "explanation": { "tr": "Dürüst olmak gerekirse.", "tk": "Dogrusyny aýtsam.", "ru": "Честно говоря." } },
+        { "question": "BRB means:", "options": ["be right back", "bring red bag", "big rich boy", "bye, read book"], "answer": 0, "explanation": { "tr": "Hemen dönerim.", "tk": "Häzir gelýärin.", "ru": "Сейчас вернусь." } },
+        { "question": "FYI means:", "options": ["for your information", "find your idea", "fix your internet", "for young individuals"], "answer": 0, "explanation": { "tr": "Bilgin olsun.", "tk": "Maglumat üçin.", "ru": "К сведению." } },
+        { "question": "Where should you NOT use texting abbreviations?", "options": ["In a chat with a friend", "In a job application letter", "In a quick SMS to your brother", "In a game chat"], "answer": 1, "explanation": { "tr": "Resmî yazılarda kullanılmaz.", "tk": "Resmi ýazgylarda ulanylmaýar.", "ru": "В официальных текстах не используют." } },
+        { "question": "\"B4\" means:", "options": ["before", "be for", "behind", "bay four"], "answer": 0, "explanation": { "tr": "B + 4 (four) = before.", "tk": "B + 4 (four) = before.", "ru": "B + 4 (four) = before." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Language, Proverbs: Compounds in English",
+    "title": "Compound Words: Two Words, One Meaning",
+    "body": {
+      "explanation": {
+        "tr": "Birleşik kelimeler (compounds) iki kelimenin birleşmesiyle yeni bir anlam oluşturur.\n• Bitişik: sun + flower = sunflower, foot + ball = football, bed + room = bedroom, tooth + brush = toothbrush\n• Ayrı yazılan: bus stop, swimming pool, post office, ice cream\n• Tireli: mother-in-law, well-known\nGenelde ikinci kelime ana anlamı verir: a toothbrush bir fırçadır (brush), dişler için.",
+        "tk": "Goşma sözler (compounds) iki sözüň birleşmeginden täze many emele getirýär.\n• Bitişik: sun + flower = sunflower, foot + ball = football, bed + room = bedroom, tooth + brush = toothbrush\n• Aýry ýazylýan: bus stop, swimming pool, post office, ice cream\n• Defisli: mother-in-law, well-known\nKöplenç ikinji söz esasy manyny berýär: a toothbrush — çotga (brush), diş üçin.",
+        "ru": "Сложные слова (compounds) образуются из двух слов и получают новое значение.\n• Слитно: sun + flower = sunflower, foot + ball = football, bed + room = bedroom, tooth + brush = toothbrush\n• Раздельно: bus stop, swimming pool, post office, ice cream\n• Через дефис: mother-in-law, well-known\nОбычно главное значение даёт второе слово: a toothbrush — это щётка (brush) для зубов."
+      },
+      "examples": [
+        { "en": "I play football every day.", "tr": "Her gün futbol oynarım.", "tk": "Men her gün futbol oýnaýaryn.", "ru": "Я играю в футбол каждый день." },
+        { "en": "My bedroom is small.", "tr": "Yatak odam küçük.", "tk": "Meniň ýatylýan otagym kiçi.", "ru": "Моя спальня маленькая." },
+        { "en": "Where is my toothbrush?", "tr": "Diş fırçam nerede?", "tk": "Diş çotgam nirede?", "ru": "Где моя зубная щётка?" },
+        { "en": "Let's meet at the bus stop.", "tr": "Otobüs durağında buluşalım.", "tk": "Awtobus duralgasynda duşuşalyň.", "ru": "Давай встретимся на остановке." },
+        { "en": "I love ice cream.", "tr": "Dondurmayı çok severim.", "tk": "Men doňdurmany gaty halaýaryn.", "ru": "Я обожаю мороженое." },
+        { "en": "A sunflower is yellow.", "tr": "Ayçiçeği sarıdır.", "tk": "Günebakar sary.", "ru": "Подсолнух жёлтый." }
+      ],
+      "exercises": [
+        { "question": "sun + ___ = a big yellow flower", "options": ["flower", "light", "day", "shine"], "answer": 0, "explanation": { "tr": "sunflower = ayçiçeği.", "tk": "sunflower = günebakar.", "ru": "sunflower = подсолнух." } },
+        { "question": "foot + ___ = a game", "options": ["print", "ball", "step", "path"], "answer": 1, "explanation": { "tr": "football.", "tk": "football.", "ru": "football." } },
+        { "question": "bed + ___ = a place where you sleep", "options": ["room", "time", "side", "sheet"], "answer": 0, "explanation": { "tr": "bedroom = yatak odası.", "tk": "bedroom = ýatylýan otag.", "ru": "bedroom = спальня." } },
+        { "question": "tooth + ___ = you clean your teeth with it", "options": ["paste", "brush", "ache", "pick"], "answer": 1, "explanation": { "tr": "toothbrush = diş fırçası.", "tk": "toothbrush = diş çotgasy.", "ru": "toothbrush = зубная щётка." } },
+        { "question": "rain + ___ = colours in the sky after rain", "options": ["coat", "drop", "bow", "fall"], "answer": 2, "explanation": { "tr": "rainbow = gökkuşağı.", "tk": "rainbow = älemgoşar.", "ru": "rainbow = радуга." } },
+        { "question": "birth + ___ = a special day every year", "options": ["day", "place", "cake", "date"], "answer": 0, "explanation": { "tr": "birthday = doğum günü.", "tk": "birthday = doglan gün.", "ru": "birthday = день рождения." } },
+        { "question": "class + ___ = a room at school", "options": ["mate", "room", "work", "book"], "answer": 1, "explanation": { "tr": "classroom = sınıf.", "tk": "classroom = synp otagy.", "ru": "classroom = класс." } },
+        { "question": "home + ___ = school tasks you do at home", "options": ["work", "made", "town", "land"], "answer": 0, "explanation": { "tr": "homework = ev ödevi.", "tk": "homework = öý işi.", "ru": "homework = домашнее задание." } },
+        { "question": "Which compound is written as two words?", "options": ["bedroom", "bus stop", "football", "toothbrush"], "answer": 1, "explanation": { "tr": "bus stop ayrı yazılır.", "tk": "bus stop aýry ýazylýar.", "ru": "bus stop пишется раздельно." } },
+        { "question": "air + ___ = a place where planes land", "options": ["port", "line", "plane", "bag"], "answer": 0, "explanation": { "tr": "airport = havalimanı.", "tk": "airport = howa menzili.", "ru": "airport = аэропорт." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Language, Proverbs: English Proverbs",
+    "title": "English Proverbs and Their Meanings",
+    "body": {
+      "explanation": {
+        "tr": "Atasözleri (proverbs) bir halkın bilgeliğini kısa cümlelerle anlatır. Kelime kelime çevrilmez, anlamı öğrenilir:\n• Practice makes perfect. (İşleyen demir ışıldar.)\n• Better late than never. (Geç olsun da güç olmasın.)\n• Don't judge a book by its cover. (Görünüşe aldanma.)\n• Actions speak louder than words. (Söz değil, iş önemli.)\n• Where there's a will, there's a way. (İsteyen yolunu bulur.)\n• An apple a day keeps the doctor away. (Sağlıklı beslen, hasta olma.)\n• Every cloud has a silver lining. (Her işte bir hayır vardır.)\n• Two heads are better than one. (Bir elin nesi var, iki elin sesi var.)",
+        "tk": "Nakyllar (proverbs) halkyň paýhasyny gysga sözlemler bilen beýan edýär. Söz-söz terjime edilmeýär, manysy öwrenilýär:\n• Practice makes perfect. (Ussat bolmak üçin köp türgenleşmeli.)\n• Better late than never. (Gijem bolsa, hiç bolmandan gowy.)\n• Don't judge a book by its cover. (Daşky görnüşe aldanma.)\n• Actions speak louder than words. (Söz däl, iş möhüm.)\n• Where there's a will, there's a way. (Islän ýoluny tapar.)\n• An apple a day keeps the doctor away. (Sagdyn iýmitlen, syrkawlama.)\n• Every cloud has a silver lining. (Her işde bir haýyr bar.)\n• Two heads are better than one. (Bir kelle gowy, iki kelle has gowy.)",
+        "ru": "Пословицы передают народную мудрость короткими фразами. Их не переводят дословно, а учат смысл:\n• Practice makes perfect. (Повторение — мать учения.)\n• Better late than never. (Лучше поздно, чем никогда.)\n• Don't judge a book by its cover. (Не суди по внешности.)\n• Actions speak louder than words. (Дела говорят громче слов.)\n• Where there's a will, there's a way. (Где есть желание, там есть возможность.)\n• An apple a day keeps the doctor away. (Правильное питание — залог здоровья.)\n• Every cloud has a silver lining. (Нет худа без добра.)\n• Two heads are better than one. (Ум хорошо, а два лучше.)"
+      },
+      "examples": [
+        { "en": "Keep practising the piano. Practice makes perfect!", "tr": "Piyano çalışmaya devam et. İşleyen demir ışıldar!", "tk": "Pianino türgenleşmegi dowam et. Ussat bolmak üçin köp türgenleşmeli!", "ru": "Продолжай заниматься на пианино. Повторение — мать учения!" },
+        { "en": "You finally came! Better late than never.", "tr": "Sonunda geldin! Geç olsun da güç olmasın.", "tk": "Ahyry geldiň! Gijem bolsa, gowy.", "ru": "Наконец-то пришёл! Лучше поздно, чем никогда." },
+        { "en": "He looks unfriendly, but he's very kind. Don't judge a book by its cover.", "tr": "Soğuk görünüyor ama çok nazik. Görünüşe aldanma.", "tk": "Ol sowuk görünýär, emma örän mähirli. Daşky görnüşe aldanma.", "ru": "Он выглядит неприветливо, но очень добрый. Не суди по внешности." },
+        { "en": "Let's do it together. Two heads are better than one.", "tr": "Birlikte yapalım. Bir elin nesi var, iki elin sesi var.", "tk": "Bilelikde edeliň. Iki kelle has gowy.", "ru": "Давай сделаем вместе. Ум хорошо, а два лучше." },
+        { "en": "I lost my job, but I found a better one. Every cloud has a silver lining.", "tr": "İşimi kaybettim ama daha iyisini buldum. Her işte bir hayır var.", "tk": "Işimi ýitirdim, emma has gowusyny tapdym. Her işde bir haýyr bar.", "ru": "Я потерял работу, но нашёл лучше. Нет худа без добра." },
+        { "en": "Don't just promise. Actions speak louder than words.", "tr": "Sadece söz verme. Söz değil, iş önemli.", "tk": "Diňe söz berme. Söz däl, iş möhüm.", "ru": "Не просто обещай. Дела говорят громче слов." }
+      ],
+      "exercises": [
+        { "question": "Complete: \"Practice makes ___.\"", "options": ["money", "perfect", "friends", "time"], "answer": 1, "explanation": { "tr": "Practice makes perfect.", "tk": "Practice makes perfect.", "ru": "Practice makes perfect." } },
+        { "question": "Complete: \"Better late than ___.\"", "options": ["early", "never", "always", "sorry"], "answer": 1, "explanation": { "tr": "Better late than never.", "tk": "Better late than never.", "ru": "Better late than never." } },
+        { "question": "Complete: \"Don't judge a book by its ___.\"", "options": ["pages", "cover", "price", "title"], "answer": 1, "explanation": { "tr": "...by its cover.", "tk": "...by its cover.", "ru": "...by its cover." } },
+        { "question": "Complete: \"Where there's a will, there's a ___.\"", "options": ["way", "wall", "win", "wish"], "answer": 0, "explanation": { "tr": "...there's a way.", "tk": "...there's a way.", "ru": "...there's a way." } },
+        { "question": "\"Actions speak louder than words\" means:", "options": ["Shouting is important.", "What you do is more important than what you say.", "Words are always loud.", "Don't talk at all."], "answer": 1, "explanation": { "tr": "Yaptıkların, söylediklerinden önemli.", "tk": "Edýäniň aýdýaňdan möhüm.", "ru": "Поступки важнее слов." } },
+        { "question": "\"Every cloud has a silver lining\" means:", "options": ["It always rains.", "Something good can come from a bad situation.", "Clouds are made of silver.", "Bad things never end."], "answer": 1, "explanation": { "tr": "Kötü durumda da iyi bir şey olabilir.", "tk": "Erbet ýagdaýda hem gowy zat bolup biler.", "ru": "Из плохого может выйти хорошее." } },
+        { "question": "Complete: \"An apple a day keeps the ___ away.\"", "options": ["teacher", "doctor", "dentist", "baker"], "answer": 1, "explanation": { "tr": "...keeps the doctor away.", "tk": "...keeps the doctor away.", "ru": "...keeps the doctor away." } },
+        { "question": "Your friend can't solve a problem alone. Which proverb fits?", "options": ["Two heads are better than one.", "Better late than never.", "An apple a day…", "Practice makes perfect."], "answer": 0, "explanation": { "tr": "Birlikte daha iyi.", "tk": "Bilelikde has gowy.", "ru": "Вместе лучше." } },
+        { "question": "A student who studies every day gets better. Which proverb fits?", "options": ["Practice makes perfect.", "Don't judge a book by its cover.", "Every cloud has a silver lining.", "Better late than never."], "answer": 0, "explanation": { "tr": "Pratik → mükemmellik.", "tk": "Türgenleşik → ussatlyk.", "ru": "Практика → мастерство." } },
+        { "question": "Complete: \"Two heads are better than ___.\"", "options": ["two", "one", "none", "three"], "answer": 1, "explanation": { "tr": "...better than one.", "tk": "...better than one.", "ru": "...better than one." } }
+      ]
+    }
+  }
+]

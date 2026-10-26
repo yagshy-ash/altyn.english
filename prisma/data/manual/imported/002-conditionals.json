@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences II – mixed with negations",
+    "title": "Second Conditional: Positive and Negative Mix",
+    "body": {
+      "explanation": {
+        "tr": "İkinci tip koşulda olumlu ve olumsuz biçimleri birlikte kullanırız.\n• If + past simple / didn't + fiil / were / weren't\n• Ana cümle: would / wouldn't + fiil\n• If I had a dog, I wouldn't feel lonely.\n• If she didn't work so hard, she would have more free time.\n• İpucu: gerçek durum çoğu zaman tam tersidir. 'If I weren't ill, I would come.' → Aslında hastayım ve gelemiyorum.",
+        "tk": "Ikinji görnüşli şertde tassyklaýjy we ýokluk görnüşlerini bilelikde ulanýarys.\n• If + past simple / didn't + işlik / were / weren't\n• Esasy bölek: would / wouldn't + işlik\n• If I had a dog, I wouldn't feel lonely.\n• If she didn't work so hard, she would have more free time.\n• Maslahat: hakyky ýagdaý köplenç tersine bolýar. 'If I weren't ill, I would come.' → Aslynda men syrkaw, gelip bilemok.",
+        "ru": "Во втором типе мы сочетаем утвердительные и отрицательные формы.\n• If + past simple / didn't + глагол / were / weren't\n• Главная часть: would / wouldn't + глагол\n• If I had a dog, I wouldn't feel lonely.\n• If she didn't work so hard, she would have more free time.\n• Подсказка: реальность обычно противоположна. 'If I weren't ill, I would come.' → На самом деле я болен и не приду."
+      },
+      "examples": [
+        { "en": "If I weren't ill, I would come to your party.", "tr": "Hasta olmasaydım partine gelirdim.", "tk": "Syrkaw bolmasadym, oturylyşygyňa gelerdim.", "ru": "Если бы я не болел, я бы пришёл на твою вечеринку." },
+        { "en": "If he had a map, he wouldn't get lost.", "tr": "Haritası olsaydı kaybolmazdı.", "tk": "Kartasy bolsady, ýitirim bolmazdy.", "ru": "Если бы у него была карта, он бы не заблудился." },
+        { "en": "If we didn't have a test tomorrow, we would go to the cinema.", "tr": "Yarın sınavımız olmasaydı sinemaya giderdik.", "tk": "Ertir synagymyz bolmasady, kinoteatra giderdik.", "ru": "Если бы у нас не было завтра контрольной, мы бы пошли в кино." },
+        { "en": "She would be happier if she didn't worry so much.", "tr": "Bu kadar endişelenmeseydi daha mutlu olurdu.", "tk": "Beýle köp aladalanmasady, has bagtly bolardy.", "ru": "Она была бы счастливее, если бы так не волновалась." },
+        { "en": "If it weren't so noisy, I could sleep.", "tr": "Bu kadar gürültülü olmasaydı uyuyabilirdim.", "tk": "Beýle galmagally bolmasady, uklap bilerdim.", "ru": "Если бы не было так шумно, я бы мог уснуть." },
+        { "en": "If you didn't leave your toys everywhere, your room wouldn't be so messy.", "tr": "Oyuncaklarını her yere bırakmasaydın odan bu kadar dağınık olmazdı.", "tk": "Oýnawaçlaryňy her ýere taşlamasaň, otagyň beýle bulaşyk bolmazdy.", "ru": "Если бы ты не разбрасывал игрушки, в комнате не было бы такого беспорядка." }
+      ],
+      "exercises": [
+        { "question": "If I ___ so tired, I would go jogging.", "options": ["weren't", "am not", "didn't", "wouldn't be"], "answer": 0, "explanation": { "tr": "If kısmında olumsuz 'be': weren't.", "tk": "If böleginde ýokluk 'be': weren't.", "ru": "В части с if — weren't." } },
+        { "question": "If you listened to me, you ___ so many mistakes.", "options": ["won't make", "don't make", "wouldn't make", "didn't make"], "answer": 2, "explanation": { "tr": "Ana cümle olumsuz: wouldn't make.", "tk": "Esasy bölek ýokluk: wouldn't make.", "ru": "Главная часть: wouldn't make." } },
+        { "question": "If Tom ___ his homework, the teacher wouldn't be angry.", "options": ["does", "did", "would do", "done"], "answer": 1, "explanation": { "tr": "If + past simple: did.", "tk": "If + past simple: did.", "ru": "If + past simple: did." } },
+        { "question": "If they ___ in a big city, they would feel bored.", "options": ["didn't live", "don't live", "wouldn't live", "not lived"], "answer": 0, "explanation": { "tr": "If kısmında olumsuz: didn't live.", "tk": "If böleginde ýokluk: didn't live.", "ru": "Отрицание в части с if: didn't live." } },
+        { "question": "We would buy that house if it ___ so expensive.", "options": ["isn't", "weren't", "wouldn't be", "doesn't"], "answer": 1, "explanation": { "tr": "Hayali olumsuz 'be': weren't.", "tk": "Hyýaly ýokluk 'be': weren't.", "ru": "Нереальное отрицание: weren't." } },
+        { "question": "If I had wings, I ___ need a plane.", "options": ["wouldn't", "won't", "didn't", "don't"], "answer": 0, "explanation": { "tr": "Ana cümlede: wouldn't need.", "tk": "Esasy bölekde: wouldn't need.", "ru": "В главной части: wouldn't need." } },
+        { "question": "Choose the correct sentence.", "options": ["If she didn't sing so loudly, the neighbours wouldn't complain.", "If she doesn't sing so loudly, the neighbours wouldn't complain.", "If she wouldn't sing so loudly, the neighbours didn't complain.", "If she didn't sang so loudly, the neighbours wouldn't complain."], "answer": 0, "explanation": { "tr": "didn't + yalın fiil, wouldn't + yalın fiil.", "tk": "didn't + esasy işlik, wouldn't + esasy işlik.", "ru": "didn't + начальная форма, wouldn't + начальная форма." } },
+        { "question": "Find the mistake: \"If I weren't afraid of water, I will learn to swim.\"", "options": ["If I weren't", "afraid of water", "I will learn", "There is no mistake"], "answer": 2, "explanation": { "tr": "'will' yerine 'would' olmalı: I would learn.", "tk": "'will' ýerine 'would' bolmaly: I would learn.", "ru": "Нужно 'would' вместо 'will': I would learn." } },
+        { "question": "If the shop ___ closed, we could buy some bread.", "options": ["isn't", "weren't", "didn't", "wouldn't"], "answer": 1, "explanation": { "tr": "Hayali koşul: weren't closed.", "tk": "Hyýaly şert: weren't closed.", "ru": "Нереальное условие: weren't closed." } },
+        { "question": "He ___ the bus every day if he had a car.", "options": ["wouldn't take", "doesn't take", "won't take", "didn't take"], "answer": 0, "explanation": { "tr": "Hayali olumsuz sonuç: wouldn't take.", "tk": "Hyýaly ýokluk netije: wouldn't take.", "ru": "Нереальный отрицательный результат: wouldn't take." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences II, Exercise – easy",
+    "title": "Second Conditional: Easy Practice",
+    "body": {
+      "explanation": {
+        "tr": "İkinci tip koşul = hayal ettiğimiz durumlar.\n• If + past simple, would + fiil\n• If I had a cat, I would call it Max.\n• Fiilin ikinci hâlini kullan: go → went, have → had, can → could.\n• be → were: If I were a teacher, ...\nKolay bir yol: 'olsaydı ... -ardı/-erdi' diye düşün.",
+        "tk": "Ikinji görnüşli şert = göz öňüne getirýän ýagdaýlarymyz.\n• If + past simple, would + işlik\n• If I had a cat, I would call it Max.\n• Işligiň ikinji görnüşini ulan: go → went, have → had, can → could.\n• be → were: If I were a teacher, ...\nAňsat ýol: '... bolsady, ... -ardy/-erdi' diýip pikir et.",
+        "ru": "Второй тип = то, что мы воображаем.\n• If + past simple, would + глагол\n• If I had a cat, I would call it Max.\n• Используй вторую форму глагола: go → went, have → had, can → could.\n• be → were: If I were a teacher, ...\nПростой способ: думай «если бы ..., то бы ...»."
+      },
+      "examples": [
+        { "en": "If I had a cat, I would call it Max.", "tr": "Bir kedim olsaydı adını Max koyardım.", "tk": "Pişigim bolsady, oňa Max diýip at dakardym.", "ru": "Если бы у меня была кошка, я бы назвал её Макс." },
+        { "en": "If I were a teacher, I would give no homework.", "tr": "Öğretmen olsaydım hiç ödev vermezdim.", "tk": "Mugallym bolsadym, hiç öý işini bermezdim.", "ru": "Если бы я был учителем, я бы не задавал домашних заданий." },
+        { "en": "If we went to London, we would see Big Ben.", "tr": "Londra'ya gitseydik Big Ben'i görürdük.", "tk": "Londona gitsedik, Big Beni görerdik.", "ru": "Если бы мы поехали в Лондон, мы бы увидели Биг-Бен." },
+        { "en": "If she could cook, she would make pizza.", "tr": "Yemek yapabilseydi pizza yapardı.", "tk": "Nahar bişirip bilsedi, pizza taýýarlardy.", "ru": "Если бы она умела готовить, она бы сделала пиццу." },
+        { "en": "If it snowed, the children would build a snowman.", "tr": "Kar yağsaydı çocuklar kardan adam yapardı.", "tk": "Gar ýagsady, çagalar gar adam ýasardylar.", "ru": "Если бы пошёл снег, дети слепили бы снеговика." },
+        { "en": "If I were hungry, I would eat an apple.", "tr": "Aç olsaydım bir elma yerdim.", "tk": "Aç bolsadym, bir alma iýerdim.", "ru": "Если бы я был голоден, я бы съел яблоко." }
+      ],
+      "exercises": [
+        { "question": "If I ___ a bike, I would ride it to school.", "options": ["have", "had", "has", "having"], "answer": 1, "explanation": { "tr": "have → had (past simple).", "tk": "have → had (past simple).", "ru": "have → had (past simple)." } },
+        { "question": "If she ___ rich, she would buy a castle.", "options": ["is", "be", "were", "will be"], "answer": 2, "explanation": { "tr": "be → were.", "tk": "be → were.", "ru": "be → were." } },
+        { "question": "If we had time, we ___ the museum.", "options": ["would visit", "visit", "visits", "visited"], "answer": 0, "explanation": { "tr": "would + fiil.", "tk": "would + işlik.", "ru": "would + глагол." } },
+        { "question": "If he ___ swim, he would go to the pool.", "options": ["can", "could", "cans", "would can"], "answer": 1, "explanation": { "tr": "can → could.", "tk": "can → could.", "ru": "can → could." } },
+        { "question": "If I ___ to Paris, I would see the Eiffel Tower.", "options": ["go", "goes", "went", "gone"], "answer": 2, "explanation": { "tr": "go → went.", "tk": "go → went.", "ru": "go → went." } },
+        { "question": "If my dog could talk, it ___ me stories.", "options": ["tells", "would tell", "told", "will tell"], "answer": 1, "explanation": { "tr": "Hayali sonuç: would tell.", "tk": "Hyýaly netije: would tell.", "ru": "Воображаемый результат: would tell." } },
+        { "question": "If they ___ the bus, they would arrive on time.", "options": ["took", "take", "taken", "takes"], "answer": 0, "explanation": { "tr": "take → took.", "tk": "take → took.", "ru": "take → took." } },
+        { "question": "If you ate more vegetables, you ___ healthier.", "options": ["are", "would be", "were", "will be"], "answer": 1, "explanation": { "tr": "Ana cümle: would be.", "tk": "Esasy bölek: would be.", "ru": "Главная часть: would be." } },
+        { "question": "If I ___ a superhero, I would help everybody.", "options": ["was being", "am", "were", "would be"], "answer": 2, "explanation": { "tr": "Hayali durum: were.", "tk": "Hyýaly ýagdaý: were.", "ru": "Воображаемая ситуация: were." } },
+        { "question": "If my friends ___ here, we would play games.", "options": ["are", "were", "be", "is"], "answer": 1, "explanation": { "tr": "Çoğul özne + were.", "tk": "Köplük eýe + were.", "ru": "Подлежащее во мн. ч. + were." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences II, Exercise – medium",
+    "title": "Second Conditional: Medium Practice",
+    "body": {
+      "explanation": {
+        "tr": "Orta seviye ikinci tip koşul alıştırması: düzensiz fiiller, could/might ve sorular.\n• Düzensiz fiiller: buy → bought, know → knew, find → found, win → won\n• would yerine: could (yapabilirdi), might (belki yapardı)\n  If I had more time, I might learn Chinese.\n• Soru: Would you tell her if you knew the truth?\n• Unutma: if kısmında asla would kullanılmaz.",
+        "tk": "Ikinji görnüşli şert boýunça orta derejeli gönükme: nädogry işlikler, could/might we soraglar.\n• Nädogry işlikler: buy → bought, know → knew, find → found, win → won\n• would ýerine: could (edip bilerdi), might (belki ederdi)\n  If I had more time, I might learn Chinese.\n• Sorag: Would you tell her if you knew the truth?\n• Ýatda sakla: if böleginde hiç haçan would ulanylmaýar.",
+        "ru": "Упражнение среднего уровня: неправильные глаголы, could/might и вопросы.\n• Неправильные глаголы: buy → bought, know → knew, find → found, win → won\n• Вместо would: could (мог бы), might (возможно бы)\n  If I had more time, I might learn Chinese.\n• Вопрос: Would you tell her if you knew the truth?\n• Помни: в части с if никогда не бывает would."
+      },
+      "examples": [
+        { "en": "If I won the competition, I would buy a new laptop.", "tr": "Yarışmayı kazansaydım yeni bir dizüstü bilgisayar alırdım.", "tk": "Bäsleşikde ýeňsedim, täze noutbuk alardym.", "ru": "Если бы я выиграл конкурс, я бы купил новый ноутбук." },
+        { "en": "If he knew her number, he would call her.", "tr": "Numarasını bilseydi onu arardı.", "tk": "Onuň belgisini bilsedi, oňa jaň ederdi.", "ru": "Если бы он знал её номер, он бы ей позвонил." },
+        { "en": "If I had more time, I might learn Chinese.", "tr": "Daha çok zamanım olsaydı belki Çince öğrenirdim.", "tk": "Köpräk wagtym bolsady, belki hytaý dilini öwrenerdim.", "ru": "Если бы у меня было больше времени, я, может быть, выучил бы китайский." },
+        { "en": "If you found a lost dog, what would you do?", "tr": "Kayıp bir köpek bulsaydın ne yapardın?", "tk": "Ýitirilen it tapsaň, näme ederdiň?", "ru": "Если бы ты нашёл потерявшуюся собаку, что бы ты сделал?" },
+        { "en": "If we caught the early train, we could have lunch together.", "tr": "Erken trene yetişseydik birlikte öğle yemeği yiyebilirdik.", "tk": "Irki otla ýetişsedik, bilelikde günortanlyk edip bilerdik.", "ru": "Если бы мы успели на ранний поезд, мы могли бы пообедать вместе." },
+        { "en": "Would you tell her if you knew the truth?", "tr": "Gerçeği bilseydin ona söyler miydin?", "tk": "Hakykaty bilseň, oňa aýdardyňmy?", "ru": "Ты бы сказал ей, если бы знал правду?" }
+      ],
+      "exercises": [
+        { "question": "If I ___ the lottery, I would give money to charity.", "options": ["win", "won", "wins", "would win"], "answer": 1, "explanation": { "tr": "win → won.", "tk": "win → won.", "ru": "win → won." } },
+        { "question": "If she ___ the answer, she would raise her hand.", "options": ["knew", "knows", "knowed", "would know"], "answer": 0, "explanation": { "tr": "know → knew (düzensiz).", "tk": "know → knew (nädogry).", "ru": "know → knew (неправильный)." } },
+        { "question": "If I had a guitar, I ___ learn to play it.", "options": ["will", "might", "may", "am"], "answer": 1, "explanation": { "tr": "Olasılık: might.", "tk": "Ähtimallyk: might.", "ru": "Вероятность: might." } },
+        { "question": "If they ___ more carefully, they wouldn't have accidents.", "options": ["drive", "drove", "driven", "would drive"], "answer": 1, "explanation": { "tr": "drive → drove.", "tk": "drive → drove.", "ru": "drive → drove." } },
+        { "question": "What ___ you say if the president called you?", "options": ["will", "do", "would", "did"], "answer": 2, "explanation": { "tr": "Hayali soru: would.", "tk": "Hyýaly sorag: would.", "ru": "Воображаемый вопрос: would." } },
+        { "question": "If my parents ___ me a puppy, I would be so happy.", "options": ["bought", "buy", "buyed", "would buy"], "answer": 0, "explanation": { "tr": "buy → bought.", "tk": "buy → bought.", "ru": "buy → bought." } },
+        { "question": "If I spoke English perfectly, I ___ work as a tour guide.", "options": ["can", "could", "will", "would can"], "answer": 1, "explanation": { "tr": "Yetenek: could.", "tk": "Başarnyk: could.", "ru": "Возможность: could." } },
+        { "question": "Choose the correct sentence.", "options": ["If I would find your keys, I would give them to you.", "If I found your keys, I would give them to you.", "If I find your keys, I would give them to you.", "If I found your keys, I will give them to you."], "answer": 1, "explanation": { "tr": "If + past simple, would + fiil.", "tk": "If + past simple, would + işlik.", "ru": "If + past simple, would + глагол." } },
+        { "question": "If you ___ earlier, you would catch the bus.", "options": ["leave", "left", "leaved", "would leave"], "answer": 1, "explanation": { "tr": "leave → left.", "tk": "leave → left.", "ru": "leave → left." } },
+        { "question": "If Sam ___ here, he would know what to do.", "options": ["is", "were", "be", "would be"], "answer": 1, "explanation": { "tr": "Hayali 'be': were.", "tk": "Hyýaly 'be': were.", "ru": "Нереальное 'be': were." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences – type III – negations",
+    "title": "Third Conditional: Negative Sentences",
+    "body": {
+      "explanation": {
+        "tr": "Üçüncü tip koşul cümlesi (Third Conditional) geçmişte olmamış durumları ve sonuçlarını anlatır; artık değiştirilemez.\n• Yapı: If + had + V3 (past participle), would have + V3\n• If I had studied, I would have passed. (Çalışmadım, geçemedim.)\n• Olumsuz if kısmı: If + hadn't + V3\n  If I hadn't missed the bus, I wouldn't have been late.\n• Olumsuz ana cümle: wouldn't have + V3\n• Kısaltmalar: I'd (= I had / I would), hadn't, wouldn't've (konuşmada).",
+        "tk": "Üçünji görnüşli şert sözlemi (Third Conditional) geçmişde bolmadyk ýagdaýlary we olaryň netijelerini aňladýar; olary indi üýtgedip bolmaýar.\n• Gurluşy: If + had + V3 (past participle), would have + V3\n• If I had studied, I would have passed. (Okamadym, geçmedim.)\n• If böleginde ýokluk: If + hadn't + V3\n  If I hadn't missed the bus, I wouldn't have been late.\n• Esasy bölekde ýokluk: wouldn't have + V3\n• Gysgaltmalar: I'd (= I had / I would), hadn't, wouldn't've (gürleşikde).",
+        "ru": "Условные предложения третьего типа (Third Conditional) описывают то, чего не произошло в прошлом, и его последствия; изменить это уже нельзя.\n• Схема: If + had + V3 (past participle), would have + V3\n• If I had studied, I would have passed. (Я не учил и не сдал.)\n• Отрицание в части с if: If + hadn't + V3\n  If I hadn't missed the bus, I wouldn't have been late.\n• Отрицание в главной части: wouldn't have + V3\n• Сокращения: I'd (= I had / I would), hadn't, wouldn't've (в речи)."
+      },
+      "examples": [
+        { "en": "If I hadn't overslept, I wouldn't have missed the train.", "tr": "Uyuyakalmasaydım treni kaçırmazdım.", "tk": "Ukudan gijä galmasadym, otly gaçyrmazdym.", "ru": "Если бы я не проспал, я бы не опоздал на поезд." },
+        { "en": "If she hadn't helped me, I wouldn't have finished the project.", "tr": "Bana yardım etmeseydi projeyi bitiremezdim.", "tk": "Ol maňa kömek etmedik bolsa, taslamany tamamlamazdym.", "ru": "Если бы она мне не помогла, я бы не закончил проект." },
+        { "en": "We wouldn't have got lost if we had taken a map.", "tr": "Harita alsaydık kaybolmazdık.", "tk": "Karta alan bolsak, ýitirim bolmazdyk.", "ru": "Мы бы не заблудились, если бы взяли карту." },
+        { "en": "If it hadn't rained, the match wouldn't have been cancelled.", "tr": "Yağmur yağmasaydı maç iptal edilmezdi.", "tk": "Ýagyş ýagmadyk bolsa, oýun ýatyrylmazdy.", "ru": "Если бы не шёл дождь, матч бы не отменили." },
+        { "en": "If he hadn't eaten so much, he wouldn't have felt sick.", "tr": "Bu kadar çok yemeseydi midesi bulanmazdı.", "tk": "Ol beýle köp iýmedik bolsa, özüni erbet duýmazdy.", "ru": "Если бы он не съел так много, ему бы не стало плохо." },
+        { "en": "If you hadn't told me, I would never have known.", "tr": "Bana söylemeseydin asla bilmezdim.", "tk": "Sen maňa aýtmadyk bolsaň, men hiç haçan bilmezdim.", "ru": "Если бы ты мне не сказал, я бы никогда не узнал." }
+      ],
+      "exercises": [
+        { "question": "If I ___ my umbrella, I wouldn't have got wet.", "options": ["took", "had taken", "would take", "have taken"], "answer": 1, "explanation": { "tr": "If + had + V3: had taken.", "tk": "If + had + V3: had taken.", "ru": "If + had + V3: had taken." } },
+        { "question": "If she hadn't called, I ___ the meeting.", "options": ["would have forgotten", "will forget", "would forget", "had forgotten"], "answer": 0, "explanation": { "tr": "Ana cümle: would have + V3.", "tk": "Esasy bölek: would have + V3.", "ru": "Главная часть: would have + V3." } },
+        { "question": "If we ___ so late, we would have seen the start of the film.", "options": ["didn't arrive", "hadn't arrived", "haven't arrived", "wouldn't arrive"], "answer": 1, "explanation": { "tr": "Olumsuz if kısmı: hadn't + V3.", "tk": "If böleginde ýokluk: hadn't + V3.", "ru": "Отрицание в части с if: hadn't + V3." } },
+        { "question": "If he had checked the address, he ___ to the wrong house.", "options": ["wouldn't go", "won't have gone", "wouldn't have gone", "didn't go"], "answer": 2, "explanation": { "tr": "Olumsuz ana cümle: wouldn't have + V3.", "tk": "Ýokluk esasy bölek: wouldn't have + V3.", "ru": "Отрицательная главная часть: wouldn't have + V3." } },
+        { "question": "Choose the correct sentence.", "options": ["If I hadn't lost my phone, I would have called you.", "If I didn't lose my phone, I would have called you.", "If I hadn't lost my phone, I would call you yesterday.", "If I wouldn't have lost my phone, I would have called you."], "answer": 0, "explanation": { "tr": "If + hadn't + V3, would have + V3.", "tk": "If + hadn't + V3, would have + V3.", "ru": "If + hadn't + V3, would have + V3." } },
+        { "question": "If they ___ the instructions, they wouldn't have broken the machine.", "options": ["read", "had read", "have read", "would read"], "answer": 1, "explanation": { "tr": "Geçmiş hayali koşul: had read.", "tk": "Geçmişdäki hyýaly şert: had read.", "ru": "Нереальное условие в прошлом: had read." } },
+        { "question": "I wouldn't have been late if the bus ___ down.", "options": ["didn't break", "hadn't broken", "wouldn't break", "hasn't broken"], "answer": 1, "explanation": { "tr": "hadn't + V3: hadn't broken.", "tk": "hadn't + V3: hadn't broken.", "ru": "hadn't + V3: hadn't broken." } },
+        { "question": "Find the mistake: \"If you hadn't shouted, the baby wouldn't woke up.\"", "options": ["If you hadn't", "shouted", "wouldn't woke up", "There is no mistake"], "answer": 2, "explanation": { "tr": "Doğrusu: wouldn't have woken up.", "tk": "Dogrusy: wouldn't have woken up.", "ru": "Правильно: wouldn't have woken up." } },
+        { "question": "If Anna had studied, she ___ the exam.", "options": ["would pass", "would have passed", "passed", "had passed"], "answer": 1, "explanation": { "tr": "Ana cümle: would have passed.", "tk": "Esasy bölek: would have passed.", "ru": "Главная часть: would have passed." } },
+        { "question": "If I hadn't met you, my life ___ so happy.", "options": ["wouldn't have been", "won't be", "hadn't been", "wasn't"], "answer": 0, "explanation": { "tr": "wouldn't have + been.", "tk": "wouldn't have + been.", "ru": "wouldn't have + been." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences I – II",
+    "title": "First or Second Conditional?",
+    "body": {
+      "explanation": {
+        "tr": "Birinci mi ikinci tip mi? Karar, durumun ne kadar gerçek olduğuna bağlıdır.\n• Birinci tip (gerçek, mümkün): If + present simple, will + fiil\n  If I find your book, I will bring it. (Bulabilirim.)\n• İkinci tip (hayali, pek mümkün değil): If + past simple, would + fiil\n  If I found a dinosaur, I would call the news. (Pek olası değil.)\n• Aynı konu, farklı anlam:\n  If I have time, I will help you. (Zamanım olabilir.)\n  If I had time, I would help you. (Zamanım yok.)",
+        "tk": "Birinji ýa-da ikinji görnüş? Saýlaw ýagdaýyň näçe hakykydygyna bagly.\n• Birinji görnüş (hakyky, mümkin): If + present simple, will + işlik\n  If I find your book, I will bring it. (Tapyp bilerin.)\n• Ikinji görnüş (hyýaly, kän mümkin däl): If + past simple, would + işlik\n  If I found a dinosaur, I would call the news. (Kän ähtimal däl.)\n• Şol bir tema, başga many:\n  If I have time, I will help you. (Wagtym bolup biler.)\n  If I had time, I would help you. (Wagtym ýok.)",
+        "ru": "Первый или второй тип? Всё зависит от того, насколько ситуация реальна.\n• Первый тип (реально, возможно): If + present simple, will + глагол\n  If I find your book, I will bring it. (Вполне могу найти.)\n• Второй тип (воображаемо, маловероятно): If + past simple, would + глагол\n  If I found a dinosaur, I would call the news. (Вряд ли.)\n• Одна тема — разный смысл:\n  If I have time, I will help you. (Время может быть.)\n  If I had time, I would help you. (Времени нет.)"
+      },
+      "examples": [
+        { "en": "If it rains, I will take an umbrella.", "tr": "Yağmur yağarsa şemsiye alacağım.", "tk": "Ýagyş ýagsa, saýawan alaryn.", "ru": "Если пойдёт дождь, я возьму зонт." },
+        { "en": "If I were a bird, I would fly to the mountains.", "tr": "Kuş olsaydım dağlara uçardım.", "tk": "Guş bolsadym, daglara uçardym.", "ru": "Если бы я был птицей, я бы улетел в горы." },
+        { "en": "If you come early, we will have more time.", "tr": "Erken gelirsen daha çok zamanımız olur.", "tk": "Ir gelseň, köpräk wagtymyz bolar.", "ru": "Если ты придёшь рано, у нас будет больше времени." },
+        { "en": "If I lived on the moon, I would see the Earth every night.", "tr": "Ay'da yaşasaydım her gece Dünya'yı görürdüm.", "tk": "Aýda ýaşasadym, her gije Ýeri görerdim.", "ru": "Если бы я жил на Луне, я бы видел Землю каждую ночь." },
+        { "en": "If she passes the test, she will get her licence.", "tr": "Sınavı geçerse ehliyetini alacak.", "tk": "Ol synagdan geçse, sürüjilik şahadatnamasyny alar.", "ru": "Если она сдаст экзамен, она получит права." },
+        { "en": "If I had a time machine, I would visit ancient Rome.", "tr": "Zaman makinem olsaydı antik Roma'yı ziyaret ederdim.", "tk": "Wagt maşynym bolsady, gadymy Rime baryp görerdim.", "ru": "Если бы у меня была машина времени, я бы побывал в Древнем Риме." }
+      ],
+      "exercises": [
+        { "question": "If you ___ hungry, there is pizza in the fridge.", "options": ["are", "were", "would be", "will be"], "answer": 0, "explanation": { "tr": "Gerçek durum → birinci tip: are.", "tk": "Hakyky ýagdaý → birinji görnüş: are.", "ru": "Реальная ситуация → первый тип: are." } },
+        { "question": "If I ___ an elephant, I would be very strong.", "options": ["am", "were", "will be", "be"], "answer": 1, "explanation": { "tr": "İmkânsız durum → ikinci tip: were.", "tk": "Mümkin bolmadyk ýagdaý → ikinji görnüş: were.", "ru": "Невозможная ситуация → второй тип: were." } },
+        { "question": "If the weather is nice tomorrow, we ___ a walk.", "options": ["would take", "will take", "took", "take"], "answer": 1, "explanation": { "tr": "Yarın mümkün → will take.", "tk": "Ertir mümkin → will take.", "ru": "Завтра возможно → will take." } },
+        { "question": "If I could speak to animals, I ___ my cat what it thinks.", "options": ["will ask", "would ask", "ask", "asked"], "answer": 1, "explanation": { "tr": "Hayali → would ask.", "tk": "Hyýaly → would ask.", "ru": "Воображаемое → would ask." } },
+        { "question": "\"I don't have a car.\" → If I ___ a car, I would drive you home.", "options": ["have", "had", "will have", "would have"], "answer": 1, "explanation": { "tr": "Gerçekte yok → ikinci tip: had.", "tk": "Hakykatda ýok → ikinji görnüş: had.", "ru": "На самом деле нет → второй тип: had." } },
+        { "question": "\"Maybe I will see Tom later.\" → If I see Tom, I ___ him.", "options": ["would tell", "tell", "will tell", "told"], "answer": 2, "explanation": { "tr": "Mümkün → birinci tip: will tell.", "tk": "Mümkin → birinji görnüş: will tell.", "ru": "Возможно → первый тип: will tell." } },
+        { "question": "Choose the sentence about an imaginary situation.", "options": ["If I win, I will celebrate.", "If I won a gold medal, I would cry.", "If it snows, school will close.", "If you call, I will answer."], "answer": 1, "explanation": { "tr": "Hayali durum ikinci tiple anlatılır.", "tk": "Hyýaly ýagdaý ikinji görnüş bilen aňladylýar.", "ru": "Воображаемое выражается вторым типом." } },
+        { "question": "If you don't hurry, you ___ the bus.", "options": ["will miss", "would miss", "missed", "miss"], "answer": 0, "explanation": { "tr": "Gerçek uyarı → will miss.", "tk": "Hakyky duýduryş → will miss.", "ru": "Реальное предупреждение → will miss." } },
+        { "question": "Find the mistake: \"If I were you, I will apologise.\"", "options": ["If I were you", "I will", "apologise", "There is no mistake"], "answer": 1, "explanation": { "tr": "İkinci tip → I would apologise.", "tk": "Ikinji görnüş → I would apologise.", "ru": "Второй тип → I would apologise." } },
+        { "question": "If my grandmother ___ younger, she would run a marathon.", "options": ["is", "were", "will be", "has been"], "answer": 1, "explanation": { "tr": "Gerçek olmayan durum: were.", "tk": "Hakyky bolmadyk ýagdaý: were.", "ru": "Нереальная ситуация: were." } }
+      ]
+    }
+  }
+]

@@ -1,26 +1,146 @@
 @import "tailwindcss";
 
+/* Canlı, oyunlaştırılmış tema: parlak renkler, kalın yuvarlak hatlar, alttan "3D" kenarlı butonlar */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+  --bg: #f7f7fa;
+  --sheet: #ffffff;
+  --ink: #2b2d42;
+  --muted: #8a8d9f;
+  --line: #e5e5ee;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --green: #58cc02;
+  --green-dark: #46a302;
+  --green-soft: #e8f8d8;
+  --blue: #1cb0f6;
+  --blue-dark: #1899d6;
+  --blue-soft: #ddf4ff;
+  --orange: #ff9600;
+  --orange-dark: #e08300;
+  --orange-soft: #fff1dc;
+  --red: #ff4b4b;
+  --red-dark: #ea2b2b;
+  --red-soft: #ffe1e1;
+  --purple: #ce82ff;
+  --purple-dark: #a568cc;
+  --purple-soft: #f6e8ff;
+  --yellow: #ffc800;
+  --yellow-dark: #e0b000;
+  --yellow-soft: #fff6d1;
+  --pink: #ff86d0;
+  --pink-dark: #e06fb5;
+  --pink-soft: #ffe6f5;
+  --teal: #00c2a8;
+  --teal-dark: #00a38d;
+  --teal-soft: #d9f7f2;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --bg: #131f24;
+    --sheet: #1a2a31;
+    --ink: #f1f7fb;
+    --muted: #8fa3ad;
+    --line: #2c3e46;
+    --green-soft: #1f3a17;
+    --blue-soft: #123447;
+    --orange-soft: #3d2a10;
+    --red-soft: #3f1d1f;
+    --purple-soft: #33204a;
+    --yellow-soft: #3a3110;
+    --pink-soft: #3d1e32;
+    --teal-soft: #0f3833;
   }
 }
 
+@theme inline {
+  --color-bg: var(--bg);
+  --color-sheet: var(--sheet);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-green: var(--green);
+  --color-green-dark: var(--green-dark);
+  --color-green-soft: var(--green-soft);
+  --color-blue: var(--blue);
+  --color-blue-dark: var(--blue-dark);
+  --color-blue-soft: var(--blue-soft);
+  --color-orange: var(--orange);
+  --color-orange-dark: var(--orange-dark);
+  --color-orange-soft: var(--orange-soft);
+  --color-red: var(--red);
+  --color-red-dark: var(--red-dark);
+  --color-red-soft: var(--red-soft);
+  --color-purple: var(--purple);
+  --color-purple-dark: var(--purple-dark);
+  --color-purple-soft: var(--purple-soft);
+  --color-yellow: var(--yellow);
+  --color-yellow-dark: var(--yellow-dark);
+  --color-yellow-soft: var(--yellow-soft);
+  --color-pink: var(--pink);
+  --color-pink-dark: var(--pink-dark);
+  --color-pink-soft: var(--pink-soft);
+  --color-teal: var(--teal);
+  --color-teal-dark: var(--teal-dark);
+  --color-teal-soft: var(--teal-soft);
+  --font-sans: var(--font-nunito);
+  --font-read: var(--font-lora);
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+@layer components {
+  .card {
+    @apply rounded-3xl border-2 border-line bg-sheet p-5;
+  }
+  /* Alttan kalın kenar = basılabilir his; basınca aşağı iner */
+  .btn {
+    @apply inline-flex cursor-pointer items-center justify-center gap-2 rounded-2xl border-2 border-b-4 border-line bg-sheet px-5 py-2.5 text-sm font-extrabold tracking-wide text-ink uppercase transition-[transform,filter] select-none hover:brightness-[0.97] active:translate-y-[2px] active:border-b-2 disabled:pointer-events-none disabled:opacity-50;
+  }
+  .btn-green {
+    @apply border-green border-b-green-dark bg-green text-white;
+  }
+  .btn-blue {
+    @apply border-blue border-b-blue-dark bg-blue text-white;
+  }
+  .btn-red {
+    @apply border-red border-b-red-dark bg-red text-white;
+  }
+  .btn-orange {
+    @apply border-orange border-b-orange-dark bg-orange text-white;
+  }
+  .btn-sm {
+    @apply rounded-xl px-3 py-1.5 text-xs;
+  }
+  .input {
+    @apply w-full rounded-2xl border-2 border-line bg-bg px-4 py-3 text-[15px] font-semibold outline-none placeholder:font-normal placeholder:text-muted focus:border-blue;
+  }
+  .label {
+    @apply mb-1.5 block text-xs font-extrabold tracking-wide text-muted uppercase;
+  }
+  .eyebrow {
+    @apply text-[11px] font-extrabold tracking-[0.08em] text-muted uppercase;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-extrabold;
+  }
+  .h1 {
+    @apply text-3xl font-black tracking-tight;
+  }
+  .h2 {
+    @apply text-xl font-black;
+  }
+}
+
+@keyframes pop {
+  0% { transform: scale(0.8); opacity: 0; }
+  60% { transform: scale(1.06); opacity: 1; }
+  100% { transform: scale(1); }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .animate-pop {
+    animation: pop 0.35s ease-out both;
+  }
 }

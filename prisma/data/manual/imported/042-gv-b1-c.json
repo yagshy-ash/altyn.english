@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: People, Family",
+    "title": "Describing People and Family",
+    "body": {
+      "explanation": {
+        "tr": "Aile: parents, siblings (kardeşler), grandparents, uncle/aunt, cousin, nephew (erkek yeğen) / niece (kız yeğen), stepmother (üvey anne), in-laws (kayın aile), only child (tek çocuk).\nİnsan tarifi:\n• Görünüş: What does she LOOK LIKE? → She's tall and slim. She has long curly hair.\n• Kişilik: What is she LIKE? → She's kind and generous.\n• Sağlık/durum: How is she? → She's fine.\nSıfat sırası: opinion – size – age – shape – colour – origin: a nice tall young man, long straight black hair.\nKişilik sıfatları: generous ↔ mean, hard-working ↔ lazy, patient ↔ impatient, shy ↔ outgoing, honest, reliable (güvenilir), bossy.\nDeyimler: take after (benzemek), look after (bakmak), get on with (iyi geçinmek), grow up (büyümek).",
+        "tk": "Maşgala: parents, siblings (doganlar), grandparents, uncle/aunt, cousin, nephew (ýegen oglan) / niece (ýegen gyz), stepmother (öweý ene), in-laws (gaýyn garyndaşlar), only child (ýeke çaga).\nAdamy beýan etmek:\n• Daşky görnüşi: What does she LOOK LIKE? → She's tall and slim. She has long curly hair.\n• Häsiýeti: What is she LIKE? → She's kind and generous.\n• Saglygy/ýagdaýy: How is she? → She's fine.\nSypatlaryň tertibi: pikir – ölçeg – ýaş – şekil – reňk – gelip çykyş: a nice tall young man, long straight black hair.\nHäsiýet sypatlary: generous ↔ mean, hard-working ↔ lazy, patient ↔ impatient, shy ↔ outgoing, honest, reliable (ygtybarly), bossy.\nAňlatmalar: take after (meňzemek), look after (seretmek), get on with (gowy gatnaşmak), grow up (ulalmak).",
+        "ru": "Семья: parents, siblings (братья и сёстры), grandparents, uncle/aunt, cousin, nephew (племянник) / niece (племянница), stepmother (мачеха), in-laws (родня супруга), only child (единственный ребёнок).\nОписание человека:\n• Внешность: What does she LOOK LIKE? → She's tall and slim. She has long curly hair.\n• Характер: What is she LIKE? → She's kind and generous.\n• Самочувствие: How is she? → She's fine.\nПорядок прилагательных: мнение – размер – возраст – форма – цвет – происхождение: a nice tall young man, long straight black hair.\nХарактер: generous ↔ mean, hard-working ↔ lazy, patient ↔ impatient, shy ↔ outgoing, honest, reliable (надёжный), bossy.\nФразовые глаголы: take after (быть похожим), look after (заботиться), get on with (ладить), grow up (вырасти)."
+      },
+      "examples": [
+        { "en": "My cousin is tall and has short brown hair.", "tr": "Kuzenim uzun boylu ve kısa kahverengi saçlı.", "tk": "Meniň doganoglanym uzyn boýly, gysga goňur saçly.", "ru": "Мой двоюродный брат высокий, с короткими каштановыми волосами." },
+        { "en": "What is your sister like? — She's very outgoing.", "tr": "Kız kardeşin nasıl biri? — Çok dışa dönük.", "tk": "Uýaň nähili adam? — Ol örän açyk.", "ru": "Какая твоя сестра? — Очень общительная." },
+        { "en": "I take after my father.", "tr": "Babama çekmişim.", "tk": "Men kakama meňzeýärin.", "ru": "Я похож на отца." },
+        { "en": "My grandmother looks after my little brother.", "tr": "Büyükannem küçük kardeşime bakıyor.", "tk": "Enem kiçi doganyma seredýär.", "ru": "Бабушка присматривает за моим младшим братом." },
+        { "en": "I get on well with my sister-in-law.", "tr": "Görümcemle/yengemle iyi anlaşırım.", "tk": "Men gaýynym bilen gowy gatnaşýaryn.", "ru": "Я хорошо лажу с невесткой." },
+        { "en": "She's an only child.", "tr": "O tek çocuk.", "tk": "Ol ýeke çaga.", "ru": "Она единственный ребёнок." }
+      ],
+      "exercises": [
+        { "question": "Your sister's son is your ___.", "options": ["niece", "nephew", "cousin", "uncle"], "answer": 1, "explanation": { "tr": "nephew = erkek yeğen.", "tk": "nephew = ýegen oglan.", "ru": "nephew = племянник." } },
+        { "question": "\"What does he ___ like?\" — \"He's short with a beard.\"", "options": ["be", "look", "like", "seem"], "answer": 1, "explanation": { "tr": "Görünüş → look like.", "tk": "Daşky görnüş → look like.", "ru": "Внешность → look like." } },
+        { "question": "\"What is she like?\" asks about her…", "options": ["appearance", "personality", "health", "job"], "answer": 1, "explanation": { "tr": "Kişilik.", "tk": "Häsiýet.", "ru": "Характер." } },
+        { "question": "Correct order:", "options": ["black long hair", "long black hair", "hair long black", "black hair long"], "answer": 1, "explanation": { "tr": "Uzunluk → renk.", "tk": "Uzynlyk → reňk.", "ru": "Длина → цвет." } },
+        { "question": "Opposite of \"generous\":", "options": ["kind", "mean", "shy", "honest"], "answer": 1, "explanation": { "tr": "mean = cimri.", "tk": "mean = gysganç.", "ru": "mean = жадный." } },
+        { "question": "She ___ her mother — they have the same eyes.", "options": ["takes after", "looks after", "gets on", "grows up"], "answer": 0, "explanation": { "tr": "take after = benzemek.", "tk": "take after = meňzemek.", "ru": "take after = быть похожим." } },
+        { "question": "Brothers and sisters are ___.", "options": ["cousins", "siblings", "parents", "in-laws"], "answer": 1, "explanation": { "tr": "siblings.", "tk": "siblings.", "ru": "siblings." } },
+        { "question": "A person you can always trust is ___.", "options": ["bossy", "reliable", "lazy", "impatient"], "answer": 1, "explanation": { "tr": "reliable = güvenilir.", "tk": "reliable = ygtybarly.", "ru": "reliable = надёжный." } },
+        { "question": "I ___ in a small village.", "options": ["grew up", "took after", "looked after", "got on"], "answer": 0, "explanation": { "tr": "grow up = büyümek.", "tk": "grow up = ulalmak.", "ru": "grow up = вырасти." } },
+        { "question": "Opposite of \"shy\":", "options": ["quiet", "outgoing", "lazy", "patient"], "answer": 1, "explanation": { "tr": "outgoing = dışa dönük.", "tk": "outgoing = açyk.", "ru": "outgoing = общительный." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Pronunciation",
+    "title": "Pronunciation: Word Stress, -ed and -s Endings",
+    "body": {
+      "explanation": {
+        "tr": "1) -ed sonu üç şekilde okunur:\n• /t/: sessiz seslerden sonra (p, k, s, ʃ, tʃ, f): stopped, looked, washed\n• /d/: sesli ünsüz ve ünlülerden sonra: played, lived, cleaned\n• /ɪd/: t ve d'den sonra: wanted, needed, decided\n2) -s / -es sonu:\n• /s/: p, t, k, f sonrası: cats, books\n• /z/: diğer sesli sesler: dogs, plays\n• /ɪz/: s, z, ʃ, tʃ, dʒ sonrası: buses, watches, pages\n3) Vurgu (stress): iki heceli isim/sıfatlarda genelde 1. hece (TAble, HAPpy), fiillerde 2. hece (beGIN, deCIDE). Bazı kelimelerde vurgu anlamı değiştirir: a REcord (isim) / to reCORD (fiil), a PREsent / to preSENT.\n4) -tion/-sion öncesindeki hece vurgulanır: inforMAtion, deCIsion.",
+        "tk": "1) -ed goşulmasy üç hili okalýar:\n• /t/: sessiz seslerden soň (p, k, s, ʃ, tʃ, f): stopped, looked, washed\n• /d/: sesli çekimsizlerden we çekimlilerden soň: played, lived, cleaned\n• /ɪd/: t we d-den soň: wanted, needed, decided\n2) -s / -es goşulmasy:\n• /s/: p, t, k, f-den soň: cats, books\n• /z/: beýleki sesli seslerden soň: dogs, plays\n• /ɪz/: s, z, ʃ, tʃ, dʒ-den soň: buses, watches, pages\n3) Basym (stress): iki bogunly at/sypatlarda adatça 1-nji bogun (TAble, HAPpy), işliklerde 2-nji bogun (beGIN, deCIDE). Käbir sözlerde basym manyny üýtgedýär: a REcord (at) / to reCORD (işlik), a PREsent / to preSENT.\n4) -tion/-sion-dan öňki bogun basymly: inforMAtion, deCIsion.",
+        "ru": "1) Окончание -ed читается тремя способами:\n• /t/: после глухих (p, k, s, ʃ, tʃ, f): stopped, looked, washed\n• /d/: после звонких и гласных: played, lived, cleaned\n• /ɪd/: после t и d: wanted, needed, decided\n2) Окончание -s / -es:\n• /s/: после p, t, k, f: cats, books\n• /z/: после остальных звонких: dogs, plays\n• /ɪz/: после s, z, ʃ, tʃ, dʒ: buses, watches, pages\n3) Ударение: в двусложных сущ./прил. обычно на 1-м слоге (TAble, HAPpy), в глаголах — на 2-м (beGIN, deCIDE). Иногда ударение меняет смысл: a REcord (сущ.) / to reCORD (глагол), a PREsent / to preSENT.\n4) Ударный слог — перед -tion/-sion: inforMAtion, deCIsion."
+      },
+      "examples": [
+        { "en": "worked /t/ – played /d/ – wanted /ɪd/", "tr": "çalıştı – oynadı – istedi", "tk": "işledi – oýnady – isledi", "ru": "работал – играл – хотел" },
+        { "en": "books /s/ – dogs /z/ – boxes /ɪz/", "tr": "kitaplar – köpekler – kutular", "tk": "kitaplar – itler – gutular", "ru": "книги – собаки – коробки" },
+        { "en": "I bought a PREsent for her.", "tr": "Ona bir hediye aldım.", "tk": "Men oňa sowgat aldym.", "ru": "Я купил ей подарок." },
+        { "en": "They will preSENT their project.", "tr": "Projelerini sunacaklar.", "tk": "Olar taslamalaryny tanyşdyrarlar.", "ru": "Они представят свой проект." },
+        { "en": "Can you reCORD the lesson?", "tr": "Dersi kaydedebilir misin?", "tk": "Sapagy ýazga alyp bilersiňmi?", "ru": "Можешь записать урок?" },
+        { "en": "It was a difficult deCIsion.", "tr": "Zor bir karardı.", "tk": "Bu kyn karardy.", "ru": "Это было трудное решение." }
+      ],
+      "exercises": [
+        { "question": "How is -ed pronounced in \"needed\"?", "options": ["/t/", "/d/", "/ɪd/", "silent"], "answer": 2, "explanation": { "tr": "d'den sonra /ɪd/.", "tk": "d-den soň /ɪd/.", "ru": "После d — /ɪd/." } },
+        { "question": "How is -ed pronounced in \"looked\"?", "options": ["/t/", "/d/", "/ɪd/", "/ed/"], "answer": 0, "explanation": { "tr": "k sessiz → /t/.", "tk": "k sessiz → /t/.", "ru": "k глухой → /t/." } },
+        { "question": "How is -ed pronounced in \"cleaned\"?", "options": ["/t/", "/d/", "/ɪd/", "/en/"], "answer": 1, "explanation": { "tr": "n sesli → /d/.", "tk": "n sesli → /d/.", "ru": "n звонкий → /d/." } },
+        { "question": "Which word ends in /ɪz/?", "options": ["cats", "dogs", "watches", "books"], "answer": 2, "explanation": { "tr": "tʃ sonrası /ɪz/.", "tk": "tʃ-den soň /ɪz/.", "ru": "После tʃ — /ɪz/." } },
+        { "question": "Which word ends in /z/?", "options": ["maps", "plays", "roofs", "hats"], "answer": 1, "explanation": { "tr": "Ünlü sonrası /z/.", "tk": "Çekimliden soň /z/.", "ru": "После гласной — /z/." } },
+        { "question": "Stress in \"decide\":", "options": ["DEcide", "deCIDE", "both", "no stress"], "answer": 1, "explanation": { "tr": "Fiil → 2. hece.", "tk": "Işlik → 2-nji bogun.", "ru": "Глагол → 2-й слог." } },
+        { "question": "\"I want to ___ this song.\" (verb)", "options": ["REcord", "reCORD", "RECORD", "recORD"], "answer": 1, "explanation": { "tr": "Fiil → reCORD.", "tk": "Işlik → reCORD.", "ru": "Глагол → reCORD." } },
+        { "question": "Stress in \"information\":", "options": ["INformation", "inFORmation", "inforMAtion", "informaTION"], "answer": 2, "explanation": { "tr": "-tion öncesi.", "tk": "-tion-dan öň.", "ru": "Перед -tion." } },
+        { "question": "Which -ed is different?", "options": ["stopped", "washed", "laughed", "played"], "answer": 3, "explanation": { "tr": "played /d/, diğerleri /t/.", "tk": "played /d/, beýlekiler /t/.", "ru": "played — /d/, остальные /t/." } },
+        { "question": "Stress in \"happy\":", "options": ["HAPpy", "hapPY", "both", "no stress"], "answer": 0, "explanation": { "tr": "Sıfat → 1. hece.", "tk": "Sypat → 1-nji bogun.", "ru": "Прил. → 1-й слог." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Spelling",
+    "title": "Tricky Spellings: Doubling, Silent Letters and Homophones",
+    "body": {
+      "explanation": {
+        "tr": "B1 düzeyinde sık yapılan yazım hataları:\n• Uzun kelimelerde ikilenme: vurgu son hecedeyse ünsüz ikilenir: beGIN → beginning, preFER → preferred; vurgu sonda değilse ikilenmez: VISit → visited, LISten → listened\n• Çift harfli zor kelimeler: accommodation, necessary, address, beginning, different, tomorrow, successful, recommend\n• Okunmayan harfler: knife, write, island, Wednesday, receipt, foreign, doubt, listen\n• Eş sesliler (homophones): weather/whether, there/their/they're, whose/who's, piece/peace, hear/here, quite/quiet (farklı ses!), advice (isim)/advise (fiil)\n• -ible / -able: possible, visible / comfortable, available",
+        "tk": "B1 derejesinde köp goýberilýän ýazuw ýalňyşlyklary:\n• Uzyn sözlerde iki esse ýazmak: basym soňky bogunda bolsa çekimsiz iki esse ýazylýar: beGIN → beginning, preFER → preferred; basym soňunda bolmasa iki esse ýazylmaýar: VISit → visited, LISten → listened\n• Iki harply kyn sözler: accommodation, necessary, address, beginning, different, tomorrow, successful, recommend\n• Okalmaýan harplar: knife, write, island, Wednesday, receipt, foreign, doubt, listen\n• Deňsesli sözler (homophones): weather/whether, there/their/they're, whose/who's, piece/peace, hear/here, quite/quiet (sesi başga!), advice (at)/advise (işlik)\n• -ible / -able: possible, visible / comfortable, available",
+        "ru": "Частые орфографические ошибки на уровне B1:\n• Удвоение в длинных словах: если ударение на последнем слоге, согласная удваивается: beGIN → beginning, preFER → preferred; если нет — не удваивается: VISit → visited, LISten → listened\n• Слова с двойными буквами: accommodation, necessary, address, beginning, different, tomorrow, successful, recommend\n• Немые буквы: knife, write, island, Wednesday, receipt, foreign, doubt, listen\n• Омофоны: weather/whether, there/their/they're, whose/who's, piece/peace, hear/here, quite/quiet (звучат по-разному!), advice (сущ.)/advise (глагол)\n• -ible / -able: possible, visible / comfortable, available"
+      },
+      "examples": [
+        { "en": "At the beginning of the lesson we listened to music.", "tr": "Dersin başında müzik dinledik.", "tk": "Sapagyň başynda biz aýdym diňledik.", "ru": "В начале урока мы слушали музыку." },
+        { "en": "Is it necessary to book accommodation?", "tr": "Konaklama ayırtmak gerekli mi?", "tk": "Ýaşaýyş ýerini öňünden bellemek hökmanmy?", "ru": "Нужно ли бронировать жильё?" },
+        { "en": "I don't know whether the weather will be nice.", "tr": "Havanın güzel olup olmayacağını bilmiyorum.", "tk": "Howanyň gowy boljakdygyny ýa-da däldigini bilemok.", "ru": "Не знаю, будет ли хорошая погода." },
+        { "en": "Whose bag is this? Who's got the key?", "tr": "Bu çanta kimin? Anahtar kimde?", "tk": "Bu kimiň sumkasy? Açar kimde?", "ru": "Чья это сумка? У кого ключ?" },
+        { "en": "Could I have a receipt, please?", "tr": "Fiş alabilir miyim lütfen?", "tk": "Maňa çek berip bilersiňizmi?", "ru": "Можно чек, пожалуйста?" },
+        { "en": "Is this room available tomorrow?", "tr": "Bu oda yarın müsait mi?", "tk": "Bu otag ertir boşmy?", "ru": "Этот номер свободен завтра?" }
+      ],
+      "exercises": [
+        { "question": "Which spelling is correct?", "options": ["neccessary", "necessary", "necesary", "neccesary"], "answer": 1, "explanation": { "tr": "1 c, 2 s.", "tk": "1 c, 2 s.", "ru": "1 c, 2 s." } },
+        { "question": "Which spelling is correct?", "options": ["accomodation", "acommodation", "accommodation", "accommodasion"], "answer": 2, "explanation": { "tr": "2 c, 2 m.", "tk": "2 c, 2 m.", "ru": "2 c, 2 m." } },
+        { "question": "begin + -ing =", "options": ["begining", "beginning", "beggining", "beginnig"], "answer": 1, "explanation": { "tr": "Vurgu sonda → nn.", "tk": "Basym soňunda → nn.", "ru": "Ударение в конце → nn." } },
+        { "question": "visit + -ed =", "options": ["visitted", "visited", "visted", "visitid"], "answer": 1, "explanation": { "tr": "Vurgu başta → ikilenmez.", "tk": "Basym başynda → iki esse däl.", "ru": "Ударение в начале → без удвоения." } },
+        { "question": "prefer + -ed =", "options": ["prefered", "preferred", "preferrd", "prefferred"], "answer": 1, "explanation": { "tr": "preFER → rr.", "tk": "preFER → rr.", "ru": "preFER → rr." } },
+        { "question": "\"I'm not sure ___ to go or stay.\"", "options": ["weather", "whether", "wether", "whither"], "answer": 1, "explanation": { "tr": "whether = -ip -mediği.", "tk": "whether = -mydygy.", "ru": "whether = ли." } },
+        { "question": "\"___ coat is this?\"", "options": ["Who's", "Whose", "Whos", "Who'se"], "answer": 1, "explanation": { "tr": "İyelik → whose.", "tk": "Eýelik → whose.", "ru": "Притяжательное → whose." } },
+        { "question": "Which word has a silent \"b\"?", "options": ["number", "doubt", "table", "baby"], "answer": 1, "explanation": { "tr": "doubt /daʊt/.", "tk": "doubt /daʊt/.", "ru": "doubt /daʊt/." } },
+        { "question": "Which spelling is correct?", "options": ["comfortible", "comfortable", "comftable", "comfertable"], "answer": 1, "explanation": { "tr": "-able.", "tk": "-able.", "ru": "-able." } },
+        { "question": "\"Please be ___. The baby is sleeping.\"", "options": ["quite", "quiet", "quit", "quiete"], "answer": 1, "explanation": { "tr": "quiet = sessiz.", "tk": "quiet = ümsüm.", "ru": "quiet = тихий." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Word Formation",
+    "title": "Word Families: Prefixes and Suffixes",
+    "body": {
+      "explanation": {
+        "tr": "Kelime aileleri: bir kökten farklı türler türetilir.\n• succeed (fiil) → success (isim) → successful (sıfat) → successfully (zarf) → unsuccessful (zıt)\n• create → creation → creative → creatively\n• employ → employer / employee / employment → unemployed\nÖnekler anlamı değiştirir:\n• re- (tekrar): rewrite, rebuild; mis- (yanlış): misunderstand, misspell; over- (fazla): oversleep, overcook; pre- (önce): preview; co- (birlikte): co-worker; ex- (eski): ex-wife\nSonekler türü değiştirir:\n• İsim: -ness, -ment, -tion, -ity (possible → possibility), -ship (friendship), -hood (childhood)\n• Sıfat: -ful, -less, -ous, -able, -ive, -al\n• Fiil: -ise/-ize (modern → modernise), -en (short → shorten), -ify (simple → simplify)",
+        "tk": "Söz maşgalalary: bir kökden dürli görnüşler ýasalýar.\n• succeed (işlik) → success (at) → successful (sypat) → successfully (hal) → unsuccessful (garşylykly)\n• create → creation → creative → creatively\n• employ → employer / employee / employment → unemployed\nÖňgoşulmalar manyny üýtgedýär:\n• re- (täzeden): rewrite, rebuild; mis- (nädogry): misunderstand, misspell; over- (artyk): oversleep, overcook; pre- (öň): preview; co- (bilelikde): co-worker; ex- (öňki): ex-wife\nGoşulmalar söz toparyny üýtgedýär:\n• At: -ness, -ment, -tion, -ity (possible → possibility), -ship (friendship), -hood (childhood)\n• Sypat: -ful, -less, -ous, -able, -ive, -al\n• Işlik: -ise/-ize (modern → modernise), -en (short → shorten), -ify (simple → simplify)",
+        "ru": "Словообразовательные гнёзда: от одного корня — разные части речи.\n• succeed (глагол) → success (сущ.) → successful (прил.) → successfully (нар.) → unsuccessful (антоним)\n• create → creation → creative → creatively\n• employ → employer / employee / employment → unemployed\nПриставки меняют смысл:\n• re- (снова): rewrite, rebuild; mis- (неправильно): misunderstand, misspell; over- (слишком): oversleep, overcook; pre- (до): preview; co- (вместе): co-worker; ex- (бывший): ex-wife\nСуффиксы меняют часть речи:\n• Сущ.: -ness, -ment, -tion, -ity (possible → possibility), -ship (friendship), -hood (childhood)\n• Прил.: -ful, -less, -ous, -able, -ive, -al\n• Глагол: -ise/-ize (modern → modernise), -en (short → shorten), -ify (simple → simplify)"
+      },
+      "examples": [
+        { "en": "She is a successful businesswoman.", "tr": "Başarılı bir iş kadını.", "tk": "Ol üstünlikli işewür aýal.", "ru": "Она успешная бизнесвумен." },
+        { "en": "Sorry, I misunderstood the question.", "tr": "Pardon, soruyu yanlış anladım.", "tk": "Bagyşlaň, soragy nädogry düşündim.", "ru": "Извините, я неправильно понял вопрос." },
+        { "en": "I overslept and missed the bus.", "tr": "Uyuyakaldım ve otobüsü kaçırdım.", "tk": "Uklap galdym we awtobusa gijä galdym.", "ru": "Я проспал и опоздал на автобус." },
+        { "en": "The company has 200 employees.", "tr": "Şirketin 200 çalışanı var.", "tk": "Kompaniýanyň 200 işgäri bar.", "ru": "В компании 200 сотрудников." },
+        { "en": "Our friendship started in childhood.", "tr": "Arkadaşlığımız çocuklukta başladı.", "tk": "Biziň dostlugymyz çagalykda başlandy.", "ru": "Наша дружба началась в детстве." },
+        { "en": "Can you simplify the instructions?", "tr": "Talimatları basitleştirebilir misin?", "tk": "Görkezmeleri ýönekeýleşdirip bilersiňmi?", "ru": "Можешь упростить инструкцию?" }
+      ],
+      "exercises": [
+        { "question": "The party was a big ___. (succeed)", "options": ["succeed", "success", "successful", "successfully"], "answer": 1, "explanation": { "tr": "a big + isim.", "tk": "a big + at.", "ru": "a big + сущ." } },
+        { "question": "She finished the race ___. (success)", "options": ["success", "successful", "successfully", "succeed"], "answer": 2, "explanation": { "tr": "Fiili niteliyor → zarf.", "tk": "Işligi häsiýetlendirýär → hal.", "ru": "Описывает глагол → наречие." } },
+        { "question": "A person who works for a company is an ___.", "options": ["employer", "employee", "employment", "employ"], "answer": 1, "explanation": { "tr": "-ee = işi alan.", "tk": "-ee = işi alýan.", "ru": "-ee = тот, кого нанимают." } },
+        { "question": "I ___ my alarm and woke up late.", "options": ["overslept", "misslept", "reslept", "preslept"], "answer": 0, "explanation": { "tr": "over- = fazla.", "tk": "over- = artyk.", "ru": "over- = слишком." } },
+        { "question": "Please ___ your essay. It has many mistakes.", "options": ["miswrite", "rewrite", "prewrite", "overwrite"], "answer": 1, "explanation": { "tr": "re- = tekrar.", "tk": "re- = täzeden.", "ru": "re- = снова." } },
+        { "question": "possible → noun:", "options": ["possibleness", "possibility", "possiblement", "possibleity"], "answer": 1, "explanation": { "tr": "-ity.", "tk": "-ity.", "ru": "-ity." } },
+        { "question": "short → verb:", "options": ["shortify", "shorten", "shortise", "shortment"], "answer": 1, "explanation": { "tr": "-en.", "tk": "-en.", "ru": "-en." } },
+        { "question": "child → noun (the time when you are a child):", "options": ["childship", "childhood", "childness", "childment"], "answer": 1, "explanation": { "tr": "-hood.", "tk": "-hood.", "ru": "-hood." } },
+        { "question": "She's very ___. She paints and writes poems. (create)", "options": ["creation", "creative", "creatively", "creator"], "answer": 1, "explanation": { "tr": "be + sıfat.", "tk": "be + sypat.", "ru": "be + прил." } },
+        { "question": "He lost his job. Now he is ___.", "options": ["disemployed", "unemployed", "misemployed", "inemployed"], "answer": 1, "explanation": { "tr": "un- + employed.", "tk": "un- + employed.", "ru": "un- + employed." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Work, Jobs, School",
+    "title": "Work, Jobs and School: Key Collocations",
+    "body": {
+      "explanation": {
+        "tr": "İş:\n• job (sayılabilir: a job) / work (sayılamaz: a lot of work) — 'a work' DEĞİL\n• apply for a job (başvurmak), get/lose a job, be hired / be fired, earn a salary, work full-time / part-time, work overtime, retire (emekli olmak), be self-employed\n• Meslek sorma: What do you do? → I'm a nurse. / I work as a nurse. / I work for a bank.\nOkul:\n• take/do an exam (sınava girmek), pass ↔ fail an exam, revise for an exam (BrE tekrar), get a good mark/grade\n• attend classes, do homework, make progress, get a degree in…, primary/secondary school, university, subject (ders), timetable\n• Dikkat: learn (öğrenmek) / teach (öğretmek); study (çalışmak, okumak)",
+        "tk": "Iş:\n• job (sanalýan: a job) / work (sanalmaýan: a lot of work) — 'a work' DÄL\n• apply for a job (ýüz tutmak), get/lose a job, be hired / be fired, earn a salary, work full-time / part-time, work overtime, retire (pensiýa çykmak), be self-employed\n• Kärini soramak: What do you do? → I'm a nurse. / I work as a nurse. / I work for a bank.\nMekdep:\n• take/do an exam (synaga girmek), pass ↔ fail an exam, revise for an exam (BrE gaýtalamak), get a good mark/grade\n• attend classes, do homework, make progress, get a degree in…, primary/secondary school, university, subject (sapak), timetable\n• Üns beriň: learn (öwrenmek) / teach (öwretmek); study (okamak)",
+        "ru": "Работа:\n• job (исчисл.: a job) / work (неисчисл.: a lot of work) — НЕ 'a work'\n• apply for a job (подавать заявку), get/lose a job, be hired / be fired, earn a salary, work full-time / part-time, work overtime, retire (выйти на пенсию), be self-employed\n• Вопрос о профессии: What do you do? → I'm a nurse. / I work as a nurse. / I work for a bank.\nУчёба:\n• take/do an exam (сдавать экзамен), pass ↔ fail an exam, revise for an exam (BrE повторять), get a good mark/grade\n• attend classes, do homework, make progress, get a degree in…, primary/secondary school, university, subject (предмет), timetable\n• Внимание: learn (учить) / teach (учить кого-то); study (учиться, заниматься)"
+      },
+      "examples": [
+        { "en": "What do you do? — I work as an engineer.", "tr": "Ne iş yapıyorsun? — Mühendis olarak çalışıyorum.", "tk": "Sen näme iş edýäň? — Men inžener bolup işleýärin.", "ru": "Кем ты работаешь? — Я работаю инженером." },
+        { "en": "She applied for a job at the hospital.", "tr": "Hastanedeki bir işe başvurdu.", "tk": "Ol keselhanadaky işe ýüz tutdy.", "ru": "Она подала заявку на работу в больнице." },
+        { "en": "I have a lot of work this week.", "tr": "Bu hafta çok işim var.", "tk": "Bu hepde işim köp.", "ru": "На этой неделе у меня много работы." },
+        { "en": "He works part-time in a café.", "tr": "Bir kafede yarı zamanlı çalışıyor.", "tk": "Ol kafede ýarym gün işleýär.", "ru": "Он работает неполный день в кафе." },
+        { "en": "I passed my maths exam!", "tr": "Matematik sınavını geçtim!", "tk": "Men matematika synagyndan geçdim!", "ru": "Я сдал экзамен по математике!" },
+        { "en": "My aunt teaches English at a secondary school.", "tr": "Teyzem bir ortaokulda İngilizce öğretiyor.", "tk": "Daýzam orta mekdepde iňlis dilini öwredýär.", "ru": "Моя тётя преподаёт английский в средней школе." }
+      ],
+      "exercises": [
+        { "question": "I'm looking for a new ___.", "options": ["work", "job", "works", "working"], "answer": 1, "explanation": { "tr": "a + job (work sayılamaz).", "tk": "a + job (work sanalmaýar).", "ru": "a + job (work неисчисл.)." } },
+        { "question": "She ___ for a job at a bank.", "options": ["applied", "asked", "worked", "hired"], "answer": 0, "explanation": { "tr": "apply for.", "tk": "apply for.", "ru": "apply for." } },
+        { "question": "\"What do you do?\" means…", "options": ["What are you doing now?", "What is your job?", "What do you like?", "How are you?"], "answer": 1, "explanation": { "tr": "Mesleğini sorar.", "tk": "Kärini soraýar.", "ru": "Спрашивает о профессии." } },
+        { "question": "I hope I ___ the exam tomorrow.", "options": ["pass", "fail", "succeed", "win"], "answer": 0, "explanation": { "tr": "pass an exam = sınavı geçmek.", "tk": "pass an exam = synagdan geçmek.", "ru": "pass an exam = сдать экзамен." } },
+        { "question": "My grandfather ___ at 60. Now he doesn't work.", "options": ["retired", "resigned", "fired", "hired"], "answer": 0, "explanation": { "tr": "retire = emekli olmak.", "tk": "retire = pensiýa çykmak.", "ru": "retire = выйти на пенсию." } },
+        { "question": "He works ___ a nurse.", "options": ["like", "as", "for", "by"], "answer": 1, "explanation": { "tr": "work as + meslek.", "tk": "work as + kär.", "ru": "work as + профессия." } },
+        { "question": "Mr Smith ___ us history.", "options": ["learns", "teaches", "studies", "learns to"], "answer": 1, "explanation": { "tr": "teach = öğretmek.", "tk": "teach = öwretmek.", "ru": "teach = преподавать." } },
+        { "question": "He was ___ because he was always late.", "options": ["hired", "fired", "retired", "applied"], "answer": 1, "explanation": { "tr": "fired = kovuldu.", "tk": "fired = işden kowuldy.", "ru": "fired = уволен." } },
+        { "question": "I need to ___ for my exam next week.", "options": ["revise", "remember", "repeat to", "review on"], "answer": 0, "explanation": { "tr": "revise (BrE) = tekrar etmek.", "tk": "revise (BrE) = gaýtalamak.", "ru": "revise (BrE) = повторять." } },
+        { "question": "Maths and History are school ___.", "options": ["lessons of", "subjects", "timetables", "degrees"], "answer": 1, "explanation": { "tr": "subject = ders.", "tk": "subject = sapak.", "ru": "subject = предмет." } }
+      ]
+    }
+  }
+]

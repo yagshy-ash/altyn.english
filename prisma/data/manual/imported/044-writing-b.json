@@ -1,0 +1,218 @@
+[
+  {
+    "skill": "WRITING", "level": "B2", "topic": "Working from home", "title": "Working from Home: Pros and Cons",
+    "body": {
+      "task": { "tr": "Bir deneme (essay) yazın: \"Evden çalışma çalışanlar için ofisten daha iyidir.\" Bu görüşe ne ölçüde katılıyorsunuz? Her iki tarafı da tartışın, örnekler verin ve net bir sonuca varın.", "tk": "Esse ýazyň: \"Öýden işlemek işgärler üçin ofisden has gowudyr.\" Bu pikire näçeräk goşulýarsyňyz? Iki tarapy hem ara alyp maslahatlaşyň, mysallar getiriň we anyk netijä geliň.", "ru": "Напишите эссе: «Работа из дома лучше для сотрудников, чем работа в офисе». В какой степени вы согласны? Рассмотрите обе стороны, приведите примеры и сделайте чёткий вывод." },
+      "taskEn": "Write an essay: \"Working from home is better for employees than working in an office.\" To what extent do you agree? Discuss both sides, give examples and reach a clear conclusion.",
+      "minWords": 180,
+      "hints": ["Since the pandemic, remote work has become...", "Advocates of working from home argue that...", "Nevertheless, it could be argued that isolation...", "A case in point is...", "On balance, I would argue that a hybrid model..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "B2", "topic": "A report on student facilities", "title": "Report: Improving Student Facilities",
+    "body": {
+      "task": { "tr": "Okul/üniversite müdürü için bir rapor yazın. Mevcut öğrenci olanaklarını (kütüphane, kantin, spor salonu vb.) değerlendirin, sorunları belirtin ve gerekçeli öneriler sunun. Başlıklar kullanın.", "tk": "Mekdebiň/uniwersitetiň direktory üçin hasabat ýazyň. Talyplar üçin bar bolan mümkinçilikleri (kitaphana, naharhana, sport zaly we ş.m.) bahalandyryň, meseleleri görkeziň we esaslandyrylan teklipleri beriň. Sözbaşylary ulanyň.", "ru": "Напишите отчёт для директора школы/университета. Оцените существующие условия для студентов (библиотека, столовая, спортзал и т. д.), укажите проблемы и дайте обоснованные рекомендации. Используйте подзаголовки." },
+      "taskEn": "Write a report for the head of your school or university. Evaluate the current student facilities (library, canteen, sports hall, etc.), identify problems and make justified recommendations. Use headings.",
+      "minWords": 180,
+      "hints": ["Introduction: The aim of this report is to...", "Library: According to a survey of 50 students,...", "The main problem appears to be...", "Recommendations: It is strongly recommended that...", "Conclusion: If these changes are implemented,..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "B2", "topic": "Should university be free", "title": "Should University Education Be Free?",
+    "body": {
+      "task": { "tr": "Üniversite eğitimi herkes için ücretsiz olmalı mı? Ekonomik, toplumsal ve bireysel açılardan tartışın; karşı görüşü de ele alıp çürütün.", "tk": "Uniwersitet bilimi hemmeler üçin mugt bolmalymy? Ykdysady, jemgyýetçilik we şahsy nukdaýnazardan ara alyp maslahatlaşyň; garşy pikiri hem görkeziň we oňa jogap beriň.", "ru": "Должно ли высшее образование быть бесплатным для всех? Обсудите экономические, социальные и личные аспекты; рассмотрите противоположное мнение и опровергните его." },
+      "taskEn": "Should university education be free for everyone? Discuss the economic, social and personal aspects, and address the opposing view.",
+      "minWords": 180,
+      "hints": ["Access to higher education is often seen as...", "From an economic point of view,...", "Critics claim that free tuition would...; however,...", "Not only would it..., but it would also...", "All things considered, I firmly believe that..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "B2", "topic": "A formal job application", "title": "Applying for a Summer Job",
+    "body": {
+      "task": { "tr": "Yurt dışındaki bir yaz kampında \"çocuk etkinlik lideri\" ilanına başvuru mektubu yazın. Neden uygun olduğunuzu, deneyimlerinizi, becerilerinizi ve dil seviyenizi anlatın.", "tk": "Daşary ýurtdaky tomusky lagerde \"çagalar üçin çäre ýolbaşçysy\" bildirişine ýüz tutma hatyny ýazyň. Näme üçin laýyk gelýändigiňizi, tejribäňizi, başarnyklaryňyzy we dil derejäňizi beýan ediň.", "ru": "Напишите сопроводительное письмо на вакансию «вожатый детских мероприятий» в летнем лагере за рубежом. Объясните, почему вы подходите, опишите опыт, навыки и уровень языка." },
+      "taskEn": "Write a letter applying for a job as a children's activity leader at a summer camp abroad. Explain why you are suitable and describe your experience, skills and language level.",
+      "minWords": 180,
+      "hints": ["I am writing to apply for the position of... advertised on...", "I have considerable experience of working with children, having...", "I consider myself to be patient, energetic and...", "In addition, my English is at an upper-intermediate level...", "I would welcome the opportunity to discuss my application further."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "B2", "topic": "Tourism and local communities", "title": "Is Tourism Good for Local People?",
+    "body": {
+      "task": { "tr": "Bir çevre dergisi için makale yazın: Turizm yerel halka fayda mı sağlıyor yoksa zarar mı veriyor? Gerçekçi örnekler verin ve sürdürülebilir turizm için öneriler sunun.", "tk": "Ekologiýa žurnaly üçin makala ýazyň: Syýahatçylyk ýerli ilata peýda getirýärmi ýa-da zyýan? Durmuşdan mysallar getiriň we durnukly syýahatçylyk üçin teklipler beriň.", "ru": "Напишите статью для экологического журнала: приносит ли туризм пользу местным жителям или вред? Приведите реальные примеры и предложите идеи устойчивого туризма." },
+      "taskEn": "Write an article for an environmental magazine: Does tourism help or harm local communities? Give realistic examples and suggest ideas for sustainable tourism.",
+      "minWords": 180,
+      "hints": ["Picture a quiet fishing village that suddenly...", "There is no doubt that tourism creates jobs; however,...", "Rising property prices mean that locals...", "One solution would be to...", "If we want future generations to enjoy..., we must..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "B2", "topic": "Artificial intelligence in education", "title": "AI in the Classroom",
+    "body": {
+      "task": { "tr": "Bir deneme yazın: Yapay zekâ araçları (sohbet botları, çeviri programları) öğrencilerin öğrenmesine yardım mı ediyor yoksa zarar mı veriyor? Örneklerle tartışın ve okullar için kurallar önerin.", "tk": "Esse ýazyň: Emeli aň gurallary (çat-botlar, terjime programmalary) okuwçylaryň öwrenmegine kömek edýärmi ýa-da zyýan ýetirýärmi? Mysallar bilen ara alyp maslahatlaşyň we mekdepler üçin düzgünleri teklip ediň.", "ru": "Напишите эссе: помогают или мешают инструменты ИИ (чат-боты, переводчики) обучению студентов? Обсудите с примерами и предложите правила для школ." },
+      "taskEn": "Write an essay: Do AI tools such as chatbots and translation apps help or harm students' learning? Discuss with examples and suggest rules for schools.",
+      "minWords": 180,
+      "hints": ["In recent years, AI tools have become...", "Used wisely, a chatbot can act as...", "The danger, however, is that students may...", "Schools should therefore require students to...", "In conclusion, AI is neither good nor bad in itself; rather,..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "C1", "topic": "The value of failure", "title": "Why Failure Matters",
+    "body": {
+      "task": { "tr": "Bir deneme yazın: \"Başarısızlık, başarıdan daha iyi bir öğretmendir.\" Psikoloji, eğitim ve iş dünyasından örneklerle bu iddiayı eleştirel biçimde değerlendirin. Nüanslı bir sonuca varın.", "tk": "Esse ýazyň: \"Şowsuzlyk üstünlikden has gowy mugallymdyr.\" Psihologiýadan, bilimden we iş dünýäsinden mysallar bilen bu pikire tankydy baha beriň. Inçe aýratynlyklary göz öňünde tutýan netijä geliň.", "ru": "Напишите эссе: «Неудача — лучший учитель, чем успех». Критически оцените это утверждение с примерами из психологии, образования и бизнеса. Сделайте взвешенный вывод." },
+      "taskEn": "Write an essay: \"Failure is a better teacher than success.\" Critically evaluate this claim with examples from psychology, education and business. Reach a nuanced conclusion.",
+      "minWords": 220,
+      "hints": ["It has become something of a cliché to claim that...", "Research on growth mindset suggests that...", "Yet failure only teaches us if...", "Conversely, success can reinforce effective habits, provided that...", "Ultimately, it is not failure per se but our response to it that..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "C1", "topic": "Proposal for a green campus", "title": "Proposal: A Greener Campus",
+    "body": {
+      "task": { "tr": "Üniversite yönetimi için resmî bir öneri (proposal) yazın: Kampüsü daha çevreci yapmak için üç somut proje önerin, maliyetlerini ve faydalarını tartışın ve olası itirazlara yanıt verin.", "tk": "Uniwersitetiň ýolbaşçylygy üçin resmi teklip (proposal) ýazyň: Şäherçäni has ekologik etmek üçin üç sany anyk taslamany teklip ediň, olaryň çykdajylaryny we peýdalaryny ara alyp maslahatlaşyň we bolup biljek garşylyklara jogap beriň.", "ru": "Напишите официальное предложение (proposal) для руководства университета: предложите три конкретных проекта по «озеленению» кампуса, обсудите их затраты и пользу и ответьте на возможные возражения." },
+      "taskEn": "Write a formal proposal to your university management suggesting three concrete projects to make the campus greener. Discuss their costs and benefits and respond to possible objections.",
+      "minWords": 220,
+      "hints": ["Purpose: This proposal outlines three initiatives aimed at...", "Installing solar panels on... would not only... but also...", "While the initial outlay may seem considerable, ...", "It might be objected that...; however, ...", "I therefore urge the committee to..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "C1", "topic": "Privacy in the digital age", "title": "Is Privacy Dead?",
+    "body": {
+      "task": { "tr": "Bir düşünce yazısı (opinion piece) yazın: Dijital çağda mahremiyet artık bir hayal mi? Şirketlerin ve devletlerin veri toplamasını, kullanıcıların sorumluluğunu ve olası çözümleri tartışın.", "tk": "Pikir makalasy ýazyň: Sanly döwürde şahsy durmuşyň gizlinligi eýýäm hyýal boldumy? Kompaniýalaryň we döwletleriň maglumat ýygnamagyny, ulanyjylaryň jogapkärçiligini we mümkin bolan çözgütleri ara alyp maslahatlaşyň.", "ru": "Напишите авторскую колонку: стала ли приватность иллюзией в цифровую эпоху? Обсудите сбор данных компаниями и государствами, ответственность пользователей и возможные решения." },
+      "taskEn": "Write an opinion piece: Has privacy become an illusion in the digital age? Discuss data collection by companies and governments, the responsibility of users, and possible solutions.",
+      "minWords": 220,
+      "hints": ["Every time we tap 'Accept all', we...", "Tech companies would have us believe that...", "It would be naive, however, to place the blame solely on...", "Legislation such as... has shown that...", "Privacy may be under threat, but it is far from..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "C1", "topic": "Review of a book that changed my thinking", "title": "A Book That Changed My Mind",
+    "body": {
+      "task": { "tr": "Bir kültür sitesi için, düşüncenizi değiştiren bir kitabın eleştirel incelemesini yazın. Kitabın ana fikrini özetleyin, güçlü ve zayıf yönlerini değerlendirin ve hangi okuyuculara önerdiğinizi açıklayın.", "tk": "Medeniýet saýty üçin pikiriňizi üýtgeden kitap barada tankydy syn ýazyň. Kitabyň esasy pikirini gysgaça beýan ediň, güýçli we gowşak taraplaryna baha beriň we ony haýsy okyjylara maslahat berýändigiňizi düşündiriň.", "ru": "Напишите для сайта о культуре критическую рецензию на книгу, которая изменила ваш образ мыслей. Кратко изложите её главную идею, оцените сильные и слабые стороны и объясните, кому её рекомендуете." },
+      "taskEn": "Write a critical review for a culture website of a book that changed the way you think. Summarise its central argument, evaluate its strengths and weaknesses and say who you would recommend it to.",
+      "minWords": 220,
+      "hints": ["Few books manage to... as convincingly as...", "At the heart of the book lies the argument that...", "Where the author truly excels is in...", "That said, the later chapters tend to...", "Anyone who has ever wondered why... would do well to read it."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "C1", "topic": "Should zoos exist", "title": "Do Zoos Still Have a Place?",
+    "body": {
+      "task": { "tr": "Bir deneme yazın: Hayvanat bahçeleri 21. yüzyılda hâlâ gerekli mi? Koruma, eğitim ve hayvan hakları argümanlarını karşılaştırın ve gerekçeli bir pozisyon alın.", "tk": "Esse ýazyň: Haýwanat baglary XXI asyrda henizem gerekmi? Goramak, bilim we haýwan hukuklary baradaky delilleri deňeşdiriň we esaslandyrylan pozisiýany saýlaň.", "ru": "Напишите эссе: нужны ли зоопарки в XXI веке? Сравните аргументы о сохранении видов, образовании и правах животных и займите обоснованную позицию." },
+      "taskEn": "Write an essay: Do zoos still have a place in the 21st century? Weigh up arguments about conservation, education and animal rights, and take a justified position.",
+      "minWords": 220,
+      "hints": ["Once little more than menageries, modern zoos claim to...", "Breeding programmes have undeniably saved species such as...", "Critics, however, contend that no enclosure can...", "Whether zoos are justified hinges largely on...", "Rather than abolishing zoos, we should perhaps..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "C1", "topic": "Letter to a city council", "title": "Letter to the City Council",
+    "body": {
+      "task": { "tr": "Belediyeye resmî bir mektup yazın: Şehir merkezini araç trafiğine kapatıp yayalara açma planını destekleyin ya da karşı çıkın. Kanıtlara ve diğer şehirlerden örneklere dayanın.", "tk": "Şäher häkimligine resmi hat ýazyň: Şäher merkezini awtoulaglar üçin ýapyp, pyýadalar üçin açmak meýilnamasyny goldaň ýa-da oňa garşy çykyň. Subutnamalara we beýleki şäherlerden mysallara daýanyň.", "ru": "Напишите официальное письмо в городской совет: поддержите или оспорьте план сделать центр города пешеходным. Опирайтесь на факты и примеры других городов." },
+      "taskEn": "Write a formal letter to your city council supporting or opposing a plan to close the city centre to cars and make it pedestrian-only. Base your argument on evidence and examples from other cities.",
+      "minWords": 220,
+      "hints": ["I am writing in response to the council's proposal to...", "The experience of cities such as Copenhagen demonstrates that...", "Local businesses have expressed concern that...; however, studies indicate...", "Should the council proceed, I would urge it to...", "I trust that my views will be taken into consideration."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "C2", "topic": "The ethics of genetic editing", "title": "Editing Our Genes: Where to Draw the Line",
+    "body": {
+      "task": { "tr": "Bilimsel bir dergi için deneme yazın: İnsan genlerinin düzenlenmesi (CRISPR) nerede sınırlanmalı? Tedavi ile \"iyileştirme\" arasındaki farkı, eşitsizlik riskini ve gelecek nesillerin haklarını tartışın.", "tk": "Ylmy žurnal üçin esse ýazyň: Adam genlerini üýtgetmek (CRISPR) nirede çäklendirilmeli? Bejergi bilen \"gowulandyrmagyň\" arasyndaky tapawudy, deňsizlik howpuny we geljekki nesilleriň hukuklaryny ara alyp maslahatlaşyň.", "ru": "Напишите эссе для научного журнала: где должна проходить граница редактирования генов человека (CRISPR)? Обсудите разницу между лечением и «улучшением», риск неравенства и права будущих поколений." },
+      "taskEn": "Write an essay for a science magazine: Where should we draw the line on editing human genes (CRISPR)? Discuss the distinction between therapy and 'enhancement', the risk of inequality and the rights of future generations.",
+      "minWords": 260,
+      "hints": ["Few technologies have so swiftly blurred the line between... and...", "The distinction between therapy and enhancement, intuitive as it may seem,...", "Were such treatments to remain the preserve of the wealthy,...", "Germline editing raises the thorny question of consent, since...", "What is called for, then, is not a blanket ban but..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "C2", "topic": "Is objectivity possible in journalism", "title": "The Myth of Objective Journalism",
+    "body": {
+      "task": { "tr": "Bir medya eleştirisi yazısı yazın: Gazetecilikte tam nesnellik mümkün mü? Haber seçimi, dil ve çerçeveleme örnekleriyle tartışın ve \"dengeli\" habercilikle \"doğru\" habercilik arasındaki gerilimi değerlendirin.", "tk": "Media tankydy makalasyny ýazyň: Žurnalistikada doly obýektiwlik mümkinmi? Habarlaryň saýlanyşy, dili we çarçuwalanyşy baradaky mysallar bilen ara alyp maslahatlaşyň we \"deňagramly\" bilen \"dogry\" habarçylygyň arasyndaky dartgynlylyga baha beriň.", "ru": "Напишите критическую статью о медиа: возможна ли полная объективность в журналистике? Обсудите на примерах выбора новостей, языка и фрейминга, оцените противоречие между «сбалансированной» и «точной» журналистикой." },
+      "taskEn": "Write a piece of media criticism: Is complete objectivity possible in journalism? Discuss examples of news selection, language and framing, and evaluate the tension between 'balanced' and 'accurate' reporting.",
+      "minWords": 260,
+      "hints": ["The very act of deciding what counts as news is...", "Consider the difference between 'protesters' and 'rioters':...", "False balance arises when...", "Transparency about one's perspective may prove more honest than...", "Objectivity, then, is best understood not as a destination but as..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "C2", "topic": "The future of work and automation", "title": "Automation and the Meaning of Work",
+    "body": {
+      "task": { "tr": "Bir deneme yazın: Otomasyon işlerin çoğunu ortadan kaldırırsa, insanlar yaşamlarında anlamı nerede bulacak? Ekonomik (evrensel temel gelir) ve felsefi boyutları ele alın.", "tk": "Esse ýazyň: Awtomatlaşdyryş işleriň köpüsini ýok etse, adamlar durmuşda manyny nireden taparlar? Ykdysady (ähliumumy esasy girdeji) we filosofik taraplaryna serediň.", "ru": "Напишите эссе: если автоматизация уничтожит большинство рабочих мест, где люди будут искать смысл жизни? Рассмотрите экономический (безусловный базовый доход) и философский аспекты." },
+      "taskEn": "Write an essay: If automation eliminates most jobs, where will people find meaning in their lives? Address both the economic dimension (e.g. universal basic income) and the philosophical one.",
+      "minWords": 260,
+      "hints": ["For centuries, work has been not merely a source of income but...", "Proponents of universal basic income maintain that...", "Yet income alone cannot supply the sense of purpose that...", "History suggests that predictions of mass unemployment have...", "Perhaps the deeper question automation forces upon us is..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "C2", "topic": "Translation and untranslatable words", "title": "Lost in Translation",
+    "body": {
+      "task": { "tr": "Bir dilbilim bloğu için yazı yazın: \"Çevrilemeyen\" kelimeler gerçekten var mı? Kendi dillerinizden (Türkçe, Türkmence, Rusça) örnekler verin ve dil ile düşünce arasındaki ilişkiyi tartışın.", "tk": "Dil bilimi blogy üçin makala ýazyň: \"Terjime edip bolmaýan\" sözler hakykatdanam barmy? Öz dilleriňizden (türk, türkmen, rus) mysallar getiriň we dil bilen pikiriň arasyndaky baglanyşygy ara alyp maslahatlaşyň.", "ru": "Напишите статью для лингвистического блога: действительно ли существуют «непереводимые» слова? Приведите примеры из своих языков (турецкий, туркменский, русский) и обсудите связь языка и мышления." },
+      "taskEn": "Write a post for a linguistics blog: Do 'untranslatable' words really exist? Give examples from languages you know (Turkish, Turkmen, Russian) and discuss the relationship between language and thought.",
+      "minWords": 260,
+      "hints": ["Lists of 'untranslatable' words have become a staple of...", "Take the Russian word 'тоска', which...", "To say a word cannot be translated is not to say its meaning cannot be...", "The strong version of linguistic relativity has largely been discredited; however,...", "What such words reveal, in the end, is less... than..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "C2", "topic": "The role of museums in returning artefacts", "title": "Should Museums Return Their Treasures?",
+    "body": {
+      "task": { "tr": "Bir deneme yazın: Büyük Batı müzeleri sömürge döneminde alınan eserleri kökenlerindeki ülkelere iade etmeli mi? Tarihsel adalet, koruma ve evrensel miras argümanlarını değerlendirin.", "tk": "Esse ýazyň: Uly Günbatar muzeýleri kolonial döwürde alnan eserleri gelip çykan ýurtlaryna gaýtaryp bermelimi? Taryhy adalat, goramak we ähliumumy miras baradaky delillere baha beriň.", "ru": "Напишите эссе: должны ли крупные западные музеи вернуть странам происхождения артефакты, вывезенные в колониальную эпоху? Оцените аргументы исторической справедливости, сохранности и всемирного наследия." },
+      "taskEn": "Write an essay: Should major Western museums return artefacts taken during the colonial era to their countries of origin? Evaluate arguments about historical justice, preservation and universal heritage.",
+      "minWords": 260,
+      "hints": ["The debate over the Benin Bronzes has thrown into sharp relief...", "The 'universal museum' argument holds that...", "Such reasoning, however, conveniently overlooks the circumstances under which...", "Concerns about preservation, once persuasive, now ring hollow given...", "Restitution need not mean empty galleries; rather,..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "C2", "topic": "Speech on the value of the humanities", "title": "In Defence of the Humanities",
+    "body": {
+      "task": { "tr": "Bir mezuniyet töreni için konuşma metni yazın: Teknoloji çağında beşerî bilimler (edebiyat, tarih, felsefe) neden hâlâ önemli? İkna edici retorik araçlar kullanın (soru, tekrar, anekdot).", "tk": "Uçurymlar dabarasy üçin çykyş tekstini ýazyň: Tehnologiýa döwründe ynsanperwer ylymlar (edebiýat, taryh, filosofiýa) näme üçin henizem möhüm? Ynandyryjy ritoriki serişdeleri ulanyň (sorag, gaýtalama, wakaly gürrüň).", "ru": "Напишите речь для выпускной церемонии: почему гуманитарные науки (литература, история, философия) всё ещё важны в эпоху технологий? Используйте риторические приёмы (вопросы, повтор, анекдот)." },
+      "taskEn": "Write a speech for a graduation ceremony: Why do the humanities (literature, history, philosophy) still matter in an age of technology? Use persuasive rhetorical devices such as questions, repetition and anecdote.",
+      "minWords": 260,
+      "hints": ["Graduates, you have been told that the future belongs to code. Perhaps it does. But...", "What does it profit a society to build ever smarter machines if...", "When I was your age, a single novel taught me more about... than...", "History does not repeat itself, but it does...", "So go out and build — but never stop asking why."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "TOEFL", "topic": "Academic discussion: online vs in-person classes", "title": "Academic Discussion: Online or In-Person?",
+    "body": {
+      "task": { "tr": "TOEFL Akademik Tartışma görevi. Profesör soruyor: \"Üniversiteler derslerin çoğunu çevrim içi mi vermeli yoksa yüz yüze mi?\" İki öğrenci farklı görüş bildirdi. Kendi görüşünüzü belirtin ve tartışmaya yeni bir fikir katın (10 dakika).", "tk": "TOEFL Akademiki ara alyp maslahatlaşma ýumuşy. Professor soraýar: \"Uniwersitetler sapaklaryň köpüsini onlaýn geçirmelimi ýa-da ýüzbe-ýüz?\" Iki talyp dürli pikirlerini aýtdylar. Öz pikiriňizi aýdyň we ara alyp maslahatlaşma täze pikir goşuň (10 minut).", "ru": "Задание TOEFL Academic Discussion. Профессор спрашивает: «Должны ли университеты проводить большинство занятий онлайн или очно?» Два студента высказали разные мнения. Выразите свою позицию и добавьте в дискуссию новую мысль (10 минут)." },
+      "taskEn": "TOEFL Academic Discussion. Professor: \"Should universities offer most of their courses online or in person?\" Student A (Maya): \"Online courses let students work and study at the same time.\" Student B (Daniel): \"Face-to-face classes build stronger relationships with professors.\" State your opinion and contribute a new idea to the discussion.",
+      "minWords": 100,
+      "hints": ["I see why Maya values flexibility, but I'd argue that...", "One point that hasn't been mentioned yet is...", "For instance, in laboratory-based subjects like chemistry,...", "Daniel's point is valid; however,...", "Therefore, I believe a combination of... would be the most effective."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "TOEFL", "topic": "Academic discussion: should cities ban cars", "title": "Academic Discussion: Car-Free City Centres",
+    "body": {
+      "task": { "tr": "TOEFL Akademik Tartışma görevi. Profesör soruyor: \"Büyük şehirler merkezlerinde özel otomobilleri yasaklamalı mı?\" Diğer öğrencilerin görüşlerini dikkate alarak kendi görüşünüzü yazın ve yeni bir argüman ekleyin.", "tk": "TOEFL Akademiki ara alyp maslahatlaşma ýumuşy. Professor soraýar: \"Uly şäherler öz merkezlerinde hususy awtoulaglary gadagan etmelimi?\" Beýleki talyplaryň pikirlerini göz öňünde tutup, öz pikiriňizi ýazyň we täze delil goşuň.", "ru": "Задание TOEFL Academic Discussion. Профессор спрашивает: «Должны ли крупные города запретить частные автомобили в центре?» Учитывая мнения других студентов, напишите свою позицию и добавьте новый аргумент." },
+      "taskEn": "TOEFL Academic Discussion. Professor: \"Should large cities ban private cars from their centres?\" Student A (Lena): \"Yes — it would dramatically reduce air pollution.\" Student B (Omar): \"No — it would hurt small businesses that depend on customers who drive.\" State your opinion and add a new argument.",
+      "minWords": 100,
+      "hints": ["While Lena focuses on pollution, I think an equally important factor is...", "Omar raises a fair concern, but evidence from... suggests...", "Another benefit that no one has mentioned is...", "Of course, such a ban would only work if...", "In my view, the advantages clearly outweigh..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "TOEFL", "topic": "Academic discussion: grades and motivation", "title": "Academic Discussion: Do Grades Motivate?",
+    "body": {
+      "task": { "tr": "TOEFL Akademik Tartışma görevi. Profesör soruyor: \"Notlar öğrencileri öğrenmeye motive eder mi, yoksa sadece not almaya mı?\" Görüşünüzü örneklerle destekleyin ve tartışmaya katkı sağlayın.", "tk": "TOEFL Akademiki ara alyp maslahatlaşma ýumuşy. Professor soraýar: \"Bahalar talyplary öwrenmäge höweslendirýärmi ýa-da diňe baha almaga?\" Pikiriňizi mysallar bilen goldaň we ara alyp maslahatlaşma goşant goşuň.", "ru": "Задание TOEFL Academic Discussion. Профессор спрашивает: «Мотивируют ли оценки студентов учиться — или только получать оценки?» Подкрепите своё мнение примерами и внесите вклад в дискуссию." },
+      "taskEn": "TOEFL Academic Discussion. Professor: \"Do grades motivate students to learn, or only to get good grades?\" Student A (Kenji): \"Grades give clear goals and keep students working.\" Student B (Sara): \"Grades make students memorise instead of understand.\" State your opinion and contribute to the discussion.",
+      "minWords": 100,
+      "hints": ["Both Kenji and Sara make valid points, but I lean towards...", "From my own experience, when a course was pass/fail,...", "A factor neither of them considered is the role of feedback:...", "Grades can be useful as long as...", "Ultimately, I believe that..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "TOEFL", "topic": "Integrated writing: the four-day work week", "title": "Integrated Writing: The Four-Day Week",
+    "body": {
+      "task": { "tr": "TOEFL Entegre Yazma görevi. Okuma parçası dört günlük çalışma haftasının verimliliği artırdığını savunuyor; dinleme kısmında ise bir profesör bu iddialara itiraz ediyor. Profesörün argümanlarının okuma parçasındaki noktalara nasıl karşı çıktığını özetleyin. Kendi görüşünüzü yazmayın.", "tk": "TOEFL Integrirlenen ýazuw ýumuşy. Okalýan tekst dört günlük iş hepdesiniň öndürijiligi ýokarlandyrýandygyny öňe sürýär; diňleme böleginde bolsa bir professor bu pikirlere garşy çykýar. Professoryň delilleriniň okalýan tekstdäki nokatlara nähili garşy çykýandygyny gysgaça beýan ediň. Öz pikiriňizi ýazmaň.", "ru": "Задание TOEFL Integrated Writing. В тексте утверждается, что четырёхдневная рабочая неделя повышает производительность; в лекции профессор оспаривает эти утверждения. Кратко изложите, как аргументы профессора опровергают пункты текста. Не пишите своё мнение." },
+      "taskEn": "TOEFL Integrated Writing. READING: A four-day week (1) raises productivity because rested workers focus better, (2) cuts costs such as electricity, and (3) helps companies attract talent. LECTURE: The professor argues that (1) productivity gains in trials faded after a year, (2) savings were offset by overtime and customer-service gaps, and (3) once many firms adopt it, it no longer gives an advantage in hiring. Summarise how the lecture challenges each point in the reading.",
+      "minWords": 150,
+      "hints": ["The reading claims that...; however, the professor casts doubt on this by...", "First, regarding productivity, the lecturer points out that...", "Second, the professor challenges the claim about costs, explaining that...", "Finally, the reading's argument about attracting talent is undermined because...", "In short, the lecture suggests that the benefits are..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "TOEFL", "topic": "Integrated writing: the decline of honeybees", "title": "Integrated Writing: Why Are Bees Disappearing?",
+    "body": {
+      "task": { "tr": "TOEFL Entegre Yazma görevi. Okuma parçası arı nüfusundaki azalma için üç açıklama sunuyor; profesör her birini zayıflatıyor. Dersin okuma parçasıyla nasıl çeliştiğini özetleyin.", "tk": "TOEFL Integrirlenen ýazuw ýumuşy. Okalýan tekst arylaryň sanynyň azalmagy üçin üç düşündiriş berýär; professor olaryň hersini gowşadýar. Leksiýanyň okalýan tekst bilen nähili gapma-garşy gelýändigini gysgaça beýan ediň.", "ru": "Задание TOEFL Integrated Writing. В тексте предложены три объяснения сокращения популяции пчёл; профессор опровергает каждое. Кратко изложите, как лекция противоречит тексту." },
+      "taskEn": "TOEFL Integrated Writing. READING: Honeybee decline is caused by (1) mobile-phone radiation, (2) a single new pesticide, and (3) cold winters. LECTURE: The professor says (1) bees decline equally in areas without phone coverage, (2) colonies also collapse where that pesticide is banned, and (3) losses are high in warm regions too; she proposes a combination of parasites and poor nutrition. Summarise how the lecture challenges the reading.",
+      "minWords": 150,
+      "hints": ["The reading presents three possible causes of..., but the lecturer rejects all of them.", "To begin with, the idea that... is contradicted by the fact that...", "Similarly, the professor argues that the pesticide theory...", "As for cold winters, she notes that...", "Instead, the lecturer suggests that..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "TOEFL", "topic": "Academic discussion: space exploration funding", "title": "Academic Discussion: Is Space Worth the Money?",
+    "body": {
+      "task": { "tr": "TOEFL Akademik Tartışma görevi. Profesör soruyor: \"Hükümetler uzay araştırmalarına para harcamalı mı, yoksa bu para dünyadaki sorunlara mı gitmeli?\" Görüşünüzü yazın ve tartışmaya yeni bir bakış açısı ekleyin.", "tk": "TOEFL Akademiki ara alyp maslahatlaşma ýumuşy. Professor soraýar: \"Hökümetler kosmos barlaglaryna pul sarp etmelimi ýa-da bu pul Ýerdäki meselelere gönükdirilmelimi?\" Pikiriňizi ýazyň we ara alyp maslahatlaşma täze garaýyş goşuň.", "ru": "Задание TOEFL Academic Discussion. Профессор спрашивает: «Должны ли правительства тратить деньги на освоение космоса или направлять их на решение земных проблем?» Напишите своё мнение и добавьте новую точку зрения." },
+      "taskEn": "TOEFL Academic Discussion. Professor: \"Should governments spend money on space exploration, or should that money go to problems on Earth?\" Student A (Priya): \"Space research has given us satellites that help predict storms.\" Student B (Lucas): \"We should fix hunger and poverty first.\" State your opinion and add a new perspective.",
+      "minWords": 100,
+      "hints": ["I understand Lucas's concern, but I would point out that...", "Priya mentions satellites; another example is...", "What's often overlooked is that space budgets are actually...", "That said, governments should ensure that...", "For these reasons, I support..."]
+    }
+  }
+]

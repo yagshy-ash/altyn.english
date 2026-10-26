@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Present Perfect Progressive: Negations in Present Perfect Progressive",
+    "title": "Present Perfect Progressive: Negative Sentences",
+    "body": {
+      "explanation": {
+        "tr": "Present Perfect Progressive, geçmişte başlayıp şimdiye kadar süren (veya yeni biten) eylemlerin SÜRESİNİ vurgular.\nOlumsuz biçim:\n• haven't / hasn't + been + fiil-ing\n  I haven't been sleeping well lately. (Son zamanlarda iyi uyuyamıyorum.)\n  She hasn't been working here for long.\n• I/you/we/they → haven't been, he/she/it → hasn't been\n• Sık kullanılanlar: lately, recently, for, since",
+        "tk": "Present Perfect Progressive geçmişde başlap, häzire çenli dowam edýän (ýa-da ýaňy gutaran) hereketleriň DOWAMLYLYGYNY nygtaýar.\nÝokluk görnüşi:\n• haven't / hasn't + been + işlik-ing\n  I haven't been sleeping well lately. (Soňky wagtlar gowy ýatyp bilemok.)\n  She hasn't been working here for long.\n• I/you/we/they → haven't been, he/she/it → hasn't been\n• Köp ulanylýanlar: lately, recently, for, since",
+        "ru": "Present Perfect Progressive подчёркивает ДЛИТЕЛЬНОСТЬ действия, начавшегося в прошлом и продолжающегося до сих пор (или только что закончившегося).\nОтрицание:\n• haven't / hasn't + been + глагол-ing\n  I haven't been sleeping well lately. (В последнее время я плохо сплю.)\n  She hasn't been working here for long.\n• I/you/we/they → haven't been, he/she/it → hasn't been\n• Часто с: lately, recently, for, since"
+      },
+      "examples": [
+        { "en": "I haven't been sleeping well lately.", "tr": "Son zamanlarda iyi uyuyamıyorum.", "tk": "Soňky wagtlar gowy ýatyp bilemok.", "ru": "В последнее время я плохо сплю." },
+        { "en": "She hasn't been working here for long.", "tr": "Burada uzun süredir çalışmıyor.", "tk": "Ol bu ýerde köpden bäri işlänok.", "ru": "Она работает здесь недавно." },
+        { "en": "We haven't been waiting long.", "tr": "Uzun süredir beklemiyoruz.", "tk": "Biz uzak garaşamzok.", "ru": "Мы ждём недолго." },
+        { "en": "He hasn't been feeling well since Monday.", "tr": "Pazartesiden beri kendini iyi hissetmiyor.", "tk": "Ol duşenbeden bäri özüni gowy duýanok.", "ru": "С понедельника он неважно себя чувствует." },
+        { "en": "They haven't been studying enough.", "tr": "Yeterince ders çalışmıyorlar.", "tk": "Olar ýeterlik okamaýarlar.", "ru": "Они недостаточно занимаются." },
+        { "en": "It hasn't been raining for a week.", "tr": "Bir haftadır yağmur yağmıyor.", "tk": "Bir hepdeden bäri ýagyş ýagmaýar.", "ru": "Уже неделю нет дождя." }
+      ],
+      "exercises": [
+        { "question": "I ___ been eating much sugar recently.", "options": ["haven't", "hasn't", "didn't", "am not"], "answer": 0, "explanation": { "tr": "I → haven't been.", "tk": "I → haven't been.", "ru": "I → haven't been." } },
+        { "question": "She ___ been feeling well.", "options": ["haven't", "hasn't", "isn't", "didn't"], "answer": 1, "explanation": { "tr": "she → hasn't been.", "tk": "she → hasn't been.", "ru": "she → hasn't been." } },
+        { "question": "They haven't been ___ long.", "options": ["wait", "waited", "waiting", "waits"], "answer": 2, "explanation": { "tr": "been + -ing.", "tk": "been + -ing.", "ru": "been + -ing." } },
+        { "question": "He hasn't ___ working out lately.", "options": ["be", "been", "being", "was"], "answer": 1, "explanation": { "tr": "hasn't + been + -ing.", "tk": "hasn't + been + -ing.", "ru": "hasn't + been + -ing." } },
+        { "question": "We ___ been watching TV. We've been reading.", "options": ["haven't", "hasn't", "weren't", "don't"], "answer": 0, "explanation": { "tr": "we → haven't been.", "tk": "we → haven't been.", "ru": "we → haven't been." } },
+        { "question": "Make it negative: \"It has been snowing.\"", "options": ["It hasn't been snowing.", "It haven't been snowing.", "It hasn't snowing.", "It isn't been snowing."], "answer": 0, "explanation": { "tr": "hasn't been + -ing.", "tk": "hasn't been + -ing.", "ru": "hasn't been + -ing." } },
+        { "question": "My parents ___ been travelling this year.", "options": ["hasn't", "haven't", "didn't", "aren't"], "answer": 1, "explanation": { "tr": "parents → haven't.", "tk": "parents → haven't.", "ru": "parents → haven't." } },
+        { "question": "Choose the correct sentence.", "options": ["I haven't been sleep well.", "I haven't been sleeping well.", "I hasn't been sleeping well.", "I haven't being sleeping well."], "answer": 1, "explanation": { "tr": "haven't been + sleeping.", "tk": "haven't been + sleeping.", "ru": "haven't been + sleeping." } },
+        { "question": "Tom ___ been coming to class recently.", "options": ["haven't", "hasn't", "isn't", "wasn't"], "answer": 1, "explanation": { "tr": "Tom → hasn't.", "tk": "Tom → hasn't.", "ru": "Tom → hasn't." } },
+        { "question": "Find the mistake: \"She hasn't been work hard.\"", "options": ["She", "hasn't been", "work", "hard"], "answer": 2, "explanation": { "tr": "work → working.", "tk": "work → working.", "ru": "work → working." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Present Perfect Progressive: Present Perfect Progressive – Statements",
+    "title": "Present Perfect Progressive: Positive Statements",
+    "body": {
+      "explanation": {
+        "tr": "Present Perfect Progressive: have/has + been + fiil-ing\n• I have been learning English for three years. (Üç yıldır İngilizce öğreniyorum — hâlâ devam ediyor.)\n• She has been waiting since 9 o'clock.\n• Yeni bitmiş ve izi görülen eylem: You're out of breath. Have you been running?\n• for + süre (for two hours), since + başlangıç (since Monday)\n• Kısaltma: I've been, she's been.",
+        "tk": "Present Perfect Progressive: have/has + been + işlik-ing\n• I have been learning English for three years. (Üç ýyldan bäri iňlis dilini öwrenýärin — henizem dowam edýär.)\n• She has been waiting since 9 o'clock.\n• Ýaňy gutaran we yzy görünýän hereket: You're out of breath. Have you been running?\n• for + dowamlylyk (for two hours), since + başlangyç (since Monday)\n• Gysgaltma: I've been, she's been.",
+        "ru": "Present Perfect Progressive: have/has + been + глагол-ing\n• I have been learning English for three years. (Учу английский три года — и продолжаю.)\n• She has been waiting since 9 o'clock.\n• Только что закончившееся действие с видимым результатом: You're out of breath. Have you been running?\n• for + период (for two hours), since + начало (since Monday)\n• Сокращения: I've been, she's been."
+      },
+      "examples": [
+        { "en": "I have been learning English for three years.", "tr": "Üç yıldır İngilizce öğreniyorum.", "tk": "Üç ýyldan bäri iňlis dilini öwrenýärin.", "ru": "Я учу английский три года." },
+        { "en": "She has been waiting since 9 o'clock.", "tr": "Saat 9'dan beri bekliyor.", "tk": "Ol sagat 9-dan bäri garaşýar.", "ru": "Она ждёт с девяти часов." },
+        { "en": "It has been raining all day.", "tr": "Bütün gün yağmur yağıyor.", "tk": "Bütin gün ýagyş ýagýar.", "ru": "Весь день идёт дождь." },
+        { "en": "We've been living here since 2015.", "tr": "2015'ten beri burada yaşıyoruz.", "tk": "Biz 2015-nji ýyldan bäri şu ýerde ýaşaýarys.", "ru": "Мы живём здесь с 2015 года." },
+        { "en": "Your eyes are red. Have you been crying?", "tr": "Gözlerin kırmızı. Ağlıyor muydun?", "tk": "Gözleriň gyzaryp dur. Agladyňmy?", "ru": "У тебя красные глаза. Ты плакал?" },
+        { "en": "He's been playing computer games for hours.", "tr": "Saatlerdir bilgisayar oyunu oynuyor.", "tk": "Ol birnäçe sagatdan bäri kompýuter oýunlaryny oýnaýar.", "ru": "Он уже несколько часов играет в компьютерные игры." }
+      ],
+      "exercises": [
+        { "question": "I ___ been working here for five years.", "options": ["have", "has", "am", "had"], "answer": 0, "explanation": { "tr": "I → have been.", "tk": "I → have been.", "ru": "I → have been." } },
+        { "question": "She ___ been studying all morning.", "options": ["have", "has", "is", "was"], "answer": 1, "explanation": { "tr": "she → has been.", "tk": "she → has been.", "ru": "she → has been." } },
+        { "question": "They have been ___ since 10 am.", "options": ["play", "played", "playing", "plays"], "answer": 2, "explanation": { "tr": "been + -ing.", "tk": "been + -ing.", "ru": "been + -ing." } },
+        { "question": "We have been waiting ___ two hours.", "options": ["since", "for", "ago", "from"], "answer": 1, "explanation": { "tr": "Süre → for.", "tk": "Dowamlylyk → for.", "ru": "Период → for." } },
+        { "question": "It has been snowing ___ Monday.", "options": ["for", "since", "ago", "during"], "answer": 1, "explanation": { "tr": "Başlangıç → since.", "tk": "Başlangyç → since.", "ru": "Начало → since." } },
+        { "question": "You're hot and tired. You ___ running.", "options": ["have been", "has been", "are been", "were been"], "answer": 0, "explanation": { "tr": "İzi görülen eylem → have been running.", "tk": "Yzy görünýän hereket → have been running.", "ru": "Видимый результат → have been running." } },
+        { "question": "My dad ___ cooking for three hours.", "options": ["has been", "have been", "is been", "had being"], "answer": 0, "explanation": { "tr": "dad → has been.", "tk": "dad → has been.", "ru": "dad → has been." } },
+        { "question": "Choose the correct sentence.", "options": ["I've been learn Chinese.", "I've been learning Chinese.", "I've being learning Chinese.", "I've learning Chinese."], "answer": 1, "explanation": { "tr": "have been + -ing.", "tk": "have been + -ing.", "ru": "have been + -ing." } },
+        { "question": "They ___ living in Mary since 2020.", "options": ["has been", "have been", "are being", "were"], "answer": 1, "explanation": { "tr": "they → have been.", "tk": "they → have been.", "ru": "they → have been." } },
+        { "question": "Find the mistake: \"He has been sleep for ten hours.\"", "options": ["He has", "been", "sleep", "for ten hours"], "answer": 2, "explanation": { "tr": "sleep → sleeping.", "tk": "sleep → sleeping.", "ru": "sleep → sleeping." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Present Perfect Progressive: Sentences and questions in the Present Perfect Progressive",
+    "title": "Present Perfect Progressive: Statements and Questions",
+    "body": {
+      "explanation": {
+        "tr": "Present Perfect Progressive'de soru:\n• Have/Has + özne + been + fiil-ing?\n  Have you been waiting long? Has it been raining?\n• How long ile süre sorma (en yaygın kullanım):\n  How long have you been learning English? – For two years.\n• Kısa cevap: Yes, I have. / No, she hasn't.\n• What have you been doing? (Ne yapıyordun? / Neyle meşguldün?)",
+        "tk": "Present Perfect Progressive-de sorag:\n• Have/Has + eýe + been + işlik-ing?\n  Have you been waiting long? Has it been raining?\n• How long bilen dowamlylygy soramak (iň ýaýran ulanylyş):\n  How long have you been learning English? – For two years.\n• Gysga jogap: Yes, I have. / No, she hasn't.\n• What have you been doing? (Näme bilen meşgul bolduň?)",
+        "ru": "Вопросы в Present Perfect Progressive:\n• Have/Has + подлежащее + been + глагол-ing?\n  Have you been waiting long? Has it been raining?\n• How long — вопрос о длительности (самое частое употребление):\n  How long have you been learning English? – For two years.\n• Краткий ответ: Yes, I have. / No, she hasn't.\n• What have you been doing? (Чем ты занимался?)"
+      },
+      "examples": [
+        { "en": "How long have you been learning English? – For two years.", "tr": "Ne zamandır İngilizce öğreniyorsun? – İki yıldır.", "tk": "Iňlis dilini näçe wagtdan bäri öwrenýärsiň? – Iki ýyl.", "ru": "Как давно ты учишь английский? – Два года." },
+        { "en": "Have you been waiting long? – No, I haven't.", "tr": "Uzun süredir mi bekliyorsun? – Hayır.", "tk": "Köpden bäri garaşýarsyňmy? – Ýok.", "ru": "Ты давно ждёшь? – Нет." },
+        { "en": "What have you been doing all day?", "tr": "Bütün gün ne yaptın?", "tk": "Bütin gün näme bilen meşgul bolduň?", "ru": "Чем ты занимался весь день?" },
+        { "en": "Has it been raining? – Yes, it has. The streets are wet.", "tr": "Yağmur mu yağıyordu? – Evet. Sokaklar ıslak.", "tk": "Ýagyş ýagdymy? – Hawa. Köçeler öl.", "ru": "Шёл дождь? – Да. Улицы мокрые." },
+        { "en": "She has been practising the piano since lunch.", "tr": "Öğle yemeğinden beri piyano çalışıyor.", "tk": "Ol günortanlykdan bäri pianino türgenleşýär.", "ru": "С обеда она занимается на пианино." },
+        { "en": "How long has he been living in Ashgabat?", "tr": "Ne zamandır Aşkabat'ta yaşıyor?", "tk": "Ol Aşgabatda näçe wagtdan bäri ýaşaýar?", "ru": "Как давно он живёт в Ашхабаде?" }
+      ],
+      "exercises": [
+        { "question": "How long ___ you been working here?", "options": ["have", "has", "are", "did"], "answer": 0, "explanation": { "tr": "you → have.", "tk": "you → have.", "ru": "you → have." } },
+        { "question": "___ she been crying?", "options": ["Have", "Has", "Is", "Did"], "answer": 1, "explanation": { "tr": "she → Has.", "tk": "she → Has.", "ru": "she → Has." } },
+        { "question": "What have you been ___?", "options": ["do", "did", "doing", "done"], "answer": 2, "explanation": { "tr": "been + doing.", "tk": "been + doing.", "ru": "been + doing." } },
+        { "question": "\"Have you been running?\" – \"Yes, I ___.\"", "options": ["have", "am", "did", "been"], "answer": 0, "explanation": { "tr": "Yes, I have.", "tk": "Yes, I have.", "ru": "Yes, I have." } },
+        { "question": "\"Has it been snowing?\" – \"No, it ___.\"", "options": ["hasn't", "haven't", "isn't", "didn't"], "answer": 0, "explanation": { "tr": "No, it hasn't.", "tk": "No, it hasn't.", "ru": "No, it hasn't." } },
+        { "question": "They ___ (play) tennis for an hour.", "options": ["have been playing", "has been playing", "have been play", "are been playing"], "answer": 0, "explanation": { "tr": "they → have been + -ing.", "tk": "they → have been + -ing.", "ru": "they → have been + -ing." } },
+        { "question": "Put in order: (long / how / she / has / been / waiting)", "options": ["How long she has been waiting?", "How long has she been waiting?", "How has she long been waiting?", "Has how long she been waiting?"], "answer": 1, "explanation": { "tr": "How long + has + she + been + -ing.", "tk": "How long + has + she + been + -ing.", "ru": "How long + has + she + been + -ing." } },
+        { "question": "Choose the correct question.", "options": ["Have you been waited long?", "Have you been waiting long?", "Has you been waiting long?", "Are you been waiting long?"], "answer": 1, "explanation": { "tr": "Have + you + been + -ing.", "tk": "Have + you + been + -ing.", "ru": "Have + you + been + -ing." } },
+        { "question": "\"How long have you been studying?\" – \"___ three hours.\"", "options": ["Since", "For", "Ago", "From"], "answer": 1, "explanation": { "tr": "Süre → For.", "tk": "Dowamlylyk → For.", "ru": "Период → For." } },
+        { "question": "Find the mistake: \"How long has they been living here?\"", "options": ["How long", "has", "they", "been living"], "answer": 1, "explanation": { "tr": "they → have.", "tk": "they → have.", "ru": "they → have." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Tenses – Future Progressive: Future Progressive – Statements",
+    "title": "Future Progressive: will be + -ing",
+    "body": {
+      "explanation": {
+        "tr": "Future Progressive, gelecekte belli bir anda devam ediyor olacak eylemi anlatır.\n• Yapı: will be + fiil-ing (tüm öznelerde aynı)\n• This time tomorrow, I will be flying to Istanbul. (Yarın bu saatte İstanbul'a uçuyor olacağım.)\n• At 8 pm we'll be having dinner.\n• Olumsuz: won't be + fiil-ing → I won't be working on Sunday.\n• Planlı/doğal olarak olacak eylemler: I'll be seeing Ali at the meeting anyway.",
+        "tk": "Future Progressive geljekde belli bir pursatda dowam edip durjak hereketi aňladýar.\n• Gurluşy: will be + işlik-ing (ähli eýelerde birmeňzeş)\n• This time tomorrow, I will be flying to Istanbul. (Ertir şu wagt men Stambula uçup barýan bolaryn.)\n• At 8 pm we'll be having dinner.\n• Ýokluk: won't be + işlik-ing → I won't be working on Sunday.\n• Meýilleşdirilen/tebigy boljak hereketler: I'll be seeing Ali at the meeting anyway.",
+        "ru": "Future Progressive описывает действие, которое будет происходить в определённый момент в будущем.\n• Схема: will be + глагол-ing (одинаково для всех лиц)\n• This time tomorrow, I will be flying to Istanbul. (Завтра в это время я буду лететь в Стамбул.)\n• At 8 pm we'll be having dinner.\n• Отрицание: won't be + глагол-ing → I won't be working on Sunday.\n• Ожидаемые/запланированные события: I'll be seeing Ali at the meeting anyway."
+      },
+      "examples": [
+        { "en": "This time tomorrow, I will be flying to Istanbul.", "tr": "Yarın bu saatte İstanbul'a uçuyor olacağım.", "tk": "Ertir şu wagt men Stambula uçup barýan bolaryn.", "ru": "Завтра в это время я буду лететь в Стамбул." },
+        { "en": "At 8 pm we'll be having dinner.", "tr": "Saat 8'de akşam yemeği yiyor olacağız.", "tk": "Sagat 8-de biz agşamlyk edýän bolarys.", "ru": "В 8 вечера мы будем ужинать." },
+        { "en": "Don't call at 10. I'll be sleeping.", "tr": "Saat 10'da arama. Uyuyor olacağım.", "tk": "Sagat 10-da jaň etme. Men ýatan bolaryn.", "ru": "Не звони в 10. Я буду спать." },
+        { "en": "She won't be working next week.", "tr": "Gelecek hafta çalışıyor olmayacak.", "tk": "Ol indiki hepde işlemez.", "ru": "На следующей неделе она не будет работать." },
+        { "en": "In ten years, people will be driving electric cars.", "tr": "On yıl sonra insanlar elektrikli araba kullanıyor olacak.", "tk": "On ýyldan soň adamlar elektrik maşynlaryny sürýän bolarlar.", "ru": "Через десять лет люди будут ездить на электромобилях." },
+        { "en": "They will be waiting for us at the station.", "tr": "Bizi istasyonda bekliyor olacaklar.", "tk": "Olar bize wokzalda garaşýan bolarlar.", "ru": "Они будут ждать нас на вокзале." }
+      ],
+      "exercises": [
+        { "question": "This time next week, I ___ on the beach.", "options": ["will lie", "will be lying", "am lying", "lie"], "answer": 1, "explanation": { "tr": "Gelecekte belli an → will be + -ing.", "tk": "Geljekde belli pursat → will be + -ing.", "ru": "Момент в будущем → will be + -ing." } },
+        { "question": "At 9 tomorrow she ___ an exam.", "options": ["will be taking", "will taking", "will be take", "is be taking"], "answer": 0, "explanation": { "tr": "will be + taking.", "tk": "will be + taking.", "ru": "will be + taking." } },
+        { "question": "Don't visit us at 7. We ___ dinner.", "options": ["will have", "will be having", "have", "had"], "answer": 1, "explanation": { "tr": "O anda devam → will be having.", "tk": "Şol pursatda dowam → will be having.", "ru": "В процессе в тот момент → will be having." } },
+        { "question": "He ___ working tomorrow. It's his day off.", "options": ["won't be", "isn't be", "won't", "doesn't be"], "answer": 0, "explanation": { "tr": "Olumsuz: won't be + -ing.", "tk": "Ýokluk: won't be + -ing.", "ru": "Отрицание: won't be + -ing." } },
+        { "question": "They will be ___ for us at the airport.", "options": ["wait", "waited", "waiting", "waits"], "answer": 2, "explanation": { "tr": "will be + waiting.", "tk": "will be + waiting.", "ru": "will be + waiting." } },
+        { "question": "In 2050, robots ___ many jobs for us.", "options": ["will be doing", "will doing", "are doing", "do"], "answer": 0, "explanation": { "tr": "will be + doing.", "tk": "will be + doing.", "ru": "will be + doing." } },
+        { "question": "Choose the correct sentence.", "options": ["I will being studying at 8.", "I will be studying at 8.", "I will be study at 8.", "I be will studying at 8."], "answer": 1, "explanation": { "tr": "will be + -ing.", "tk": "will be + -ing.", "ru": "will be + -ing." } },
+        { "question": "Which time phrase fits the Future Progressive best?", "options": ["yesterday at 5", "this time tomorrow", "every day", "two days ago"], "answer": 1, "explanation": { "tr": "this time tomorrow → gelecekte belli an.", "tk": "this time tomorrow → geljekde belli pursat.", "ru": "this time tomorrow → момент в будущем." } },
+        { "question": "Make it negative: \"We will be travelling in June.\"", "options": ["We won't be travelling in June.", "We will not travelling in June.", "We aren't be travelling in June.", "We won't travelling in June."], "answer": 0, "explanation": { "tr": "won't be + -ing.", "tk": "won't be + -ing.", "ru": "won't be + -ing." } },
+        { "question": "Find the mistake: \"At midnight I will sleeping.\"", "options": ["At midnight", "I", "will sleeping", "There is no mistake"], "answer": 2, "explanation": { "tr": "will be sleeping olmalı.", "tk": "will be sleeping bolmaly.", "ru": "Нужно: will be sleeping." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Tenses – Future Progressive: Future Progressive – Statements and Questions",
+    "title": "Future Progressive: Statements and Questions",
+    "body": {
+      "explanation": {
+        "tr": "Future Progressive'de soru: Will + özne + be + fiil-ing?\n• Will you be working tomorrow evening?\n• Kibar soru (birinin planını sormak): Will you be using your car tonight? (Arabanı bu akşam kullanacak mısın? — ödünç istemeden önce)\n• Wh-soru: What will you be doing at this time next year?\n• Kısa cevap: Yes, I will. / No, I won't.",
+        "tk": "Future Progressive-de sorag: Will + eýe + be + işlik-ing?\n• Will you be working tomorrow evening?\n• Sypaýy sorag (biriniň meýilnamasyny soramak): Will you be using your car tonight? (Şu agşam maşynyňy ulanjakmy? — karz soramazdan öň)\n• Wh-sorag: What will you be doing at this time next year?\n• Gysga jogap: Yes, I will. / No, I won't.",
+        "ru": "Вопрос в Future Progressive: Will + подлежащее + be + глагол-ing?\n• Will you be working tomorrow evening?\n• Вежливый вопрос о планах: Will you be using your car tonight? (Ты будешь пользоваться машиной вечером? — перед тем как попросить её)\n• Специальный вопрос: What will you be doing at this time next year?\n• Краткий ответ: Yes, I will. / No, I won't."
+      },
+      "examples": [
+        { "en": "Will you be working tomorrow evening? – No, I won't.", "tr": "Yarın akşam çalışıyor olacak mısın? – Hayır.", "tk": "Ertir agşam işleýän bolarsyňmy? – Ýok.", "ru": "Ты будешь работать завтра вечером? – Нет." },
+        { "en": "Will you be using your laptop later?", "tr": "Daha sonra dizüstü bilgisayarını kullanacak mısın?", "tk": "Soňra noutbugyňy ulanjakmy?", "ru": "Ты будешь потом пользоваться ноутбуком?" },
+        { "en": "What will you be doing at this time next year?", "tr": "Seneye bu zamanlar ne yapıyor olacaksın?", "tk": "Indiki ýyl şu wagt näme edýän bolarsyň?", "ru": "Чем ты будешь заниматься в это время в следующем году?" },
+        { "en": "I'll be staying at a hotel near the beach.", "tr": "Plaja yakın bir otelde kalıyor olacağım.", "tk": "Men kenara ýakyn myhmanhanada galýan bolaryn.", "ru": "Я буду жить в отеле у пляжа." },
+        { "en": "Where will they be living after the wedding?", "tr": "Düğünden sonra nerede yaşıyor olacaklar?", "tk": "Toýdan soň olar nirede ýaşaýan bolarlar?", "ru": "Где они будут жить после свадьбы?" },
+        { "en": "Will she be coming to the meeting? – Yes, she will.", "tr": "Toplantıya gelecek mi? – Evet.", "tk": "Ol ýygnaga geljekmi? – Hawa.", "ru": "Она придёт на встречу? – Да." }
+      ],
+      "exercises": [
+        { "question": "___ you be using the car tonight?", "options": ["Will", "Are", "Do", "Have"], "answer": 0, "explanation": { "tr": "Will + özne + be + -ing.", "tk": "Will + eýe + be + -ing.", "ru": "Will + подлежащее + be + -ing." } },
+        { "question": "What will you be ___ at 10 tomorrow?", "options": ["do", "doing", "did", "done"], "answer": 1, "explanation": { "tr": "be + doing.", "tk": "be + doing.", "ru": "be + doing." } },
+        { "question": "\"Will you be travelling in July?\" – \"Yes, I ___.\"", "options": ["will", "am", "be", "do"], "answer": 0, "explanation": { "tr": "Yes, I will.", "tk": "Yes, I will.", "ru": "Yes, I will." } },
+        { "question": "\"Will they be staying long?\" – \"No, they ___.\"", "options": ["won't", "aren't", "don't", "willn't"], "answer": 0, "explanation": { "tr": "No, they won't.", "tk": "No, they won't.", "ru": "No, they won't." } },
+        { "question": "Where ___ you be living next year?", "options": ["will", "are", "do", "would"], "answer": 0, "explanation": { "tr": "Where will you be ...?", "tk": "Where will you be ...?", "ru": "Where will you be ...?" } },
+        { "question": "This time tomorrow we ___ across the desert.", "options": ["will be driving", "will drive", "are driving", "drive"], "answer": 0, "explanation": { "tr": "Belli an → will be driving.", "tk": "Belli pursat → will be driving.", "ru": "Момент → will be driving." } },
+        { "question": "Put in order: (be / will / she / waiting / ?)", "options": ["Will she be waiting?", "Will be she waiting?", "She will be waiting?", "Be will she waiting?"], "answer": 0, "explanation": { "tr": "Will + she + be + -ing.", "tk": "Will + she + be + -ing.", "ru": "Will + she + be + -ing." } },
+        { "question": "Choose the polite question.", "options": ["Give me your phone!", "Will you be using your phone? Can I borrow it?", "You use phone?", "Phone, now!"], "answer": 1, "explanation": { "tr": "Kibar soru: Will you be using ...?", "tk": "Sypaýy sorag: Will you be using ...?", "ru": "Вежливо: Will you be using ...?" } },
+        { "question": "\"Will Ali be playing tomorrow?\" – \"No, he ___. He's injured.\"", "options": ["won't", "isn't", "doesn't", "will"], "answer": 0, "explanation": { "tr": "No, he won't.", "tk": "No, he won't.", "ru": "No, he won't." } },
+        { "question": "Find the mistake: \"Will you being working on Saturday?\"", "options": ["Will you", "being", "working", "on Saturday"], "answer": 1, "explanation": { "tr": "being → be.", "tk": "being → be.", "ru": "being → be." } }
+      ]
+    }
+  }
+]

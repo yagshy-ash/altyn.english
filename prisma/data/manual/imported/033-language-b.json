@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Language, Proverbs: Find the correct synonyms",
+    "title": "Synonyms: Words with the Same Meaning",
+    "body": {
+      "explanation": {
+        "tr": "Eş anlamlı kelimeler (synonyms) aynı ya da çok yakın anlama gelir. Yazarken tekrarı önlemek için çok kullanışlıdır.\n• big = large, huge (çok büyük)\n• small = little, tiny (çok küçük)\n• happy = glad, cheerful\n• sad = unhappy\n• begin = start\n• finish = end\n• quick = fast\n• smart = clever, intelligent\n• difficult = hard\n• look for = search for\nDikkat: eş anlamlılar her zaman birbirinin yerine kullanılamaz: a big brother (ağabey) ≠ a large brother.",
+        "tk": "Manydaş sözler (synonyms) birmeňzeş ýa-da örän ýakyn manyny berýär. Ýazanyňda gaýtalanmazlyk üçin örän peýdaly.\n• big = large, huge (örän uly)\n• small = little, tiny (örän kiçi)\n• happy = glad, cheerful\n• sad = unhappy\n• begin = start\n• finish = end\n• quick = fast\n• smart = clever, intelligent\n• difficult = hard\n• look for = search for\nÜns beriň: manydaşlar hemişe biri-biriniň ýerine ulanylyp bilinmeýär: a big brother (uly dogan) ≠ a large brother.",
+        "ru": "Синонимы — слова с одинаковым или очень близким значением. Они помогают избежать повторов.\n• big = large, huge (огромный)\n• small = little, tiny (крошечный)\n• happy = glad, cheerful\n• sad = unhappy\n• begin = start\n• finish = end\n• quick = fast\n• smart = clever, intelligent\n• difficult = hard\n• look for = search for\nВнимание: синонимы не всегда взаимозаменяемы: a big brother (старший брат) ≠ a large brother."
+      },
+      "examples": [
+        { "en": "They live in a large house.", "tr": "Büyük bir evde yaşıyorlar.", "tk": "Olar uly jaýda ýaşaýarlar.", "ru": "Они живут в большом доме." },
+        { "en": "The lesson starts at nine.", "tr": "Ders dokuzda başlıyor.", "tk": "Sapak dokuzda başlanýar.", "ru": "Урок начинается в девять." },
+        { "en": "She is a very clever girl.", "tr": "Çok zeki bir kız.", "tk": "Ol örän akylly gyz.", "ru": "Она очень умная девочка." },
+        { "en": "I'm glad to see you.", "tr": "Seni gördüğüme sevindim.", "tk": "Seni görenime begendim.", "ru": "Рад тебя видеть." },
+        { "en": "This exercise is hard.", "tr": "Bu alıştırma zor.", "tk": "Bu gönükme kyn.", "ru": "Это упражнение трудное." },
+        { "en": "A mouse is a tiny animal.", "tr": "Fare çok küçük bir hayvandır.", "tk": "Syçan örän kiçijik haýwan.", "ru": "Мышь — крошечное животное." }
+      ],
+      "exercises": [
+        { "question": "Synonym of \"big\":", "options": ["small", "large", "short", "thin"], "answer": 1, "explanation": { "tr": "big = large.", "tk": "big = large.", "ru": "big = large." } },
+        { "question": "Synonym of \"begin\":", "options": ["finish", "stop", "start", "end"], "answer": 2, "explanation": { "tr": "begin = start.", "tk": "begin = start.", "ru": "begin = start." } },
+        { "question": "Synonym of \"quick\":", "options": ["slow", "fast", "late", "lazy"], "answer": 1, "explanation": { "tr": "quick = fast.", "tk": "quick = fast.", "ru": "quick = fast." } },
+        { "question": "Synonym of \"difficult\":", "options": ["easy", "hard", "soft", "simple"], "answer": 1, "explanation": { "tr": "difficult = hard.", "tk": "difficult = hard.", "ru": "difficult = hard." } },
+        { "question": "Synonym of \"intelligent\":", "options": ["clever", "stupid", "lazy", "tired"], "answer": 0, "explanation": { "tr": "intelligent = clever.", "tk": "intelligent = clever.", "ru": "intelligent = clever." } },
+        { "question": "Synonym of \"sad\":", "options": ["happy", "unhappy", "angry", "funny"], "answer": 1, "explanation": { "tr": "sad = unhappy.", "tk": "sad = unhappy.", "ru": "sad = unhappy." } },
+        { "question": "Synonym of \"finish\":", "options": ["start", "end", "begin", "open"], "answer": 1, "explanation": { "tr": "finish = end.", "tk": "finish = end.", "ru": "finish = end." } },
+        { "question": "Synonym of \"tiny\":", "options": ["huge", "very small", "very tall", "very old"], "answer": 1, "explanation": { "tr": "tiny = çok küçük.", "tk": "tiny = örän kiçi.", "ru": "tiny = крошечный." } },
+        { "question": "Synonym of \"look for\":", "options": ["search for", "look at", "look after", "watch"], "answer": 0, "explanation": { "tr": "look for = search for.", "tk": "look for = search for.", "ru": "look for = search for." } },
+        { "question": "Synonym of \"glad\":", "options": ["sad", "happy", "bored", "scared"], "answer": 1, "explanation": { "tr": "glad = happy.", "tk": "glad = happy.", "ru": "glad = happy." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Language, Proverbs: Headwords in English",
+    "title": "Headwords: Words and Their Groups",
+    "body": {
+      "explanation": {
+        "tr": "Headword (üst kavram), bir grup kelimeyi kapsayan genel kelimedir. Kelimeleri gruplamak hatırlamayı kolaylaştırır.\n• fruit: apple, banana, grape, melon\n• vegetables: carrot, potato, onion, cucumber\n• animals: dog, horse, camel, sheep\n• furniture: table, chair, sofa, wardrobe\n• clothes: shirt, dress, jacket, trousers\n• colours: red, blue, green, yellow\n• jobs: teacher, doctor, driver, farmer\n• transport: bus, train, plane, bicycle\n• weather: rain, snow, wind, sun",
+        "tk": "Headword (umumy düşünje) bir topar sözi öz içine alýan umumy söz. Sözleri toparlamak ýatda saklamagy aňsatlaşdyrýar.\n• fruit: apple, banana, grape, melon\n• vegetables: carrot, potato, onion, cucumber\n• animals: dog, horse, camel, sheep\n• furniture: table, chair, sofa, wardrobe\n• clothes: shirt, dress, jacket, trousers\n• colours: red, blue, green, yellow\n• jobs: teacher, doctor, driver, farmer\n• transport: bus, train, plane, bicycle\n• weather: rain, snow, wind, sun",
+        "ru": "Headword (обобщающее слово) объединяет группу слов. Группировка помогает лучше запоминать.\n• fruit: apple, banana, grape, melon\n• vegetables: carrot, potato, onion, cucumber\n• animals: dog, horse, camel, sheep\n• furniture: table, chair, sofa, wardrobe\n• clothes: shirt, dress, jacket, trousers\n• colours: red, blue, green, yellow\n• jobs: teacher, doctor, driver, farmer\n• transport: bus, train, plane, bicycle\n• weather: rain, snow, wind, sun"
+      },
+      "examples": [
+        { "en": "Apples and grapes are fruit.", "tr": "Elma ve üzüm meyvedir.", "tk": "Alma we üzüm miwe.", "ru": "Яблоки и виноград — это фрукты." },
+        { "en": "A camel is an animal.", "tr": "Deve bir hayvandır.", "tk": "Düýe haýwan.", "ru": "Верблюд — животное." },
+        { "en": "We need new furniture: a sofa and two chairs.", "tr": "Yeni mobilyaya ihtiyacımız var: bir kanepe ve iki sandalye.", "tk": "Bize täze mebel gerek: bir diwan we iki oturgyç.", "ru": "Нам нужна новая мебель: диван и два стула." },
+        { "en": "A doctor and a teacher are jobs.", "tr": "Doktorluk ve öğretmenlik meslektir.", "tk": "Lukman we mugallym — hünärler.", "ru": "Врач и учитель — это профессии." },
+        { "en": "Buses and trains are kinds of transport.", "tr": "Otobüs ve tren ulaşım türleridir.", "tk": "Awtobus we otly ulag görnüşleri.", "ru": "Автобусы и поезда — виды транспорта." },
+        { "en": "Rain and snow are types of weather.", "tr": "Yağmur ve kar hava olaylarıdır.", "tk": "Ýagyş we gar howa hadysalary.", "ru": "Дождь и снег — это погодные явления." }
+      ],
+      "exercises": [
+        { "question": "carrot, potato, onion → headword:", "options": ["fruit", "vegetables", "animals", "furniture"], "answer": 1, "explanation": { "tr": "Sebzeler.", "tk": "Gök önümler.", "ru": "Овощи." } },
+        { "question": "shirt, dress, jacket → headword:", "options": ["clothes", "colours", "jobs", "weather"], "answer": 0, "explanation": { "tr": "Giysiler.", "tk": "Eşikler.", "ru": "Одежда." } },
+        { "question": "table, sofa, wardrobe → headword:", "options": ["transport", "furniture", "fruit", "animals"], "answer": 1, "explanation": { "tr": "Mobilya.", "tk": "Mebel.", "ru": "Мебель." } },
+        { "question": "bus, plane, bicycle → headword:", "options": ["transport", "jobs", "weather", "clothes"], "answer": 0, "explanation": { "tr": "Ulaşım.", "tk": "Ulag.", "ru": "Транспорт." } },
+        { "question": "Which word does NOT belong to \"fruit\"?", "options": ["melon", "banana", "cucumber", "grape"], "answer": 2, "explanation": { "tr": "cucumber = sebze.", "tk": "cucumber = gök önüm.", "ru": "cucumber — овощ." } },
+        { "question": "Which word does NOT belong to \"animals\"?", "options": ["horse", "sheep", "camel", "chair"], "answer": 3, "explanation": { "tr": "chair = mobilya.", "tk": "chair = mebel.", "ru": "chair — мебель." } },
+        { "question": "teacher, farmer, driver → headword:", "options": ["jobs", "people", "furniture", "colours"], "answer": 0, "explanation": { "tr": "Meslekler.", "tk": "Hünärler.", "ru": "Профессии." } },
+        { "question": "rain, wind, snow → headword:", "options": ["seasons", "weather", "transport", "food"], "answer": 1, "explanation": { "tr": "Hava durumu.", "tk": "Howa.", "ru": "Погода." } },
+        { "question": "Which word belongs to \"colours\"?", "options": ["grape", "purple", "plane", "jacket"], "answer": 1, "explanation": { "tr": "purple = mor.", "tk": "purple = gyrmyzy-gök.", "ru": "purple = фиолетовый." } },
+        { "question": "Which word does NOT belong to \"clothes\"?", "options": ["trousers", "skirt", "sofa", "coat"], "answer": 2, "explanation": { "tr": "sofa = mobilya.", "tk": "sofa = mebel.", "ru": "sofa — мебель." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Language, Proverbs: Opposites in English",
+    "title": "Opposites: Basic Words",
+    "body": {
+      "explanation": {
+        "tr": "Zıt anlamlı kelimeler (opposites) birlikte öğrenilince daha kolay hatırlanır:\n• big ↔ small, tall ↔ short, long ↔ short\n• hot ↔ cold, old ↔ new / young\n• happy ↔ sad, good ↔ bad\n• fast ↔ slow, easy ↔ difficult\n• open ↔ close(d), full ↔ empty\n• day ↔ night, up ↔ down, in ↔ out\nDikkat: old'un iki zıttı var: an old car ↔ a new car; an old man ↔ a young man.",
+        "tk": "Garşylykly sözler (opposites) bilelikde öwrenilse, aňsat ýatda galýar:\n• big ↔ small, tall ↔ short, long ↔ short\n• hot ↔ cold, old ↔ new / young\n• happy ↔ sad, good ↔ bad\n• fast ↔ slow, easy ↔ difficult\n• open ↔ close(d), full ↔ empty\n• day ↔ night, up ↔ down, in ↔ out\nÜns beriň: old sözüniň iki garşylygy bar: an old car ↔ a new car; an old man ↔ a young man.",
+        "ru": "Антонимы (opposites) легче запомнить парами:\n• big ↔ small, tall ↔ short, long ↔ short\n• hot ↔ cold, old ↔ new / young\n• happy ↔ sad, good ↔ bad\n• fast ↔ slow, easy ↔ difficult\n• open ↔ close(d), full ↔ empty\n• day ↔ night, up ↔ down, in ↔ out\nВнимание: у old два антонима: an old car ↔ a new car; an old man ↔ a young man."
+      },
+      "examples": [
+        { "en": "An elephant is big. A mouse is small.", "tr": "Fil büyüktür. Fare küçüktür.", "tk": "Pil uly. Syçan kiçi.", "ru": "Слон большой. Мышь маленькая." },
+        { "en": "Tea is hot. Ice cream is cold.", "tr": "Çay sıcak. Dondurma soğuk.", "tk": "Çaý gyzgyn. Doňdurma sowuk.", "ru": "Чай горячий. Мороженое холодное." },
+        { "en": "My grandpa is old. My sister is young.", "tr": "Dedem yaşlı. Kız kardeşim genç.", "tk": "Atam garry. Uýam ýaş.", "ru": "Мой дедушка старый. Моя сестра молодая." },
+        { "en": "The glass is full. The bottle is empty.", "tr": "Bardak dolu. Şişe boş.", "tk": "Stakan doly. Çüýşe boş.", "ru": "Стакан полный. Бутылка пустая." },
+        { "en": "The shop is open. The bank is closed.", "tr": "Dükkân açık. Banka kapalı.", "tk": "Dükan açyk. Bank ýapyk.", "ru": "Магазин открыт. Банк закрыт." },
+        { "en": "A car is fast. A snail is slow.", "tr": "Araba hızlıdır. Salyangoz yavaştır.", "tk": "Maşyn çalt. Gülümsek haýal.", "ru": "Машина быстрая. Улитка медленная." }
+      ],
+      "exercises": [
+        { "question": "Opposite of \"hot\":", "options": ["warm", "cold", "big", "new"], "answer": 1, "explanation": { "tr": "hot ↔ cold.", "tk": "hot ↔ cold.", "ru": "hot ↔ cold." } },
+        { "question": "Opposite of \"happy\":", "options": ["sad", "glad", "good", "funny"], "answer": 0, "explanation": { "tr": "happy ↔ sad.", "tk": "happy ↔ sad.", "ru": "happy ↔ sad." } },
+        { "question": "Opposite of \"full\":", "options": ["big", "empty", "closed", "heavy"], "answer": 1, "explanation": { "tr": "full ↔ empty.", "tk": "full ↔ empty.", "ru": "full ↔ empty." } },
+        { "question": "Opposite of \"fast\":", "options": ["quick", "slow", "short", "late"], "answer": 1, "explanation": { "tr": "fast ↔ slow.", "tk": "fast ↔ slow.", "ru": "fast ↔ slow." } },
+        { "question": "Opposite of \"tall\" (a person):", "options": ["long", "short", "small", "thin"], "answer": 1, "explanation": { "tr": "tall ↔ short.", "tk": "tall ↔ short.", "ru": "tall ↔ short." } },
+        { "question": "Opposite of \"old\" (a car):", "options": ["young", "new", "small", "fast"], "answer": 1, "explanation": { "tr": "Eşya için: old ↔ new.", "tk": "Zat üçin: old ↔ new.", "ru": "О вещи: old ↔ new." } },
+        { "question": "Opposite of \"old\" (a person):", "options": ["young", "new", "short", "small"], "answer": 0, "explanation": { "tr": "İnsan için: old ↔ young.", "tk": "Adam üçin: old ↔ young.", "ru": "О человеке: old ↔ young." } },
+        { "question": "Opposite of \"easy\":", "options": ["simple", "difficult", "slow", "big"], "answer": 1, "explanation": { "tr": "easy ↔ difficult.", "tk": "easy ↔ difficult.", "ru": "easy ↔ difficult." } },
+        { "question": "Opposite of \"day\":", "options": ["morning", "evening", "night", "week"], "answer": 2, "explanation": { "tr": "day ↔ night.", "tk": "day ↔ night.", "ru": "day ↔ night." } },
+        { "question": "Opposite of \"open\":", "options": ["closed", "empty", "out", "off"], "answer": 0, "explanation": { "tr": "open ↔ closed.", "tk": "open ↔ closed.", "ru": "open ↔ closed." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Language, Proverbs: Opposites of adjectives",
+    "title": "Opposites of Adjectives",
+    "body": {
+      "explanation": {
+        "tr": "Sıfatların zıtları iki şekilde yapılır:\n1. Farklı bir kelime: rich ↔ poor, cheap ↔ expensive, heavy ↔ light, strong ↔ weak, wide ↔ narrow, clean ↔ dirty, loud ↔ quiet, early ↔ late, dangerous ↔ safe, polite ↔ rude\n2. Ön ek (prefix): un- (happy → unhappy, kind → unkind), im- (possible → impossible, polite → impolite), in- (correct → incorrect), dis- (honest → dishonest), il- (legal → illegal), ir- (regular → irregular)\nDikkat: 'light' iki anlamlı: heavy ↔ light (ağırlık), dark ↔ light (renk/ışık).",
+        "tk": "Sypatlaryň garşylyklary iki ýol bilen ýasalýar:\n1. Başga söz: rich ↔ poor, cheap ↔ expensive, heavy ↔ light, strong ↔ weak, wide ↔ narrow, clean ↔ dirty, loud ↔ quiet, early ↔ late, dangerous ↔ safe, polite ↔ rude\n2. Öňgoşulma (prefix): un- (happy → unhappy, kind → unkind), im- (possible → impossible, polite → impolite), in- (correct → incorrect), dis- (honest → dishonest), il- (legal → illegal), ir- (regular → irregular)\nÜns beriň: 'light' iki manyly: heavy ↔ light (agramy), dark ↔ light (reňk/ýagtylyk).",
+        "ru": "Антонимы прилагательных образуются двумя способами:\n1. Другое слово: rich ↔ poor, cheap ↔ expensive, heavy ↔ light, strong ↔ weak, wide ↔ narrow, clean ↔ dirty, loud ↔ quiet, early ↔ late, dangerous ↔ safe, polite ↔ rude\n2. Приставка: un- (happy → unhappy, kind → unkind), im- (possible → impossible, polite → impolite), in- (correct → incorrect), dis- (honest → dishonest), il- (legal → illegal), ir- (regular → irregular)\nВнимание: 'light' многозначно: heavy ↔ light (вес), dark ↔ light (цвет/свет)."
+      },
+      "examples": [
+        { "en": "This bag is heavy, but that one is light.", "tr": "Bu çanta ağır ama şu hafif.", "tk": "Bu sumka agyr, emma ol ýeňil.", "ru": "Эта сумка тяжёлая, а та лёгкая." },
+        { "en": "The hotel was expensive, but the café was cheap.", "tr": "Otel pahalıydı ama kafe ucuzdu.", "tk": "Myhmanhana gymmatdy, emma kafe arzandy.", "ru": "Отель был дорогим, а кафе дешёвым." },
+        { "en": "It's impossible to finish this in one hour.", "tr": "Bunu bir saatte bitirmek imkânsız.", "tk": "Muny bir sagatda gutarmak mümkin däl.", "ru": "Невозможно закончить это за час." },
+        { "en": "Don't be unkind to your sister.", "tr": "Kız kardeşine kaba davranma.", "tk": "Uýaňa gödek bolma.", "ru": "Не будь злым к сестре." },
+        { "en": "The street is narrow, but the road is wide.", "tr": "Sokak dar ama yol geniş.", "tk": "Köçe dar, emma ýol giň.", "ru": "Улица узкая, а дорога широкая." },
+        { "en": "Your answer is incorrect.", "tr": "Cevabın yanlış.", "tk": "Seniň jogabyň nädogry.", "ru": "Твой ответ неверный." }
+      ],
+      "exercises": [
+        { "question": "Opposite of \"rich\":", "options": ["poor", "cheap", "weak", "sad"], "answer": 0, "explanation": { "tr": "rich ↔ poor.", "tk": "rich ↔ poor.", "ru": "rich ↔ poor." } },
+        { "question": "Opposite of \"expensive\":", "options": ["rich", "cheap", "light", "free"], "answer": 1, "explanation": { "tr": "expensive ↔ cheap.", "tk": "expensive ↔ cheap.", "ru": "expensive ↔ cheap." } },
+        { "question": "Opposite of \"possible\":", "options": ["unpossible", "impossible", "inpossible", "dispossible"], "answer": 1, "explanation": { "tr": "im- + possible.", "tk": "im- + possible.", "ru": "im- + possible." } },
+        { "question": "Opposite of \"honest\":", "options": ["unhonest", "dishonest", "inhonest", "imhonest"], "answer": 1, "explanation": { "tr": "dis- + honest.", "tk": "dis- + honest.", "ru": "dis- + honest." } },
+        { "question": "Opposite of \"strong\":", "options": ["weak", "thin", "light", "short"], "answer": 0, "explanation": { "tr": "strong ↔ weak.", "tk": "strong ↔ weak.", "ru": "strong ↔ weak." } },
+        { "question": "Opposite of \"loud\":", "options": ["quiet", "slow", "soft", "small"], "answer": 0, "explanation": { "tr": "loud ↔ quiet.", "tk": "loud ↔ quiet.", "ru": "loud ↔ quiet." } },
+        { "question": "Opposite of \"regular\":", "options": ["unregular", "irregular", "inregular", "disregular"], "answer": 1, "explanation": { "tr": "ir- + regular.", "tk": "ir- + regular.", "ru": "ir- + regular." } },
+        { "question": "Opposite of \"dangerous\":", "options": ["safe", "careful", "brave", "calm"], "answer": 0, "explanation": { "tr": "dangerous ↔ safe.", "tk": "dangerous ↔ safe.", "ru": "dangerous ↔ safe." } },
+        { "question": "Opposite of \"dark\" (a colour):", "options": ["heavy", "light", "white", "bright"], "answer": 1, "explanation": { "tr": "dark ↔ light.", "tk": "dark ↔ light.", "ru": "dark ↔ light." } },
+        { "question": "Opposite of \"legal\":", "options": ["unlegal", "illegal", "inlegal", "dislegal"], "answer": 1, "explanation": { "tr": "il- + legal.", "tk": "il- + legal.", "ru": "il- + legal." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Language, Proverbs: Opposites of nouns",
+    "title": "Opposites of Nouns",
+    "body": {
+      "explanation": {
+        "tr": "İsimlerin de zıtları vardır:\n• Kişiler: man ↔ woman, boy ↔ girl, husband ↔ wife, king ↔ queen, teacher ↔ student, friend ↔ enemy, winner ↔ loser\n• Kavramlar: love ↔ hate, war ↔ peace, success ↔ failure, beginning ↔ end, question ↔ answer, truth ↔ lie, joy ↔ sadness\n• Zaman/doğa: day ↔ night, summer ↔ winter, sunrise ↔ sunset, north ↔ south, east ↔ west\n• Ön ekle: advantage ↔ disadvantage, order ↔ disorder",
+        "tk": "Atlaryň hem garşylyklary bar:\n• Adamlar: man ↔ woman, boy ↔ girl, husband ↔ wife, king ↔ queen, teacher ↔ student, friend ↔ enemy, winner ↔ loser\n• Düşünjeler: love ↔ hate, war ↔ peace, success ↔ failure, beginning ↔ end, question ↔ answer, truth ↔ lie, joy ↔ sadness\n• Wagt/tebigat: day ↔ night, summer ↔ winter, sunrise ↔ sunset, north ↔ south, east ↔ west\n• Öňgoşulma bilen: advantage ↔ disadvantage, order ↔ disorder",
+        "ru": "У существительных тоже есть антонимы:\n• Люди: man ↔ woman, boy ↔ girl, husband ↔ wife, king ↔ queen, teacher ↔ student, friend ↔ enemy, winner ↔ loser\n• Понятия: love ↔ hate, war ↔ peace, success ↔ failure, beginning ↔ end, question ↔ answer, truth ↔ lie, joy ↔ sadness\n• Время/природа: day ↔ night, summer ↔ winter, sunrise ↔ sunset, north ↔ south, east ↔ west\n• С приставкой: advantage ↔ disadvantage, order ↔ disorder"
+      },
+      "examples": [
+        { "en": "Everyone wants peace, not war.", "tr": "Herkes savaş değil barış ister.", "tk": "Her kes uruş däl-de, parahatçylyk isleýär.", "ru": "Все хотят мира, а не войны." },
+        { "en": "The king and the queen live in a palace.", "tr": "Kral ve kraliçe bir sarayda yaşar.", "tk": "Patyşa we şa aýaly köşkde ýaşaýarlar.", "ru": "Король и королева живут во дворце." },
+        { "en": "Please tell me the truth, not a lie.", "tr": "Lütfen bana yalan değil, gerçeği söyle.", "tk": "Maňa ýalan däl-de, hakykaty aýt.", "ru": "Скажи мне правду, а не ложь." },
+        { "en": "Every beginning has an end.", "tr": "Her başlangıcın bir sonu vardır.", "tk": "Her başlangyjyň soňy bar.", "ru": "У каждого начала есть конец." },
+        { "en": "The sun rises in the east and sets in the west.", "tr": "Güneş doğudan doğar, batıdan batar.", "tk": "Gün gündogardan dogýar, günbatarda ýaşýar.", "ru": "Солнце встаёт на востоке и садится на западе." },
+        { "en": "Living in a city has advantages and disadvantages.", "tr": "Şehirde yaşamanın avantajları ve dezavantajları var.", "tk": "Şäherde ýaşamagyň artykmaçlyklary we kemçilikleri bar.", "ru": "У жизни в городе есть плюсы и минусы." }
+      ],
+      "exercises": [
+        { "question": "Opposite of \"war\":", "options": ["fight", "peace", "army", "love"], "answer": 1, "explanation": { "tr": "war ↔ peace.", "tk": "war ↔ peace.", "ru": "war ↔ peace." } },
+        { "question": "Opposite of \"husband\":", "options": ["man", "wife", "brother", "son"], "answer": 1, "explanation": { "tr": "husband ↔ wife.", "tk": "husband ↔ wife.", "ru": "husband ↔ wife." } },
+        { "question": "Opposite of \"success\":", "options": ["failure", "winner", "luck", "loss of time"], "answer": 0, "explanation": { "tr": "success ↔ failure.", "tk": "success ↔ failure.", "ru": "success ↔ failure." } },
+        { "question": "Opposite of \"question\":", "options": ["problem", "answer", "test", "idea"], "answer": 1, "explanation": { "tr": "question ↔ answer.", "tk": "question ↔ answer.", "ru": "question ↔ answer." } },
+        { "question": "Opposite of \"friend\":", "options": ["enemy", "stranger", "neighbour", "partner"], "answer": 0, "explanation": { "tr": "friend ↔ enemy.", "tk": "friend ↔ enemy.", "ru": "friend ↔ enemy." } },
+        { "question": "Opposite of \"north\":", "options": ["east", "west", "south", "up"], "answer": 2, "explanation": { "tr": "north ↔ south.", "tk": "north ↔ south.", "ru": "north ↔ south." } },
+        { "question": "Opposite of \"sunrise\":", "options": ["sunlight", "sunset", "sunshine", "moonrise"], "answer": 1, "explanation": { "tr": "sunrise ↔ sunset.", "tk": "sunrise ↔ sunset.", "ru": "sunrise ↔ sunset." } },
+        { "question": "Opposite of \"advantage\":", "options": ["unadvantage", "disadvantage", "inadvantage", "misadvantage"], "answer": 1, "explanation": { "tr": "dis- + advantage.", "tk": "dis- + advantage.", "ru": "dis- + advantage." } },
+        { "question": "Opposite of \"winner\":", "options": ["loser", "player", "runner", "leader"], "answer": 0, "explanation": { "tr": "winner ↔ loser.", "tk": "winner ↔ loser.", "ru": "winner ↔ loser." } },
+        { "question": "Opposite of \"love\":", "options": ["like", "hate", "kiss", "heart"], "answer": 1, "explanation": { "tr": "love ↔ hate.", "tk": "love ↔ hate.", "ru": "love ↔ hate." } }
+      ]
+    }
+  }
+]

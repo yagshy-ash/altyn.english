@@ -1,0 +1,177 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Tests: English Tenses – Complex Test",
+    "title": "Tense Test: All Main Tenses",
+    "body": {
+      "explanation": {
+        "tr": "Bu test tüm temel zamanları karışık olarak sorar. Her soruda:\n1. Zaman ifadesini bul (every day, now, yesterday, already, tomorrow…).\n2. Eylem bitti mi, devam ediyor mu, alışkanlık mı, plan mı? Karar ver.\n3. Özneye göre doğru biçimi seç (he/she/it -s, was/were, has/have).\nHızlı hatırlatma: Simple Present (alışkanlık), Present Progressive (şu an), Simple Past (bitmiş geçmiş), Past Progressive (geçmişte devam), Present Perfect (şimdiye bağlı geçmiş), will / going to (gelecek).",
+        "tk": "Bu synag ähli esasy zamanlary garyşyk soraýar. Her soragda:\n1. Wagt aňlatmasyny tap (every day, now, yesterday, already, tomorrow…).\n2. Hereket gutardymy, dowam edýärmi, endikmi, meýilnamamy? Karar ber.\n3. Eýä görä dogry görnüşi saýla (he/she/it -s, was/were, has/have).\nGysga ýatlatma: Simple Present (endik), Present Progressive (häzir), Simple Past (gutaran geçmiş), Past Progressive (geçmişde dowam), Present Perfect (häzir bilen bagly geçmiş), will / going to (geljek).",
+        "ru": "Этот тест проверяет все основные времена вперемешку. В каждом вопросе:\n1. Найди выражение времени (every day, now, yesterday, already, tomorrow…).\n2. Реши: действие закончено, в процессе, привычка или план?\n3. Выбери форму по подлежащему (he/she/it -s, was/were, has/have).\nНапоминание: Simple Present (привычка), Present Progressive (сейчас), Simple Past (законченное прошлое), Past Progressive (длилось в прошлом), Present Perfect (прошлое со связью с настоящим), will / going to (будущее)."
+      },
+      "examples": [
+        { "en": "She works every day.", "tr": "Her gün çalışır.", "tk": "Ol her gün işleýär.", "ru": "Она работает каждый день." },
+        { "en": "She is working now.", "tr": "Şu an çalışıyor.", "tk": "Ol häzir işleýär.", "ru": "Она сейчас работает." },
+        { "en": "She worked yesterday.", "tr": "Dün çalıştı.", "tk": "Ol düýn işledi.", "ru": "Она работала вчера." },
+        { "en": "She was working when I called.", "tr": "Aradığımda çalışıyordu.", "tk": "Men jaň edenimde ol işleýärdi.", "ru": "Она работала, когда я позвонил." },
+        { "en": "She has already worked 40 hours this week.", "tr": "Bu hafta zaten 40 saat çalıştı.", "tk": "Ol bu hepde eýýäm 40 sagat işledi.", "ru": "На этой неделе она уже отработала 40 часов." },
+        { "en": "She will work tomorrow.", "tr": "Yarın çalışacak.", "tk": "Ol ertir işlär.", "ru": "Она будет работать завтра." }
+      ],
+      "exercises": [
+        { "question": "My grandparents ___ in a small village.", "options": ["live", "are living", "lived", "have lived"], "answer": 0, "explanation": { "tr": "Kalıcı durum → Simple Present.", "tk": "Hemişelik ýagdaý → Simple Present.", "ru": "Постоянное → Simple Present." } },
+        { "question": "Shh! The baby ___.", "options": ["sleeps", "is sleeping", "slept", "has slept"], "answer": 1, "explanation": { "tr": "Şu an → is sleeping.", "tk": "Häzir → is sleeping.", "ru": "Сейчас → is sleeping." } },
+        { "question": "We ___ the museum last Saturday.", "options": ["visit", "have visited", "visited", "were visiting"], "answer": 2, "explanation": { "tr": "last Saturday → visited.", "tk": "last Saturday → visited.", "ru": "last Saturday → visited." } },
+        { "question": "I ___ my keys. I can't open the door.", "options": ["lost", "have lost", "lose", "was losing"], "answer": 1, "explanation": { "tr": "Şimdi etkisi → have lost.", "tk": "Häzirki täsir → have lost.", "ru": "Результат сейчас → have lost." } },
+        { "question": "While I ___ dinner, the phone rang.", "options": ["cooked", "was cooking", "am cooking", "have cooked"], "answer": 1, "explanation": { "tr": "Uzun eylem → was cooking.", "tk": "Uzak hereket → was cooking.", "ru": "Длительное → was cooking." } },
+        { "question": "Look at those clouds. It ___ rain.", "options": ["will", "is going to", "rains", "rained"], "answer": 1, "explanation": { "tr": "Görünen işaret → going to.", "tk": "Görünýän alamat → going to.", "ru": "Признак → going to." } },
+        { "question": "She ___ to the gym three times a week.", "options": ["goes", "is going", "went", "has gone"], "answer": 0, "explanation": { "tr": "Sıklık → goes.", "tk": "Ýygylyk → goes.", "ru": "Частота → goes." } },
+        { "question": "\"I'm thirsty.\" – \"I ___ you a glass of water.\"", "options": ["get", "'ll get", "'m getting", "got"], "answer": 1, "explanation": { "tr": "Anlık teklif → will.", "tk": "Pursatdaky teklip → will.", "ru": "Спонтанное предложение → will." } },
+        { "question": "___ you ever ___ to Japan?", "options": ["Did / go", "Have / been", "Were / going", "Do / go"], "answer": 1, "explanation": { "tr": "ever → Have been.", "tk": "ever → Have been.", "ru": "ever → Have been." } },
+        { "question": "At 10 pm yesterday they ___ a film.", "options": ["watched", "were watching", "watch", "have watched"], "answer": 1, "explanation": { "tr": "Belli anda devam → were watching.", "tk": "Belli pursatda dowam → were watching.", "ru": "В процессе → were watching." } },
+        { "question": "He ___ his car two years ago.", "options": ["has sold", "sold", "sells", "is selling"], "answer": 1, "explanation": { "tr": "ago → sold.", "tk": "ago → sold.", "ru": "ago → sold." } },
+        { "question": "Find the mistake: \"She has finished the project yesterday.\"", "options": ["She has finished", "the project", "yesterday", "There is no mistake"], "answer": 0, "explanation": { "tr": "yesterday → She finished.", "tk": "yesterday → She finished.", "ru": "yesterday → She finished." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Tests: Present Perfect – Complex Test",
+    "title": "Present Perfect: Complete Test",
+    "body": {
+      "explanation": {
+        "tr": "Present Perfect testi. Kontrol et:\n• have/has + V3 (he/she/it → has)\n• Olumsuz: haven't/hasn't + V3; Soru: Have/Has + özne + V3?\n• Düzensiz V3'ler: been, gone, done, seen, eaten, written, taken, bought, made, known\n• for (süre) / since (başlangıç noktası)\n• already (olumlu), yet (olumsuz/soru, sonda), just, ever, never\n• Belli geçmiş zaman (yesterday, ago) varsa Simple Past!",
+        "tk": "Present Perfect synagy. Barla:\n• have/has + V3 (he/she/it → has)\n• Ýokluk: haven't/hasn't + V3; Sorag: Have/Has + eýe + V3?\n• Nädogry V3-ler: been, gone, done, seen, eaten, written, taken, bought, made, known\n• for (dowamlylyk) / since (başlangyç nokady)\n• already (tassyklaýjy), yet (ýokluk/sorag, ahyrda), just, ever, never\n• Belli geçmiş wagt (yesterday, ago) bar bolsa, Simple Past!",
+        "ru": "Тест по Present Perfect. Проверь:\n• have/has + V3 (he/she/it → has)\n• Отрицание: haven't/hasn't + V3; Вопрос: Have/Has + подлежащее + V3?\n• Неправильные V3: been, gone, done, seen, eaten, written, taken, bought, made, known\n• for (период) / since (точка отсчёта)\n• already (утверждение), yet (отрицание/вопрос, в конце), just, ever, never\n• Если указано время в прошлом (yesterday, ago) — Simple Past!"
+      },
+      "examples": [
+        { "en": "I have just made some tea.", "tr": "Az önce çay yaptım.", "tk": "Men ýaňy çaý demledim.", "ru": "Я только что заварил чай." },
+        { "en": "Have you finished yet?", "tr": "Bitirdin mi?", "tk": "Gutardyňmy?", "ru": "Ты уже закончил?" },
+        { "en": "She hasn't called yet.", "tr": "Henüz aramadı.", "tk": "Ol entek jaň etmedi.", "ru": "Она ещё не позвонила." },
+        { "en": "We have lived here for ten years.", "tr": "On yıldır burada yaşıyoruz.", "tk": "Biz on ýyl bäri şu ýerde ýaşaýarys.", "ru": "Мы живём здесь десять лет." },
+        { "en": "He has been to China twice.", "tr": "Çin'e iki kez gitti.", "tk": "Ol Hytaýda iki gezek boldy.", "ru": "Он был в Китае дважды." },
+        { "en": "I have never seen snow.", "tr": "Hiç kar görmedim.", "tk": "Men hiç haçan gar görmedim.", "ru": "Я никогда не видел снега." }
+      ],
+      "exercises": [
+        { "question": "She ___ her homework already.", "options": ["has done", "have done", "has did", "did"], "answer": 0, "explanation": { "tr": "has + done.", "tk": "has + done.", "ru": "has + done." } },
+        { "question": "I haven't eaten ___.", "options": ["already", "yet", "ever", "since"], "answer": 1, "explanation": { "tr": "Olumsuz → yet.", "tk": "Ýokluk → yet.", "ru": "Отрицание → yet." } },
+        { "question": "We have known each other ___ 2015.", "options": ["for", "since", "ago", "from"], "answer": 1, "explanation": { "tr": "2015 → since.", "tk": "2015 → since.", "ru": "2015 → since." } },
+        { "question": "They have been married ___ twenty years.", "options": ["since", "for", "ago", "during"], "answer": 1, "explanation": { "tr": "Süre → for.", "tk": "Dowamlylyk → for.", "ru": "Период → for." } },
+        { "question": "___ he ever ___ a horse?", "options": ["Has / ridden", "Have / ridden", "Has / rode", "Did / ridden"], "answer": 0, "explanation": { "tr": "ride → ridden.", "tk": "ride → ridden.", "ru": "ride → ridden." } },
+        { "question": "I ___ my wallet! I can't find it.", "options": ["have lost", "has lost", "lost have", "have lose"], "answer": 0, "explanation": { "tr": "have + lost.", "tk": "have + lost.", "ru": "have + lost." } },
+        { "question": "The film ___ just ___.", "options": ["has / started", "have / started", "has / start", "is / started"], "answer": 0, "explanation": { "tr": "film → has started.", "tk": "film → has started.", "ru": "film → has started." } },
+        { "question": "Choose the correct V3 of \"write\".", "options": ["wrote", "written", "writed", "writen"], "answer": 1, "explanation": { "tr": "write → written.", "tk": "write → written.", "ru": "write → written." } },
+        { "question": "\"Have you seen my glasses?\" – \"No, I ___.\"", "options": ["didn't", "haven't", "hasn't", "don't"], "answer": 1, "explanation": { "tr": "No, I haven't.", "tk": "No, I haven't.", "ru": "No, I haven't." } },
+        { "question": "My parents ___ never ___ abroad.", "options": ["have / been", "has / been", "have / went", "did / be"], "answer": 0, "explanation": { "tr": "have never been.", "tk": "have never been.", "ru": "have never been." } },
+        { "question": "He ___ here since he was a child.", "options": ["has lived", "lived", "lives", "is living"], "answer": 0, "explanation": { "tr": "since → has lived.", "tk": "since → has lived.", "ru": "since → has lived." } },
+        { "question": "Find the mistake: \"I have saw this film before.\"", "options": ["I have", "saw", "this film", "before"], "answer": 1, "explanation": { "tr": "see → seen.", "tk": "see → seen.", "ru": "see → seen." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Tests: Present Progressive – Complex Test 1",
+    "title": "Present Progressive Test 1",
+    "body": {
+      "explanation": {
+        "tr": "Present Progressive testi (kolay seviye). Kontrol et:\n• am / is / are + fiil-ing\n• I → am, he/she/it → is, you/we/they → are\n• -ing yazımı: make → making, sit → sitting, lie → lying\n• Olumsuz: isn't / aren't / I'm not\n• Soru: Is she…? Are they…?",
+        "tk": "Present Progressive synagy (aňsat dereje). Barla:\n• am / is / are + işlik-ing\n• I → am, he/she/it → is, you/we/they → are\n• -ing ýazylyşy: make → making, sit → sitting, lie → lying\n• Ýokluk: isn't / aren't / I'm not\n• Sorag: Is she…? Are they…?",
+        "ru": "Тест по Present Progressive (лёгкий уровень). Проверь:\n• am / is / are + глагол-ing\n• I → am, he/she/it → is, you/we/they → are\n• Написание -ing: make → making, sit → sitting, lie → lying\n• Отрицание: isn't / aren't / I'm not\n• Вопрос: Is she…? Are they…?"
+      },
+      "examples": [
+        { "en": "I am reading a comic.", "tr": "Çizgi roman okuyorum.", "tk": "Men komiks okaýaryn.", "ru": "Я читаю комикс." },
+        { "en": "She is making a sandwich.", "tr": "Sandviç yapıyor.", "tk": "Ol buterbrod taýýarlaýar.", "ru": "Она делает бутерброд." },
+        { "en": "They aren't watching TV.", "tr": "Televizyon izlemiyorlar.", "tk": "Olar telewizor görmeýärler.", "ru": "Они не смотрят телевизор." },
+        { "en": "Is he sitting in the garden?", "tr": "Bahçede mi oturuyor?", "tk": "Ol bagda otyrmy?", "ru": "Он сидит в саду?" },
+        { "en": "We are having fun.", "tr": "Eğleniyoruz.", "tk": "Biz şatlanýarys.", "ru": "Нам весело." },
+        { "en": "What are you doing?", "tr": "Ne yapıyorsun?", "tk": "Näme edýärsiň?", "ru": "Что ты делаешь?" }
+      ],
+      "exercises": [
+        { "question": "I ___ a song.", "options": ["am singing", "is singing", "are singing", "singing"], "answer": 0, "explanation": { "tr": "I → am.", "tk": "I → am.", "ru": "I → am." } },
+        { "question": "He ___ a bike.", "options": ["is riding", "are riding", "is rideing", "riding"], "answer": 0, "explanation": { "tr": "ride → riding.", "tk": "ride → riding.", "ru": "ride → riding." } },
+        { "question": "The cats ___ milk.", "options": ["is drinking", "are drinking", "am drinking", "drinking"], "answer": 1, "explanation": { "tr": "cats → are.", "tk": "cats → are.", "ru": "cats → are." } },
+        { "question": "She ___ on the chair.", "options": ["is siting", "is sitting", "are sitting", "sitting"], "answer": 1, "explanation": { "tr": "sit → sitting.", "tk": "sit → sitting.", "ru": "sit → sitting." } },
+        { "question": "We ___ playing now.", "options": ["isn't", "aren't", "not", "don't"], "answer": 1, "explanation": { "tr": "we → aren't.", "tk": "we → aren't.", "ru": "we → aren't." } },
+        { "question": "___ you listening?", "options": ["Is", "Are", "Am", "Do"], "answer": 1, "explanation": { "tr": "you → Are.", "tk": "you → Are.", "ru": "you → Are." } },
+        { "question": "My mum ___ a cake.", "options": ["is makeing", "is making", "are making", "making"], "answer": 1, "explanation": { "tr": "make → making.", "tk": "make → making.", "ru": "make → making." } },
+        { "question": "\"Is it raining?\" – \"Yes, it ___.\"", "options": ["is", "it's", "does", "are"], "answer": 0, "explanation": { "tr": "Yes, it is.", "tk": "Yes, it is.", "ru": "Yes, it is." } },
+        { "question": "The dog ___ in the sun.", "options": ["is lying", "is lieing", "are lying", "lying"], "answer": 0, "explanation": { "tr": "lie → lying.", "tk": "lie → lying.", "ru": "lie → lying." } },
+        { "question": "I ___ not crying.", "options": ["is", "am", "are", "do"], "answer": 1, "explanation": { "tr": "I → am not.", "tk": "I → am not.", "ru": "I → am not." } },
+        { "question": "What ___ he eating?", "options": ["is", "are", "am", "does"], "answer": 0, "explanation": { "tr": "he → is.", "tk": "he → is.", "ru": "he → is." } },
+        { "question": "Find the mistake: \"They is running.\"", "options": ["They", "is", "running", "There is no mistake"], "answer": 1, "explanation": { "tr": "they → are.", "tk": "they → are.", "ru": "they → are." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Tests: Present Progressive – Complex Test 2",
+    "title": "Present Progressive Test 2",
+    "body": {
+      "explanation": {
+        "tr": "Present Progressive testi (orta seviye):\n• Şimdi olan eylemler, geçici durumlar (this week), planlanmış yakın gelecek (tomorrow at 5).\n• Wh-sorular: What are you doing? Why is she crying?\n• Durum fiilleri (know, like, want, need, believe) -ing almaz.\n• Simple Present ile karıştırma: She usually walks, but today she is taking a taxi.",
+        "tk": "Present Progressive synagy (orta dereje):\n• Häzir bolýan hereketler, wagtlaýyn ýagdaýlar (this week), meýilleşdirilen ýakyn geljek (tomorrow at 5).\n• Wh-soraglar: What are you doing? Why is she crying?\n• Ýagdaý işlikleri (know, like, want, need, believe) -ing almaýar.\n• Simple Present bilen garyşdyrma: She usually walks, but today she is taking a taxi.",
+        "ru": "Тест по Present Progressive (средний уровень):\n• Действия сейчас, временные ситуации (this week), запланированное ближайшее будущее (tomorrow at 5).\n• Специальные вопросы: What are you doing? Why is she crying?\n• Глаголы состояния (know, like, want, need, believe) без -ing.\n• Не путай с Simple Present: She usually walks, but today she is taking a taxi."
+      },
+      "examples": [
+        { "en": "This week I'm staying with my cousin.", "tr": "Bu hafta kuzenimde kalıyorum.", "tk": "Bu hepde men doganoglanymda galýaryn.", "ru": "На этой неделе я живу у двоюродного брата." },
+        { "en": "We're meeting Ali at 5 tomorrow.", "tr": "Yarın saat 5'te Ali ile buluşuyoruz.", "tk": "Ertir sagat 5-de Ali bilen duşuşýarys.", "ru": "Завтра в 5 мы встречаемся с Али." },
+        { "en": "Why is she crying?", "tr": "Neden ağlıyor?", "tk": "Ol näme üçin aglaýar?", "ru": "Почему она плачет?" },
+        { "en": "I know the answer. (not: I'm knowing)", "tr": "Cevabı biliyorum.", "tk": "Men jogaby bilýärin.", "ru": "Я знаю ответ." },
+        { "en": "She usually walks, but today she's taking a taxi.", "tr": "Genelde yürür ama bugün taksiye biniyor.", "tk": "Ol adatça pyýada gidýär, emma şu gün taksi tutýar.", "ru": "Обычно она ходит пешком, но сегодня едет на такси." },
+        { "en": "The prices are going up.", "tr": "Fiyatlar artıyor.", "tk": "Bahalar ýokarlanýar.", "ru": "Цены растут." }
+      ],
+      "exercises": [
+        { "question": "This month my sister ___ in Turkey.", "options": ["works", "is working", "work", "worked"], "answer": 1, "explanation": { "tr": "Geçici durum → is working.", "tk": "Wagtlaýyn ýagdaý → is working.", "ru": "Временно → is working." } },
+        { "question": "I ___ what you mean.", "options": ["understand", "am understanding", "understanding", "am understand"], "answer": 0, "explanation": { "tr": "Durum fiili.", "tk": "Ýagdaý işligi.", "ru": "Глагол состояния." } },
+        { "question": "We ___ to the cinema tonight. We've got tickets.", "options": ["go", "are going", "went", "goes"], "answer": 1, "explanation": { "tr": "Plan → are going.", "tk": "Meýilnama → are going.", "ru": "План → are going." } },
+        { "question": "Why ___ you ___ at me like that?", "options": ["are / looking", "do / looking", "is / looking", "are / look"], "answer": 0, "explanation": { "tr": "Şu an → are looking.", "tk": "Häzir → are looking.", "ru": "Сейчас → are looking." } },
+        { "question": "He usually ___ tea, but today he ___ coffee.", "options": ["drinks / is drinking", "is drinking / drinks", "drink / drinking", "drinks / drinks"], "answer": 0, "explanation": { "tr": "usually → drinks; today → is drinking.", "tk": "usually → drinks; today → is drinking.", "ru": "usually → drinks; today → is drinking." } },
+        { "question": "The climate ___ quickly.", "options": ["changes", "is changing", "change", "changing"], "answer": 1, "explanation": { "tr": "Süregelen değişim → is changing.", "tk": "Dowam edýän üýtgeşme → is changing.", "ru": "Изменение в процессе → is changing." } },
+        { "question": "I ___ a new phone. Mine is broken.", "options": ["need", "am needing", "needing", "am need"], "answer": 0, "explanation": { "tr": "need durum fiili.", "tk": "need ýagdaý işligi.", "ru": "need — глагол состояния." } },
+        { "question": "\"Where's Dad?\" – \"He ___ the car.\"", "options": ["washes", "is washing", "wash", "washed"], "answer": 1, "explanation": { "tr": "Şu an → is washing.", "tk": "Häzir → is washing.", "ru": "Сейчас → is washing." } },
+        { "question": "They ___ for the bus at the moment.", "options": ["wait", "are waiting", "waits", "waiting"], "answer": 1, "explanation": { "tr": "at the moment → are waiting.", "tk": "at the moment → are waiting.", "ru": "at the moment → are waiting." } },
+        { "question": "What time ___ you ___ tomorrow?", "options": ["are / leaving", "do / leaving", "is / leave", "are / leave"], "answer": 0, "explanation": { "tr": "Plan → are leaving.", "tk": "Meýilnama → are leaving.", "ru": "План → are leaving." } },
+        { "question": "She ___ him. She thinks he's lying.", "options": ["doesn't believe", "isn't believing", "not believe", "isn't believe"], "answer": 0, "explanation": { "tr": "believe durum fiili.", "tk": "believe ýagdaý işligi.", "ru": "believe — глагол состояния." } },
+        { "question": "Find the mistake: \"I am liking this music.\"", "options": ["I", "am liking", "this", "music"], "answer": 1, "explanation": { "tr": "like → I like.", "tk": "like → I like.", "ru": "like → I like." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Tests: Simple Past – Complex Test",
+    "title": "Simple Past Test",
+    "body": {
+      "explanation": {
+        "tr": "Simple Past testi. Kontrol et:\n• Düzenli fiiller: -ed (played, lived, studied, stopped)\n• Düzensiz fiiller: went, saw, ate, had, came, bought, took, made\n• be: was (I/he/she/it), were (you/we/they)\n• Olumsuz: didn't + yalın fiil\n• Soru: Did + özne + yalın fiil?\n• Sinyal: yesterday, last…, ago, in 2010",
+        "tk": "Simple Past synagy. Barla:\n• Dogry işlikler: -ed (played, lived, studied, stopped)\n• Nädogry işlikler: went, saw, ate, had, came, bought, took, made\n• be: was (I/he/she/it), were (you/we/they)\n• Ýokluk: didn't + esasy işlik\n• Sorag: Did + eýe + esasy işlik?\n• Alamat: yesterday, last…, ago, in 2010",
+        "ru": "Тест по Simple Past. Проверь:\n• Правильные глаголы: -ed (played, lived, studied, stopped)\n• Неправильные: went, saw, ate, had, came, bought, took, made\n• be: was (I/he/she/it), were (you/we/they)\n• Отрицание: didn't + начальная форма\n• Вопрос: Did + подлежащее + начальная форма?\n• Маркеры: yesterday, last…, ago, in 2010"
+      },
+      "examples": [
+        { "en": "I visited my grandma yesterday.", "tr": "Dün büyükannemi ziyaret ettim.", "tk": "Düýn mamama baryp gördüm.", "ru": "Вчера я навестил бабушку." },
+        { "en": "We went to the zoo last week.", "tr": "Geçen hafta hayvanat bahçesine gittik.", "tk": "Geçen hepde haýwanat bagyna gitdik.", "ru": "На прошлой неделе мы ходили в зоопарк." },
+        { "en": "She didn't eat breakfast.", "tr": "Kahvaltı yapmadı.", "tk": "Ol ertirlik iýmedi.", "ru": "Она не позавтракала." },
+        { "en": "Did you see the match?", "tr": "Maçı gördün mü?", "tk": "Oýny gördüňmi?", "ru": "Ты видел матч?" },
+        { "en": "They were at home.", "tr": "Evdeydiler.", "tk": "Olar öýdedi.", "ru": "Они были дома." },
+        { "en": "He bought a new bike two days ago.", "tr": "İki gün önce yeni bir bisiklet aldı.", "tk": "Ol iki gün ozal täze welosiped aldy.", "ru": "Два дня назад он купил новый велосипед." }
+      ],
+      "exercises": [
+        { "question": "I ___ football yesterday.", "options": ["play", "played", "plaied", "playing"], "answer": 1, "explanation": { "tr": "play → played.", "tk": "play → played.", "ru": "play → played." } },
+        { "question": "She ___ to London last year.", "options": ["goes", "went", "goed", "gone"], "answer": 1, "explanation": { "tr": "go → went.", "tk": "go → went.", "ru": "go → went." } },
+        { "question": "We ___ very happy.", "options": ["was", "were", "are", "be"], "answer": 1, "explanation": { "tr": "we → were.", "tk": "we → were.", "ru": "we → were." } },
+        { "question": "He ___ his homework.", "options": ["didn't do", "didn't did", "doesn't did", "not did"], "answer": 0, "explanation": { "tr": "didn't + do.", "tk": "didn't + do.", "ru": "didn't + do." } },
+        { "question": "___ you see Ali?", "options": ["Do", "Did", "Were", "Was"], "answer": 1, "explanation": { "tr": "Geçmiş soru → Did.", "tk": "Geçmiş sorag → Did.", "ru": "Вопрос в прошлом → Did." } },
+        { "question": "The bus ___ at the station.", "options": ["stoped", "stopped", "stopt", "stops"], "answer": 1, "explanation": { "tr": "stop → stopped.", "tk": "stop → stopped.", "ru": "stop → stopped." } },
+        { "question": "I ___ a cake for my mum.", "options": ["maked", "made", "make", "makes"], "answer": 1, "explanation": { "tr": "make → made.", "tk": "make → made.", "ru": "make → made." } },
+        { "question": "She ___ at home last night.", "options": ["was", "were", "is", "did"], "answer": 0, "explanation": { "tr": "she → was.", "tk": "she → was.", "ru": "she → was." } },
+        { "question": "They ___ the bus to school.", "options": ["taked", "took", "take", "taken"], "answer": 1, "explanation": { "tr": "take → took.", "tk": "take → took.", "ru": "take → took." } },
+        { "question": "My brother ___ hard for the test.", "options": ["studyed", "studied", "studies", "study"], "answer": 1, "explanation": { "tr": "study → studied.", "tk": "study → studied.", "ru": "study → studied." } },
+        { "question": "\"Did you like the film?\" – \"No, I ___.\"", "options": ["didn't", "don't", "wasn't", "not"], "answer": 0, "explanation": { "tr": "No, I didn't.", "tk": "No, I didn't.", "ru": "No, I didn't." } },
+        { "question": "Find the mistake: \"We buyed a new sofa.\"", "options": ["We", "buyed", "a new", "sofa"], "answer": 1, "explanation": { "tr": "buy → bought.", "tk": "buy → bought.", "ru": "buy → bought." } }
+      ]
+    }
+  }
+]

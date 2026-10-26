@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – going to-future: going to-future – Statements",
+    "title": "going to-future: Plans and Predictions",
+    "body": {
+      "explanation": {
+        "tr": "going to-future şu durumlarda kullanılır:\n• Önceden yapılmış planlar ve niyetler: I'm going to visit my grandma this weekend.\n• Şu anki işaretlere dayanan tahminler: Look at those clouds! It's going to rain.\n• Yapı: am/is/are + going to + yalın fiil\n  I am going to ..., He/She/It is going to ..., You/We/They are going to ...\n• will ile fark: will = anlık karar; going to = önceden karar.\n  \"We're out of milk.\" – \"I'll buy some.\" (anlık) / I'm going to buy milk after work. (plan)",
+        "tk": "going to-future şu ýagdaýlarda ulanylýar:\n• Öňünden edilen meýilnamalar we niýetler: I'm going to visit my grandma this weekend.\n• Häzirki alamatlara esaslanan çaklamalar: Look at those clouds! It's going to rain.\n• Gurluşy: am/is/are + going to + esasy işlik\n  I am going to ..., He/She/It is going to ..., You/We/They are going to ...\n• will bilen tapawudy: will = şol pursatdaky karar; going to = öňünden karar.\n  \"We're out of milk.\" – \"I'll buy some.\" (pursatda) / I'm going to buy milk after work. (meýilnama)",
+        "ru": "going to-future используется для:\n• Заранее принятых планов и намерений: I'm going to visit my grandma this weekend.\n• Прогнозов на основе того, что видно сейчас: Look at those clouds! It's going to rain.\n• Схема: am/is/are + going to + глагол\n  I am going to ..., He/She/It is going to ..., You/We/They are going to ...\n• Разница с will: will = решение в момент речи; going to = решение принято заранее.\n  \"We're out of milk.\" – \"I'll buy some.\" (спонтанно) / I'm going to buy milk after work. (план)"
+      },
+      "examples": [
+        { "en": "I'm going to learn to drive this summer.", "tr": "Bu yaz araba kullanmayı öğreneceğim.", "tk": "Bu tomus maşyn sürmegi öwrenjek.", "ru": "Этим летом я собираюсь научиться водить." },
+        { "en": "Look at the sky! It's going to rain.", "tr": "Gökyüzüne bak! Yağmur yağacak.", "tk": "Asmana seret! Ýagyş ýagjak.", "ru": "Посмотри на небо! Сейчас пойдёт дождь." },
+        { "en": "We are going to paint the living room.", "tr": "Oturma odasını boyayacağız.", "tk": "Biz myhmanhanany reňklejek.", "ru": "Мы собираемся покрасить гостиную." },
+        { "en": "She is going to have a baby.", "tr": "Bebeği olacak.", "tk": "Onuň çagasy boljak.", "ru": "У неё будет ребёнок." },
+        { "en": "Be careful! You're going to fall!", "tr": "Dikkat et! Düşeceksin!", "tk": "Seresap bol! Ýykyljak!", "ru": "Осторожно! Ты сейчас упадёшь!" },
+        { "en": "They are going to move to Ashgabat.", "tr": "Aşkabat'a taşınacaklar.", "tk": "Olar Aşgabada göçjek.", "ru": "Они собираются переехать в Ашхабад." }
+      ],
+      "exercises": [
+        { "question": "I ___ going to start a new course next month.", "options": ["is", "am", "are", "be"], "answer": 1, "explanation": { "tr": "I → am going to.", "tk": "I → am going to.", "ru": "I → am going to." } },
+        { "question": "She is going ___ her room tomorrow.", "options": ["clean", "to clean", "cleaning", "cleans"], "answer": 1, "explanation": { "tr": "going to + yalın fiil.", "tk": "going to + esasy işlik.", "ru": "going to + глагол." } },
+        { "question": "Look at those dark clouds! It ___ rain.", "options": ["will", "is going to", "goes to", "is going"], "answer": 1, "explanation": { "tr": "Şimdiki işarete dayalı tahmin: is going to.", "tk": "Häzirki alamata esaslanan çaklama: is going to.", "ru": "Прогноз по признакам: is going to." } },
+        { "question": "We ___ going to visit our cousins.", "options": ["is", "am", "are", "be"], "answer": 2, "explanation": { "tr": "we → are.", "tk": "we → are.", "ru": "we → are." } },
+        { "question": "\"We need bread.\" – \"OK, I ___ buy some.\"", "options": ["'m going to", "'ll", "am", "go to"], "answer": 1, "explanation": { "tr": "Anlık karar → will ('ll).", "tk": "Pursatdaky karar → will ('ll).", "ru": "Спонтанное решение → will ('ll)." } },
+        { "question": "He has bought paint. He ___ paint the fence.", "options": ["will", "is going to", "goes to", "are going to"], "answer": 1, "explanation": { "tr": "Önceden plan → is going to.", "tk": "Öňünden meýilnama → is going to.", "ru": "Заранее спланировано → is going to." } },
+        { "question": "My parents ___ to buy a new car.", "options": ["is going", "are going", "am going", "going"], "answer": 1, "explanation": { "tr": "parents → are going.", "tk": "parents → are going.", "ru": "parents → are going." } },
+        { "question": "Choose the correct sentence.", "options": ["I going to call him.", "I'm going to call him.", "I'm going call him.", "I'm going to calling him."], "answer": 1, "explanation": { "tr": "am + going to + yalın fiil.", "tk": "am + going to + esasy işlik.", "ru": "am + going to + глагол." } },
+        { "question": "The glass is at the edge of the table. It ___ fall.", "options": ["is going to", "will to", "goes", "are going to"], "answer": 0, "explanation": { "tr": "Görünür işaret → is going to.", "tk": "Görünýän alamat → is going to.", "ru": "Видимый признак → is going to." } },
+        { "question": "Find the mistake: \"They is going to play tennis.\"", "options": ["They", "is going", "to play", "tennis"], "answer": 1, "explanation": { "tr": "they → are going.", "tk": "they → are going.", "ru": "they → are going." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – going to-future: Negations in the going to-future",
+    "title": "going to-future: Negative Sentences",
+    "body": {
+      "explanation": {
+        "tr": "going to-future olumsuz:\n• am not / isn't / aren't + going to + yalın fiil\n  I'm not going to tell him. She isn't going to come. They aren't going to wait.\n• Kısaltmalar: I'm not, he isn't / he's not, we aren't / we're not.\n• 'I amn't' diye bir kısaltma yoktur → I'm not.\n• Anlam: plan yok / olmayacağı belli: It isn't going to be easy.",
+        "tk": "going to-future ýokluk:\n• am not / isn't / aren't + going to + esasy işlik\n  I'm not going to tell him. She isn't going to come. They aren't going to wait.\n• Gysgaltmalar: I'm not, he isn't / he's not, we aren't / we're not.\n• 'I amn't' diýen gysgaltma ýok → I'm not.\n• Manysy: meýilnama ýok / bolmajagy belli: It isn't going to be easy.",
+        "ru": "Отрицание в going to-future:\n• am not / isn't / aren't + going to + глагол\n  I'm not going to tell him. She isn't going to come. They aren't going to wait.\n• Сокращения: I'm not, he isn't / he's not, we aren't / we're not.\n• Формы 'I amn't' нет → I'm not.\n• Смысл: плана нет / ясно, что не случится: It isn't going to be easy."
+      },
+      "examples": [
+        { "en": "I'm not going to watch TV tonight.", "tr": "Bu akşam televizyon izlemeyeceğim.", "tk": "Şu agşam telewizor görjek däl.", "ru": "Сегодня вечером я не буду смотреть телевизор." },
+        { "en": "She isn't going to buy that dress.", "tr": "O elbiseyi almayacak.", "tk": "Ol şol köýnegi aljak däl.", "ru": "Она не собирается покупать то платье." },
+        { "en": "We aren't going to stay long.", "tr": "Uzun kalmayacağız.", "tk": "Biz uzak galjak däl.", "ru": "Мы не собираемся долго оставаться." },
+        { "en": "It isn't going to be easy.", "tr": "Kolay olmayacak.", "tk": "Aňsat bolmaz.", "ru": "Это будет непросто." },
+        { "en": "They're not going to sell their house.", "tr": "Evlerini satmayacaklar.", "tk": "Olar öýlerini satjak däl.", "ru": "Они не собираются продавать дом." },
+        { "en": "He isn't going to give up.", "tr": "Pes etmeyecek.", "tk": "Ol ýeňilmez.", "ru": "Он не сдастся." }
+      ],
+      "exercises": [
+        { "question": "I ___ going to eat fast food anymore.", "options": ["amn't", "'m not", "isn't", "aren't"], "answer": 1, "explanation": { "tr": "I → I'm not.", "tk": "I → I'm not.", "ru": "I → I'm not." } },
+        { "question": "He ___ going to help us.", "options": ["isn't", "aren't", "don't", "not"], "answer": 0, "explanation": { "tr": "he → isn't.", "tk": "he → isn't.", "ru": "he → isn't." } },
+        { "question": "We ___ going to be late.", "options": ["isn't", "aren't", "am not", "don't"], "answer": 1, "explanation": { "tr": "we → aren't.", "tk": "we → aren't.", "ru": "we → aren't." } },
+        { "question": "She isn't going ___ the bus.", "options": ["take", "to take", "taking", "takes"], "answer": 1, "explanation": { "tr": "going to + yalın fiil.", "tk": "going to + esasy işlik.", "ru": "going to + глагол." } },
+        { "question": "The weather is great. It ___ going to rain.", "options": ["isn't", "aren't", "won't", "doesn't"], "answer": 0, "explanation": { "tr": "it → isn't.", "tk": "it → isn't.", "ru": "it → isn't." } },
+        { "question": "Make it negative: \"They are going to travel.\"", "options": ["They don't going to travel.", "They aren't going to travel.", "They isn't going to travel.", "They are going not travel."], "answer": 1, "explanation": { "tr": "aren't going to.", "tk": "aren't going to.", "ru": "aren't going to." } },
+        { "question": "My brother ___ going to study medicine.", "options": ["'s not", "not", "aren't", "don't"], "answer": 0, "explanation": { "tr": "he's not = he isn't.", "tk": "he's not = he isn't.", "ru": "he's not = he isn't." } },
+        { "question": "Choose the correct sentence.", "options": ["I'm not going to call him.", "I not going to call him.", "I amn't going to call him.", "I'm not going call him."], "answer": 0, "explanation": { "tr": "I'm not going to + fiil.", "tk": "I'm not going to + işlik.", "ru": "I'm not going to + глагол." } },
+        { "question": "You ___ going to believe this!", "options": ["isn't", "aren't", "am not", "don't"], "answer": 1, "explanation": { "tr": "you → aren't.", "tk": "you → aren't.", "ru": "you → aren't." } },
+        { "question": "Find the mistake: \"She don't going to come.\"", "options": ["She", "don't going", "to come", "There is no mistake"], "answer": 1, "explanation": { "tr": "isn't going.", "tk": "isn't going.", "ru": "isn't going." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – going to-future: Questions and short answers in the going to-future",
+    "title": "going to-future: Questions and Short Answers",
+    "body": {
+      "explanation": {
+        "tr": "going to-future soru: Am/Is/Are + özne + going to + yalın fiil?\n• Are you going to come? Is she going to stay?\n• Kısa cevaplar:\n  Yes, I am. / No, I'm not.\n  Yes, he is. / No, he isn't.\n  Yes, they are. / No, they aren't.\n• Kısa olumlu cevapta kısaltma olmaz: Yes, I am. (✓) – Yes, I'm. (✗)",
+        "tk": "going to-future sorag: Am/Is/Are + eýe + going to + esasy işlik?\n• Are you going to come? Is she going to stay?\n• Gysga jogaplar:\n  Yes, I am. / No, I'm not.\n  Yes, he is. / No, he isn't.\n  Yes, they are. / No, they aren't.\n• Gysga tassyklaýjy jogapda gysgaltma bolmaýar: Yes, I am. (✓) – Yes, I'm. (✗)",
+        "ru": "Вопрос в going to-future: Am/Is/Are + подлежащее + going to + глагол?\n• Are you going to come? Is she going to stay?\n• Краткие ответы:\n  Yes, I am. / No, I'm not.\n  Yes, he is. / No, he isn't.\n  Yes, they are. / No, they aren't.\n• В кратком утвердительном ответе без сокращения: Yes, I am. (✓) – Yes, I'm. (✗)"
+      },
+      "examples": [
+        { "en": "Are you going to buy a ticket? – Yes, I am.", "tr": "Bilet alacak mısın? – Evet.", "tk": "Bilet aljakmy? – Hawa.", "ru": "Ты купишь билет? – Да." },
+        { "en": "Is he going to play tomorrow? – No, he isn't.", "tr": "Yarın oynayacak mı? – Hayır.", "tk": "Ol ertir oýnajakmy? – Ýok.", "ru": "Он будет играть завтра? – Нет." },
+        { "en": "Are they going to get married? – Yes, they are.", "tr": "Evlenecekler mi? – Evet.", "tk": "Olar öýlenjekmi? – Hawa.", "ru": "Они собираются пожениться? – Да." },
+        { "en": "Is it going to snow? – No, it isn't.", "tr": "Kar yağacak mı? – Hayır.", "tk": "Gar ýagjakmy? – Ýok.", "ru": "Пойдёт снег? – Нет." },
+        { "en": "Am I going to need a coat? – Yes, you are.", "tr": "Paltoya ihtiyacım olacak mı? – Evet.", "tk": "Maňa palto gerek bolarmy? – Hawa.", "ru": "Мне понадобится пальто? – Да." },
+        { "en": "Is your sister going to study abroad? – Yes, she is.", "tr": "Kız kardeşin yurt dışında okuyacak mı? – Evet.", "tk": "Uýaň daşary ýurtda okajakmy? – Hawa.", "ru": "Твоя сестра будет учиться за границей? – Да." }
+      ],
+      "exercises": [
+        { "question": "___ you going to visit us?", "options": ["Is", "Are", "Do", "Will"], "answer": 1, "explanation": { "tr": "you → Are.", "tk": "you → Are.", "ru": "you → Are." } },
+        { "question": "___ she going to cook tonight?", "options": ["Are", "Is", "Does", "Am"], "answer": 1, "explanation": { "tr": "she → Is.", "tk": "she → Is.", "ru": "she → Is." } },
+        { "question": "\"Are you going to watch the match?\" – \"Yes, I ___.\"", "options": ["'m", "am", "are", "do"], "answer": 1, "explanation": { "tr": "Yes, I am.", "tk": "Yes, I am.", "ru": "Yes, I am." } },
+        { "question": "\"Is Tom going to come?\" – \"No, he ___.\"", "options": ["isn't", "doesn't", "won't", "aren't"], "answer": 0, "explanation": { "tr": "No, he isn't.", "tk": "No, he isn't.", "ru": "No, he isn't." } },
+        { "question": "\"Are your friends going to help?\" – \"Yes, they ___.\"", "options": ["is", "are", "do", "will"], "answer": 1, "explanation": { "tr": "Yes, they are.", "tk": "Yes, they are.", "ru": "Yes, they are." } },
+        { "question": "Is it going ___ cold tonight?", "options": ["be", "to be", "being", "is"], "answer": 1, "explanation": { "tr": "going to + be.", "tk": "going to + be.", "ru": "going to + be." } },
+        { "question": "___ I going to need a passport?", "options": ["Is", "Are", "Am", "Do"], "answer": 2, "explanation": { "tr": "I → Am.", "tk": "I → Am.", "ru": "I → Am." } },
+        { "question": "Choose the correct question.", "options": ["Are you going to call her?", "Do you going to call her?", "You are going to call her?", "Are you going call her?"], "answer": 0, "explanation": { "tr": "Are + you + going to + fiil.", "tk": "Are + you + going to + işlik.", "ru": "Are + you + going to + глагол." } },
+        { "question": "\"Is it going to rain?\" – \"No, it ___.\"", "options": ["won't", "isn't", "doesn't", "aren't"], "answer": 1, "explanation": { "tr": "No, it isn't.", "tk": "No, it isn't.", "ru": "No, it isn't." } },
+        { "question": "Find the mistake: \"Is they going to stay?\"", "options": ["Is", "they", "going", "to stay"], "answer": 0, "explanation": { "tr": "they → Are.", "tk": "they → Are.", "ru": "they → Are." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – going to-future: Questions in the going to-future",
+    "title": "going to-future: Wh-Questions",
+    "body": {
+      "explanation": {
+        "tr": "Soru kelimeli going to soruları:\n• Soru kelimesi + am/is/are + özne + going to + yalın fiil?\n  What are you going to do? Where is she going to live? When are they going to arrive?\n• Özne sorusu: Who is going to drive? What is going to happen?\n• How long are you going to stay? How much is it going to cost?",
+        "tk": "Sorag sözli going to soraglary:\n• Sorag sözi + am/is/are + eýe + going to + esasy işlik?\n  What are you going to do? Where is she going to live? When are they going to arrive?\n• Eýe soragy: Who is going to drive? What is going to happen?\n• How long are you going to stay? How much is it going to cost?",
+        "ru": "Специальные вопросы с going to:\n• Вопросительное слово + am/is/are + подлежащее + going to + глагол?\n  What are you going to do? Where is she going to live? When are they going to arrive?\n• Вопрос к подлежащему: Who is going to drive? What is going to happen?\n• How long are you going to stay? How much is it going to cost?"
+      },
+      "examples": [
+        { "en": "What are you going to do this weekend?", "tr": "Bu hafta sonu ne yapacaksın?", "tk": "Bu dynç günleri näme etjek?", "ru": "Что ты собираешься делать в выходные?" },
+        { "en": "Where is he going to work?", "tr": "Nerede çalışacak?", "tk": "Ol nirede işlejek?", "ru": "Где он будет работать?" },
+        { "en": "Who is going to cook dinner?", "tr": "Akşam yemeğini kim pişirecek?", "tk": "Agşamlyk naharyny kim bişirjek?", "ru": "Кто будет готовить ужин?" },
+        { "en": "When are they going to leave?", "tr": "Ne zaman gidecekler?", "tk": "Olar haçan gitjek?", "ru": "Когда они уезжают?" },
+        { "en": "How long are you going to stay?", "tr": "Ne kadar kalacaksın?", "tk": "Näçe wagt galjak?", "ru": "Сколько ты пробудешь?" },
+        { "en": "What is going to happen next?", "tr": "Sonra ne olacak?", "tk": "Indi näme boljak?", "ru": "Что будет дальше?" }
+      ],
+      "exercises": [
+        { "question": "What ___ you going to wear?", "options": ["is", "are", "do", "will"], "answer": 1, "explanation": { "tr": "you → are.", "tk": "you → are.", "ru": "you → are." } },
+        { "question": "Where ___ she going to stay?", "options": ["is", "are", "does", "am"], "answer": 0, "explanation": { "tr": "she → is.", "tk": "she → is.", "ru": "she → is." } },
+        { "question": "Who ___ going to pay for dinner?", "options": ["are", "is", "do", "am"], "answer": 1, "explanation": { "tr": "Who (özne) → is.", "tk": "Who (eýe) → is.", "ru": "Who (подлежащее) → is." } },
+        { "question": "When are they going ___ the house?", "options": ["sell", "to sell", "selling", "sold"], "answer": 1, "explanation": { "tr": "going to + yalın fiil.", "tk": "going to + esasy işlik.", "ru": "going to + глагол." } },
+        { "question": "How much ___ it going to cost?", "options": ["are", "is", "does", "will"], "answer": 1, "explanation": { "tr": "it → is.", "tk": "it → is.", "ru": "it → is." } },
+        { "question": "Put in order: (going / you / are / what / to / say)", "options": ["What you are going to say?", "What are you going to say?", "What are going you to say?", "Are what you going to say?"], "answer": 1, "explanation": { "tr": "What + are + you + going to + say.", "tk": "What + are + you + going to + say.", "ru": "What + are + you + going to + say." } },
+        { "question": "Why ___ he going to quit his job?", "options": ["is", "are", "does", "do"], "answer": 0, "explanation": { "tr": "he → is.", "tk": "he → is.", "ru": "he → is." } },
+        { "question": "Choose the correct question.", "options": ["Where you are going to go?", "Where are you going to go?", "Where are you going go?", "Where do you going to go?"], "answer": 1, "explanation": { "tr": "Wh + are + you + going to + fiil.", "tk": "Wh + are + you + going to + işlik.", "ru": "Wh + are + you + going to + глагол." } },
+        { "question": "How long ___ we going to wait?", "options": ["is", "are", "am", "do"], "answer": 1, "explanation": { "tr": "we → are.", "tk": "we → are.", "ru": "we → are." } },
+        { "question": "Find the mistake: \"What is they going to do?\"", "options": ["What", "is", "they", "going to do"], "answer": 1, "explanation": { "tr": "they → are.", "tk": "they → are.", "ru": "they → are." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – going to-future: Sentences and questions in the going to-future",
+    "title": "going to-future: Mixed Practice",
+    "body": {
+      "explanation": {
+        "tr": "going to-future'ın tüm biçimlerini birlikte çalış:\n• Olumlu: I'm going to start yoga.\n• Olumsuz: I'm not going to start yoga.\n• Soru: Are you going to start yoga?\n• Wh-soru: When are you going to start yoga?\n• Kısa cevap: Yes, I am. / No, I'm not.\nam/is/are özneye göre değişir; going to + yalın fiil sabittir.",
+        "tk": "going to-future-iň ähli görnüşlerini bilelikde türgenleş:\n• Tassyklaýjy: I'm going to start yoga.\n• Ýokluk: I'm not going to start yoga.\n• Sorag: Are you going to start yoga?\n• Wh-sorag: When are you going to start yoga?\n• Gysga jogap: Yes, I am. / No, I'm not.\nam/is/are eýä görä üýtgeýär; going to + esasy işlik üýtgemeýär.",
+        "ru": "Тренируй все формы going to-future вместе:\n• Утверждение: I'm going to start yoga.\n• Отрицание: I'm not going to start yoga.\n• Вопрос: Are you going to start yoga?\n• Специальный вопрос: When are you going to start yoga?\n• Краткий ответ: Yes, I am. / No, I'm not.\nam/is/are зависит от подлежащего; going to + глагол не меняется."
+      },
+      "examples": [
+        { "en": "My uncle is going to open a café.", "tr": "Amcam bir kafe açacak.", "tk": "Daýym kafe açjak.", "ru": "Мой дядя собирается открыть кафе." },
+        { "en": "Is he going to open it in the centre?", "tr": "Onu merkezde mi açacak?", "tk": "Ol ony merkezde açjakmy?", "ru": "Он откроет его в центре?" },
+        { "en": "He isn't going to sell coffee only.", "tr": "Sadece kahve satmayacak.", "tk": "Ol diňe kofe satjak däl.", "ru": "Он будет продавать не только кофе." },
+        { "en": "What is he going to call it?", "tr": "Ona ne isim verecek?", "tk": "Ol oňa näme at dakjak?", "ru": "Как он его назовёт?" },
+        { "en": "We are going to celebrate Nowruz together.", "tr": "Nevruz'u birlikte kutlayacağız.", "tk": "Biz Nowruzy bilelikde belläris.", "ru": "Мы вместе отпразднуем Новруз." },
+        { "en": "Are you going to invite your neighbours? – Yes, we are.", "tr": "Komşularınızı davet edecek misiniz? – Evet.", "tk": "Goňşylaryňyzy çagyrjakmy? – Hawa.", "ru": "Вы пригласите соседей? – Да." }
+      ],
+      "exercises": [
+        { "question": "My sister ___ (study) law.", "options": ["is going to study", "are going to study", "is going study", "going to study"], "answer": 0, "explanation": { "tr": "sister → is going to.", "tk": "sister → is going to.", "ru": "sister → is going to." } },
+        { "question": "Make a question: \"They are going to move.\"", "options": ["Are they going to move?", "Do they going to move?", "Is they going to move?", "They are going to move?"], "answer": 0, "explanation": { "tr": "Are + they + going to.", "tk": "Are + they + going to.", "ru": "Are + they + going to." } },
+        { "question": "Make it negative: \"I am going to cry.\"", "options": ["I amn't going to cry.", "I'm not going to cry.", "I don't going to cry.", "I not going to cry."], "answer": 1, "explanation": { "tr": "I'm not going to.", "tk": "I'm not going to.", "ru": "I'm not going to." } },
+        { "question": "\"Is she going to drive?\" – \"Yes, she ___.\"", "options": ["is", "does", "will", "'s"], "answer": 0, "explanation": { "tr": "Yes, she is.", "tk": "Yes, she is.", "ru": "Yes, she is." } },
+        { "question": "What ___ you ___ (buy) for her birthday?", "options": ["are / going to buy", "is / going to buy", "do / going to buy", "are / going buy"], "answer": 0, "explanation": { "tr": "What are you going to buy?", "tk": "What are you going to buy?", "ru": "What are you going to buy?" } },
+        { "question": "It's 8:55 and the bus leaves at 9:00. We ___ miss it!", "options": ["will", "are going to", "is going to", "going to"], "answer": 1, "explanation": { "tr": "Görünür işaret → are going to.", "tk": "Görünýän alamat → are going to.", "ru": "Очевидно → are going to." } },
+        { "question": "\"Are your parents going to come?\" – \"No, they ___.\"", "options": ["aren't", "don't", "won't", "isn't"], "answer": 0, "explanation": { "tr": "No, they aren't.", "tk": "No, they aren't.", "ru": "No, they aren't." } },
+        { "question": "He ___ (not / sell) his bike.", "options": ["isn't going to sell", "aren't going to sell", "doesn't going to sell", "isn't going sell"], "answer": 0, "explanation": { "tr": "isn't going to + sell.", "tk": "isn't going to + sell.", "ru": "isn't going to + sell." } },
+        { "question": "Choose the correct sentence.", "options": ["We're going to have a picnic on Sunday.", "We going to have a picnic on Sunday.", "We're going have a picnic on Sunday.", "We're go to have a picnic on Sunday."], "answer": 0, "explanation": { "tr": "We're going to + fiil.", "tk": "We're going to + işlik.", "ru": "We're going to + глагол." } },
+        { "question": "Find the mistake: \"Are you going to visiting Ashgabat?\"", "options": ["Are you", "going to", "visiting", "Ashgabat"], "answer": 2, "explanation": { "tr": "visiting → visit.", "tk": "visiting → visit.", "ru": "visiting → visit." } }
+      ]
+    }
+  }
+]

@@ -1,0 +1,3579 @@
+{
+  "source": "/home/yagshy/Desktop/oxford",
+  "irregularVerbs": [
+    {
+      "base": "abide",
+      "past": "abided",
+      "participle": "abided",
+      "level": "C2"
+    },
+    {
+      "base": "arise",
+      "past": "arose",
+      "participle": "arisen",
+      "level": "B2"
+    },
+    {
+      "base": "awake",
+      "past": "awoke",
+      "participle": "awoken",
+      "level": "B2"
+    },
+    {
+      "base": "be",
+      "past": "was/were",
+      "participle": "been",
+      "level": "A1"
+    },
+    {
+      "base": "bear",
+      "past": "bore",
+      "participle": "borne",
+      "level": "B2"
+    },
+    {
+      "base": "beat",
+      "past": "beat",
+      "participle": "beaten",
+      "level": "A2"
+    },
+    {
+      "base": "become",
+      "past": "became",
+      "participle": "become",
+      "level": "A2"
+    },
+    {
+      "base": "befall",
+      "past": "befell",
+      "participle": "befallen",
+      "level": "C2"
+    },
+    {
+      "base": "beget",
+      "past": "begot",
+      "participle": "begotten",
+      "level": "C2"
+    },
+    {
+      "base": "begin",
+      "past": "began",
+      "participle": "begun",
+      "level": "A1"
+    },
+    {
+      "base": "behold",
+      "past": "beheld",
+      "participle": "beheld",
+      "level": "C2"
+    },
+    {
+      "base": "bend",
+      "past": "bent",
+      "participle": "bent",
+      "level": "B1"
+    },
+    {
+      "base": "bereave",
+      "past": "bereft",
+      "participle": "bereft",
+      "level": "C2"
+    },
+    {
+      "base": "beseech",
+      "past": "besought",
+      "participle": "besought",
+      "level": "C2"
+    },
+    {
+      "base": "beset",
+      "past": "beset",
+      "participle": "beset",
+      "level": "C2"
+    },
+    {
+      "base": "bespeak",
+      "past": "bespoke",
+      "participle": "bespoken",
+      "level": "C2"
+    },
+    {
+      "base": "bestride",
+      "past": "bestrode",
+      "participle": "bestridden",
+      "level": "C2"
+    },
+    {
+      "base": "bet",
+      "past": "bet",
+      "participle": "bet",
+      "level": "B1"
+    },
+    {
+      "base": "bid",
+      "past": "bid",
+      "participle": "bid",
+      "level": "C1"
+    },
+    {
+      "base": "bind",
+      "past": "bound",
+      "participle": "bound",
+      "level": "C1"
+    },
+    {
+      "base": "bite",
+      "past": "bit",
+      "participle": "bitten",
+      "level": "B1"
+    },
+    {
+      "base": "bleed",
+      "past": "bled",
+      "participle": "bled",
+      "level": "B2"
+    },
+    {
+      "base": "blow",
+      "past": "blew",
+      "participle": "blown",
+      "level": "B1"
+    },
+    {
+      "base": "break",
+      "past": "broke",
+      "participle": "broken",
+      "level": "A2"
+    },
+    {
+      "base": "breed",
+      "past": "bred",
+      "participle": "bred",
+      "level": "C1"
+    },
+    {
+      "base": "bring",
+      "past": "brought",
+      "participle": "brought",
+      "level": "A1"
+    },
+    {
+      "base": "broadcast",
+      "past": "broadcast",
+      "participle": "broadcast",
+      "level": "B2"
+    },
+    {
+      "base": "build",
+      "past": "built",
+      "participle": "built",
+      "level": "A2"
+    },
+    {
+      "base": "burn",
+      "past": "burned",
+      "participle": "burned",
+      "level": "B1"
+    },
+    {
+      "base": "burst",
+      "past": "burst",
+      "participle": "burst",
+      "level": "B2"
+    },
+    {
+      "base": "buy",
+      "past": "bought",
+      "participle": "bought",
+      "level": "A1"
+    },
+    {
+      "base": "can",
+      "past": "could",
+      "participle": "could",
+      "level": "A1"
+    },
+    {
+      "base": "cast",
+      "past": "cast",
+      "participle": "cast",
+      "level": "C1"
+    },
+    {
+      "base": "catch",
+      "past": "caught",
+      "participle": "caught",
+      "level": "A2"
+    },
+    {
+      "base": "choose",
+      "past": "chose",
+      "participle": "chosen",
+      "level": "A2"
+    },
+    {
+      "base": "cling",
+      "past": "clung",
+      "participle": "clung",
+      "level": "C1"
+    },
+    {
+      "base": "come",
+      "past": "came",
+      "participle": "come",
+      "level": "A1"
+    },
+    {
+      "base": "cost",
+      "past": "cost",
+      "participle": "cost",
+      "level": "A2"
+    },
+    {
+      "base": "creep",
+      "past": "crept",
+      "participle": "crept",
+      "level": "C1"
+    },
+    {
+      "base": "cut",
+      "past": "cut",
+      "participle": "cut",
+      "level": "A2"
+    },
+    {
+      "base": "deal",
+      "past": "dealt",
+      "participle": "dealt",
+      "level": "B2"
+    },
+    {
+      "base": "dig",
+      "past": "dug",
+      "participle": "dug",
+      "level": "B1"
+    },
+    {
+      "base": "dive",
+      "past": "dived",
+      "participle": "dived",
+      "level": "B1"
+    },
+    {
+      "base": "do",
+      "past": "did",
+      "participle": "done",
+      "level": "A1"
+    },
+    {
+      "base": "draw",
+      "past": "drew",
+      "participle": "drawn",
+      "level": "A1"
+    },
+    {
+      "base": "dream",
+      "past": "dreamed",
+      "participle": "dreamed",
+      "level": "A2"
+    },
+    {
+      "base": "drink",
+      "past": "drank",
+      "participle": "drunk",
+      "level": "A1"
+    },
+    {
+      "base": "drive",
+      "past": "drove",
+      "participle": "driven",
+      "level": "A1"
+    },
+    {
+      "base": "dwell",
+      "past": "dwelt",
+      "participle": "dwelt",
+      "level": "C2"
+    },
+    {
+      "base": "eat",
+      "past": "ate",
+      "participle": "eaten",
+      "level": "A1"
+    },
+    {
+      "base": "fall",
+      "past": "fell",
+      "participle": "fallen",
+      "level": "A2"
+    },
+    {
+      "base": "feed",
+      "past": "fed",
+      "participle": "fed",
+      "level": "B1"
+    },
+    {
+      "base": "feel",
+      "past": "felt",
+      "participle": "felt",
+      "level": "A1"
+    },
+    {
+      "base": "fight",
+      "past": "fought",
+      "participle": "fought",
+      "level": "B1"
+    },
+    {
+      "base": "find",
+      "past": "found",
+      "participle": "found",
+      "level": "A1"
+    },
+    {
+      "base": "fit",
+      "past": "fitted",
+      "participle": "fitted",
+      "level": "B1"
+    },
+    {
+      "base": "flee",
+      "past": "fled",
+      "participle": "fled",
+      "level": "C1"
+    },
+    {
+      "base": "fling",
+      "past": "flung",
+      "participle": "flung",
+      "level": "C2"
+    },
+    {
+      "base": "fly",
+      "past": "flew",
+      "participle": "flown",
+      "level": "A2"
+    },
+    {
+      "base": "forbid",
+      "past": "forbade",
+      "participle": "forbidden",
+      "level": "B2"
+    },
+    {
+      "base": "forecast",
+      "past": "forecast",
+      "participle": "forecast",
+      "level": "B2"
+    },
+    {
+      "base": "foresee",
+      "past": "foresaw",
+      "participle": "foreseen",
+      "level": "C1"
+    },
+    {
+      "base": "foretell",
+      "past": "foretold",
+      "participle": "foretold",
+      "level": "C2"
+    },
+    {
+      "base": "forget",
+      "past": "forgot",
+      "participle": "forgotten",
+      "level": "A1"
+    },
+    {
+      "base": "forgive",
+      "past": "forgave",
+      "participle": "forgiven",
+      "level": "B1"
+    },
+    {
+      "base": "forsake",
+      "past": "forsook",
+      "participle": "forsaken",
+      "level": "C2"
+    },
+    {
+      "base": "freeze",
+      "past": "froze",
+      "participle": "frozen",
+      "level": "B1"
+    },
+    {
+      "base": "get",
+      "past": "got",
+      "participle": "got",
+      "level": "A1"
+    },
+    {
+      "base": "give",
+      "past": "gave",
+      "participle": "given",
+      "level": "A1"
+    },
+    {
+      "base": "go",
+      "past": "went",
+      "participle": "gone",
+      "level": "A1"
+    },
+    {
+      "base": "grind",
+      "past": "ground",
+      "participle": "ground",
+      "level": "C1"
+    },
+    {
+      "base": "grow",
+      "past": "grew",
+      "participle": "grown",
+      "level": "A2"
+    },
+    {
+      "base": "hang",
+      "past": "hung",
+      "participle": "hung",
+      "level": "B1"
+    },
+    {
+      "base": "have",
+      "past": "had",
+      "participle": "had",
+      "level": "A1"
+    },
+    {
+      "base": "hear",
+      "past": "heard",
+      "participle": "heard",
+      "level": "A1"
+    },
+    {
+      "base": "hide",
+      "past": "hid",
+      "participle": "hidden",
+      "level": "B1"
+    },
+    {
+      "base": "hit",
+      "past": "hit",
+      "participle": "hit",
+      "level": "A2"
+    },
+    {
+      "base": "hold",
+      "past": "held",
+      "participle": "held",
+      "level": "A2"
+    },
+    {
+      "base": "hurt",
+      "past": "hurt",
+      "participle": "hurt",
+      "level": "A2"
+    },
+    {
+      "base": "interweave",
+      "past": "interwove",
+      "participle": "interwoven",
+      "level": "C2"
+    },
+    {
+      "base": "keep",
+      "past": "kept",
+      "participle": "kept",
+      "level": "A2"
+    },
+    {
+      "base": "kneel",
+      "past": "knelt",
+      "participle": "knelt",
+      "level": "C1"
+    },
+    {
+      "base": "know",
+      "past": "knew",
+      "participle": "known",
+      "level": "A1"
+    },
+    {
+      "base": "lay",
+      "past": "laid",
+      "participle": "laid",
+      "level": "B2"
+    },
+    {
+      "base": "lead",
+      "past": "led",
+      "participle": "led",
+      "level": "B1"
+    },
+    {
+      "base": "lean",
+      "past": "leaned",
+      "participle": "leaned",
+      "level": "B2"
+    },
+    {
+      "base": "leap",
+      "past": "leapt",
+      "participle": "leapt",
+      "level": "C1"
+    },
+    {
+      "base": "learn",
+      "past": "learned",
+      "participle": "learned",
+      "level": "A1"
+    },
+    {
+      "base": "leave",
+      "past": "left",
+      "participle": "left",
+      "level": "A1"
+    },
+    {
+      "base": "lend",
+      "past": "lent",
+      "participle": "lent",
+      "level": "A2"
+    },
+    {
+      "base": "let",
+      "past": "let",
+      "participle": "let",
+      "level": "A2"
+    },
+    {
+      "base": "lie",
+      "past": "lay",
+      "participle": "lain",
+      "level": "B2"
+    },
+    {
+      "base": "light",
+      "past": "lit",
+      "participle": "lit",
+      "level": "B1"
+    },
+    {
+      "base": "lose",
+      "past": "lost",
+      "participle": "lost",
+      "level": "A1"
+    },
+    {
+      "base": "make",
+      "past": "made",
+      "participle": "made",
+      "level": "A1"
+    },
+    {
+      "base": "mean",
+      "past": "meant",
+      "participle": "meant",
+      "level": "A2"
+    },
+    {
+      "base": "meet",
+      "past": "met",
+      "participle": "met",
+      "level": "A1"
+    },
+    {
+      "base": "mistake",
+      "past": "mistook",
+      "participle": "mistaken",
+      "level": "B2"
+    },
+    {
+      "base": "overhear",
+      "past": "overheard",
+      "participle": "overheard",
+      "level": "C1"
+    },
+    {
+      "base": "oversleep",
+      "past": "overslept",
+      "participle": "overslept",
+      "level": "B2"
+    },
+    {
+      "base": "pay",
+      "past": "paid",
+      "participle": "paid",
+      "level": "A1"
+    },
+    {
+      "base": "plead",
+      "past": "pleaded",
+      "participle": "pled",
+      "level": "C1"
+    },
+    {
+      "base": "prove",
+      "past": "proved",
+      "participle": "proven",
+      "level": "B1"
+    },
+    {
+      "base": "put",
+      "past": "put",
+      "participle": "put",
+      "level": "A1"
+    },
+    {
+      "base": "quit",
+      "past": "quit",
+      "participle": "quit",
+      "level": "B2"
+    },
+    {
+      "base": "read",
+      "past": "read",
+      "participle": "read",
+      "level": "A1"
+    },
+    {
+      "base": "rend",
+      "past": "rent",
+      "participle": "rent",
+      "level": "C2"
+    },
+    {
+      "base": "rid",
+      "past": "rid",
+      "participle": "rid",
+      "level": "B2"
+    },
+    {
+      "base": "ride",
+      "past": "rode",
+      "participle": "ridden",
+      "level": "A1"
+    },
+    {
+      "base": "ring",
+      "past": "rang",
+      "participle": "rung",
+      "level": "A2"
+    },
+    {
+      "base": "rise",
+      "past": "rose",
+      "participle": "risen",
+      "level": "B1"
+    },
+    {
+      "base": "run",
+      "past": "ran",
+      "participle": "run",
+      "level": "A1"
+    },
+    {
+      "base": "say",
+      "past": "said",
+      "participle": "said",
+      "level": "A1"
+    },
+    {
+      "base": "see",
+      "past": "saw",
+      "participle": "seen",
+      "level": "A1"
+    },
+    {
+      "base": "seek",
+      "past": "sought",
+      "participle": "sought",
+      "level": "C1"
+    },
+    {
+      "base": "sell",
+      "past": "sold",
+      "participle": "sold",
+      "level": "A1"
+    },
+    {
+      "base": "send",
+      "past": "sent",
+      "participle": "sent",
+      "level": "A1"
+    },
+    {
+      "base": "set",
+      "past": "set",
+      "participle": "set",
+      "level": "B1"
+    },
+    {
+      "base": "sew",
+      "past": "sewed",
+      "participle": "sewn",
+      "level": "B2"
+    },
+    {
+      "base": "shake",
+      "past": "shook",
+      "participle": "shaken",
+      "level": "B1"
+    },
+    {
+      "base": "shed",
+      "past": "shed",
+      "participle": "shed",
+      "level": "C1"
+    },
+    {
+      "base": "shine",
+      "past": "shone",
+      "participle": "shone",
+      "level": "B1"
+    },
+    {
+      "base": "shit",
+      "past": "shat",
+      "participle": "shat",
+      "level": "C2"
+    },
+    {
+      "base": "shoot",
+      "past": "shot",
+      "participle": "shot",
+      "level": "B1"
+    },
+    {
+      "base": "show",
+      "past": "showed",
+      "participle": "shown",
+      "level": "A1"
+    },
+    {
+      "base": "shrink",
+      "past": "shrank",
+      "participle": "shrunk",
+      "level": "B2"
+    },
+    {
+      "base": "shrive",
+      "past": "shrove",
+      "participle": "shriven",
+      "level": "C2"
+    },
+    {
+      "base": "shut",
+      "past": "shut",
+      "participle": "shut",
+      "level": "A2"
+    },
+    {
+      "base": "sing",
+      "past": "sang",
+      "participle": "sung",
+      "level": "A1"
+    },
+    {
+      "base": "sink",
+      "past": "sank",
+      "participle": "sunk",
+      "level": "B2"
+    },
+    {
+      "base": "sit",
+      "past": "sat",
+      "participle": "sat",
+      "level": "A1"
+    },
+    {
+      "base": "slay",
+      "past": "slew",
+      "participle": "slain",
+      "level": "C2"
+    },
+    {
+      "base": "sleep",
+      "past": "slept",
+      "participle": "slept",
+      "level": "A1"
+    },
+    {
+      "base": "slide",
+      "past": "slid",
+      "participle": "slid",
+      "level": "B2"
+    },
+    {
+      "base": "sling",
+      "past": "slung",
+      "participle": "slung",
+      "level": "C2"
+    },
+    {
+      "base": "slink",
+      "past": "slunk",
+      "participle": "slunk",
+      "level": "C2"
+    },
+    {
+      "base": "slit",
+      "past": "slit",
+      "participle": "slit",
+      "level": "C2"
+    },
+    {
+      "base": "smell",
+      "past": "smelled",
+      "participle": "smelled",
+      "level": "A2"
+    },
+    {
+      "base": "smite",
+      "past": "smote",
+      "participle": "smitten",
+      "level": "C2"
+    },
+    {
+      "base": "speak",
+      "past": "spoke",
+      "participle": "spoken",
+      "level": "A1"
+    },
+    {
+      "base": "speed",
+      "past": "sped",
+      "participle": "sped",
+      "level": "B2"
+    },
+    {
+      "base": "spend",
+      "past": "spent",
+      "participle": "spent",
+      "level": "A2"
+    },
+    {
+      "base": "spin",
+      "past": "spun",
+      "participle": "spun",
+      "level": "B2"
+    },
+    {
+      "base": "spit",
+      "past": "spat",
+      "participle": "spat",
+      "level": "C1"
+    },
+    {
+      "base": "split",
+      "past": "split",
+      "participle": "split",
+      "level": "B2"
+    },
+    {
+      "base": "spoil",
+      "past": "spoiled",
+      "participle": "spoiled",
+      "level": "B2"
+    },
+    {
+      "base": "spread",
+      "past": "spread",
+      "participle": "spread",
+      "level": "B2"
+    },
+    {
+      "base": "spring",
+      "past": "sprang",
+      "participle": "sprung",
+      "level": "C1"
+    },
+    {
+      "base": "stand",
+      "past": "stood",
+      "participle": "stood",
+      "level": "A2"
+    },
+    {
+      "base": "steal",
+      "past": "stole",
+      "participle": "stolen",
+      "level": "B1"
+    },
+    {
+      "base": "stick",
+      "past": "stuck",
+      "participle": "stuck",
+      "level": "B1"
+    },
+    {
+      "base": "sting",
+      "past": "stung",
+      "participle": "stung",
+      "level": "C1"
+    },
+    {
+      "base": "stink",
+      "past": "stank",
+      "participle": "stunk",
+      "level": "C1"
+    },
+    {
+      "base": "stride",
+      "past": "strode",
+      "participle": "stridden",
+      "level": "C2"
+    },
+    {
+      "base": "strike",
+      "past": "struck",
+      "participle": "struck",
+      "level": "B2"
+    },
+    {
+      "base": "string",
+      "past": "strung",
+      "participle": "strung",
+      "level": "C2"
+    },
+    {
+      "base": "strive",
+      "past": "strove",
+      "participle": "striven",
+      "level": "C2"
+    },
+    {
+      "base": "swear",
+      "past": "swore",
+      "participle": "sworn",
+      "level": "B2"
+    },
+    {
+      "base": "sweep",
+      "past": "swept",
+      "participle": "swept",
+      "level": "B2"
+    },
+    {
+      "base": "swell",
+      "past": "swelled",
+      "participle": "swollen",
+      "level": "C1"
+    },
+    {
+      "base": "swim",
+      "past": "swam",
+      "participle": "swum",
+      "level": "A1"
+    },
+    {
+      "base": "swing",
+      "past": "swung",
+      "participle": "swung",
+      "level": "B2"
+    },
+    {
+      "base": "take",
+      "past": "took",
+      "participle": "taken",
+      "level": "A1"
+    },
+    {
+      "base": "teach",
+      "past": "taught",
+      "participle": "taught",
+      "level": "A1"
+    },
+    {
+      "base": "tear",
+      "past": "tore",
+      "participle": "torn",
+      "level": "B2"
+    },
+    {
+      "base": "tell",
+      "past": "told",
+      "participle": "told",
+      "level": "A1"
+    },
+    {
+      "base": "think",
+      "past": "thought",
+      "participle": "thought",
+      "level": "A1"
+    },
+    {
+      "base": "throw",
+      "past": "threw",
+      "participle": "thrown",
+      "level": "A2"
+    },
+    {
+      "base": "thrust",
+      "past": "thrust",
+      "participle": "thrust",
+      "level": "C2"
+    },
+    {
+      "base": "tread",
+      "past": "trod",
+      "participle": "trodden",
+      "level": "C2"
+    },
+    {
+      "base": "understand",
+      "past": "understood",
+      "participle": "understood",
+      "level": "A1"
+    },
+    {
+      "base": "undertake",
+      "past": "undertook",
+      "participle": "undertaken",
+      "level": "C1"
+    },
+    {
+      "base": "undo",
+      "past": "undid",
+      "participle": "undone",
+      "level": "B2"
+    },
+    {
+      "base": "upset",
+      "past": "upset",
+      "participle": "upset",
+      "level": "B1"
+    },
+    {
+      "base": "wake",
+      "past": "woke",
+      "participle": "woken",
+      "level": "A2"
+    },
+    {
+      "base": "wear",
+      "past": "wore",
+      "participle": "worn",
+      "level": "A2"
+    },
+    {
+      "base": "weave",
+      "past": "wove",
+      "participle": "woven",
+      "level": "C1"
+    },
+    {
+      "base": "wed",
+      "past": "wed",
+      "participle": "wed",
+      "level": "C2"
+    },
+    {
+      "base": "weep",
+      "past": "wept",
+      "participle": "wept",
+      "level": "C1"
+    },
+    {
+      "base": "wet",
+      "past": "wet",
+      "participle": "wet",
+      "level": "B2"
+    },
+    {
+      "base": "win",
+      "past": "won",
+      "participle": "won",
+      "level": "A1"
+    },
+    {
+      "base": "wind",
+      "past": "wound",
+      "participle": "wound",
+      "level": "B2"
+    },
+    {
+      "base": "withdraw",
+      "past": "withdrew",
+      "participle": "withdrawn",
+      "level": "B2"
+    },
+    {
+      "base": "withstand",
+      "past": "withstood",
+      "participle": "withstood",
+      "level": "C1"
+    },
+    {
+      "base": "wring",
+      "past": "wrung",
+      "participle": "wrung",
+      "level": "C2"
+    },
+    {
+      "base": "write",
+      "past": "wrote",
+      "participle": "written",
+      "level": "A1"
+    }
+  ],
+  "verbs": [
+    {
+      "word": "accept",
+      "level": "B1"
+    },
+    {
+      "word": "accuse",
+      "level": "B2"
+    },
+    {
+      "word": "achieve",
+      "level": "B1"
+    },
+    {
+      "word": "acknowledge",
+      "level": "C1"
+    },
+    {
+      "word": "acquire",
+      "level": "B2"
+    },
+    {
+      "word": "adapt",
+      "level": "B2"
+    },
+    {
+      "word": "add",
+      "level": "A2"
+    },
+    {
+      "word": "adjust",
+      "level": "B2"
+    },
+    {
+      "word": "admire",
+      "level": "B1"
+    },
+    {
+      "word": "admit",
+      "level": "B1"
+    },
+    {
+      "word": "adopt",
+      "level": "B2"
+    },
+    {
+      "word": "adore",
+      "level": "B2"
+    },
+    {
+      "word": "advise",
+      "level": "B1"
+    },
+    {
+      "word": "afford",
+      "level": "B1"
+    },
+    {
+      "word": "agree",
+      "level": "A2"
+    },
+    {
+      "word": "aim",
+      "level": "B2"
+    },
+    {
+      "word": "allow",
+      "level": "B1"
+    },
+    {
+      "word": "announce",
+      "level": "B1"
+    },
+    {
+      "word": "anticipate",
+      "level": "C1"
+    },
+    {
+      "word": "apologize",
+      "level": "B1"
+    },
+    {
+      "word": "appear",
+      "level": "B1"
+    },
+    {
+      "word": "apply",
+      "level": "B1"
+    },
+    {
+      "word": "appreciate",
+      "level": "B1"
+    },
+    {
+      "word": "approach",
+      "level": "B2"
+    },
+    {
+      "word": "approve",
+      "level": "B2"
+    },
+    {
+      "word": "argue",
+      "level": "B1"
+    },
+    {
+      "word": "arise",
+      "level": "C1"
+    },
+    {
+      "word": "arrange",
+      "level": "B1"
+    },
+    {
+      "word": "arrive",
+      "level": "A2"
+    },
+    {
+      "word": "ask",
+      "level": "A1"
+    },
+    {
+      "word": "assume",
+      "level": "B2"
+    },
+    {
+      "word": "assure",
+      "level": "C1"
+    },
+    {
+      "word": "astonish",
+      "level": "C1"
+    },
+    {
+      "word": "attach",
+      "level": "B1"
+    },
+    {
+      "word": "attempt",
+      "level": "B2"
+    },
+    {
+      "word": "attend",
+      "level": "B1"
+    },
+    {
+      "word": "attract",
+      "level": "B1"
+    },
+    {
+      "word": "avoid",
+      "level": "B1"
+    },
+    {
+      "word": "awake",
+      "level": "B2"
+    },
+    {
+      "word": "bake",
+      "level": "A2"
+    },
+    {
+      "word": "bathe",
+      "level": "B2"
+    },
+    {
+      "word": "be",
+      "level": "A1"
+    },
+    {
+      "word": "bear",
+      "level": "B2"
+    },
+    {
+      "word": "beat",
+      "level": "B1"
+    },
+    {
+      "word": "become",
+      "level": "A2"
+    },
+    {
+      "word": "beg",
+      "level": "B2"
+    },
+    {
+      "word": "begin",
+      "level": "A1"
+    },
+    {
+      "word": "behave",
+      "level": "B1"
+    },
+    {
+      "word": "believe",
+      "level": "A2"
+    },
+    {
+      "word": "belong",
+      "level": "B1"
+    },
+    {
+      "word": "bend",
+      "level": "B1"
+    },
+    {
+      "word": "bet",
+      "level": "B2"
+    },
+    {
+      "word": "bind",
+      "level": "C2"
+    },
+    {
+      "word": "bite",
+      "level": "B1"
+    },
+    {
+      "word": "bleed",
+      "level": "B2"
+    },
+    {
+      "word": "blow",
+      "level": "B1"
+    },
+    {
+      "word": "boil",
+      "level": "A2"
+    },
+    {
+      "word": "borrow",
+      "level": "A2"
+    },
+    {
+      "word": "bounce",
+      "level": "B2"
+    },
+    {
+      "word": "bow",
+      "level": "B2"
+    },
+    {
+      "word": "break",
+      "level": "A2"
+    },
+    {
+      "word": "breed",
+      "level": "C1"
+    },
+    {
+      "word": "bring",
+      "level": "A1"
+    },
+    {
+      "word": "broadcast",
+      "level": "B2"
+    },
+    {
+      "word": "build",
+      "level": "A2"
+    },
+    {
+      "word": "burn",
+      "level": "B1"
+    },
+    {
+      "word": "burst",
+      "level": "B2"
+    },
+    {
+      "word": "buy",
+      "level": "A1"
+    },
+    {
+      "word": "calculate",
+      "level": "B1"
+    },
+    {
+      "word": "can",
+      "level": "A1"
+    },
+    {
+      "word": "could",
+      "level": "A1"
+    },
+    {
+      "word": "care",
+      "level": "A2"
+    },
+    {
+      "word": "carry",
+      "level": "A2"
+    },
+    {
+      "word": "catch",
+      "level": "A2"
+    },
+    {
+      "word": "celebrate",
+      "level": "A2"
+    },
+    {
+      "word": "change",
+      "level": "A1"
+    },
+    {
+      "word": "choose",
+      "level": "A2"
+    },
+    {
+      "word": "chop",
+      "level": "B2"
+    },
+    {
+      "word": "claim",
+      "level": "B2"
+    },
+    {
+      "word": "climb",
+      "level": "A2"
+    },
+    {
+      "word": "cling",
+      "level": "C2"
+    },
+    {
+      "word": "come",
+      "level": "A1"
+    },
+    {
+      "word": "commit",
+      "level": "B2"
+    },
+    {
+      "word": "communicate",
+      "level": "B1"
+    },
+    {
+      "word": "compare",
+      "level": "A2"
+    },
+    {
+      "word": "compete",
+      "level": "B1"
+    },
+    {
+      "word": "complain",
+      "level": "B1"
+    },
+    {
+      "word": "complete",
+      "level": "A2"
+    },
+    {
+      "word": "concern",
+      "level": "B2"
+    },
+    {
+      "word": "confirm",
+      "level": "B1"
+    },
+    {
+      "word": "consent",
+      "level": "C1"
+    },
+    {
+      "word": "consider",
+      "level": "B1"
+    },
+    {
+      "word": "consist",
+      "level": "B2"
+    },
+    {
+      "word": "consult",
+      "level": "B2"
+    },
+    {
+      "word": "contain",
+      "level": "B1"
+    },
+    {
+      "word": "continue",
+      "level": "A2"
+    },
+    {
+      "word": "convince",
+      "level": "B2"
+    },
+    {
+      "word": "cook",
+      "level": "A1"
+    },
+    {
+      "word": "cost",
+      "level": "A2"
+    },
+    {
+      "word": "count",
+      "level": "A2"
+    },
+    {
+      "word": "crawl",
+      "level": "B2"
+    },
+    {
+      "word": "create",
+      "level": "B1"
+    },
+    {
+      "word": "creep",
+      "level": "C1"
+    },
+    {
+      "word": "criticize",
+      "level": "B2"
+    },
+    {
+      "word": "cry",
+      "level": "A2"
+    },
+    {
+      "word": "cut",
+      "level": "A2"
+    },
+    {
+      "word": "dance",
+      "level": "A1"
+    },
+    {
+      "word": "dare",
+      "level": "B2"
+    },
+    {
+      "word": "deal",
+      "level": "B1"
+    },
+    {
+      "word": "decide",
+      "level": "A2"
+    },
+    {
+      "word": "defer",
+      "level": "C2"
+    },
+    {
+      "word": "delay",
+      "level": "B1"
+    },
+    {
+      "word": "deliver",
+      "level": "B1"
+    },
+    {
+      "word": "demand",
+      "level": "B2"
+    },
+    {
+      "word": "deny",
+      "level": "B2"
+    },
+    {
+      "word": "depend",
+      "level": "B1"
+    },
+    {
+      "word": "describe",
+      "level": "A2"
+    },
+    {
+      "word": "deserve",
+      "level": "B2"
+    },
+    {
+      "word": "desire",
+      "level": "C1"
+    },
+    {
+      "word": "destroy",
+      "level": "B1"
+    },
+    {
+      "word": "determine",
+      "level": "B2"
+    },
+    {
+      "word": "develop",
+      "level": "B1"
+    },
+    {
+      "word": "differ",
+      "level": "B2"
+    },
+    {
+      "word": "dig",
+      "level": "B1"
+    },
+    {
+      "word": "disagree",
+      "level": "B1"
+    },
+    {
+      "word": "discover",
+      "level": "A2"
+    },
+    {
+      "word": "discuss",
+      "level": "A2"
+    },
+    {
+      "word": "dislike",
+      "level": "B1"
+    },
+    {
+      "word": "distribute",
+      "level": "B2"
+    },
+    {
+      "word": "dive",
+      "level": "B1"
+    },
+    {
+      "word": "do",
+      "level": "A1"
+    },
+    {
+      "word": "doubt",
+      "level": "B2"
+    },
+    {
+      "word": "drag",
+      "level": "B2"
+    },
+    {
+      "word": "draw",
+      "level": "A1"
+    },
+    {
+      "word": "dream",
+      "level": "A2"
+    },
+    {
+      "word": "drill",
+      "level": "C1"
+    },
+    {
+      "word": "drink",
+      "level": "A1"
+    },
+    {
+      "word": "drive",
+      "level": "A1"
+    },
+    {
+      "word": "drop",
+      "level": "B1"
+    },
+    {
+      "word": "dry",
+      "level": "A2"
+    },
+    {
+      "word": "earn",
+      "level": "B1"
+    },
+    {
+      "word": "eat",
+      "level": "A1"
+    },
+    {
+      "word": "emphasize",
+      "level": "B2"
+    },
+    {
+      "word": "enable",
+      "level": "B2"
+    },
+    {
+      "word": "encourage",
+      "level": "B1"
+    },
+    {
+      "word": "engage",
+      "level": "C1"
+    },
+    {
+      "word": "enhance",
+      "level": "C1"
+    },
+    {
+      "word": "enjoy",
+      "level": "A1"
+    },
+    {
+      "word": "ensure",
+      "level": "B2"
+    },
+    {
+      "word": "entail",
+      "level": "C2"
+    },
+    {
+      "word": "enter",
+      "level": "A2"
+    },
+    {
+      "word": "establish",
+      "level": "B2"
+    },
+    {
+      "word": "examine",
+      "level": "B2"
+    },
+    {
+      "word": "exist",
+      "level": "B1"
+    },
+    {
+      "word": "expand",
+      "level": "B2"
+    },
+    {
+      "word": "expect",
+      "level": "B1"
+    },
+    {
+      "word": "experiment",
+      "level": "B2"
+    },
+    {
+      "word": "explain",
+      "level": "A2"
+    },
+    {
+      "word": "explore",
+      "level": "B1"
+    },
+    {
+      "word": "extend",
+      "level": "B2"
+    },
+    {
+      "word": "fail",
+      "level": "B1"
+    },
+    {
+      "word": "fall",
+      "level": "A2"
+    },
+    {
+      "word": "feed",
+      "level": "B1"
+    },
+    {
+      "word": "feel",
+      "level": "A1"
+    },
+    {
+      "word": "fight",
+      "level": "B1"
+    },
+    {
+      "word": "find",
+      "level": "A1"
+    },
+    {
+      "word": "finish",
+      "level": "A1"
+    },
+    {
+      "word": "fit",
+      "level": "B1"
+    },
+    {
+      "word": "fly",
+      "level": "A1"
+    },
+    {
+      "word": "fold",
+      "level": "B2"
+    },
+    {
+      "word": "follow",
+      "level": "A2"
+    },
+    {
+      "word": "forbid",
+      "level": "C1"
+    },
+    {
+      "word": "forget",
+      "level": "A2"
+    },
+    {
+      "word": "forgive",
+      "level": "B1"
+    },
+    {
+      "word": "freeze",
+      "level": "B1"
+    },
+    {
+      "word": "fry",
+      "level": "B1"
+    },
+    {
+      "word": "generate",
+      "level": "B2"
+    },
+    {
+      "word": "get",
+      "level": "A1"
+    },
+    {
+      "word": "give",
+      "level": "A1"
+    },
+    {
+      "word": "go",
+      "level": "A1"
+    },
+    {
+      "word": "grind",
+      "level": "C2"
+    },
+    {
+      "word": "grow",
+      "level": "A2"
+    },
+    {
+      "word": "hang",
+      "level": "B1"
+    },
+    {
+      "word": "happen",
+      "level": "A2"
+    },
+    {
+      "word": "hate",
+      "level": "A1"
+    },
+    {
+      "word": "have",
+      "level": "A1"
+    },
+    {
+      "word": "hear",
+      "level": "A1"
+    },
+    {
+      "word": "hesitate",
+      "level": "B2"
+    },
+    {
+      "word": "hide",
+      "level": "B1"
+    },
+    {
+      "word": "hit",
+      "level": "B1"
+    },
+    {
+      "word": "hold",
+      "level": "A2"
+    },
+    {
+      "word": "hop",
+      "level": "C1"
+    },
+    {
+      "word": "hope",
+      "level": "A2"
+    },
+    {
+      "word": "hug",
+      "level": "B1"
+    },
+    {
+      "word": "hurry",
+      "level": "A2"
+    },
+    {
+      "word": "hurt",
+      "level": "A2"
+    },
+    {
+      "word": "identify",
+      "level": "B2"
+    },
+    {
+      "word": "ignore",
+      "level": "B1"
+    },
+    {
+      "word": "illustrate",
+      "level": "B2"
+    },
+    {
+      "word": "imagine",
+      "level": "A2"
+    },
+    {
+      "word": "imply",
+      "level": "C1"
+    },
+    {
+      "word": "impress",
+      "level": "B2"
+    },
+    {
+      "word": "improve",
+      "level": "A2"
+    },
+    {
+      "word": "include",
+      "level": "A2"
+    },
+    {
+      "word": "incorporate",
+      "level": "C1"
+    },
+    {
+      "word": "indicate",
+      "level": "B2"
+    },
+    {
+      "word": "inform",
+      "level": "B1"
+    },
+    {
+      "word": "insist",
+      "level": "B2"
+    },
+    {
+      "word": "install",
+      "level": "B2"
+    },
+    {
+      "word": "intend",
+      "level": "B1"
+    },
+    {
+      "word": "introduce",
+      "level": "A2"
+    },
+    {
+      "word": "invest",
+      "level": "B2"
+    },
+    {
+      "word": "investigate",
+      "level": "B2"
+    },
+    {
+      "word": "involve",
+      "level": "B1"
+    },
+    {
+      "word": "iron",
+      "level": "B1"
+    },
+    {
+      "word": "jog",
+      "level": "B1"
+    },
+    {
+      "word": "jump",
+      "level": "A2"
+    },
+    {
+      "word": "justify",
+      "level": "C1"
+    },
+    {
+      "word": "keep",
+      "level": "A2"
+    },
+    {
+      "word": "kick",
+      "level": "B1"
+    },
+    {
+      "word": "kiss",
+      "level": "A2"
+    },
+    {
+      "word": "kneel",
+      "level": "C1"
+    },
+    {
+      "word": "knit",
+      "level": "C1"
+    },
+    {
+      "word": "know",
+      "level": "A1"
+    },
+    {
+      "word": "lack",
+      "level": "B2"
+    },
+    {
+      "word": "laugh",
+      "level": "A2"
+    },
+    {
+      "word": "lay",
+      "level": "B2"
+    },
+    {
+      "word": "lead",
+      "level": "B1"
+    },
+    {
+      "word": "lean",
+      "level": "B2"
+    },
+    {
+      "word": "leap",
+      "level": "C1"
+    },
+    {
+      "word": "learn",
+      "level": "A1"
+    },
+    {
+      "word": "leave",
+      "level": "A1"
+    },
+    {
+      "word": "lend",
+      "level": "A2"
+    },
+    {
+      "word": "let",
+      "level": "A2"
+    },
+    {
+      "word": "lie",
+      "level": "B1"
+    },
+    {
+      "word": "lift",
+      "level": "B1"
+    },
+    {
+      "word": "light",
+      "level": "B1"
+    },
+    {
+      "word": "like",
+      "level": "A1"
+    },
+    {
+      "word": "listen",
+      "level": "A1"
+    },
+    {
+      "word": "look",
+      "level": "A1"
+    },
+    {
+      "word": "lose",
+      "level": "A2"
+    },
+    {
+      "word": "love",
+      "level": "A1"
+    },
+    {
+      "word": "maintain",
+      "level": "B2"
+    },
+    {
+      "word": "make",
+      "level": "A1"
+    },
+    {
+      "word": "manage",
+      "level": "B1"
+    },
+    {
+      "word": "march",
+      "level": "B2"
+    },
+    {
+      "word": "matter",
+      "level": "B1"
+    },
+    {
+      "word": "may",
+      "level": "A2"
+    },
+    {
+      "word": "mean",
+      "level": "A2"
+    },
+    {
+      "word": "measure",
+      "level": "B1"
+    },
+    {
+      "word": "meet",
+      "level": "A1"
+    },
+    {
+      "word": "melt",
+      "level": "B1"
+    },
+    {
+      "word": "mention",
+      "level": "B1"
+    },
+    {
+      "word": "might",
+      "level": "A2"
+    },
+    {
+      "word": "mind",
+      "level": "B1"
+    },
+    {
+      "word": "miss",
+      "level": "A2"
+    },
+    {
+      "word": "mix",
+      "level": "A2"
+    },
+    {
+      "word": "mow",
+      "level": "C1"
+    },
+    {
+      "word": "must",
+      "level": "A2"
+    },
+    {
+      "word": "need",
+      "level": "A1"
+    },
+    {
+      "word": "neglect",
+      "level": "C1"
+    },
+    {
+      "word": "negotiate",
+      "level": "B2"
+    },
+    {
+      "word": "observe",
+      "level": "B2"
+    },
+    {
+      "word": "obtain",
+      "level": "B2"
+    },
+    {
+      "word": "occur",
+      "level": "B2"
+    },
+    {
+      "word": "offer",
+      "level": "A2"
+    },
+    {
+      "word": "open",
+      "level": "A1"
+    },
+    {
+      "word": "operate",
+      "level": "B2"
+    },
+    {
+      "word": "order",
+      "level": "A2"
+    },
+    {
+      "word": "organize",
+      "level": "A2"
+    },
+    {
+      "word": "ought",
+      "level": "B1"
+    },
+    {
+      "word": "overcome",
+      "level": "B2"
+    },
+    {
+      "word": "overtake",
+      "level": "C1"
+    },
+    {
+      "word": "owe",
+      "level": "B2"
+    },
+    {
+      "word": "own",
+      "level": "B1"
+    },
+    {
+      "word": "paint",
+      "level": "A1"
+    },
+    {
+      "word": "participate",
+      "level": "B2"
+    },
+    {
+      "word": "pass",
+      "level": "A2"
+    },
+    {
+      "word": "pay",
+      "level": "A1"
+    },
+    {
+      "word": "peel",
+      "level": "B2"
+    },
+    {
+      "word": "perform",
+      "level": "B1"
+    },
+    {
+      "word": "persuade",
+      "level": "B1"
+    },
+    {
+      "word": "pick",
+      "level": "A2"
+    },
+    {
+      "word": "pinch",
+      "level": "C1"
+    },
+    {
+      "word": "plan",
+      "level": "A1"
+    },
+    {
+      "word": "play",
+      "level": "A1"
+    },
+    {
+      "word": "please",
+      "level": "B1"
+    },
+    {
+      "word": "point",
+      "level": "B1"
+    },
+    {
+      "word": "possess",
+      "level": "C1"
+    },
+    {
+      "word": "postpone",
+      "level": "B2"
+    },
+    {
+      "word": "pour",
+      "level": "B1"
+    },
+    {
+      "word": "practice",
+      "level": "A2"
+    },
+    {
+      "word": "prefer",
+      "level": "A2"
+    },
+    {
+      "word": "prepare",
+      "level": "A2"
+    },
+    {
+      "word": "pretend",
+      "level": "B1"
+    },
+    {
+      "word": "prevent",
+      "level": "B1"
+    },
+    {
+      "word": "proceed",
+      "level": "C1"
+    },
+    {
+      "word": "promise",
+      "level": "B1"
+    },
+    {
+      "word": "propose",
+      "level": "B2"
+    },
+    {
+      "word": "protect",
+      "level": "B1"
+    },
+    {
+      "word": "prove",
+      "level": "B1"
+    },
+    {
+      "word": "pull",
+      "level": "B1"
+    },
+    {
+      "word": "punch",
+      "level": "B2"
+    },
+    {
+      "word": "pursue",
+      "level": "C1"
+    },
+    {
+      "word": "push",
+      "level": "B1"
+    },
+    {
+      "word": "put",
+      "level": "A1"
+    },
+    {
+      "word": "qualify",
+      "level": "B2"
+    },
+    {
+      "word": "quit",
+      "level": "B2"
+    },
+    {
+      "word": "react",
+      "level": "B1"
+    },
+    {
+      "word": "read",
+      "level": "A1"
+    },
+    {
+      "word": "realize",
+      "level": "B1"
+    },
+    {
+      "word": "recall",
+      "level": "B2"
+    },
+    {
+      "word": "receive",
+      "level": "A2"
+    },
+    {
+      "word": "recognize",
+      "level": "B1"
+    },
+    {
+      "word": "recollect",
+      "level": "C2"
+    },
+    {
+      "word": "recommend",
+      "level": "B1"
+    },
+    {
+      "word": "reduce",
+      "level": "B1"
+    },
+    {
+      "word": "refer",
+      "level": "B2"
+    },
+    {
+      "word": "reflect",
+      "level": "B2"
+    },
+    {
+      "word": "refuse",
+      "level": "B1"
+    },
+    {
+      "word": "regret",
+      "level": "B1"
+    },
+    {
+      "word": "relate",
+      "level": "B2"
+    },
+    {
+      "word": "relax",
+      "level": "A2"
+    },
+    {
+      "word": "relieve",
+      "level": "C1"
+    },
+    {
+      "word": "rely",
+      "level": "B2"
+    },
+    {
+      "word": "remain",
+      "level": "B1"
+    },
+    {
+      "word": "remember",
+      "level": "A1"
+    },
+    {
+      "word": "remind",
+      "level": "B1"
+    },
+    {
+      "word": "repair",
+      "level": "A2"
+    },
+    {
+      "word": "replace",
+      "level": "B1"
+    },
+    {
+      "word": "represent",
+      "level": "B2"
+    },
+    {
+      "word": "require",
+      "level": "B1"
+    },
+    {
+      "word": "resent",
+      "level": "C2"
+    },
+    {
+      "word": "resist",
+      "level": "B2"
+    },
+    {
+      "word": "retain",
+      "level": "C1"
+    },
+    {
+      "word": "retire",
+      "level": "B1"
+    },
+    {
+      "word": "rid",
+      "level": "B1"
+    },
+    {
+      "word": "ride",
+      "level": "A1"
+    },
+    {
+      "word": "ring",
+      "level": "A2"
+    },
+    {
+      "word": "rise",
+      "level": "B1"
+    },
+    {
+      "word": "risk",
+      "level": "B2"
+    },
+    {
+      "word": "roast",
+      "level": "B1"
+    },
+    {
+      "word": "roll",
+      "level": "B1"
+    },
+    {
+      "word": "run",
+      "level": "A1"
+    },
+    {
+      "word": "sanction",
+      "level": "C2"
+    },
+    {
+      "word": "satisfy",
+      "level": "B2"
+    },
+    {
+      "word": "saw",
+      "level": "C1"
+    },
+    {
+      "word": "say",
+      "level": "A1"
+    },
+    {
+      "word": "scrub",
+      "level": "C1"
+    },
+    {
+      "word": "see",
+      "level": "A1"
+    },
+    {
+      "word": "seem",
+      "level": "A2"
+    },
+    {
+      "word": "sell",
+      "level": "A1"
+    },
+    {
+      "word": "send",
+      "level": "A1"
+    },
+    {
+      "word": "serve",
+      "level": "B1"
+    },
+    {
+      "word": "set",
+      "level": "B1"
+    },
+    {
+      "word": "settle",
+      "level": "B2"
+    },
+    {
+      "word": "sew",
+      "level": "B2"
+    },
+    {
+      "word": "shake",
+      "level": "B1"
+    },
+    {
+      "word": "shall",
+      "level": "A2"
+    },
+    {
+      "word": "shed",
+      "level": "C2"
+    },
+    {
+      "word": "shine",
+      "level": "B1"
+    },
+    {
+      "word": "shoot",
+      "level": "B1"
+    },
+    {
+      "word": "should",
+      "level": "A1"
+    },
+    {
+      "word": "show",
+      "level": "A1"
+    },
+    {
+      "word": "shrink",
+      "level": "C1"
+    },
+    {
+      "word": "shut",
+      "level": "B1"
+    },
+    {
+      "word": "sing",
+      "level": "A1"
+    },
+    {
+      "word": "sink",
+      "level": "B2"
+    },
+    {
+      "word": "sit",
+      "level": "A1"
+    },
+    {
+      "word": "ski",
+      "level": "A2"
+    },
+    {
+      "word": "skip",
+      "level": "B2"
+    },
+    {
+      "word": "sleep",
+      "level": "A1"
+    },
+    {
+      "word": "slice",
+      "level": "B2"
+    },
+    {
+      "word": "slide",
+      "level": "B2"
+    },
+    {
+      "word": "slip",
+      "level": "B2"
+    },
+    {
+      "word": "smell",
+      "level": "A2"
+    },
+    {
+      "word": "snore",
+      "level": "C1"
+    },
+    {
+      "word": "solve",
+      "level": "B1"
+    },
+    {
+      "word": "sow",
+      "level": "C2"
+    },
+    {
+      "word": "speak",
+      "level": "A1"
+    },
+    {
+      "word": "specify",
+      "level": "C1"
+    },
+    {
+      "word": "spell",
+      "level": "A1"
+    },
+    {
+      "word": "spend",
+      "level": "A2"
+    },
+    {
+      "word": "spill",
+      "level": "B2"
+    },
+    {
+      "word": "spit",
+      "level": "C1"
+    },
+    {
+      "word": "spread",
+      "level": "B2"
+    },
+    {
+      "word": "squat",
+      "level": "C2"
+    },
+    {
+      "word": "stack",
+      "level": "C1"
+    },
+    {
+      "word": "stand",
+      "level": "A1"
+    },
+    {
+      "word": "start",
+      "level": "A1"
+    },
+    {
+      "word": "steal",
+      "level": "B1"
+    },
+    {
+      "word": "steam",
+      "level": "B2"
+    },
+    {
+      "word": "stick",
+      "level": "B1"
+    },
+    {
+      "word": "sting",
+      "level": "C1"
+    },
+    {
+      "word": "stink",
+      "level": "C1"
+    },
+    {
+      "word": "stir",
+      "level": "B2"
+    },
+    {
+      "word": "stop",
+      "level": "A1"
+    },
+    {
+      "word": "stretch",
+      "level": "B2"
+    },
+    {
+      "word": "strike",
+      "level": "B2"
+    },
+    {
+      "word": "struggle",
+      "level": "B2"
+    },
+    {
+      "word": "study",
+      "level": "A1"
+    },
+    {
+      "word": "submit",
+      "level": "B2"
+    },
+    {
+      "word": "succeed",
+      "level": "B1"
+    },
+    {
+      "word": "suffer",
+      "level": "B1"
+    },
+    {
+      "word": "suggest",
+      "level": "A2"
+    },
+    {
+      "word": "supply",
+      "level": "B2"
+    },
+    {
+      "word": "suppose",
+      "level": "B1"
+    },
+    {
+      "word": "surprise",
+      "level": "B1"
+    },
+    {
+      "word": "survive",
+      "level": "B1"
+    },
+    {
+      "word": "swear",
+      "level": "B2"
+    },
+    {
+      "word": "sweep",
+      "level": "B2"
+    },
+    {
+      "word": "swell",
+      "level": "C1"
+    },
+    {
+      "word": "swim",
+      "level": "A1"
+    },
+    {
+      "word": "swing",
+      "level": "B2"
+    },
+    {
+      "word": "take",
+      "level": "A1"
+    },
+    {
+      "word": "talk",
+      "level": "A1"
+    },
+    {
+      "word": "taste",
+      "level": "A2"
+    },
+    {
+      "word": "teach",
+      "level": "A1"
+    },
+    {
+      "word": "tear",
+      "level": "B2"
+    },
+    {
+      "word": "tell",
+      "level": "A1"
+    },
+    {
+      "word": "tend",
+      "level": "B2"
+    },
+    {
+      "word": "think",
+      "level": "A1"
+    },
+    {
+      "word": "threaten",
+      "level": "B2"
+    },
+    {
+      "word": "throw",
+      "level": "A2"
+    },
+    {
+      "word": "tiptoe",
+      "level": "C2"
+    },
+    {
+      "word": "tolerate",
+      "level": "C1"
+    },
+    {
+      "word": "translate",
+      "level": "B1"
+    },
+    {
+      "word": "trip",
+      "level": "B2"
+    },
+    {
+      "word": "try",
+      "level": "A2"
+    },
+    {
+      "word": "turn",
+      "level": "A2"
+    },
+    {
+      "word": "understand",
+      "level": "A1"
+    },
+    {
+      "word": "vacuum",
+      "level": "B2"
+    },
+    {
+      "word": "value",
+      "level": "B2"
+    },
+    {
+      "word": "vary",
+      "level": "B2"
+    },
+    {
+      "word": "volunteer",
+      "level": "B2"
+    },
+    {
+      "word": "wait",
+      "level": "A1"
+    },
+    {
+      "word": "wake",
+      "level": "A2"
+    },
+    {
+      "word": "walk",
+      "level": "A1"
+    },
+    {
+      "word": "want",
+      "level": "A1"
+    },
+    {
+      "word": "warn",
+      "level": "B1"
+    },
+    {
+      "word": "wash",
+      "level": "A1"
+    },
+    {
+      "word": "watch",
+      "level": "A1"
+    },
+    {
+      "word": "wave",
+      "level": "B1"
+    },
+    {
+      "word": "wear",
+      "level": "A1"
+    },
+    {
+      "word": "weep",
+      "level": "C1"
+    },
+    {
+      "word": "weigh",
+      "level": "B1"
+    },
+    {
+      "word": "whip",
+      "level": "C1"
+    },
+    {
+      "word": "will",
+      "level": "A1"
+    },
+    {
+      "word": "win",
+      "level": "A2"
+    },
+    {
+      "word": "wind",
+      "level": "B2"
+    },
+    {
+      "word": "wish",
+      "level": "B1"
+    },
+    {
+      "word": "would",
+      "level": "A1"
+    },
+    {
+      "word": "write",
+      "level": "A1"
+    },
+    {
+      "word": "clap",
+      "level": "B1"
+    },
+    {
+      "word": "clean",
+      "level": "A1"
+    },
+    {
+      "word": "close",
+      "level": "A1"
+    },
+    {
+      "word": "barbecue",
+      "level": "B1"
+    },
+    {
+      "word": "grate",
+      "level": "C1"
+    },
+    {
+      "word": "layer",
+      "level": "C1"
+    },
+    {
+      "word": "saute",
+      "level": "C2"
+    },
+    {
+      "word": "dribble",
+      "level": "C2"
+    },
+    {
+      "word": "cartwheel",
+      "level": "C2"
+    },
+    {
+      "word": "recognise",
+      "level": "B1"
+    },
+    {
+      "word": "realise",
+      "level": "B1"
+    }
+  ],
+  "idioms": [
+    {
+      "idiom": "Smell a Rat",
+      "level": "C1"
+    },
+    {
+      "idiom": "Go to the Dogs",
+      "level": "C1"
+    },
+    {
+      "idiom": "Fishy",
+      "level": "B2"
+    },
+    {
+      "idiom": "Take the Bull by the Horns",
+      "level": "C1"
+    },
+    {
+      "idiom": "Horse of a Different Color",
+      "level": "C2"
+    },
+    {
+      "idiom": "Let the Cat Out of the Bag",
+      "level": "B2"
+    },
+    {
+      "idiom": "For the Birds",
+      "level": "C2"
+    },
+    {
+      "idiom": "Straight From the Horse's Mouth",
+      "level": "C1"
+    },
+    {
+      "idiom": "Horse Around",
+      "level": "B2"
+    },
+    {
+      "idiom": "Cat Got Your Tongue?",
+      "level": "C1"
+    },
+    {
+      "idiom": "Get in Someone's Hair",
+      "level": "C1"
+    },
+    {
+      "idiom": "Shoot Off One's Mouth",
+      "level": "C2"
+    },
+    {
+      "idiom": "Jump Down Someone's Throat",
+      "level": "C1"
+    },
+    {
+      "idiom": "Pay Through the Nose",
+      "level": "C1"
+    },
+    {
+      "idiom": "Tongue-In-Cheek",
+      "level": "C1"
+    },
+    {
+      "idiom": "Pull Someone's Leg",
+      "level": "B2"
+    },
+    {
+      "idiom": "Play It by Ear",
+      "level": "B2"
+    },
+    {
+      "idiom": "Stick Out One's Neck",
+      "level": "C1"
+    },
+    {
+      "idiom": "Shake a Leg",
+      "level": "C1"
+    },
+    {
+      "idiom": "All Thumbs",
+      "level": "C1"
+    },
+    {
+      "idiom": "Not Have a Leg to Stand On",
+      "level": "C1"
+    },
+    {
+      "idiom": "Get Off Someone's Back",
+      "level": "B2"
+    },
+    {
+      "idiom": "Drive Someone Up a Wall",
+      "level": "B2"
+    },
+    {
+      "idiom": "String Someone Along",
+      "level": "C1"
+    },
+    {
+      "idiom": "Sell Someone Down the River",
+      "level": "C2"
+    },
+    {
+      "idiom": "Leave Someone High and Dry",
+      "level": "C1"
+    },
+    {
+      "idiom": "Sell Someone Short",
+      "level": "C2"
+    },
+    {
+      "idiom": "Snow Job",
+      "level": "C2"
+    },
+    {
+      "idiom": "Spill the Beans",
+      "level": "B2"
+    },
+    {
+      "idiom": "Feed Someone a Line",
+      "level": "C2"
+    },
+    {
+      "idiom": "Get the Jump on Someone",
+      "level": "C2"
+    },
+    {
+      "idiom": "Pull Strings",
+      "level": "B2"
+    },
+    {
+      "idiom": "Spread Oneself Too Thin",
+      "level": "C1"
+    },
+    {
+      "idiom": "Go to Bat for Someone",
+      "level": "C2"
+    },
+    {
+      "idiom": "Duck Soup",
+      "level": "C2"
+    },
+    {
+      "idiom": "Hit the Hay",
+      "level": "B2"
+    },
+    {
+      "idiom": "Cough Up",
+      "level": "B2"
+    },
+    {
+      "idiom": "Jump the Gun",
+      "level": "C1"
+    },
+    {
+      "idiom": "Scratch Someone's Back",
+      "level": "C1"
+    },
+    {
+      "idiom": "Hit the Ceiling",
+      "level": "C1"
+    },
+    {
+      "idiom": "Fork Over",
+      "level": "C1"
+    },
+    {
+      "idiom": "Turn Someone Off",
+      "level": "B2"
+    },
+    {
+      "idiom": "Go Fly a Kite",
+      "level": "C2"
+    },
+    {
+      "idiom": "Kick the Bucket",
+      "level": "B2"
+    },
+    {
+      "idiom": "Raise a Stink",
+      "level": "C2"
+    },
+    {
+      "idiom": "Wet Blanket",
+      "level": "C1"
+    },
+    {
+      "idiom": "Keep Under One's Hat",
+      "level": "C1"
+    },
+    {
+      "idiom": "Up One's Sleeve",
+      "level": "C1"
+    },
+    {
+      "idiom": "Dressed to Kill",
+      "level": "C1"
+    },
+    {
+      "idiom": "Give Someone the Slip",
+      "level": "C2"
+    },
+    {
+      "idiom": "Knock Someone's Socks Off",
+      "level": "C1"
+    },
+    {
+      "idiom": "Talk Through One's Hat",
+      "level": "C2"
+    },
+    {
+      "idiom": "Lose One's Shirt",
+      "level": "C2"
+    },
+    {
+      "idiom": "In Stitches",
+      "level": "C1"
+    },
+    {
+      "idiom": "Dressed to the Teeth",
+      "level": "C2"
+    },
+    {
+      "idiom": "Lemon",
+      "level": "C1"
+    },
+    {
+      "idiom": "Out of the Woods",
+      "level": "C1"
+    },
+    {
+      "idiom": "Get Up on the Wrong Side of the Bed",
+      "level": "B2"
+    },
+    {
+      "idiom": "Out on a Limb",
+      "level": "C1"
+    },
+    {
+      "idiom": "Eating Someone",
+      "level": "C1"
+    },
+    {
+      "idiom": "Get the Ax",
+      "level": "C1"
+    },
+    {
+      "idiom": "In the Hole",
+      "level": "C1"
+    },
+    {
+      "idiom": "For a Song",
+      "level": "C2"
+    },
+    {
+      "idiom": "Make a Splash",
+      "level": "B2"
+    },
+    {
+      "idiom": "Have the World by the Tail",
+      "level": "C2"
+    },
+    {
+      "idiom": "Sitting Pretty",
+      "level": "C2"
+    },
+    {
+      "idiom": "Feel Like a Million Dollars",
+      "level": "B2"
+    },
+    {
+      "idiom": "Kick Up One's Heels",
+      "level": "C2"
+    },
+    {
+      "idiom": "Bury the Hatchet",
+      "level": "C1"
+    },
+    {
+      "idiom": "Paint the Town Red",
+      "level": "C1"
+    },
+    {
+      "idiom": "Get Away Clean",
+      "level": "C2"
+    },
+    {
+      "idiom": "Come Alive",
+      "level": "B2"
+    },
+    {
+      "idiom": "Toot One's Own Horn",
+      "level": "C1"
+    },
+    {
+      "idiom": "Stick to One's Guns",
+      "level": "C1"
+    },
+    {
+      "idiom": "Get the Ball Rolling",
+      "level": "B2"
+    },
+    {
+      "idiom": "Mind One's P's and Q's",
+      "level": "C2"
+    },
+    {
+      "idiom": "Hang On",
+      "level": "B2"
+    },
+    {
+      "idiom": "Give It One's Best Shot",
+      "level": "B2"
+    },
+    {
+      "idiom": "Make Ends Meet",
+      "level": "B2"
+    },
+    {
+      "idiom": "On Ice",
+      "level": "C1"
+    },
+    {
+      "idiom": "Shoot the Breeze",
+      "level": "C1"
+    },
+    {
+      "idiom": "Bite the Dust",
+      "level": "C1"
+    },
+    {
+      "idiom": "Bend over Backwards",
+      "level": "C1"
+    },
+    {
+      "idiom": "Money Talks",
+      "level": "C1"
+    },
+    {
+      "idiom": "Let Sleeping Dogs Lie",
+      "level": "C1"
+    },
+    {
+      "idiom": "Shape Up or Ship Out",
+      "level": "C1"
+    },
+    {
+      "idiom": "If the Shoe Fits, Wear It",
+      "level": "C1"
+    },
+    {
+      "idiom": "Different Strokes for Different Folks",
+      "level": "C1"
+    },
+    {
+      "idiom": "Bark Worse Than One's Bite",
+      "level": "C1"
+    },
+    {
+      "idiom": "Eyes Are Bigger Than One's Stomach",
+      "level": "C1"
+    },
+    {
+      "idiom": "Put One's Money Where One's Mouth Is",
+      "level": "C1"
+    },
+    {
+      "idiom": "The Early Bird Catches the Worm",
+      "level": "B2"
+    },
+    {
+      "idiom": "People Who Live in Glass Houses Shouldn't Throw Stones",
+      "level": "C1"
+    },
+    {
+      "idiom": "All's Well That Ends Well",
+      "level": "B2"
+    },
+    {
+      "idiom": "Clothes Make the Man (and Woman)",
+      "level": "C1"
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Driving across America",
+      "level": "B1"
+    },
+    {
+      "topic": "What I like about America",
+      "level": "A2"
+    },
+    {
+      "topic": "Seasons and weather",
+      "level": "A2"
+    },
+    {
+      "topic": "Immigrant experiences",
+      "level": "B2"
+    },
+    {
+      "topic": "Small-town life",
+      "level": "B1"
+    },
+    {
+      "topic": "East coast vs. West coast",
+      "level": "B1"
+    },
+    {
+      "topic": "Canada vs. the U.S.",
+      "level": "B1"
+    },
+    {
+      "topic": "Family life",
+      "level": "A2"
+    },
+    {
+      "topic": "Siblings",
+      "level": "A2"
+    },
+    {
+      "topic": "Parents and children",
+      "level": "B1"
+    },
+    {
+      "topic": "Houses and homes",
+      "level": "A2"
+    },
+    {
+      "topic": "My favorite room",
+      "level": "A2"
+    },
+    {
+      "topic": "The role of women",
+      "level": "B2"
+    },
+    {
+      "topic": "Working moms and work-family balance",
+      "level": "B2"
+    },
+    {
+      "topic": "School and education",
+      "level": "B1"
+    },
+    {
+      "topic": "College life",
+      "level": "B1"
+    },
+    {
+      "topic": "Hobbies and free time",
+      "level": "A2"
+    },
+    {
+      "topic": "Outdoor activities",
+      "level": "A2"
+    },
+    {
+      "topic": "Music and performing arts",
+      "level": "B1"
+    },
+    {
+      "topic": "Reading and books",
+      "level": "A2"
+    },
+    {
+      "topic": "Computer games",
+      "level": "A2"
+    },
+    {
+      "topic": "Life-work balance",
+      "level": "B2"
+    },
+    {
+      "topic": "Accents and sounding American",
+      "level": "B2"
+    },
+    {
+      "topic": "Growing up bilingual",
+      "level": "B2"
+    },
+    {
+      "topic": "American vs. British English",
+      "level": "B2"
+    },
+    {
+      "topic": "Language and culture",
+      "level": "B2"
+    },
+    {
+      "topic": "Food and cooking",
+      "level": "A2"
+    },
+    {
+      "topic": "Food from around the world",
+      "level": "B1"
+    },
+    {
+      "topic": "Watching and playing sports",
+      "level": "A2"
+    },
+    {
+      "topic": "Baseball",
+      "level": "B1"
+    },
+    {
+      "topic": "Why traditional English learning fails",
+      "level": "B1"
+    },
+    {
+      "topic": "Problems with schools and the hidden curriculum",
+      "level": "B2"
+    },
+    {
+      "topic": "Psychology versus grammar and vocabulary",
+      "level": "B2"
+    },
+    {
+      "topic": "How beliefs shape language success",
+      "level": "B2"
+    },
+    {
+      "topic": "English as a physical sport",
+      "level": "B1"
+    },
+    {
+      "topic": "Setting big real-world goals for motivation",
+      "level": "B1"
+    },
+    {
+      "topic": "Programming your brain for success",
+      "level": "B2"
+    },
+    {
+      "topic": "How babies learn language naturally",
+      "level": "B1"
+    },
+    {
+      "topic": "Learning phrases instead of single words",
+      "level": "B1"
+    },
+    {
+      "topic": "Why grammar study hurts speaking",
+      "level": "B2"
+    },
+    {
+      "topic": "Learning with your ears, not your eyes",
+      "level": "B1"
+    },
+    {
+      "topic": "Repetition and spoken mastery",
+      "level": "B1"
+    },
+    {
+      "topic": "Learning grammar intuitively",
+      "level": "B2"
+    },
+    {
+      "topic": "Real English versus textbooks",
+      "level": "B1"
+    },
+    {
+      "topic": "Learning through compelling stories",
+      "level": "B1"
+    },
+    {
+      "topic": "Creating a daily learning plan",
+      "level": "B1"
+    },
+    {
+      "topic": "The power of pleasure reading",
+      "level": "B1"
+    },
+    {
+      "topic": "The secret to good writing",
+      "level": "B2"
+    },
+    {
+      "topic": "Why not to practice speaking too early",
+      "level": "B2"
+    },
+    {
+      "topic": "English for international business",
+      "level": "B2"
+    },
+    {
+      "topic": "Giving powerful presentations",
+      "level": "C1"
+    },
+    {
+      "topic": "Connecting with the world through English",
+      "level": "B1"
+    },
+    {
+      "topic": "Fear of mistakes and the one-right-answer mentality",
+      "level": "B2"
+    },
+    {
+      "topic": "Flow state and effortless effort",
+      "level": "C1"
+    }
+  ]
+}

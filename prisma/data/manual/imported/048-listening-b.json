@@ -1,0 +1,218 @@
+[
+  {
+    "skill": "LISTENING", "level": "B1", "topic": "Choosing a university course", "title": "Which Course Should I Choose?",
+    "body": {
+      "script": [
+        "Aylar: I have to choose my university course by Friday, and I still can't decide between computer science and architecture.",
+        "Mr Hughes: Well, what do you enjoy more at school?",
+        "Aylar: I love drawing and design, but I'm also good at maths and programming.",
+        "Mr Hughes: Architecture actually needs both. But it's a long course — usually five years, plus practical experience.",
+        "Aylar: Five years? Computer science is only three or four.",
+        "Mr Hughes: That's true. And there are more jobs in computing at the moment. But you shouldn't choose only because of jobs. Have you visited either department?",
+        "Aylar: Not yet. There's an open day next Wednesday.",
+        "Mr Hughes: Go and talk to current students. Ask them what a normal week looks like. That will tell you more than any website.",
+        "Aylar: Good idea. Could I also do a minor in design if I study computer science?",
+        "Mr Hughes: At many universities, yes. That might be the best of both worlds."
+      ],
+      "glossary": [
+        { "word": "course", "tr": "bölüm, program", "tk": "hünär ugry", "ru": "специальность, курс" },
+        { "word": "architecture", "tr": "mimarlık", "tk": "binagärlik", "ru": "архитектура" },
+        { "word": "practical experience", "tr": "staj, uygulama", "tk": "amaly tejribe", "ru": "практика" },
+        { "word": "department", "tr": "bölüm (fakülte)", "tk": "kafedra, bölüm", "ru": "факультет, кафедра" },
+        { "word": "open day", "tr": "tanıtım günü", "tk": "açyk gapylar güni", "ru": "день открытых дверей" },
+        { "word": "minor", "tr": "yan dal", "tk": "goşmaça ugur", "ru": "дополнительная специализация" },
+        { "word": "the best of both worlds", "tr": "her ikisinin de iyi yanı", "tk": "iki tarapyň hem gowusy", "ru": "лучшее из обоих вариантов" }
+      ],
+      "questions": [
+        { "question": "Which two courses is Aylar choosing between?", "options": ["Maths and art", "Computer science and architecture", "Design and economics", "Architecture and engineering"], "answer": 1, "explanation": { "tr": "Bilgisayar bilimi ve mimarlık.", "tk": "Kompýuter ylmy we binagärlik.", "ru": "Информатика и архитектура." } },
+        { "question": "How long is an architecture course, according to Mr Hughes?", "options": ["Three years", "Four years", "About five years plus practice", "Six years"], "answer": 2, "explanation": { "tr": "Beş yıl artı uygulama.", "tk": "Bäş ýyl we amaly tejribe.", "ru": "Пять лет плюс практика." } },
+        { "question": "What does Mr Hughes say about jobs?", "options": ["There are no jobs in architecture", "There are more jobs in computing, but that shouldn't be the only reason", "Jobs are not important", "Architects earn more"], "answer": 1, "explanation": { "tr": "Bilişimde daha çok iş var ama tek neden olmamalı.", "tk": "Kompýuterde iş köp, emma ýeke-täk sebäp bolmaly däl.", "ru": "В IT больше работы, но это не единственный критерий." } },
+        { "question": "What does he advise her to do at the open day?", "options": ["Read the website", "Talk to current students", "Meet the professors only", "Take an exam"], "answer": 1, "explanation": { "tr": "Mevcut öğrencilerle konuşmasını.", "tk": "Häzirki talyplar bilen gürleşmegi.", "ru": "Поговорить с нынешними студентами." } },
+        { "question": "What possible solution do they find?", "options": ["Studying both full courses", "Computer science with a minor in design", "Waiting a year", "Choosing architecture"], "answer": 1, "explanation": { "tr": "Bilgisayar bilimi + tasarım yan dalı.", "tk": "Kompýuter ylmy + dizaýn goşmaça ugry.", "ru": "Информатика с дизайном как доп. специализацией." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "B1", "topic": "A tour guide in an old city", "title": "A Walking Tour of the Old Town",
+    "body": {
+      "script": [
+        "Good morning, everyone, and welcome to our walking tour of the old town. My name's Nadia and I'll be your guide for the next two hours.",
+        "We're standing in Market Square, which has been the centre of the town for over six hundred years. Farmers used to sell their animals here every Thursday, and there's still a food market here on Saturdays.",
+        "The tall building on your left is the old town hall. It was built in 1520, but most of it burned down in a fire in 1780 and had to be rebuilt.",
+        "If you look up at the clock tower, you'll notice that the clock has only one hand. That's because, at the time it was made, people didn't need to know the exact minutes!",
+        "In a moment we'll walk down that narrow street towards the river. Please be careful — the stones are uneven and can be slippery after rain.",
+        "We'll stop for twenty minutes at a traditional bakery, where you can try the local honey cake. Then we'll finish at the castle at around twelve. Any questions before we start?"
+      ],
+      "glossary": [
+        { "word": "guide", "tr": "rehber", "tk": "gid, ýolbelet", "ru": "гид" },
+        { "word": "town hall", "tr": "belediye binası", "tk": "şäher häkimliginiň binasy", "ru": "ратуша" },
+        { "word": "burn down", "tr": "yanıp kül olmak", "tk": "ýanyp ýok bolmak", "ru": "сгореть дотла" },
+        { "word": "rebuild", "tr": "yeniden inşa etmek", "tk": "täzeden gurmak", "ru": "перестроить" },
+        { "word": "hand (of a clock)", "tr": "akrep/yelkovan", "tk": "sagat dili", "ru": "стрелка" },
+        { "word": "uneven", "tr": "düz olmayan", "tk": "deň däl", "ru": "неровный" },
+        { "word": "slippery", "tr": "kaygan", "tk": "typgaç", "ru": "скользкий" }
+      ],
+      "questions": [
+        { "question": "How long is the tour?", "options": ["One hour", "Two hours", "Three hours", "Half a day"], "answer": 1, "explanation": { "tr": "İki saat.", "tk": "Iki sagat.", "ru": "Два часа." } },
+        { "question": "When is there a food market in the square today?", "options": ["Every Thursday", "On Saturdays", "Every day", "There isn't one any more"], "answer": 1, "explanation": { "tr": "Cumartesileri.", "tk": "Şenbe günleri.", "ru": "По субботам." } },
+        { "question": "What happened to the town hall in 1780?", "options": ["It was built", "It was destroyed by a fire", "It became a museum", "It got a new clock"], "answer": 1, "explanation": { "tr": "Yangında yandı.", "tk": "Ýangynda ýandy.", "ru": "Сгорел при пожаре." } },
+        { "question": "Why does the clock have only one hand?", "options": ["The other one broke", "People didn't need exact minutes then", "It was cheaper", "It's a modern design"], "answer": 1, "explanation": { "tr": "O zaman dakikalar gerekmiyordu.", "tk": "Ol wagt minutlar gerek däldi.", "ru": "Тогда не нужны были точные минуты." } },
+        { "question": "Where will the tour finish?", "options": ["At the bakery", "At the river", "At the castle", "In Market Square"], "answer": 2, "explanation": { "tr": "Kalede.", "tk": "Galada.", "ru": "У замка." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "B2", "topic": "Podcast on sleep and productivity", "title": "Podcast: Why Sleep Matters",
+    "body": {
+      "script": [
+        "Host: Welcome back to 'Better Habits'. My guest today is Dr Laura Kim, a sleep researcher. Laura, many people are proud of sleeping only five hours a night. Is that a problem?",
+        "Dr Kim: It's one of the most common myths I come across. A tiny percentage of people genuinely function well on very little sleep, but for the vast majority, regularly sleeping less than seven hours affects memory, mood and even the immune system.",
+        "Host: But surely you can catch up at the weekend?",
+        "Dr Kim: Partly, but not completely. Lie-ins can reduce tiredness, yet research shows that reaction times and concentration don't fully recover. It's a bit like trying to eat a week's worth of food on Sunday.",
+        "Host: What's the single biggest thing people can do to sleep better?",
+        "Dr Kim: Keep the same wake-up time every day, including weekends. Your body clock loves routine. The second thing would be to stop looking at screens for at least half an hour before bed — not just because of the light, but because scrolling keeps your brain alert.",
+        "Host: And what about naps?",
+        "Dr Kim: Short naps of around twenty minutes can be great, especially in the early afternoon. Longer than that, and you risk waking up groggy and finding it harder to sleep at night.",
+        "Host: Fascinating. Thanks, Laura."
+      ],
+      "glossary": [
+        { "word": "myth", "tr": "efsane, yanlış inanış", "tk": "ýalňyş ynanç", "ru": "миф" },
+        { "word": "vast majority", "tr": "büyük çoğunluk", "tk": "aglaba köpüsi", "ru": "подавляющее большинство" },
+        { "word": "immune system", "tr": "bağışıklık sistemi", "tk": "immun ulgamy", "ru": "иммунная система" },
+        { "word": "catch up", "tr": "telafi etmek", "tk": "öwezini dolmak", "ru": "наверстать" },
+        { "word": "lie-in", "tr": "geç kalkma", "tk": "giç turmak", "ru": "долгий утренний сон" },
+        { "word": "body clock", "tr": "biyolojik saat", "tk": "biologik sagat", "ru": "биологические часы" },
+        { "word": "groggy", "tr": "sersem, uyku sersemi", "tk": "ukusyramak", "ru": "вялый, разбитый" }
+      ],
+      "questions": [
+        { "question": "What does Dr Kim say about people who sleep five hours a night?", "options": ["Most of them are fine", "Only a very small number function well", "It's healthy for adults", "It improves memory"], "answer": 1, "explanation": { "tr": "Sadece çok küçük bir kısım iyi işler.", "tk": "Diňe örän az bölegi gowy işleýär.", "ru": "Хорошо себя чувствует лишь крошечная доля." } },
+        { "question": "What is her view on catching up on sleep at weekends?", "options": ["It works perfectly", "It helps partly but not completely", "It is dangerous", "It's better than sleeping regularly"], "answer": 1, "explanation": { "tr": "Kısmen işe yarar.", "tk": "Bölekleýin peýdaly.", "ru": "Помогает лишь частично." } },
+        { "question": "Why does she compare weekend sleep to eating?", "options": ["To show that you can't store it up efficiently", "Because food affects sleep", "To recommend eating before bed", "To talk about diets"], "answer": 0, "explanation": { "tr": "Uyku biriktirilemez, tıpkı bir haftalık yemeğin bir günde yenemeyeceği gibi.", "tk": "Ukyny ýygnap bolmaýar, bir hepdelik iýmiti bir günde iýip bolmaýşy ýaly.", "ru": "Сон нельзя накопить, как нельзя съесть недельный запас еды за день." } },
+        { "question": "What is her number one tip?", "options": ["Sleep longer at weekends", "Wake up at the same time every day", "Take long naps", "Drink less coffee"], "answer": 1, "explanation": { "tr": "Her gün aynı saatte kalkmak.", "tk": "Her gün şol bir wagtda turmak.", "ru": "Вставать в одно и то же время." } },
+        { "question": "What can happen if a nap is too long?", "options": ["You feel more alert", "You may wake up groggy and sleep worse at night", "Nothing", "Your memory improves"], "answer": 1, "explanation": { "tr": "Sersem uyanır, gece zor uyursunuz.", "tk": "Ukusyrap oýanýarsyň, gije kyn uklaýarsyň.", "ru": "Проснётесь разбитым и хуже уснёте ночью." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "B2", "topic": "Discussion about electric cars", "title": "Are Electric Cars Worth It?",
+    "body": {
+      "script": [
+        "Mark: I'm seriously thinking about getting an electric car, but I keep changing my mind.",
+        "Selin: What's putting you off?",
+        "Mark: Mainly the price. They're still quite a bit more expensive than petrol cars.",
+        "Selin: Up front, yes. But you have to look at the total cost. Charging at home costs a fraction of what you'd spend on petrol, and there's far less maintenance — no oil changes, fewer parts to break.",
+        "Mark: Fair point. But what about long journeys? I visit my parents twice a month and it's four hundred kilometres away.",
+        "Selin: Most newer models can do that on a single charge, or close to it. And if not, a fast charger gets you to eighty per cent in about half an hour — just enough time for a coffee.",
+        "Mark: I've also read that making the batteries is terrible for the environment.",
+        "Selin: It's true that battery production has a big carbon footprint, and mining the materials raises real concerns. But studies suggest that, over its lifetime, an electric car usually ends up cleaner — especially if the electricity comes from renewable sources.",
+        "Mark: So you'd go for it?",
+        "Selin: If you mostly drive in the city and can charge at home, I think it's a no-brainer. If not, maybe wait a couple of years until there are more chargers."
+      ],
+      "glossary": [
+        { "word": "put someone off", "tr": "vazgeçirmek, soğutmak", "tk": "höwesini gaçyrmak", "ru": "отталкивать, отбивать желание" },
+        { "word": "up front", "tr": "peşin, başlangıçta", "tk": "başda, öňünden", "ru": "сразу, изначально" },
+        { "word": "a fraction of", "tr": "çok küçük bir kısmı", "tk": "örän az bölegi", "ru": "малая доля" },
+        { "word": "maintenance", "tr": "bakım", "tk": "tehniki hyzmat", "ru": "обслуживание" },
+        { "word": "carbon footprint", "tr": "karbon ayak izi", "tk": "uglerod yzy", "ru": "углеродный след" },
+        { "word": "mining", "tr": "madencilik", "tk": "magdan çykarmak", "ru": "добыча" },
+        { "word": "a no-brainer", "tr": "düşünmeye gerek yok, çok açık", "tk": "aýdyň zat", "ru": "очевидное решение" }
+      ],
+      "questions": [
+        { "question": "What is Mark's main concern at first?", "options": ["Safety", "The price", "The colour", "Insurance"], "answer": 1, "explanation": { "tr": "Fiyat.", "tk": "Baha.", "ru": "Цена." } },
+        { "question": "Why does Selin think the total cost may be lower?", "options": ["The car is cheaper to buy", "Charging and maintenance are cheaper", "The government pays for it", "Insurance is free"], "answer": 1, "explanation": { "tr": "Şarj ve bakım ucuz.", "tk": "Zarýad we tehniki hyzmat arzan.", "ru": "Зарядка и обслуживание дешевле." } },
+        { "question": "How long does fast charging to 80% take?", "options": ["About 10 minutes", "About 30 minutes", "Two hours", "All night"], "answer": 1, "explanation": { "tr": "Yaklaşık yarım saat.", "tk": "Takmynan ýarym sagat.", "ru": "Около получаса." } },
+        { "question": "What does Selin say about batteries and the environment?", "options": ["They have no impact", "Production is harmful, but over its lifetime the car is usually cleaner", "Electric cars are worse overall", "Batteries are always recycled"], "answer": 1, "explanation": { "tr": "Üretim zararlı ama ömür boyu genelde daha temiz.", "tk": "Öndürilişi zyýanly, emma tutuş ömründe adatça arassa.", "ru": "Производство вредно, но за весь срок авто обычно чище." } },
+        { "question": "When does Selin think buying one is clearly a good idea?", "options": ["Always", "If you drive mostly in the city and can charge at home", "Only for long journeys", "Never at the moment"], "answer": 1, "explanation": { "tr": "Şehir içi kullanım ve evde şarj imkânı varsa.", "tk": "Esasan şäherde sürýän we öýde zarýad edip bilýän bolsaň.", "ru": "Если ездите по городу и можете заряжаться дома." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "B2", "topic": "A talk on volunteering abroad", "title": "Talk: Volunteering Abroad — Think Twice",
+    "body": {
+      "script": [
+        "Thanks for coming. Every year, thousands of young people pay to volunteer abroad — building schools, teaching English or working in orphanages. The intention is almost always good. But tonight I'd like to encourage you to ask some difficult questions before you sign up.",
+        "First: who actually benefits? Some programmes charge volunteers several thousand dollars, yet only a small part of that money reaches the local community. Before you book, ask the organisation for a clear breakdown of costs.",
+        "Second: do you have the right skills? If you wouldn't be allowed to teach or build a wall in your own country without training, why should it be acceptable somewhere else? In some cases, unskilled volunteers take work away from local people who need the income.",
+        "Third, and perhaps most importantly, think about children. Short-term volunteers in orphanages can do real harm. Children become attached to adults who disappear after two weeks, again and again. Many child-protection experts now advise against this kind of volunteering altogether.",
+        "I'm not saying don't go. Volunteering can be life-changing for everyone involved — if it's done responsibly. Choose longer placements, use the skills you really have, and support projects that are run by local people. Thank you."
+      ],
+      "glossary": [
+        { "word": "volunteer", "tr": "gönüllü (olmak)", "tk": "meýletinçi (bolmak)", "ru": "волонтёр(ить)" },
+        { "word": "sign up", "tr": "kaydolmak", "tk": "ýazylmak", "ru": "записаться" },
+        { "word": "breakdown of costs", "tr": "maliyet dökümü", "tk": "çykdajylaryň jikme-jikligi", "ru": "разбивка расходов" },
+        { "word": "unskilled", "tr": "vasıfsız", "tk": "hünärsiz", "ru": "неквалифицированный" },
+        { "word": "become attached to", "tr": "bağlanmak", "tk": "baglanyşmak", "ru": "привязаться к" },
+        { "word": "placement", "tr": "görev yeri, staj", "tk": "iş ýeri, tejribe", "ru": "место стажировки" },
+        { "word": "responsibly", "tr": "sorumlu bir şekilde", "tk": "jogapkärli", "ru": "ответственно" }
+      ],
+      "questions": [
+        { "question": "What is the main purpose of the talk?", "options": ["To stop all volunteering", "To encourage people to think carefully before volunteering", "To advertise a programme", "To explain how to build schools"], "answer": 1, "explanation": { "tr": "Gönüllü olmadan önce dikkatle düşünmeye teşvik.", "tk": "Meýletinçi bolmazdan öň oýlanmaga çagyryş.", "ru": "Призыв подумать, прежде чем ехать волонтёром." } },
+        { "question": "What should you ask the organisation before booking?", "options": ["Where you will sleep", "For a clear breakdown of costs", "How many volunteers there are", "If you can bring friends"], "answer": 1, "explanation": { "tr": "Net bir maliyet dökümü.", "tk": "Çykdajylaryň anyk jikme-jikligini.", "ru": "Чёткую разбивку расходов." } },
+        { "question": "Why can unskilled volunteers be a problem?", "options": ["They are too expensive", "They may take paid work away from locals", "They don't speak the language", "They stay too long"], "answer": 1, "explanation": { "tr": "Yerel halkın gelirini elinden alabilir.", "tk": "Ýerli ilatyň girdejisini elinden alyp biler.", "ru": "Могут отнять заработок у местных." } },
+        { "question": "What does the speaker say about short-term orphanage volunteering?", "options": ["It is the best type", "It can harm children who become attached", "It's only for teachers", "It's always well organised"], "answer": 1, "explanation": { "tr": "Bağlanan çocuklara zarar verebilir.", "tk": "Baglanyşýan çagalara zyýan berip biler.", "ru": "Может навредить детям, которые привязываются." } },
+        { "question": "Which recommendation does the speaker make?", "options": ["Choose shorter trips", "Support projects run by local people", "Avoid using your skills", "Pay more money"], "answer": 1, "explanation": { "tr": "Yerel halkın yürüttüğü projeleri destekleyin.", "tk": "Ýerli ilatyň alyp barýan taslamalaryny goldaň.", "ru": "Поддерживать проекты местных жителей." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "C1", "topic": "Lecture on the placebo effect", "title": "Lecture: The Power of Placebo",
+    "body": {
+      "script": [
+        "Today I want to look at one of the most puzzling phenomena in medicine: the placebo effect. A placebo, as you know, is a treatment with no active ingredient — a sugar pill, say, or a saline injection. And yet, in clinical trials, a substantial proportion of patients given placebos report genuine improvement.",
+        "Now, it would be easy to dismiss this as patients simply imagining they feel better. But brain-imaging studies have shown that placebos can trigger the release of the body's own painkillers — endorphins. In other words, the effect isn't merely 'all in the mind' in the dismissive sense; it has a measurable physiological basis.",
+        "What's particularly intriguing is how context shapes the response. Expensive placebos tend to work better than cheap ones. Injections outperform pills. Even the colour matters: in several studies, blue pills were perceived as more calming, red ones as more stimulating.",
+        "Perhaps most surprising of all are so-called 'open-label' placebos. Here, patients are told explicitly that the pill contains nothing — and yet, in trials for conditions such as irritable bowel syndrome, many still improved. This suggests that the ritual of treatment itself, and the relationship with a caring practitioner, may be doing a good deal of the work.",
+        "Of course, we should be cautious. Placebos rarely shrink tumours or cure infections. Their effects are strongest for subjective symptoms such as pain, nausea and fatigue. But the implications for how doctors communicate with patients are, I'd argue, profound."
+      ],
+      "glossary": [
+        { "word": "puzzling", "tr": "şaşırtıcı, kafa karıştırıcı", "tk": "geň galdyryjy", "ru": "загадочный" },
+        { "word": "active ingredient", "tr": "etken madde", "tk": "işjeň madda", "ru": "действующее вещество" },
+        { "word": "dismiss", "tr": "önemsiz saymak", "tk": "äsgermezlik etmek", "ru": "отмахнуться" },
+        { "word": "physiological", "tr": "fizyolojik", "tk": "fiziologik", "ru": "физиологический" },
+        { "word": "outperform", "tr": "daha iyi sonuç vermek", "tk": "has gowy netije bermek", "ru": "превосходить" },
+        { "word": "explicitly", "tr": "açıkça", "tk": "aç-açan", "ru": "прямо, явно" },
+        { "word": "practitioner", "tr": "hekim, uygulayıcı", "tk": "lukman", "ru": "врач, практик" },
+        { "word": "profound", "tr": "derin, köklü", "tk": "çuňňur", "ru": "глубокий" }
+      ],
+      "questions": [
+        { "question": "What evidence does the lecturer give that placebo effects are real?", "options": ["Patients say so", "Brain imaging shows the release of endorphins", "Doctors believe in them", "They cure infections"], "answer": 1, "explanation": { "tr": "Beyin görüntüleme endorfin salgılanmasını gösteriyor.", "tk": "Beýni suratlary endorfinleriň bölünip çykýandygyny görkezýär.", "ru": "Нейровизуализация показывает выброс эндорфинов." } },
+        { "question": "According to the lecture, which placebo would probably work best?", "options": ["A cheap pill", "An expensive injection", "A free sample", "A pill the patient chooses"], "answer": 1, "explanation": { "tr": "Pahalı ve enjeksiyon daha etkili.", "tk": "Gymmat we sanjym has täsirli.", "ru": "Дорогие и уколы действуют сильнее." } },
+        { "question": "What is an 'open-label' placebo?", "options": ["A placebo with a hidden ingredient", "A placebo patients know contains nothing", "A new type of drug", "A placebo sold without prescription"], "answer": 1, "explanation": { "tr": "Hastanın içinde bir şey olmadığını bildiği plasebo.", "tk": "Näsagyň içinde hiç zat ýokdugyny bilýän plasebosy.", "ru": "Плацебо, о «пустоте» которого пациент знает." } },
+        { "question": "What does the lecturer suggest open-label results show?", "options": ["Patients were lying", "The ritual and the caring relationship matter", "Sugar is a medicine", "The trials were badly designed"], "answer": 1, "explanation": { "tr": "Tedavi ritüeli ve ilgili hekim ilişkisi önemli.", "tk": "Bejergi däbi we aladaly lukman gatnaşygy möhüm.", "ru": "Важны ритуал лечения и заботливые отношения." } },
+        { "question": "For which problems are placebos most effective?", "options": ["Tumours", "Infections", "Subjective symptoms like pain and nausea", "Broken bones"], "answer": 2, "explanation": { "tr": "Ağrı, bulantı gibi öznel belirtiler.", "tk": "Agyry, ýürek bulanma ýaly subýektiw alamatlar.", "ru": "Субъективные симптомы: боль, тошнота." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "C1", "topic": "Interview about minimalism", "title": "Interview: Living with Less",
+    "body": {
+      "script": [
+        "Interviewer: Five years ago, you sold most of your possessions and moved into a flat with just a hundred items. What prompted that?",
+        "Jonas: Burnout, essentially. I had a well-paid job, a big house, two cars — and I was miserable. I realised I was working longer hours to pay for things I barely had time to use.",
+        "Interviewer: Critics say minimalism is a luxury for people who can afford to throw things away and buy them back later.",
+        "Jonas: That's a fair criticism, and I don't dismiss it. It's much easier to own very little when you know you could replace something if you needed to. For people on low incomes, keeping things 'just in case' is often a perfectly rational strategy.",
+        "Interviewer: So what would you say to them?",
+        "Jonas: Honestly, I'd say the message isn't really for them. Minimalism, as I see it, is a response to over-consumption, and that's mainly a problem of the comfortably off.",
+        "Interviewer: Has it made you happier?",
+        "Jonas: Calmer, certainly. Happier... it's complicated. The first year was exhilarating. Then I found I'd simply replaced one obsession — buying things — with another — getting rid of them. These days I'm less strict. The question I ask isn't 'How few things can I own?' but 'Does this thing earn its place in my life?'"
+      ],
+      "glossary": [
+        { "word": "possessions", "tr": "eşyalar, mal varlığı", "tk": "emläk, zatlar", "ru": "имущество, вещи" },
+        { "word": "prompt", "tr": "yol açmak, tetiklemek", "tk": "sebäp bolmak", "ru": "побудить" },
+        { "word": "burnout", "tr": "tükenmişlik", "tk": "ruhy ýadawlyk", "ru": "выгорание" },
+        { "word": "barely", "tr": "neredeyse hiç", "tk": "zordan", "ru": "едва" },
+        { "word": "rational", "tr": "akılcı", "tk": "akylly, paýhasly", "ru": "рациональный" },
+        { "word": "comfortably off", "tr": "hâli vakti yerinde", "tk": "gurply", "ru": "обеспеченный" },
+        { "word": "exhilarating", "tr": "heyecan verici, coşturucu", "tk": "ruhlandyryjy", "ru": "воодушевляющий" },
+        { "word": "earn its place", "tr": "yerini hak etmek", "tk": "öz ornuna mynasyp bolmak", "ru": "заслужить своё место" }
+      ],
+      "questions": [
+        { "question": "Why did Jonas decide to become a minimalist?", "options": ["He lost his job", "He was burnt out and unhappy despite his wealth", "He moved abroad", "He wanted to save money for a house"], "answer": 1, "explanation": { "tr": "Zengin olmasına rağmen tükenmiş ve mutsuzdu.", "tk": "Baý bolsa-da, ýadap, bagtsyzdy.", "ru": "Выгорел и был несчастен, несмотря на достаток." } },
+        { "question": "How does Jonas respond to the criticism that minimalism is a luxury?", "options": ["He strongly rejects it", "He accepts it as fair", "He ignores it", "He says poor people should try it"], "answer": 1, "explanation": { "tr": "Haklı bir eleştiri olduğunu kabul ediyor.", "tk": "Esasly tankytdygyny kabul edýär.", "ru": "Признаёт критику справедливой." } },
+        { "question": "Why, according to Jonas, might people on low incomes keep things?", "options": ["Out of habit", "It is a rational strategy", "They like collecting", "They don't know about minimalism"], "answer": 1, "explanation": { "tr": "Akılcı bir strateji.", "tk": "Paýhasly strategiýa.", "ru": "Это рациональная стратегия." } },
+        { "question": "What problem did Jonas notice after the first year?", "options": ["He missed his house", "He had swapped one obsession for another", "He started buying again", "He became bored"], "answer": 1, "explanation": { "tr": "Bir takıntıyı diğeriyle değiştirmişti.", "tk": "Bir gümra bolmany beýlekisi bilen çalşypdyr.", "ru": "Сменил одну одержимость на другую." } },
+        { "question": "What question does Jonas ask himself now?", "options": ["How few things can I own?", "Does this thing earn its place in my life?", "Can I afford it?", "Will others like it?"], "answer": 1, "explanation": { "tr": "Bu eşya hayatımda yerini hak ediyor mu?", "tk": "Bu zat durmuşymda öz ornuna mynasypmy?", "ru": "Заслуживает ли вещь места в моей жизни?" } }
+      ]
+    }
+  }
+]

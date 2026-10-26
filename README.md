@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# altyn.english
 
-## Getting Started
+İngilizce öğretmeni ve öğrencileri için çalışma platformu. Öğretmen öğrenci ekler, seviyesini (A1–C2 veya TOEFL) belirler ve ilerlemesini takip eder. Öğrenci, seviyesine göre üretilmiş okuma, dinleme, yazma, konuşma, kelime ve gramer içerikleriyle çalışır.
 
-First, run the development server:
+Arayüz dilleri: Türkçe, Türkmence, Rusça.
+
+## Teknoloji
+
+Next.js 16 (App Router) · TypeScript · Tailwind CSS 4 · PostgreSQL + Prisma 7 · jose (oturum) · Claude API · Recharts
+
+## Kurulum
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+cp .env.example .env        # DATABASE_URL, DIRECT_URL (Supabase → Connect), SESSION_SECRET, ANTHROPIC_API_KEY, TEACHER_* doldur
+npm run db:migrate          # tabloları oluşturur (DIRECT_URL üzerinden)
+npm run db:seed             # .env'deki bilgilerle öğretmen hesabını oluşturur
+npm run dev                 # http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+`SESSION_SECRET` üretmek için: `openssl rand -base64 32`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Yapı
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Yol | Ne |
+|---|---|
+| `prisma/schema.prisma` | Veritabanı şeması |
+| `src/proxy.ts` | Rol bazlı hızlı yönlendirme |
+| `src/lib/dal.ts` | Yetki kontrolü (`requireTeacher`, `requireStudent`) |
+| `src/lib/content.ts` | Öğrencinin hangi içeriği göreceği: seviyesine etiketli içerik |
+| `src/i18n/` | Sözlükler (`tr.ts` ana sözlük; `tk.ts`, `ru.ts` aynı yapıda) |
+| `src/app/teacher/` | Öğretmen paneli |
+| `src/app/student/` | Öğrenci paneli |
+| `src/app/actions/` | Server action'lar |
 
-## Learn More
+## Yol haritası
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. ✅ Kurulum, giriş, roller, 3 dil, öğrenci ekleme ve seviye atama
+2. Kelime (aralıklı tekrar) ve okuma
+3. Yapay zekalı yazma değerlendirmesi
+4. Dinleme (tarayıcı sesi) ve konuşma
+5. Ödev sistemi
+6. Öğretmen analizleri: grafikler, hata haritası, süre
+7. İçerik hattı: Oxford materyallerinden müfredat ve yapay zekayla içerik üretimi

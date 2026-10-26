@@ -1,0 +1,134 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Tenses – Various exercises: Negation of sentences",
+    "title": "Making Sentences Negative: All Tenses",
+    "body": {
+      "explanation": {
+        "tr": "Bir cümleyi olumsuz yapmanın genel kuralı: yardımcı fiilden sonra 'not' ekle.\n• Yardımcı fiil varsa (be, have, will, can, must…): ona not ekle → is not / has not / will not / can not\n• Yardımcı fiil yoksa (Simple Present/Past): do/does/did ekle → don't / doesn't / didn't + yalın fiil\nBelirsiz kelimeleri değiştir:\n• some → any: I have some money. → I don't have any money.\n• already → yet: She has already left. → She hasn't left yet.\n• somebody → anybody / nobody; always → never (or not always)",
+        "tk": "Sözlemi ýokluk görnüşe öwürmegiň umumy düzgüni: kömekçi işlikden soň 'not' goş.\n• Kömekçi işlik bar bolsa (be, have, will, can, must…): oňa not goş → is not / has not / will not / can not\n• Kömekçi işlik ýok bolsa (Simple Present/Past): do/does/did goş → don't / doesn't / didn't + esasy işlik\nNäbelli sözleri üýtget:\n• some → any: I have some money. → I don't have any money.\n• already → yet: She has already left. → She hasn't left yet.\n• somebody → anybody / nobody; always → never (ýa-da not always)",
+        "ru": "Общее правило отрицания: добавь 'not' после вспомогательного глагола.\n• Если есть вспомогательный (be, have, will, can, must…): добавь к нему not → is not / has not / will not / can not\n• Если его нет (Simple Present/Past): добавь do/does/did → don't / doesn't / didn't + начальная форма\nЗамени неопределённые слова:\n• some → any: I have some money. → I don't have any money.\n• already → yet: She has already left. → She hasn't left yet.\n• somebody → anybody / nobody; always → never (или not always)"
+      },
+      "examples": [
+        { "en": "I have some money. → I don't have any money.", "tr": "Hiç param yok.", "tk": "Meniň hiç pulum ýok.", "ru": "У меня нет денег." },
+        { "en": "She has already left. → She hasn't left yet.", "tr": "Henüz gitmedi.", "tk": "Ol entek gitmedi.", "ru": "Она ещё не ушла." },
+        { "en": "Somebody called. → Nobody called.", "tr": "Kimse aramadı.", "tk": "Hiç kim jaň etmedi.", "ru": "Никто не звонил." },
+        { "en": "We must hurry. → We mustn't hurry. / We don't have to hurry.", "tr": "Acele etmemeliyiz. / Acele etmemize gerek yok.", "tk": "Howlukmaly däl. / Howlukmak hökman däl.", "ru": "Нам нельзя спешить. / Нам не нужно спешить." },
+        { "en": "He always helps. → He never helps.", "tr": "Asla yardım etmez.", "tk": "Ol hiç haçan kömek etmeýär.", "ru": "Он никогда не помогает." },
+        { "en": "They will come. → They won't come.", "tr": "Gelmeyecekler.", "tk": "Olar gelmez.", "ru": "Они не придут." }
+      ],
+      "exercises": [
+        { "question": "I bought some apples. → negative:", "options": ["I didn't buy some apples.", "I didn't buy any apples.", "I didn't bought any apples.", "I bought not any apples."], "answer": 1, "explanation": { "tr": "didn't + buy; some → any.", "tk": "didn't + buy; some → any.", "ru": "didn't + buy; some → any." } },
+        { "question": "He has already finished. → negative:", "options": ["He hasn't already finished.", "He hasn't finished yet.", "He didn't finish yet.", "He hasn't finish yet."], "answer": 1, "explanation": { "tr": "already → yet.", "tk": "already → yet.", "ru": "already → yet." } },
+        { "question": "Somebody knows the answer. → negative:", "options": ["Somebody doesn't know the answer.", "Nobody knows the answer.", "Nobody doesn't know the answer.", "Anybody knows the answer."], "answer": 1, "explanation": { "tr": "Nobody + olumlu fiil.", "tk": "Nobody + tassyklaýjy işlik.", "ru": "Nobody + утвердительный глагол." } },
+        { "question": "She can drive. → negative:", "options": ["She doesn't can drive.", "She can't drive.", "She can't to drive.", "She can drive not."], "answer": 1, "explanation": { "tr": "can → can't.", "tk": "can → can't.", "ru": "can → can't." } },
+        { "question": "They were watching TV. → negative:", "options": ["They weren't watching TV.", "They didn't watching TV.", "They wasn't watching TV.", "They weren't watch TV."], "answer": 0, "explanation": { "tr": "were → weren't.", "tk": "were → weren't.", "ru": "were → weren't." } },
+        { "question": "You have to wear a uniform. → negative (no obligation):", "options": ["You mustn't wear a uniform.", "You don't have to wear a uniform.", "You haven't to wear a uniform.", "You don't must wear a uniform."], "answer": 1, "explanation": { "tr": "Zorunluluk yok → don't have to.", "tk": "Hökmanylyk ýok → don't have to.", "ru": "Нет необходимости → don't have to." } },
+        { "question": "We had seen the film. → negative:", "options": ["We hadn't seen the film.", "We didn't had seen the film.", "We haven't seen the film.", "We hadn't saw the film."], "answer": 0, "explanation": { "tr": "had → hadn't.", "tk": "had → hadn't.", "ru": "had → hadn't." } },
+        { "question": "There is something in the box. → negative:", "options": ["There isn't something in the box.", "There isn't anything in the box.", "There is anything in the box.", "There not is anything in the box."], "answer": 1, "explanation": { "tr": "something → anything.", "tk": "something → anything.", "ru": "something → anything." } },
+        { "question": "My sister always lies. → negative meaning:", "options": ["My sister never lies.", "My sister doesn't never lie.", "My sister always doesn't lie.", "My sister not always lies."], "answer": 0, "explanation": { "tr": "always → never.", "tk": "always → never.", "ru": "always → never." } },
+        { "question": "Find the mistake: \"I don't know nothing about it.\"", "options": ["I don't", "know", "nothing", "about it"], "answer": 2, "explanation": { "tr": "Çift olumsuz yok: anything.", "tk": "Goşa ýokluk ýok: anything.", "ru": "Двойного отрицания нет: anything." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Various exercises: Present time phrases or past time phrases",
+    "title": "Present or Past Time Phrases?",
+    "body": {
+      "explanation": {
+        "tr": "Zaman ifadeleri hangi zamanı kullanacağını söyler:\n• Present (şimdiki/genel): now, today, at the moment, these days, nowadays, every day, usually, always, this week\n• Past (geçmiş): yesterday, last night/week/year, … ago, in 2010, the day before yesterday, then, when I was young\n• Dikkat: 'this morning' saat hâlâ sabahsa present, öğleden sonraysa past olabilir.\n  I'm working this morning. (şu an sabah) / I worked hard this morning. (sabah bitti)",
+        "tk": "Wagt aňlatmalary haýsy zamany ulanmalydygyny aýdýar:\n• Present (häzirki/umumy): now, today, at the moment, these days, nowadays, every day, usually, always, this week\n• Past (geçmiş): yesterday, last night/week/year, … ago, in 2010, the day before yesterday, then, when I was young\n• Üns beriň: 'this morning' häzir henizem ir bolsa present, günortandan soň bolsa past bolup biler.\n  I'm working this morning. (häzir ir) / I worked hard this morning. (ir geçdi)",
+        "ru": "Выражения времени подсказывают время глагола:\n• Present (настоящее/обычное): now, today, at the moment, these days, nowadays, every day, usually, always, this week\n• Past (прошлое): yesterday, last night/week/year, … ago, in 2010, the day before yesterday, then, when I was young\n• Внимание: 'this morning' — если утро ещё не прошло, present; если уже день — past.\n  I'm working this morning. (сейчас утро) / I worked hard this morning. (утро прошло)"
+      },
+      "examples": [
+        { "en": "Nowadays many people work from home.", "tr": "Günümüzde birçok kişi evden çalışıyor.", "tk": "Häzirki wagtda köp adam öýden işleýär.", "ru": "В наши дни многие работают из дома." },
+        { "en": "Ten years ago people worked in offices.", "tr": "On yıl önce insanlar ofislerde çalışırdı.", "tk": "On ýyl ozal adamlar edaralarda işleýärdi.", "ru": "Десять лет назад люди работали в офисах." },
+        { "en": "At the moment I'm reading a novel.", "tr": "Şu sıralar bir roman okuyorum.", "tk": "Häzirki wagtda men roman okaýaryn.", "ru": "Сейчас я читаю роман." },
+        { "en": "Yesterday I read a short story.", "tr": "Dün bir kısa öykü okudum.", "tk": "Düýn men gysga hekaýa okadym.", "ru": "Вчера я прочитал рассказ." },
+        { "en": "When I was young, we didn't have smartphones.", "tr": "Ben gençken akıllı telefonlarımız yoktu.", "tk": "Men ýaşkam, biziň smartfonlarymyz ýokdy.", "ru": "Когда я был молод, у нас не было смартфонов." },
+        { "en": "These days I drink less coffee.", "tr": "Bu aralar daha az kahve içiyorum.", "tk": "Soňky günlerde az kofe içýärin.", "ru": "В последнее время я пью меньше кофе." }
+      ],
+      "exercises": [
+        { "question": "Which is a PAST time phrase?", "options": ["nowadays", "two weeks ago", "at the moment", "every day"], "answer": 1, "explanation": { "tr": "ago → geçmiş.", "tk": "ago → geçmiş.", "ru": "ago → прошлое." } },
+        { "question": "Which is a PRESENT time phrase?", "options": ["last year", "yesterday", "these days", "in 2015"], "answer": 2, "explanation": { "tr": "these days → present.", "tk": "these days → present.", "ru": "these days → present." } },
+        { "question": "___ I visited my uncle.", "options": ["Every Sunday", "Last Sunday", "Nowadays", "At the moment"], "answer": 1, "explanation": { "tr": "visited → Last Sunday.", "tk": "visited → Last Sunday.", "ru": "visited → Last Sunday." } },
+        { "question": "___ she is studying for her exams.", "options": ["Yesterday", "At the moment", "Last week", "Two days ago"], "answer": 1, "explanation": { "tr": "is studying → At the moment.", "tk": "is studying → At the moment.", "ru": "is studying → At the moment." } },
+        { "question": "My grandparents ___ in a village when they were young.", "options": ["live", "lived", "are living", "lives"], "answer": 1, "explanation": { "tr": "when they were young → lived.", "tk": "when they were young → lived.", "ru": "when they were young → lived." } },
+        { "question": "We ___ a lot of homework these days.", "options": ["had", "have", "were having", "has"], "answer": 1, "explanation": { "tr": "these days → have.", "tk": "these days → have.", "ru": "these days → have." } },
+        { "question": "The library ___ in 1995.", "options": ["opens", "opened", "is opening", "open"], "answer": 1, "explanation": { "tr": "in 1995 → opened.", "tk": "in 1995 → opened.", "ru": "in 1995 → opened." } },
+        { "question": "He ___ to work by bus every day.", "options": ["goes", "went", "is going", "go"], "answer": 0, "explanation": { "tr": "every day → goes.", "tk": "every day → goes.", "ru": "every day → goes." } },
+        { "question": "It's 3 pm. \"I ___ two coffees this morning.\"", "options": ["drink", "drank", "am drinking", "drinks"], "answer": 1, "explanation": { "tr": "Sabah bitti → drank.", "tk": "Ir geçdi → drank.", "ru": "Утро прошло → drank." } },
+        { "question": "Find the mistake: \"Nowadays people wrote fewer letters.\"", "options": ["Nowadays", "people", "wrote", "fewer letters"], "answer": 2, "explanation": { "tr": "Nowadays → write.", "tk": "Nowadays → write.", "ru": "Nowadays → write." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Various exercises: Questions and short answers in English",
+    "title": "Short Answers in All Tenses",
+    "body": {
+      "explanation": {
+        "tr": "Kısa cevaplarda sorudaki yardımcı fiil tekrarlanır:\n• Do you…? → Yes, I do. / No, I don't.\n• Does she…? → Yes, she does. / No, she doesn't.\n• Did they…? → Yes, they did. / No, they didn't.\n• Are you…? → Yes, I am. / No, I'm not.\n• Was he…? → Yes, he was. / No, he wasn't.\n• Have you…? → Yes, I have. / No, I haven't.\n• Will it…? → Yes, it will. / No, it won't.\n• Can you…? → Yes, I can. / No, I can't.\nOlumlu kısa cevapta kısaltma yok: Yes, I am. (Yes, I'm ✗)",
+        "tk": "Gysga jogaplarda soragdaky kömekçi işlik gaýtalanýar:\n• Do you…? → Yes, I do. / No, I don't.\n• Does she…? → Yes, she does. / No, she doesn't.\n• Did they…? → Yes, they did. / No, they didn't.\n• Are you…? → Yes, I am. / No, I'm not.\n• Was he…? → Yes, he was. / No, he wasn't.\n• Have you…? → Yes, I have. / No, I haven't.\n• Will it…? → Yes, it will. / No, it won't.\n• Can you…? → Yes, I can. / No, I can't.\nTassyklaýjy gysga jogapda gysgaltma ýok: Yes, I am. (Yes, I'm ✗)",
+        "ru": "В кратких ответах повторяется вспомогательный глагол из вопроса:\n• Do you…? → Yes, I do. / No, I don't.\n• Does she…? → Yes, she does. / No, she doesn't.\n• Did they…? → Yes, they did. / No, they didn't.\n• Are you…? → Yes, I am. / No, I'm not.\n• Was he…? → Yes, he was. / No, he wasn't.\n• Have you…? → Yes, I have. / No, I haven't.\n• Will it…? → Yes, it will. / No, it won't.\n• Can you…? → Yes, I can. / No, I can't.\nВ утвердительном кратком ответе без сокращения: Yes, I am. (Yes, I'm ✗)"
+      },
+      "examples": [
+        { "en": "Do you like tea? – Yes, I do.", "tr": "Çay sever misin? – Evet.", "tk": "Çaýy halaýarsyňmy? – Hawa.", "ru": "Ты любишь чай? – Да." },
+        { "en": "Did she call? – No, she didn't.", "tr": "Aradı mı? – Hayır.", "tk": "Ol jaň etdimi? – Ýok.", "ru": "Она звонила? – Нет." },
+        { "en": "Are they ready? – Yes, they are.", "tr": "Hazırlar mı? – Evet.", "tk": "Olar taýýarmy? – Hawa.", "ru": "Они готовы? – Да." },
+        { "en": "Have you eaten? – No, I haven't.", "tr": "Yemek yedin mi? – Hayır.", "tk": "Nahar iýdiňmi? – Ýok.", "ru": "Ты поел? – Нет." },
+        { "en": "Will it be cold? – Yes, it will.", "tr": "Soğuk olacak mı? – Evet.", "tk": "Sowuk bolarmy? – Hawa.", "ru": "Будет холодно? – Да." },
+        { "en": "Can you swim? – No, I can't.", "tr": "Yüzebilir misin? – Hayır.", "tk": "Ýüzüp bilýärsiňmi? – Ýok.", "ru": "Ты умеешь плавать? – Нет." }
+      ],
+      "exercises": [
+        { "question": "\"Does he speak English?\" – \"Yes, he ___.\"", "options": ["do", "does", "speaks", "is"], "answer": 1, "explanation": { "tr": "Does → does.", "tk": "Does → does.", "ru": "Does → does." } },
+        { "question": "\"Were you at home?\" – \"No, I ___.\"", "options": ["weren't", "wasn't", "didn't", "am not"], "answer": 1, "explanation": { "tr": "I → wasn't.", "tk": "I → wasn't.", "ru": "I → wasn't." } },
+        { "question": "\"Have they arrived?\" – \"Yes, they ___.\"", "options": ["did", "are", "have", "has"], "answer": 2, "explanation": { "tr": "Have → have.", "tk": "Have → have.", "ru": "Have → have." } },
+        { "question": "\"Will you help me?\" – \"Of course, I ___.\"", "options": ["will", "do", "'ll", "am"], "answer": 0, "explanation": { "tr": "Kısaltma yok: I will.", "tk": "Gysgaltma ýok: I will.", "ru": "Без сокращения: I will." } },
+        { "question": "\"Is it raining?\" – \"No, it ___.\"", "options": ["doesn't", "isn't", "wasn't", "won't"], "answer": 1, "explanation": { "tr": "Is → isn't.", "tk": "Is → isn't.", "ru": "Is → isn't." } },
+        { "question": "\"Can your brother drive?\" – \"Yes, he ___.\"", "options": ["does", "is", "can", "drives"], "answer": 2, "explanation": { "tr": "Can → can.", "tk": "Can → can.", "ru": "Can → can." } },
+        { "question": "\"Did you enjoy the trip?\" – \"Yes, we ___.\"", "options": ["did", "enjoyed", "were", "do"], "answer": 0, "explanation": { "tr": "Did → did.", "tk": "Did → did.", "ru": "Did → did." } },
+        { "question": "\"Are you hungry?\" – \"Yes, I ___.\"", "options": ["'m", "am", "are", "do"], "answer": 1, "explanation": { "tr": "Yes, I am.", "tk": "Yes, I am.", "ru": "Yes, I am." } },
+        { "question": "\"Has she finished?\" – \"No, she ___.\"", "options": ["hasn't", "haven't", "didn't", "isn't"], "answer": 0, "explanation": { "tr": "Has → hasn't.", "tk": "Has → hasn't.", "ru": "Has → hasn't." } },
+        { "question": "\"Do your parents live here?\" – \"No, they ___.\"", "options": ["doesn't", "don't", "aren't", "didn't"], "answer": 1, "explanation": { "tr": "Do → don't.", "tk": "Do → don't.", "ru": "Do → don't." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Various exercises: Signal words – Tenses",
+    "title": "Signal Words for Every Tense",
+    "body": {
+      "explanation": {
+        "tr": "Sinyal kelimeler tablosu:\n• Simple Present: always, usually, often, sometimes, never, every…, on Mondays\n• Present Progressive: now, right now, at the moment, Look!, Listen!, today, this week\n• Simple Past: yesterday, last…, … ago, in 2010, when I was…\n• Past Progressive: while, at 8 pm yesterday, all day yesterday\n• Present Perfect: just, already, yet, ever, never, since, for, so far, recently\n• Past Perfect: before, after, by the time, already (geçmişte)\n• will-future: tomorrow, next…, I think, probably, soon\n• going to: Look! (+ işaret), planlar",
+        "tk": "Alamat sözleriň tablisasy:\n• Simple Present: always, usually, often, sometimes, never, every…, on Mondays\n• Present Progressive: now, right now, at the moment, Look!, Listen!, today, this week\n• Simple Past: yesterday, last…, … ago, in 2010, when I was…\n• Past Progressive: while, at 8 pm yesterday, all day yesterday\n• Present Perfect: just, already, yet, ever, never, since, for, so far, recently\n• Past Perfect: before, after, by the time, already (geçmişde)\n• will-future: tomorrow, next…, I think, probably, soon\n• going to: Look! (+ alamat), meýilnamalar",
+        "ru": "Таблица слов-маркеров:\n• Simple Present: always, usually, often, sometimes, never, every…, on Mondays\n• Present Progressive: now, right now, at the moment, Look!, Listen!, today, this week\n• Simple Past: yesterday, last…, … ago, in 2010, when I was…\n• Past Progressive: while, at 8 pm yesterday, all day yesterday\n• Present Perfect: just, already, yet, ever, never, since, for, so far, recently\n• Past Perfect: before, after, by the time, already (в прошлом)\n• will-future: tomorrow, next…, I think, probably, soon\n• going to: Look! (+ признак), планы"
+      },
+      "examples": [
+        { "en": "She often visits us.", "tr": "Bizi sık sık ziyaret eder.", "tk": "Ol bize köplenç myhmançylyga gelýär.", "ru": "Она часто нас навещает." },
+        { "en": "Right now, she is visiting her aunt.", "tr": "Şu anda teyzesini ziyaret ediyor.", "tk": "Häzir ol daýzasynyňkyda.", "ru": "Сейчас она в гостях у тёти." },
+        { "en": "She visited us last month.", "tr": "Geçen ay bizi ziyaret etti.", "tk": "Ol geçen aý bize geldi.", "ru": "Она навещала нас в прошлом месяце." },
+        { "en": "She has just visited us.", "tr": "Az önce bizi ziyaret etti.", "tk": "Ol ýaňy bize gelip gitdi.", "ru": "Она только что у нас была." },
+        { "en": "By the time we arrived, she had left.", "tr": "Biz vardığımızda o gitmişti.", "tk": "Biz barýançak ol gidipdi.", "ru": "К нашему приходу она уже ушла." },
+        { "en": "She will probably visit us soon.", "tr": "Muhtemelen yakında bizi ziyaret edecek.", "tk": "Ol belki ýakynda bize geler.", "ru": "Она, вероятно, скоро к нам заедет." }
+      ],
+      "exercises": [
+        { "question": "\"so far\" is a signal word for:", "options": ["Simple Past", "Present Perfect", "Simple Present", "Past Progressive"], "answer": 1, "explanation": { "tr": "so far → Present Perfect.", "tk": "so far → Present Perfect.", "ru": "so far → Present Perfect." } },
+        { "question": "\"ago\" is a signal word for:", "options": ["Simple Past", "Present Perfect", "will-future", "Present Progressive"], "answer": 0, "explanation": { "tr": "ago → Simple Past.", "tk": "ago → Simple Past.", "ru": "ago → Simple Past." } },
+        { "question": "\"at the moment\" is a signal word for:", "options": ["Simple Present", "Present Progressive", "Past Progressive", "Present Perfect"], "answer": 1, "explanation": { "tr": "at the moment → Present Progressive.", "tk": "at the moment → Present Progressive.", "ru": "at the moment → Present Progressive." } },
+        { "question": "\"by the time\" (in the past) is a signal word for:", "options": ["Past Perfect", "Present Perfect", "Simple Present", "will-future"], "answer": 0, "explanation": { "tr": "by the time → Past Perfect.", "tk": "by the time → Past Perfect.", "ru": "by the time → Past Perfect." } },
+        { "question": "\"usually\" is a signal word for:", "options": ["Simple Present", "Present Progressive", "Simple Past", "Present Perfect"], "answer": 0, "explanation": { "tr": "usually → Simple Present.", "tk": "usually → Simple Present.", "ru": "usually → Simple Present." } },
+        { "question": "She ___ (call) me three times so far.", "options": ["called", "has called", "calls", "is calling"], "answer": 1, "explanation": { "tr": "so far → has called.", "tk": "so far → has called.", "ru": "so far → has called." } },
+        { "question": "While I ___ (sleep), someone knocked.", "options": ["slept", "was sleeping", "sleep", "have slept"], "answer": 1, "explanation": { "tr": "while → was sleeping.", "tk": "while → was sleeping.", "ru": "while → was sleeping." } },
+        { "question": "I think you ___ (like) this film.", "options": ["like", "will like", "liked", "are liking"], "answer": 1, "explanation": { "tr": "I think → will like.", "tk": "I think → will like.", "ru": "I think → will like." } },
+        { "question": "Have you finished your project ___?", "options": ["ago", "yet", "yesterday", "now"], "answer": 1, "explanation": { "tr": "Soru + Present Perfect → yet.", "tk": "Sorag + Present Perfect → yet.", "ru": "Вопрос + Present Perfect → yet." } },
+        { "question": "We moved here ___.", "options": ["since 2015", "for five years", "in 2015", "already"], "answer": 2, "explanation": { "tr": "moved (Simple Past) → in 2015.", "tk": "moved (Simple Past) → in 2015.", "ru": "moved (Simple Past) → in 2015." } }
+      ]
+    }
+  }
+]

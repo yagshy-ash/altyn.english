@@ -1,0 +1,164 @@
+[
+  {
+    "skill": "WRITING", "level": "A1", "topic": "My family", "title": "My Family",
+    "body": {
+      "task": { "tr": "Ailenizi anlatın. Ailenizde kaç kişi olduğunu, isimlerini, yaşlarını ve ne iş yaptıklarını yazın.", "tk": "Maşgalaňyz barada ýazyň. Maşgalaňyzda näçe adamyň bardygyny, olaryň atlaryny, ýaşlaryny we näme iş edýändiklerini ýazyň.", "ru": "Опишите свою семью. Напишите, сколько человек в вашей семье, как их зовут, сколько им лет и чем они занимаются." },
+      "taskEn": "Write about your family. Say how many people are in your family, their names, their ages and what they do.",
+      "minWords": 40,
+      "hints": ["There are five people in my family.", "My father's name is...", "My mother is ... years old.", "She is a teacher.", "I have one brother and one sister."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "A1", "topic": "My favourite food", "title": "My Favourite Food",
+    "body": {
+      "task": { "tr": "En sevdiğiniz yemeği anlatın. Ne olduğunu, ne zaman yediğinizi, kimin yaptığını ve neden sevdiğinizi yazın.", "tk": "Iň halaýan tagamyňyz barada ýazyň. Onuň nämedigini, haçan iýýändigiňizi, kimiň bişirýändigini we näme üçin halaýandygyňyzy ýazyň.", "ru": "Опишите своё любимое блюдо. Напишите, что это, когда вы его едите, кто его готовит и почему оно вам нравится." },
+      "taskEn": "Write about your favourite food. Say what it is, when you eat it, who makes it and why you like it.",
+      "minWords": 40,
+      "hints": ["My favourite food is...", "I eat it on Sundays.", "My mother makes it.", "It is hot and delicious.", "I like it because..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "A1", "topic": "My school or workplace", "title": "My School",
+    "body": {
+      "task": { "tr": "Okulunuzu ya da iş yerinizi anlatın. Nerede olduğunu, nasıl gittiğinizi, orada neler olduğunu ve neyi sevdiğinizi yazın.", "tk": "Mekdebiňiz ýa-da iş ýeriňiz barada ýazyň. Onuň nirededigini, oňa nähili barýandygyňyzy, ol ýerde näme bardygyny we nämäni halaýandygyňyzy ýazyň.", "ru": "Опишите свою школу или место работы. Напишите, где она находится, как вы туда добираетесь, что там есть и что вам нравится." },
+      "taskEn": "Write about your school or workplace. Say where it is, how you get there, what is there and what you like about it.",
+      "minWords": 40,
+      "hints": ["My school is in the city centre.", "I go there by bus.", "There are twenty classrooms.", "My teachers are friendly.", "I like my English class."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "A1", "topic": "My weekend", "title": "My Weekend",
+    "body": {
+      "task": { "tr": "Hafta sonlarınızı anlatın. Cumartesi ve pazar günü genelde ne yaptığınızı ve kiminle vakit geçirdiğinizi yazın.", "tk": "Dynç günleriňiz barada ýazyň. Şenbe we ýekşenbe günleri adatça näme edýändigiňizi we kim bilen wagt geçirýändigiňizi ýazyň.", "ru": "Опишите свои выходные. Напишите, что вы обычно делаете в субботу и воскресенье и с кем проводите время." },
+      "taskEn": "Write about your weekends. Say what you usually do on Saturday and Sunday and who you spend time with.",
+      "minWords": 40,
+      "hints": ["On Saturday I get up late.", "I play football with my friends.", "On Sunday I visit my grandparents.", "We have lunch together.", "In the evening I watch a film."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "A1", "topic": "A message to a new friend", "title": "Hello, New Friend!",
+    "body": {
+      "task": { "tr": "Yeni bir yabancı arkadaşa kısa bir mesaj yazın. Kendinizi tanıtın: adınız, yaşınız, nerede yaşadığınız, hobileriniz. Sonunda ona bir soru sorun.", "tk": "Täze daşary ýurtly dostuňyza gysga hat ýazyň. Özüňizi tanyşdyryň: adyňyz, ýaşyňyz, nirede ýaşaýandygyňyz, gyzyklanmalaryňyz. Ahyrynda oňa bir sorag beriň.", "ru": "Напишите короткое сообщение новому иностранному другу. Представьтесь: имя, возраст, где вы живёте, ваши хобби. В конце задайте ему вопрос." },
+      "taskEn": "Write a short message to a new friend from another country. Introduce yourself: your name, age, where you live and your hobbies. Ask your friend one question at the end.",
+      "minWords": 40,
+      "hints": ["Hi! My name is...", "I am ... years old.", "I live in Ashgabat with my family.", "I like music and drawing.", "What about you? What do you like?"]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "A1", "topic": "My town", "title": "My Town",
+    "body": {
+      "task": { "tr": "Yaşadığınız şehri ya da köyü anlatın. Büyük mü küçük mü, orada neler var (park, market, okul…) ve en sevdiğiniz yer neresi, yazın.", "tk": "Ýaşaýan şäheriňiz ýa-da obaňyz barada ýazyň. Ol ulumy ýa-da kiçimi, ol ýerde näme bar (seýilgäh, dükan, mekdep…) we iň halaýan ýeriňiz haýsy, ýazyň.", "ru": "Опишите свой город или село. Большой он или маленький, что там есть (парк, магазин, школа…) и какое ваше любимое место." },
+      "taskEn": "Write about your town or village. Is it big or small? What is there (a park, shops, a school…)? What is your favourite place?",
+      "minWords": 40,
+      "hints": ["I live in a big city.", "There is a beautiful park near my house.", "There are many shops and cafés.", "My favourite place is...", "I go there with my friends."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "A2", "topic": "A holiday I remember", "title": "A Holiday I Remember",
+    "body": {
+      "task": { "tr": "Hatırladığınız bir tatili anlatın. Nereye, kiminle gittiniz, neler yaptınız, hava nasıldı ve neden unutamadığınızı yazın (geçmiş zaman kullanın).", "tk": "Ýadyňyzda galan bir dynç alyşy beýan ediň. Nirä, kim bilen gitdiňiz, näme etdiňiz, howa nähilidi we näme üçin ýatdan çykaryp bilmeýändigiňizi ýazyň (geçen zamany ulanyň).", "ru": "Опишите запомнившийся вам отпуск. Куда и с кем вы ездили, что делали, какая была погода и почему вы его не забыли (используйте прошедшее время)." },
+      "taskEn": "Write about a holiday you remember. Where did you go and who with? What did you do? What was the weather like? Why do you remember it?",
+      "minWords": 70,
+      "hints": ["Two years ago, I went to ... with my family.", "We stayed in a small hotel near the sea.", "Every day we swam and ate fresh fish.", "The weather was hot and sunny.", "I will never forget it because..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "A2", "topic": "An email to invite a friend", "title": "Come to My Party!",
+    "body": {
+      "task": { "tr": "Bir arkadaşınıza doğum günü partinize davet e-postası yazın. Tarih, saat ve yeri belirtin, partide ne yapacağınızı anlatın ve ne getirmesi gerektiğini söyleyin.", "tk": "Dostuňyza doglan gün baýramyňyza çakylyk hatyny ýazyň. Senesini, sagadyny we ýerini görkeziň, baýramda näme etjekdigiňizi aýdyň we onuň näme getirmelidigini ýazyň.", "ru": "Напишите другу письмо-приглашение на свой день рождения. Укажите дату, время и место, расскажите, что вы будете делать, и скажите, что ему нужно принести." },
+      "taskEn": "Write an email to a friend inviting them to your birthday party. Give the date, time and place, say what you are going to do and tell them what to bring.",
+      "minWords": 70,
+      "hints": ["Dear ..., I'm having a birthday party next Saturday.", "It starts at 6 p.m. at my house.", "We're going to play games and dance.", "Could you bring some music?", "I hope you can come! Love, ..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "A2", "topic": "My best friend", "title": "Describing My Best Friend",
+    "body": {
+      "task": { "tr": "En iyi arkadaşınızı anlatın. Nasıl tanıştığınızı, dış görünüşünü, karakterini ve birlikte neler yaptığınızı yazın.", "tk": "Iň ýakyn dostuňyz barada ýazyň. Nähili tanyşandygyňyzy, onuň daşky keşbini, häsiýetini we bilelikde näme edýändigiňizi ýazyň.", "ru": "Опишите своего лучшего друга. Как вы познакомились, как он выглядит, какой у него характер и что вы делаете вместе." },
+      "taskEn": "Describe your best friend. How did you meet? What does he or she look like? What is he or she like? What do you do together?",
+      "minWords": 70,
+      "hints": ["I met my best friend at primary school.", "She is tall and has long dark hair.", "She is very funny and kind.", "We often go to the cinema together.", "I trust her because..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "A2", "topic": "Plans for next summer", "title": "My Plans for Next Summer",
+    "body": {
+      "task": { "tr": "Gelecek yaz için planlarınızı yazın. Nereye gideceğinizi, ne öğrenmek istediğinizi ve neler yapmayı planladığınızı anlatın (be going to / will kullanın).", "tk": "Indiki tomus üçin meýilnamalaryňyzy ýazyň. Nirä gitjekdigiňizi, näme öwrenmek isleýändigiňizi we näme etmegi meýilleşdirýändigiňizi beýan ediň (be going to / will ulanyň).", "ru": "Напишите о своих планах на следующее лето. Куда вы поедете, что хотите выучить и что собираетесь делать (используйте be going to / will)." },
+      "taskEn": "Write about your plans for next summer. Where are you going to go? What do you want to learn? What are you going to do?",
+      "minWords": 70,
+      "hints": ["Next summer I'm going to visit my cousins in...", "I want to learn how to swim.", "I'm also going to read five English books.", "If the weather is good, we will go camping.", "I think it will be a great summer."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "A2", "topic": "A review of a film", "title": "A Film I Watched",
+    "body": {
+      "task": { "tr": "Son izlediğiniz bir film hakkında kısa bir yorum yazın. Filmin adı, konusu, sevdiğiniz ve sevmediğiniz şeyler ve başkalarına önerip önermediğinizi yazın.", "tk": "Soňky gören filmiňiz barada gysga syn ýazyň. Filmiň ady, mazmuny, halan we halamadyk zatlaryňyz hem-de ony başgalara maslahat berýändigiňiz ýa-da däldigi barada ýazyň.", "ru": "Напишите короткий отзыв о фильме, который вы недавно посмотрели. Название, сюжет, что понравилось и не понравилось и советуете ли вы его другим." },
+      "taskEn": "Write a short review of a film you watched recently. Give the name, say what it is about, what you liked and didn't like, and whether you recommend it.",
+      "minWords": 70,
+      "hints": ["Last week I watched a film called...", "It is about a young boy who...", "I really liked the music and the actors.", "The ending was a bit boring.", "I recommend it to people who like..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "A2", "topic": "A day without the internet", "title": "A Day Without the Internet",
+    "body": {
+      "task": { "tr": "İnternetin olmadığı bir günü düşünün. O gün neler yaptığınızı (ya da yapacağınızı), neyi özlediğinizi ve neyi sevdiğinizi yazın.", "tk": "Internetsiz bir güni göz öňüne getiriň. Şol gün näme edendigiňizi (ýa-da etjekdigiňizi), nämäni küýsändigiňizi we nämäni halandygyňyzy ýazyň.", "ru": "Представьте день без интернета. Напишите, что вы делали (или будете делать) в этот день, чего вам не хватало и что понравилось." },
+      "taskEn": "Imagine a day without the internet. What did you do that day? What did you miss? What did you enjoy?",
+      "minWords": 70,
+      "hints": ["Last Sunday the internet didn't work all day.", "At first I was bored because I couldn't...", "Then I decided to go for a walk.", "I talked to my family more than usual.", "In the end, it was a nice day because..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "B1", "topic": "The best way to learn a language", "title": "How to Learn a Language",
+    "body": {
+      "task": { "tr": "Yabancı dil öğrenmenin en iyi yolu nedir? Kendi deneyiminizden örnekler vererek en az üç yöntemi anlatın ve hangisini en etkili bulduğunuzu açıklayın.", "tk": "Daşary ýurt dilini öwrenmegiň iň gowy ýoly näme? Öz tejribäňizden mysallar getirip, azyndan üç usuly beýan ediň we haýsysyny iň netijeli hasaplaýandygyňyzy düşündiriň.", "ru": "Как лучше всего учить иностранный язык? Опишите как минимум три способа, приведите примеры из своего опыта и объясните, какой считаете самым эффективным." },
+      "taskEn": "What is the best way to learn a foreign language? Describe at least three methods, give examples from your own experience and explain which one you think works best.",
+      "minWords": 120,
+      "hints": ["There are many ways to learn a language, but...", "Firstly, watching films with subtitles helps you...", "Another useful method is...", "In my experience, the most effective way is... because...", "To sum up, I believe that..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "B1", "topic": "A letter of complaint", "title": "A Letter of Complaint",
+    "body": {
+      "task": { "tr": "İnternetten bir ürün aldınız ama bozuk geldi. Şirkete resmî bir şikâyet mektubu yazın: ne aldığınızı, sorunun ne olduğunu, ne zaman fark ettiğinizi ve ne istediğinizi (iade, değişim) belirtin.", "tk": "Internetden bir haryt satyn aldyňyz, emma ol döwük geldi. Kompaniýa resmi şikaýat hatyny ýazyň: näme alandygyňyzy, meseläniň nämedigini, haçan bilendigiňizi we näme isleýändigiňizi (puly yzyna almak, çalyşmak) görkeziň.", "ru": "Вы купили товар в интернете, но он пришёл сломанным. Напишите официальную жалобу компании: что купили, в чём проблема, когда вы её заметили и чего хотите (возврат, замена)." },
+      "taskEn": "You bought something online but it arrived broken. Write a formal letter of complaint to the company. Say what you bought, what the problem is, when you noticed it and what you want them to do.",
+      "minWords": 120,
+      "hints": ["Dear Sir or Madam, I am writing to complain about...", "On 3 October I ordered ... from your website.", "When I opened the box, I noticed that...", "I would be grateful if you could...", "I look forward to hearing from you. Yours faithfully, ..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "B1", "topic": "City life or country life", "title": "City or Countryside?",
+    "body": {
+      "task": { "tr": "Şehirde mi yoksa kırsalda mı yaşamak daha iyi? Her ikisinin avantaj ve dezavantajlarını karşılaştırın ve kendi tercihinizi gerekçeleriyle açıklayın.", "tk": "Şäherde ýaşamak gowumy ýa-da obada? Ikisiniň hem artykmaçlyklaryny we kemçiliklerini deňeşdiriň we öz saýlawyňyzy sebäpleri bilen düşündiriň.", "ru": "Где лучше жить: в городе или в сельской местности? Сравните плюсы и минусы обоих вариантов и объясните свой выбор." },
+      "taskEn": "Is it better to live in a city or in the countryside? Compare the advantages and disadvantages of both and explain which you prefer and why.",
+      "minWords": 120,
+      "hints": ["Many people dream of living in..., but...", "One advantage of city life is...", "On the other hand, the countryside offers...", "However, a big disadvantage is...", "Personally, I would rather live in... because..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "B1", "topic": "A person who inspires me", "title": "Someone Who Inspires Me",
+    "body": {
+      "task": { "tr": "Size ilham veren birini anlatın (aileden biri, öğretmen ya da ünlü biri). Kim olduğunu, ne yaptığını, sizi nasıl etkilediğini ve ondan ne öğrendiğinizi yazın.", "tk": "Size ylham berýän adam barada ýazyň (maşgala agzasy, mugallym ýa-da meşhur adam). Onuň kimdigini, näme edendigini, size nähili täsir edendigini we ondan näme öwrenendigiňizi ýazyň.", "ru": "Опишите человека, который вас вдохновляет (родственник, учитель или известный человек). Кто это, что он сделал, как на вас повлиял и чему вы у него научились." },
+      "taskEn": "Write about a person who inspires you (a family member, a teacher or a famous person). Who are they, what have they done, how have they influenced you and what have you learnt from them?",
+      "minWords": 120,
+      "hints": ["The person who inspires me most is...", "Although she had a difficult childhood, she...", "What I admire most about her is...", "Thanks to her, I have learnt to...", "I hope that one day I will be able to..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "B1", "topic": "Social media: good or bad", "title": "Is Social Media Good for Us?",
+    "body": {
+      "task": { "tr": "Okul dergisi için bir makale yazın: Sosyal medya gençler için iyi mi kötü mü? Olumlu ve olumsuz yönlerini örneklerle anlatın ve kendi görüşünüzü belirtin.", "tk": "Mekdep žurnaly üçin makala ýazyň: Sosial media ýaşlar üçin peýdalymy ýa-da zyýanly? Onuň oňyn we ýaramaz taraplaryny mysallar bilen beýan ediň we öz pikiriňizi aýdyň.", "ru": "Напишите статью для школьного журнала: полезны или вредны социальные сети для молодёжи? Опишите плюсы и минусы с примерами и выскажите своё мнение." },
+      "taskEn": "Write an article for your school magazine: Is social media good or bad for young people? Describe the positive and negative sides with examples and give your own opinion.",
+      "minWords": 120,
+      "hints": ["Nowadays almost every teenager uses...", "On the positive side, social media allows us to...", "However, spending too much time online can...", "For example, a friend of mine...", "In my opinion, the key is to..."]
+    }
+  },
+  {
+    "skill": "WRITING", "level": "B1", "topic": "A story that ends with a surprise", "title": "A Surprising Ending",
+    "body": {
+      "task": { "tr": "Şu cümleyle biten kısa bir hikâye yazın: \"…and when I opened the door, I couldn't believe my eyes.\" Geçmiş zamanları (past simple, past continuous, past perfect) kullanın.", "tk": "Şu sözlem bilen gutarýan gysga hekaýa ýazyň: \"…and when I opened the door, I couldn't believe my eyes.\" Geçen zamanlary (past simple, past continuous, past perfect) ulanyň.", "ru": "Напишите короткий рассказ, который заканчивается фразой: \"…and when I opened the door, I couldn't believe my eyes.\" Используйте прошедшие времена (past simple, past continuous, past perfect)." },
+      "taskEn": "Write a short story that ends with the sentence: \"…and when I opened the door, I couldn't believe my eyes.\" Use past tenses (past simple, past continuous, past perfect).",
+      "minWords": 120,
+      "hints": ["It was a cold, rainy evening and I was...", "Suddenly, I heard a strange noise...", "I had never felt so nervous before.", "Slowly, I walked towards...", "...and when I opened the door, I couldn't believe my eyes."]
+    }
+  }
+]

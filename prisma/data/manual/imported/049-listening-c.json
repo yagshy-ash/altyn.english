@@ -1,0 +1,218 @@
+[
+  {
+    "skill": "LISTENING", "level": "C1", "topic": "Debate on the four-day school week", "title": "Debate: A Four-Day School Week?",
+    "body": {
+      "script": [
+        "Chair: Tonight's motion is that schools should move to a four-day week. Ms Patel, you're in favour.",
+        "Ms Patel: Thank you. Districts that have trialled it report lower teacher turnover — which, given the current shortage, is no small thing — and attendance has actually improved, because families schedule appointments on the fifth day rather than pulling children out of lessons.",
+        "Chair: Mr Okafor?",
+        "Mr Okafor: I don't doubt those findings, but we need to ask who pays the price. For working parents, a fifth day without school means finding and funding childcare. The burden falls disproportionately on low-income families — precisely those whose children can least afford lost learning time.",
+        "Ms Patel: But the remaining days are longer, so instructional hours are largely preserved.",
+        "Mr Okafor: Largely, yes. Yet there's evidence that younger children, in particular, struggle to concentrate through extended days. The hours may be there on paper; whether the learning is, is another matter.",
+        "Chair: Is there any middle ground?",
+        "Ms Patel: Some schools offer optional enrichment programmes on the fifth day — sports, arts, tutoring.",
+        "Mr Okafor: Which I'd welcome, provided they're free. Otherwise we've simply created a two-tier system by another name."
+      ],
+      "glossary": [
+        { "word": "motion", "tr": "önerge (münazara)", "tk": "teklip (çekişme)", "ru": "тезис (дебаты)" },
+        { "word": "trial", "tr": "denemek", "tk": "synag edip görmek", "ru": "опробовать" },
+        { "word": "turnover", "tr": "personel devri", "tk": "işgärleriň çalyşmagy", "ru": "текучесть кадров" },
+        { "word": "disproportionately", "tr": "orantısız biçimde", "tk": "deňsiz derejede", "ru": "непропорционально" },
+        { "word": "instructional hours", "tr": "ders saatleri", "tk": "okuw sagatlary", "ru": "учебные часы" },
+        { "word": "middle ground", "tr": "orta yol", "tk": "orta ýol", "ru": "компромисс" },
+        { "word": "enrichment", "tr": "zenginleştirme (ek etkinlik)", "tk": "goşmaça çäreler", "ru": "дополнительные занятия" },
+        { "word": "two-tier system", "tr": "iki sınıflı sistem", "tk": "iki derejeli ulgam", "ru": "двухуровневая система" }
+      ],
+      "questions": [
+        { "question": "Which benefit does Ms Patel mention?", "options": ["Higher test scores", "Lower teacher turnover", "Cheaper school meals", "Shorter school days"], "answer": 1, "explanation": { "tr": "Öğretmen devir hızı düştü.", "tk": "Mugallymlaryň çalyşmagy azaldy.", "ru": "Снизилась текучесть учителей." } },
+        { "question": "Why has attendance improved, according to Ms Patel?", "options": ["Students enjoy school more", "Families book appointments on the free day", "There are fines for absence", "Lessons are shorter"], "answer": 1, "explanation": { "tr": "Randevular boş güne alınıyor.", "tk": "Duşuşyklar boş güne bellenýär.", "ru": "Визиты переносят на свободный день." } },
+        { "question": "What is Mr Okafor's main concern?", "options": ["Teachers will earn less", "Low-income families will bear the childcare burden", "Schools will close", "Students will have too much homework"], "answer": 1, "explanation": { "tr": "Bakım yükü düşük gelirli ailelere düşer.", "tk": "Çaga seretmek ýüki az girdejili maşgalalara düşýär.", "ru": "Бремя присмотра ляжет на малообеспеченных." } },
+        { "question": "What does Mr Okafor mean by 'The hours may be there on paper'?", "options": ["Timetables are printed", "Total hours are similar but real learning may suffer", "Teachers don't record hours", "Students do homework on paper"], "answer": 1, "explanation": { "tr": "Saatler aynı ama gerçek öğrenme azalabilir.", "tk": "Sagatlar deň, emma hakyky öwreniş azalyp biler.", "ru": "Часов столько же, но обучение может страдать." } },
+        { "question": "Under what condition would Mr Okafor accept fifth-day programmes?", "options": ["If they are compulsory", "If they are free", "If teachers run them", "If they are only for sports"], "answer": 1, "explanation": { "tr": "Ücretsiz olmaları şartıyla.", "tk": "Mugt bolmagy şerti bilen.", "ru": "При условии, что бесплатны." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "C2", "topic": "Lecture on the history of time zones", "title": "Lecture: How Railways Invented Time",
+    "body": {
+      "script": [
+        "It's easy to forget that the idea of a single, standardised time is remarkably recent. Until the mid-nineteenth century, virtually every town kept its own local time, set by the position of the sun at noon. Bristol, for instance, ran some ten minutes behind London — a discrepancy of no consequence whatsoever when the fastest way to travel between them was by horse.",
+        "The railways changed all that. Once trains could cover the distance in a couple of hours, those ten minutes became the difference between catching a connection and missing it — or, more alarmingly, between two trains passing safely and colliding on a single track. Timetables bristling with local adjustments were, to put it mildly, a recipe for confusion.",
+        "Britain's railway companies responded by adopting London time across their networks in the 1840s, and so-called 'railway time' gradually seeped into civic life. Not without resistance, I should add: some towns kept two clock faces, or a clock with two minute hands, as a gesture of defiance.",
+        "In North America, where the distances were vastly greater, the problem was compounded. By the 1880s, American railroads were juggling dozens of local times. Their solution — four continental time zones, introduced in 1883 — was devised and implemented by private companies, without any federal legislation. It would be another thirty-five years before Congress made it law.",
+        "What I'd like you to take from this is that time, as we experience it, is not simply a natural given. It is a technology, shaped by commercial interests and political negotiation — and, like any technology, it embodies particular choices about whose convenience counts."
+      ],
+      "glossary": [
+        { "word": "discrepancy", "tr": "tutarsızlık, fark", "tk": "gabat gelmezlik", "ru": "расхождение" },
+        { "word": "of no consequence", "tr": "hiçbir önemi olmayan", "tk": "hiç hili ähmiýeti ýok", "ru": "не имеющий значения" },
+        { "word": "collide", "tr": "çarpışmak", "tk": "çaknyşmak", "ru": "столкнуться" },
+        { "word": "bristling with", "tr": "…ile dolu", "tk": "…dan doly", "ru": "изобилующий" },
+        { "word": "seep into", "tr": "yavaş yavaş sızmak", "tk": "ýuwaş-ýuwaşdan siňmek", "ru": "просачиваться" },
+        { "word": "defiance", "tr": "meydan okuma, karşı koyma", "tk": "garşylyk görkezmek", "ru": "неповиновение" },
+        { "word": "compound (a problem)", "tr": "ağırlaştırmak", "tk": "çylşyrymlaşdyrmak", "ru": "усугублять" },
+        { "word": "embody", "tr": "somutlaştırmak, içermek", "tk": "özünde jemlemek", "ru": "воплощать" }
+      ],
+      "questions": [
+        { "question": "How was local time set before the mid-19th century?", "options": ["By royal decree", "By the sun's position at noon", "By railway companies", "By church bells in London"], "answer": 1, "explanation": { "tr": "Öğle vakti güneşin konumuna göre.", "tk": "Günortan Günüň ýerleşişine görä.", "ru": "По положению солнца в полдень." } },
+        { "question": "Why did the Bristol–London time difference become a problem?", "options": ["Clocks broke more often", "Fast trains made minutes matter for connections and safety", "People started working longer hours", "The government taxed it"], "answer": 1, "explanation": { "tr": "Hızlı trenler dakikaları önemli kıldı.", "tk": "Çalt otlylar minutlary möhüm etdi.", "ru": "Быстрые поезда сделали минуты значимыми." } },
+        { "question": "How did some towns show resistance to railway time?", "options": ["They banned trains", "They kept clocks showing both times", "They refused to build stations", "They changed the calendar"], "answer": 1, "explanation": { "tr": "İki saati birden gösteren saatler tuttular.", "tk": "Iki wagty görkezýän sagatlary sakladylar.", "ru": "Держали часы с двумя временами." } },
+        { "question": "What is notable about the US time zones of 1883?", "options": ["Congress created them immediately", "They were introduced by private railroads without federal law", "There were twelve zones", "They were copied from Britain exactly"], "answer": 1, "explanation": { "tr": "Federal yasa olmadan özel şirketler getirdi.", "tk": "Federal kanunsyz hususy kompaniýalar girizdi.", "ru": "Ввели частные железные дороги без закона." } },
+        { "question": "What is the lecturer's central point?", "options": ["Time zones are a natural phenomenon", "Standard time is a technology shaped by commerce and politics", "Railways were dangerous", "Local time was more accurate"], "answer": 1, "explanation": { "tr": "Standart saat, ticaret ve siyasetin şekillendirdiği bir teknolojidir.", "tk": "Standart wagt söwda we syýasat bilen şekillenen tehnologiýa.", "ru": "Стандартное время — технология, созданная коммерцией и политикой." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "C2", "topic": "Panel on the ethics of memory editing", "title": "Panel: Should We Erase Painful Memories?",
+    "body": {
+      "script": [
+        "Moderator: Research into memory reconsolidation suggests it may one day be possible to weaken specific traumatic memories. Professor Ruiz, should we welcome that?",
+        "Prof. Ruiz: For people with severe post-traumatic stress, unequivocally yes. We're not talking about erasing the fact that something happened, but about dampening the emotional charge that makes a memory intrude, unbidden, dozens of times a day. If we can relieve that suffering, the moral case for doing so seems to me overwhelming.",
+        "Moderator: Dr Haddad, you're more hesitant.",
+        "Dr Haddad: I am — not about clinical use in extreme cases, but about where it leads. Once a technique exists, the threshold for using it tends to creep downwards. Today it's veterans and survivors of violence; tomorrow it's a painful divorce, or the guilt you feel after letting someone down.",
+        "Prof. Ruiz: That's a slippery-slope argument, and those are notoriously hard to substantiate.",
+        "Dr Haddad: Granted. But consider the guilt example. Guilt is unpleasant, yet it's also how we learn moral lessons. A society that could switch off remorse at will might be more comfortable — I'm not convinced it would be more decent.",
+        "Moderator: Is there a way to reconcile your positions?",
+        "Prof. Ruiz: Strict clinical gatekeeping, I'd suggest — much as we already regulate powerful drugs.",
+        "Dr Haddad: I could live with that, so long as we accept that regulation is a floor, not a guarantee. The harder conversation is about what kind of suffering we think is worth preserving."
+      ],
+      "glossary": [
+        { "word": "reconsolidation", "tr": "yeniden pekiştirme (bellek)", "tk": "täzeden berkidiş (ýat)", "ru": "реконсолидация" },
+        { "word": "unequivocally", "tr": "kesinlikle, tereddütsüz", "tk": "hiç şübhesiz", "ru": "однозначно" },
+        { "word": "dampen", "tr": "azaltmak, bastırmak", "tk": "gowşatmak", "ru": "ослаблять" },
+        { "word": "unbidden", "tr": "istenmeden", "tk": "islemezden", "ru": "непрошено" },
+        { "word": "threshold", "tr": "eşik", "tk": "çäk", "ru": "порог" },
+        { "word": "substantiate", "tr": "kanıtlamak", "tk": "subut etmek", "ru": "обосновать" },
+        { "word": "remorse", "tr": "pişmanlık", "tk": "ökünç", "ru": "раскаяние" },
+        { "word": "gatekeeping", "tr": "erişimi denetleme", "tk": "elýeterliligi gözegçilikde saklamak", "ru": "контроль доступа" }
+      ],
+      "questions": [
+        { "question": "What does Professor Ruiz say memory editing would actually change?", "options": ["The fact that the event happened", "The emotional intensity of the memory", "All memories of a period", "Personality traits"], "answer": 1, "explanation": { "tr": "Anının duygusal yükü.", "tk": "Ýadyň duýgy güýji.", "ru": "Эмоциональный заряд воспоминания." } },
+        { "question": "What is Dr Haddad's main worry?", "options": ["The technique won't work", "The threshold for using it will gradually lower", "It's too expensive", "Patients will refuse it"], "answer": 1, "explanation": { "tr": "Kullanım eşiği giderek düşecek.", "tk": "Ulanyş çägi kem-kemden peseler.", "ru": "Порог применения будет снижаться." } },
+        { "question": "How does Professor Ruiz challenge Dr Haddad's argument?", "options": ["He calls it a slippery-slope argument that is hard to prove", "He says guilt is harmful", "He agrees completely", "He changes the subject"], "answer": 0, "explanation": { "tr": "Kanıtlanması zor bir \"kaygan zemin\" argümanı olduğunu söylüyor.", "tk": "Subut etmesi kyn \"typgaç ýap\" delili diýýär.", "ru": "Называет это трудно доказуемым аргументом «скользкой дорожки»." } },
+        { "question": "Why does Dr Haddad use guilt as an example?", "options": ["Because it is the most painful emotion", "Because it plays a role in moral learning", "Because it's easy to erase", "Because veterans feel it"], "answer": 1, "explanation": { "tr": "Suçluluk ahlaki öğrenmede rol oynar.", "tk": "Günäkärlik duýgusy ahlak öwrenmekde rol oýnaýar.", "ru": "Вина участвует в моральном научении." } },
+        { "question": "What does Dr Haddad mean by 'regulation is a floor, not a guarantee'?", "options": ["Regulation sets minimum standards but can't settle every ethical question", "Regulation is unnecessary", "Doctors should decide everything", "Laws guarantee good outcomes"], "answer": 0, "explanation": { "tr": "Düzenleme asgari standart koyar ama her etik soruyu çözmez.", "tk": "Düzgünleşdirme iň pes ölçegi kesgitleýär, emma ähli ahlak meselelerini çözmeýär.", "ru": "Регулирование задаёт минимум, но не решает всех этических вопросов." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "C2", "topic": "Talk on the economics of attention in cities", "title": "Talk: Why Cities Make Us Creative",
+    "body": {
+      "script": [
+        "There's a striking regularity in urban data that economists have been chewing over for the best part of two decades. When a city doubles in population, you don't simply get twice as many patents, start-ups or new businesses — you get somewhat more than twice as many. Output per person rises with scale. The same is true, rather less happily, of crime and infectious disease.",
+        "The conventional explanation is density of contact. Put more people within reach of one another, and the number of potential interactions grows faster than the population itself. Ideas, so the argument runs, are combinatorial: they emerge when previously separate bits of knowledge collide.",
+        "But I want to complicate that picture. Proximity alone doesn't guarantee collision. Plenty of dense neighbourhoods are, socially speaking, a collection of sealed boxes. What seems to matter is what urbanists call 'weak ties' — the acquaintances you bump into at a café or a market, who move in circles different from your own. They're the ones who tell you about the job, the investor, the technique you'd never have encountered otherwise.",
+        "Which brings me to a rather uncomfortable point. Many of the spaces that nurture weak ties — cheap cafés, public libraries, street markets — are precisely those squeezed out when a city becomes successful and rents soar. Prosperity, in other words, can erode the very conditions that produced it.",
+        "If there's a policy lesson here, it's that the 'third places' between home and work aren't amenities to be added once the serious business of growth is done. They are, quite possibly, part of the serious business."
+      ],
+      "glossary": [
+        { "word": "chew over", "tr": "uzun uzun düşünmek", "tk": "uzak oýlanmak", "ru": "обдумывать" },
+        { "word": "patent", "tr": "patent", "tk": "patent", "ru": "патент" },
+        { "word": "combinatorial", "tr": "birleşimsel", "tk": "utgaşdyryjy", "ru": "комбинаторный" },
+        { "word": "proximity", "tr": "yakınlık", "tk": "ýakynlyk", "ru": "близость" },
+        { "word": "weak ties", "tr": "zayıf bağlar (tanıdıklar)", "tk": "gowşak baglanyşyklar (tanyşlar)", "ru": "слабые связи" },
+        { "word": "nurture", "tr": "beslemek, geliştirmek", "tk": "ösdürmek", "ru": "взращивать" },
+        { "word": "soar", "tr": "fırlamak", "tk": "çalt ýokarlanmak", "ru": "взлетать" },
+        { "word": "erode", "tr": "aşındırmak", "tk": "gowşatmak, ýok etmek", "ru": "подтачивать" }
+      ],
+      "questions": [
+        { "question": "What happens to innovation when a city doubles in size?", "options": ["It exactly doubles", "It more than doubles", "It stays the same", "It falls"], "answer": 1, "explanation": { "tr": "İki katından fazla artar.", "tk": "Iki essesinden hem köp artýar.", "ru": "Растёт более чем вдвое." } },
+        { "question": "What is the 'conventional explanation' for this?", "options": ["Better schools", "Density of contact between people", "Higher wages", "Government investment"], "answer": 1, "explanation": { "tr": "İnsanlar arası temasın yoğunluğu.", "tk": "Adamlaryň arasyndaky gatnaşygyň dykyzlygy.", "ru": "Плотность контактов." } },
+        { "question": "How does the speaker complicate this explanation?", "options": ["By saying density is irrelevant", "By arguing that weak ties, not proximity alone, matter", "By blaming technology", "By pointing to rural creativity"], "answer": 1, "explanation": { "tr": "Sadece yakınlık değil, zayıf bağlar önemli.", "tk": "Diňe ýakynlyk däl, gowşak baglanyşyklar möhüm.", "ru": "Важна не только близость, но слабые связи." } },
+        { "question": "What 'uncomfortable point' does the speaker make?", "options": ["Cities are becoming less dense", "Success raises rents and pushes out spaces that create weak ties", "Cafés are bad for productivity", "Crime prevents creativity"], "answer": 1, "explanation": { "tr": "Başarı kiraları artırıp bu mekânları yok ediyor.", "tk": "Üstünlik kärendäni ýokarlandyryp, bu ýerleri gysyp çykarýar.", "ru": "Успех поднимает аренду и вытесняет такие места." } },
+        { "question": "What policy lesson does the speaker draw?", "options": ["Build more offices", "Third places are central to growth, not optional extras", "Reduce city populations", "Ban rent increases"], "answer": 1, "explanation": { "tr": "\"Üçüncü mekânlar\" büyümenin parçasıdır.", "tk": "\"Üçünji ýerler\" ösüşiň bir bölegi.", "ru": "«Третьи места» — часть роста, а не дополнение." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "TOEFL", "topic": "Campus conversation: housing problem", "title": "Campus Conversation: A Housing Problem",
+    "body": {
+      "script": [
+        "Student: Hi, I'm having a problem with my dorm room and I'm not sure who to talk to.",
+        "Housing officer: You're in the right place. What's going on?",
+        "Student: The heating in my room hasn't worked for over a week. I reported it online, but nobody's come.",
+        "Housing officer: I'm sorry about that. Let me check... Ah, I see your request. It was marked 'low priority' because the system thought it was about the water heater, not the room heating.",
+        "Student: That explains it. It's really cold at night — I've been studying in the library until it closes just to stay warm.",
+        "Housing officer: I'll change it to urgent now. A technician should be there within twenty-four hours. In the meantime, we can lend you a portable heater.",
+        "Student: That would be great. Do I need to pay a deposit?",
+        "Housing officer: Normally, yes, twenty dollars. But since this was our mistake, I'll waive it. You can pick it up from the front desk of Carter Hall.",
+        "Student: Thanks. And if the technician can't fix it?",
+        "Housing officer: Then we'd offer you a temporary room in another building until it's repaired. Just come back and let me know."
+      ],
+      "glossary": [
+        { "word": "dorm (dormitory)", "tr": "yurt", "tk": "umumy ýaşaýyş jaýy", "ru": "общежитие" },
+        { "word": "report", "tr": "bildirmek", "tk": "habar bermek", "ru": "сообщить" },
+        { "word": "priority", "tr": "öncelik", "tk": "ileri tutulýan", "ru": "приоритет" },
+        { "word": "technician", "tr": "teknisyen", "tk": "tehnik", "ru": "техник" },
+        { "word": "portable heater", "tr": "taşınabilir ısıtıcı", "tk": "göçme ýylydyjy", "ru": "переносной обогреватель" },
+        { "word": "deposit", "tr": "depozito", "tk": "girew puly", "ru": "залог" },
+        { "word": "waive", "tr": "(ücretten) muaf tutmak", "tk": "ýatyrmak (töleg)", "ru": "отменить (плату)" }
+      ],
+      "questions": [
+        { "question": "Why does the student go to the housing office?", "options": ["To change rooms", "Because the room heating doesn't work", "To pay a bill", "To complain about noise"], "answer": 1, "explanation": { "tr": "Oda ısıtması çalışmıyor.", "tk": "Otagyň ýylylygy işlemeýär.", "ru": "Не работает отопление." } },
+        { "question": "Why was the request not dealt with?", "options": ["It was never received", "It was wrongly classified as low priority", "The technician was ill", "The student used the wrong form"], "answer": 1, "explanation": { "tr": "Yanlışlıkla düşük öncelikli sayılmış.", "tk": "Ýalňyşlyk bilen pes ileri tutulýan hasaplanypdyr.", "ru": "Ошибочно помечен как низкий приоритет." } },
+        { "question": "How has the student been coping?", "options": ["Staying with a friend", "Studying in the library until it closes", "Sleeping in the common room", "Buying a heater"], "answer": 1, "explanation": { "tr": "Kapanana kadar kütüphanede çalışıyor.", "tk": "Ýapylýança kitaphanada okaýar.", "ru": "Занимается в библиотеке до закрытия." } },
+        { "question": "Why won't the student pay the deposit?", "options": ["Heaters are free for everyone", "The office made a mistake, so it is waived", "The student has no money", "The heater is old"], "answer": 1, "explanation": { "tr": "Hata ofisinki olduğu için muaf.", "tk": "Ýalňyşlyk ofisiňki bolany üçin ýatyryldy.", "ru": "Ошибка офиса — залог отменён." } },
+        { "question": "What will happen if the heating can't be fixed?", "options": ["The student gets a refund", "The student is offered a temporary room", "The student must move off campus", "Nothing"], "answer": 1, "explanation": { "tr": "Geçici bir oda önerilecek.", "tk": "Wagtlaýyn otag hödürlener.", "ru": "Предложат временную комнату." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "TOEFL", "topic": "Biology lecture: how trees communicate", "title": "Biology Lecture: Do Trees Talk?",
+    "body": {
+      "script": [
+        "Professor: OK, last week we looked at how plants respond to light. Today I want to turn to something a bit more controversial — the idea that trees can, in some sense, communicate with one another.",
+        "Professor: Let's start with what's well established. Beneath most forests there's a vast network of fungi, called mycorrhizal networks. The fungi wrap around tree roots. They help trees absorb water and minerals, and in return they receive sugars that the trees produce through photosynthesis. So far, that's a classic example of mutualism — both partners benefit.",
+        "Student: So the fungi are kind of like... underground pipes?",
+        "Professor: That's a common analogy, yes. And here's where it gets interesting. Experiments using carbon isotopes — basically tagged carbon atoms — have shown that carbon can move from one tree to another through these networks. In some studies, larger trees appeared to send carbon to seedlings growing in deep shade.",
+        "Professor: Now, some researchers — and quite a few popular books — have gone further, describing 'mother trees' that deliberately nurture their offspring. Here I'd urge caution. More recent reviews point out that many of the original studies had small sample sizes, and that 'deliberate' is a very loaded word to use for an organism without a nervous system. The carbon may simply be flowing from where there's more to where there's less.",
+        "Professor: There's also good evidence that when some trees are attacked by insects, they release chemicals into the air that cause nearby trees to increase their own defences. Whether we call that 'communication' depends partly on how we define the term. So for the exam, I want you to be able to distinguish between the well-supported findings and the more speculative interpretations."
+      ],
+      "glossary": [
+        { "word": "controversial", "tr": "tartışmalı", "tk": "jedelli", "ru": "спорный" },
+        { "word": "fungi", "tr": "mantarlar", "tk": "kömelekler", "ru": "грибы" },
+        { "word": "absorb", "tr": "emmek", "tk": "siňdirmek", "ru": "поглощать" },
+        { "word": "mutualism", "tr": "karşılıklı yarar ilişkisi", "tk": "özara peýdaly gatnaşyk", "ru": "мутуализм" },
+        { "word": "seedling", "tr": "fide", "tk": "nahal", "ru": "саженец, проросток" },
+        { "word": "sample size", "tr": "örneklem büyüklüğü", "tk": "nusga möçberi", "ru": "размер выборки" },
+        { "word": "loaded (word)", "tr": "yüklü, taraflı (kelime)", "tk": "goşmaça manyly (söz)", "ru": "нагруженный (термин)" },
+        { "word": "speculative", "tr": "spekülatif, varsayımsal", "tk": "çaklama esasly", "ru": "умозрительный" }
+      ],
+      "questions": [
+        { "question": "What is the lecture mainly about?", "options": ["How plants respond to light", "Evidence for and against the idea that trees communicate", "How to grow fungi", "Photosynthesis in seedlings"], "answer": 1, "explanation": { "tr": "Ağaçların iletişim kurduğu fikrinin lehinde ve aleyhindeki kanıtlar.", "tk": "Agaçlaryň aragatnaşyk saklaýandygy baradaky pikiriň subutnamalary we garşy delilleri.", "ru": "Доводы за и против идеи «общения» деревьев." } },
+        { "question": "What do fungi receive from trees?", "options": ["Water", "Minerals", "Sugars", "Light"], "answer": 2, "explanation": { "tr": "Şeker.", "tk": "Şeker.", "ru": "Сахара." } },
+        { "question": "What did experiments with carbon isotopes show?", "options": ["Carbon can move between trees through fungal networks", "Trees don't need carbon", "Fungi produce carbon", "Seedlings grow faster in shade"], "answer": 0, "explanation": { "tr": "Karbon mantar ağı üzerinden ağaçlar arasında taşınabilir.", "tk": "Uglerod kömelek ulgamy arkaly agaçlaryň arasynda geçip biler.", "ru": "Углерод может переходить между деревьями через грибную сеть." } },
+        { "question": "Why is the professor cautious about the 'mother tree' idea?", "options": ["Trees are too old", "Studies were small and 'deliberate' implies intention", "Fungi don't exist in all forests", "It was proven false"], "answer": 1, "explanation": { "tr": "Küçük örneklemler ve \"kasıtlı\" kelimesi niyet ima ediyor.", "tk": "Kiçi nusgalar we \"bilkastlaýyn\" sözi niýeti aňladýar.", "ru": "Маленькие выборки, а «намеренно» подразумевает умысел." } },
+        { "question": "What does the professor want students to be able to do for the exam?", "options": ["Memorise species names", "Distinguish well-supported findings from speculative interpretations", "Design an experiment", "Define photosynthesis"], "answer": 1, "explanation": { "tr": "Sağlam bulguları spekülatif yorumlardan ayırmak.", "tk": "Berk tapyndylary çaklama düşündirişlerden tapawutlandyrmak.", "ru": "Отличать надёжные данные от умозрительных трактовок." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "TOEFL", "topic": "Art history lecture: Impressionism and the paint tube", "title": "Art History Lecture: The Paint Tube Revolution",
+    "body": {
+      "script": [
+        "Professor: When we talk about why Impressionism emerged in France in the 1860s and 70s, we usually focus on artistic ideas — the rejection of the official Salon, the interest in capturing fleeting light. All true. But today I want to highlight a much humbler factor: the collapsible metal paint tube.",
+        "Professor: Before the 1840s, painters typically stored their paints in pig bladders — small bags tied with string. You'd prick a hole to squeeze some out, and the bladder often burst or the paint dried out. That made it really impractical to paint outdoors for long periods. Most landscape painting was done in the studio, based on sketches.",
+        "Professor: In 1841, an American portrait painter named John Goffe Rand patented a tin tube with a screw cap. Suddenly paint was portable, it stayed fresh, and you could carry a wide range of colours. Manufacturers also began producing new, bright synthetic pigments around the same time.",
+        "Student: So painters could actually go outside and paint what they saw?",
+        "Professor: Exactly — painting 'en plein air', in the open air. Renoir reportedly said that without paint in tubes, there would have been no Cézanne, no Monet, no Impressionism. Now, we shouldn't take that too literally — artists had painted outdoors before, and technology alone doesn't create a movement. But the tube lowered the practical barriers dramatically, and that let painters work quickly, directly in front of their subject, which is exactly the kind of spontaneity Impressionism is known for."
+      ],
+      "glossary": [
+        { "word": "emerge", "tr": "ortaya çıkmak", "tk": "ýüze çykmak", "ru": "появиться" },
+        { "word": "fleeting", "tr": "geçici, anlık", "tk": "gysga wagtlyk", "ru": "мимолётный" },
+        { "word": "humble", "tr": "mütevazı, sıradan", "tk": "ýönekeý", "ru": "скромный" },
+        { "word": "collapsible", "tr": "sıkılabilir, katlanabilir", "tk": "gysylýan", "ru": "сжимаемый" },
+        { "word": "bladder", "tr": "kese (hayvan mesanesi)", "tk": "haltajyk (haýwan gabarjygy)", "ru": "пузырь" },
+        { "word": "portable", "tr": "taşınabilir", "tk": "göterip bolýan", "ru": "переносной" },
+        { "word": "pigment", "tr": "pigment, boya maddesi", "tk": "pigment, reňk maddasy", "ru": "пигмент" },
+        { "word": "spontaneity", "tr": "kendiliğindenlik", "tk": "tebigylyk, öz-özünden bolmak", "ru": "спонтанность" }
+      ],
+      "questions": [
+        { "question": "What is the main topic of the lecture?", "options": ["The life of Monet", "How the paint tube helped make Impressionism possible", "The history of the Salon", "Chemical pigments"], "answer": 1, "explanation": { "tr": "Boya tüpünün Empresyonizme katkısı.", "tk": "Reňk turbajygynyň impressionizme goşandy.", "ru": "Роль тюбика с краской в появлении импрессионизма." } },
+        { "question": "What was the problem with pig bladders?", "options": ["They were too expensive", "They burst easily and paint dried out", "They were too heavy", "They changed the colours"], "answer": 1, "explanation": { "tr": "Kolay patlıyor, boya kuruyordu.", "tk": "Aňsat ýarylýardy, reňk guraýardy.", "ru": "Легко лопались, краска высыхала." } },
+        { "question": "Who patented the metal paint tube?", "options": ["Renoir", "Monet", "John Goffe Rand", "Cézanne"], "answer": 2, "explanation": { "tr": "John Goffe Rand, 1841.", "tk": "John Goffe Rand, 1841.", "ru": "Джон Гофф Рэнд, 1841." } },
+        { "question": "What does 'en plein air' mean?", "options": ["In the studio", "In the open air", "With bright colours", "At night"], "answer": 1, "explanation": { "tr": "Açık havada.", "tk": "Açyk howada.", "ru": "На открытом воздухе." } },
+        { "question": "What is the professor's view of Renoir's comment?", "options": ["It is completely accurate", "It shouldn't be taken too literally, but the tube was very important", "It is false", "Renoir never said it"], "answer": 1, "explanation": { "tr": "Kelimesi kelimesine alınmamalı ama tüp çok önemliydi.", "tk": "Sözme-söz kabul edilmeli däl, emma turbajyk örän möhümdi.", "ru": "Не стоит понимать буквально, но тюбик был очень важен." } }
+      ]
+    }
+  }
+]

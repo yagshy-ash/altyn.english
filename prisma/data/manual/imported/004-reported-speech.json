@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Reported speech (Indirect speech): Reported speech – simple statements",
+    "title": "Reported Speech: Simple Statements",
+    "body": {
+      "explanation": {
+        "tr": "Reported speech (dolaylı anlatım), birinin söylediğini aktarmaktır.\n• Direct: Tom said, \"I am tired.\"\n• Reported: Tom said (that) he was tired.\nGiriş fiili geçmişte ise (said, told) zaman bir adım geriye kayar:\n• am/is → was, are → were\n• present simple → past simple: \"I like tea.\" → She said she liked tea.\n• can → could\nZamirler de değişir: I → he/she, my → his/her, we → they.\n• say + (that) ...: He said that ...\n• tell + kişi + (that): He told me that ...",
+        "tk": "Reported speech (gytaklaýyn gürrüň) — biriniň aýdanyny gürrüň bermek.\n• Göni: Tom said, \"I am tired.\"\n• Gytaklaýyn: Tom said (that) he was tired.\nGiriş işligi geçmişde bolsa (said, told), zaman bir ädim yza süýşýär:\n• am/is → was, are → were\n• present simple → past simple: \"I like tea.\" → She said she liked tea.\n• can → could\nÇalyşmalar hem üýtgeýär: I → he/she, my → his/her, we → they.\n• say + (that) ...: He said that ...\n• tell + adam + (that): He told me that ...",
+        "ru": "Reported speech (косвенная речь) — передача чужих слов.\n• Прямая: Tom said, \"I am tired.\"\n• Косвенная: Tom said (that) he was tired.\nЕсли вводный глагол в прошедшем (said, told), время сдвигается на шаг назад:\n• am/is → was, are → were\n• present simple → past simple: \"I like tea.\" → She said she liked tea.\n• can → could\nМеняются и местоимения: I → he/she, my → his/her, we → they.\n• say + (that) ...: He said that ...\n• tell + кому + (that): He told me that ..."
+      },
+      "examples": [
+        { "en": "\"I am hungry.\" → She said she was hungry.", "tr": "Aç olduğunu söyledi.", "tk": "Ol özüniň açdygyny aýtdy.", "ru": "Она сказала, что голодна." },
+        { "en": "\"We live in Ashgabat.\" → They said they lived in Ashgabat.", "tr": "Aşkabat'ta yaşadıklarını söylediler.", "tk": "Olar Aşgabatda ýaşaýandyklaryny aýtdylar.", "ru": "Они сказали, что живут в Ашхабаде." },
+        { "en": "\"I can swim.\" → He said he could swim.", "tr": "Yüzebildiğini söyledi.", "tk": "Ol ýüzüp bilýändigini aýtdy.", "ru": "Он сказал, что умеет плавать." },
+        { "en": "\"My car is red.\" → Anna told me her car was red.", "tr": "Anna bana arabasının kırmızı olduğunu söyledi.", "tk": "Anna maňa maşynynyň gyzyldygyny aýtdy.", "ru": "Анна сказала мне, что её машина красная." },
+        { "en": "\"I don't like coffee.\" → He said he didn't like coffee.", "tr": "Kahveyi sevmediğini söyledi.", "tk": "Ol kofeni halamaýandygyny aýtdy.", "ru": "Он сказал, что не любит кофе." },
+        { "en": "\"I'm working.\" → She said she was working.", "tr": "Çalıştığını söyledi.", "tk": "Ol işleýändigini aýtdy.", "ru": "Она сказала, что работает." }
+      ],
+      "exercises": [
+        { "question": "\"I am happy.\" → Maria said she ___ happy.", "options": ["is", "was", "were", "has been"], "answer": 1, "explanation": { "tr": "am → was.", "tk": "am → was.", "ru": "am → was." } },
+        { "question": "\"We are late.\" → They said they ___ late.", "options": ["are", "was", "were", "be"], "answer": 2, "explanation": { "tr": "are → were.", "tk": "are → were.", "ru": "are → were." } },
+        { "question": "\"I like pizza.\" → Tom said he ___ pizza.", "options": ["likes", "liked", "like", "has liked"], "answer": 1, "explanation": { "tr": "present simple → past simple.", "tk": "present simple → past simple.", "ru": "present simple → past simple." } },
+        { "question": "\"I can drive.\" → She said she ___ drive.", "options": ["can", "could", "may", "would can"], "answer": 1, "explanation": { "tr": "can → could.", "tk": "can → could.", "ru": "can → could." } },
+        { "question": "\"My brother is a doctor.\" → Ali said ___ brother was a doctor.", "options": ["my", "his", "her", "your"], "answer": 1, "explanation": { "tr": "my → his (konuşan erkek).", "tk": "my → his (gürleýän erkek).", "ru": "my → his (говорит мужчина)." } },
+        { "question": "He ___ me that he was busy.", "options": ["said", "told", "say", "talked"], "answer": 1, "explanation": { "tr": "Kişiden önce 'told': told me.", "tk": "Adamdan öň 'told': told me.", "ru": "С лицом — 'told': told me." } },
+        { "question": "She ___ that she was tired.", "options": ["told", "said", "told to", "said me"], "answer": 1, "explanation": { "tr": "Kişi yoksa 'said': said that.", "tk": "Adam ýok bolsa 'said': said that.", "ru": "Без лица — 'said': said that." } },
+        { "question": "\"I don't eat meat.\" → He said he ___ meat.", "options": ["doesn't eat", "didn't eat", "don't eat", "not ate"], "answer": 1, "explanation": { "tr": "don't → didn't.", "tk": "don't → didn't.", "ru": "don't → didn't." } },
+        { "question": "\"I'm reading.\" → She said she ___ reading.", "options": ["is", "was", "were", "has"], "answer": 1, "explanation": { "tr": "am reading → was reading.", "tk": "am reading → was reading.", "ru": "am reading → was reading." } },
+        { "question": "Find the mistake: \"He said me he was hungry.\"", "options": ["He said me", "he was", "hungry", "There is no mistake"], "answer": 0, "explanation": { "tr": "'said me' olmaz: He told me / He said (that).", "tk": "'said me' bolmaýar: He told me / He said (that).", "ru": "Нельзя 'said me': He told me / He said (that)." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Reported speech (Indirect speech): Reported speech – statements with expressions of time",
+    "title": "Reported Speech: Changing Time and Place Words",
+    "body": {
+      "explanation": {
+        "tr": "Dolaylı anlatımda zaman ve yer bildiren kelimeler de değişir, çünkü konuşma artık başka bir zamanda aktarılıyor.\n• now → then\n• today → that day\n• tonight → that night\n• yesterday → the day before / the previous day\n• tomorrow → the next day / the following day\n• last week → the week before\n• next week → the following week\n• ago → before\n• here → there, this → that, these → those\nÖrnek: \"I'm leaving tomorrow.\" → He said he was leaving the next day.",
+        "tk": "Gytaklaýyn gürrüňde wagt we ýer görkezýän sözler hem üýtgeýär, sebäbi gürrüň başga wagtda berilýär.\n• now → then\n• today → that day\n• tonight → that night\n• yesterday → the day before / the previous day\n• tomorrow → the next day / the following day\n• last week → the week before\n• next week → the following week\n• ago → before\n• here → there, this → that, these → those\nMysal: \"I'm leaving tomorrow.\" → He said he was leaving the next day.",
+        "ru": "В косвенной речи меняются и слова времени и места, потому что слова передаются в другое время.\n• now → then\n• today → that day\n• tonight → that night\n• yesterday → the day before / the previous day\n• tomorrow → the next day / the following day\n• last week → the week before\n• next week → the following week\n• ago → before\n• here → there, this → that, these → those\nПример: \"I'm leaving tomorrow.\" → He said he was leaving the next day."
+      },
+      "examples": [
+        { "en": "\"I'm busy today.\" → She said she was busy that day.", "tr": "O gün meşgul olduğunu söyledi.", "tk": "Ol şol gün meşguldygyny aýtdy.", "ru": "Она сказала, что в тот день занята." },
+        { "en": "\"We're going to Paris tomorrow.\" → They said they were going to Paris the next day.", "tr": "Ertesi gün Paris'e gideceklerini söylediler.", "tk": "Olar ertesi gün Parije gitjekdiklerini aýtdylar.", "ru": "Они сказали, что на следующий день едут в Париж." },
+        { "en": "\"I'm tired now.\" → He said he was tired then.", "tr": "O an yorgun olduğunu söyledi.", "tk": "Ol şol wagt ýadawdygyny aýtdy.", "ru": "Он сказал, что тогда устал." },
+        { "en": "\"I live here.\" → She said she lived there.", "tr": "Orada yaşadığını söyledi.", "tk": "Ol şol ýerde ýaşaýandygyny aýtdy.", "ru": "Она сказала, что живёт там." },
+        { "en": "\"This book is great.\" → He said that book was great.", "tr": "O kitabın harika olduğunu söyledi.", "tk": "Ol şol kitabyň ajaýypdygyny aýtdy.", "ru": "Он сказал, что та книга отличная." },
+        { "en": "\"I'm meeting Sara tonight.\" → She said she was meeting Sara that night.", "tr": "O gece Sara ile buluşacağını söyledi.", "tk": "Ol şol gije Sara bilen duşuşjakdygyny aýtdy.", "ru": "Она сказала, что вечером встречается с Сарой." }
+      ],
+      "exercises": [
+        { "question": "\"I'm working today.\" → He said he was working ___.", "options": ["today", "that day", "the day before", "tomorrow"], "answer": 1, "explanation": { "tr": "today → that day.", "tk": "today → that day.", "ru": "today → that day." } },
+        { "question": "\"I'll call you tomorrow.\" → She said she would call me ___.", "options": ["tomorrow", "the day before", "the next day", "that night"], "answer": 2, "explanation": { "tr": "tomorrow → the next day.", "tk": "tomorrow → the next day.", "ru": "tomorrow → the next day." } },
+        { "question": "\"I'm tired now.\" → Tom said he was tired ___.", "options": ["now", "then", "there", "that"], "answer": 1, "explanation": { "tr": "now → then.", "tk": "now → then.", "ru": "now → then." } },
+        { "question": "\"We like it here.\" → They said they liked it ___.", "options": ["here", "there", "that", "then"], "answer": 1, "explanation": { "tr": "here → there.", "tk": "here → there.", "ru": "here → there." } },
+        { "question": "\"I'm going out tonight.\" → She said she was going out ___.", "options": ["tonight", "that night", "the next night", "last night"], "answer": 1, "explanation": { "tr": "tonight → that night.", "tk": "tonight → that night.", "ru": "tonight → that night." } },
+        { "question": "\"These shoes are new.\" → He said ___ shoes were new.", "options": ["these", "this", "those", "that"], "answer": 2, "explanation": { "tr": "these → those.", "tk": "these → those.", "ru": "these → those." } },
+        { "question": "\"I have an exam next week.\" → She said she had an exam ___.", "options": ["next week", "the following week", "the week before", "last week"], "answer": 1, "explanation": { "tr": "next week → the following week.", "tk": "next week → the following week.", "ru": "next week → the following week." } },
+        { "question": "\"My party is today.\" → Ann said ___ party was that day.", "options": ["my", "her", "his", "their"], "answer": 1, "explanation": { "tr": "my → her (Ann).", "tk": "my → her (Ann).", "ru": "my → her (Ann)." } },
+        { "question": "\"This is my house.\" → He said ___ was his house.", "options": ["this", "that", "these", "it's"], "answer": 1, "explanation": { "tr": "this → that.", "tk": "this → that.", "ru": "this → that." } },
+        { "question": "Find the mistake: \"She said she was leaving tomorrow.\" (reported a week later)", "options": ["She said", "she was leaving", "tomorrow", "There is no mistake"], "answer": 2, "explanation": { "tr": "tomorrow → the next day olmalı.", "tk": "tomorrow → the next day bolmaly.", "ru": "Должно быть: the next day." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Reported speech (Indirect speech): Reported speech – will-future – Sentences",
+    "title": "Reported Speech: will → would",
+    "body": {
+      "explanation": {
+        "tr": "Gelecek zaman 'will' dolaylı anlatımda 'would' olur.\n• \"I will help you.\" → She said she would help me.\n• \"I won't be late.\" → He said he wouldn't be late.\n• \"It will rain tomorrow.\" → They said it would rain the next day.\n'going to' da geçmişe kayar:\n• \"I'm going to buy a car.\" → He said he was going to buy a car.\nZaman ve zamir değişikliklerini unutma: tomorrow → the next day, I → he/she.",
+        "tk": "Geljek zaman 'will' gytaklaýyn gürrüňde 'would' bolýar.\n• \"I will help you.\" → She said she would help me.\n• \"I won't be late.\" → He said he wouldn't be late.\n• \"It will rain tomorrow.\" → They said it would rain the next day.\n'going to' hem geçmişe süýşýär:\n• \"I'm going to buy a car.\" → He said he was going to buy a car.\nWagt we çalyşma üýtgeşmelerini ýatdan çykarma: tomorrow → the next day, I → he/she.",
+        "ru": "Будущее время 'will' в косвенной речи становится 'would'.\n• \"I will help you.\" → She said she would help me.\n• \"I won't be late.\" → He said he wouldn't be late.\n• \"It will rain tomorrow.\" → They said it would rain the next day.\n'going to' тоже сдвигается в прошлое:\n• \"I'm going to buy a car.\" → He said he was going to buy a car.\nНе забывай про слова времени и местоимения: tomorrow → the next day, I → he/she."
+      },
+      "examples": [
+        { "en": "\"I will call you.\" → He said he would call me.", "tr": "Beni arayacağını söyledi.", "tk": "Ol maňa jaň etjekdigini aýtdy.", "ru": "Он сказал, что позвонит мне." },
+        { "en": "\"We won't forget.\" → They said they wouldn't forget.", "tr": "Unutmayacaklarını söylediler.", "tk": "Olar ýatdan çykarmajakdyklaryny aýtdylar.", "ru": "Они сказали, что не забудут." },
+        { "en": "\"It will be cold tomorrow.\" → She said it would be cold the next day.", "tr": "Ertesi gün havanın soğuk olacağını söyledi.", "tk": "Ol ertesi gün howanyň sowuk boljakdygyny aýtdy.", "ru": "Она сказала, что на следующий день будет холодно." },
+        { "en": "\"I'll be there at six.\" → He said he would be there at six.", "tr": "Saat altıda orada olacağını söyledi.", "tk": "Ol alty sagatda şol ýerde boljakdygyny aýtdy.", "ru": "Он сказал, что будет там в шесть." },
+        { "en": "\"I'm going to study medicine.\" → She said she was going to study medicine.", "tr": "Tıp okuyacağını söyledi.", "tk": "Ol lukmançylyk okajakdygyny aýtdy.", "ru": "Она сказала, что будет изучать медицину." },
+        { "en": "\"You will love this film.\" → He told me I would love that film.", "tr": "O filmi seveceğimi söyledi.", "tk": "Ol maňa şol filmi haljakdygymy aýtdy.", "ru": "Он сказал мне, что мне понравится тот фильм." }
+      ],
+      "exercises": [
+        { "question": "\"I will help you.\" → She said she ___ help me.", "options": ["will", "would", "can", "is going"], "answer": 1, "explanation": { "tr": "will → would.", "tk": "will → would.", "ru": "will → would." } },
+        { "question": "\"I won't tell anyone.\" → He promised he ___ tell anyone.", "options": ["won't", "wouldn't", "didn't", "doesn't"], "answer": 1, "explanation": { "tr": "won't → wouldn't.", "tk": "won't → wouldn't.", "ru": "won't → wouldn't." } },
+        { "question": "\"It will snow tomorrow.\" → The forecast said it would snow ___.", "options": ["tomorrow", "the next day", "yesterday", "today"], "answer": 1, "explanation": { "tr": "tomorrow → the next day.", "tk": "tomorrow → the next day.", "ru": "tomorrow → the next day." } },
+        { "question": "\"We'll be home late.\" → They said they ___ home late.", "options": ["will be", "would be", "were", "are"], "answer": 1, "explanation": { "tr": "'ll be → would be.", "tk": "'ll be → would be.", "ru": "'ll be → would be." } },
+        { "question": "\"I'm going to travel.\" → He said he ___ going to travel.", "options": ["is", "was", "will", "would"], "answer": 1, "explanation": { "tr": "am going to → was going to.", "tk": "am going to → was going to.", "ru": "am going to → was going to." } },
+        { "question": "\"You'll pass the test.\" → My teacher told me I ___ pass the test.", "options": ["will", "would", "should", "can"], "answer": 1, "explanation": { "tr": "will → would.", "tk": "will → would.", "ru": "will → would." } },
+        { "question": "\"I will see you here.\" → She said she would see me ___.", "options": ["here", "there", "then", "that"], "answer": 1, "explanation": { "tr": "here → there.", "tk": "here → there.", "ru": "here → there." } },
+        { "question": "Choose the correct sentence.", "options": ["He said he will come the next day.", "He said he would come the next day.", "He said he would come tomorrow day.", "He told he would come the next day."], "answer": 1, "explanation": { "tr": "said + would + the next day.", "tk": "said + would + the next day.", "ru": "said + would + the next day." } },
+        { "question": "\"I won't be able to come.\" → She said she ___ able to come.", "options": ["won't be", "wouldn't be", "isn't", "wasn't been"], "answer": 1, "explanation": { "tr": "won't be → wouldn't be.", "tk": "won't be → wouldn't be.", "ru": "won't be → wouldn't be." } },
+        { "question": "\"We will finish it next week.\" → They said they would finish it ___.", "options": ["next week", "the following week", "last week", "the week before"], "answer": 1, "explanation": { "tr": "next week → the following week.", "tk": "next week → the following week.", "ru": "next week → the following week." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Reported speech (Indirect speech): Reported speech in different English tenses",
+    "title": "Reported Speech: Backshift in All Tenses",
+    "body": {
+      "explanation": {
+        "tr": "Dolaylı anlatımda her zaman bir adım geriye kayar (backshift):\n• present simple → past simple (I work → he worked)\n• present progressive → past progressive (I am working → he was working)\n• present perfect → past perfect (I have finished → he had finished)\n• past simple → past perfect (I saw → he had seen)\n• will → would, can → could, may → might, must → had to\n• past perfect değişmez.\nGenel gerçekler değişmeyebilir: \"The Earth is round.\" → He said the Earth is round.",
+        "tk": "Gytaklaýyn gürrüňde her zaman bir ädim yza süýşýär (backshift):\n• present simple → past simple (I work → he worked)\n• present progressive → past progressive (I am working → he was working)\n• present perfect → past perfect (I have finished → he had finished)\n• past simple → past perfect (I saw → he had seen)\n• will → would, can → could, may → might, must → had to\n• past perfect üýtgemeýär.\nUmumy hakykatlar üýtgemän biler: \"The Earth is round.\" → He said the Earth is round.",
+        "ru": "В косвенной речи каждое время сдвигается на шаг назад (backshift):\n• present simple → past simple (I work → he worked)\n• present progressive → past progressive (I am working → he was working)\n• present perfect → past perfect (I have finished → he had finished)\n• past simple → past perfect (I saw → he had seen)\n• will → would, can → could, may → might, must → had to\n• past perfect не меняется.\nОбщеизвестные истины могут не меняться: \"The Earth is round.\" → He said the Earth is round."
+      },
+      "examples": [
+        { "en": "\"I have finished.\" → She said she had finished.", "tr": "Bitirdiğini söyledi.", "tk": "Ol tamamlandygyny aýtdy.", "ru": "Она сказала, что закончила." },
+        { "en": "\"I saw a fox.\" → He said he had seen a fox.", "tr": "Bir tilki gördüğünü söyledi.", "tk": "Ol tilki görendigini aýtdy.", "ru": "Он сказал, что видел лису." },
+        { "en": "\"We are watching TV.\" → They said they were watching TV.", "tr": "Televizyon izlediklerini söylediler.", "tk": "Olar telewizor görýändiklerini aýtdylar.", "ru": "Они сказали, что смотрят телевизор." },
+        { "en": "\"I must go.\" → She said she had to go.", "tr": "Gitmesi gerektiğini söyledi.", "tk": "Ol gitmelidigini aýtdy.", "ru": "Она сказала, что ей нужно идти." },
+        { "en": "\"It may rain.\" → He said it might rain.", "tr": "Yağmur yağabileceğini söyledi.", "tk": "Ol ýagyş ýagyp biljekdigini aýtdy.", "ru": "Он сказал, что может пойти дождь." },
+        { "en": "\"I had lost my key.\" → She said she had lost her key.", "tr": "Anahtarını kaybettiğini söyledi.", "tk": "Ol açaryny ýitirendigini aýtdy.", "ru": "Она сказала, что потеряла ключ." }
+      ],
+      "exercises": [
+        { "question": "\"I have seen this film.\" → He said he ___ that film.", "options": ["has seen", "had seen", "saw", "sees"], "answer": 1, "explanation": { "tr": "present perfect → past perfect.", "tk": "present perfect → past perfect.", "ru": "present perfect → past perfect." } },
+        { "question": "\"I bought a new phone.\" → She said she ___ a new phone.", "options": ["bought", "has bought", "had bought", "buys"], "answer": 2, "explanation": { "tr": "past simple → past perfect.", "tk": "past simple → past perfect.", "ru": "past simple → past perfect." } },
+        { "question": "\"We are cooking.\" → They said they ___ cooking.", "options": ["are", "were", "had", "have been"], "answer": 1, "explanation": { "tr": "are cooking → were cooking.", "tk": "are cooking → were cooking.", "ru": "are cooking → were cooking." } },
+        { "question": "\"You must be careful.\" → Mum said I ___ be careful.", "options": ["must to", "had to", "have to", "musted"], "answer": 1, "explanation": { "tr": "must → had to.", "tk": "must → had to.", "ru": "must → had to." } },
+        { "question": "\"I may be late.\" → He said he ___ be late.", "options": ["may", "might", "will", "can"], "answer": 1, "explanation": { "tr": "may → might.", "tk": "may → might.", "ru": "may → might." } },
+        { "question": "\"I had already eaten.\" → She said she ___ already eaten.", "options": ["has", "had", "have", "was"], "answer": 1, "explanation": { "tr": "past perfect değişmez.", "tk": "past perfect üýtgemeýär.", "ru": "past perfect не меняется." } },
+        { "question": "\"I work in a bank.\" → He said he ___ in a bank.", "options": ["works", "worked", "has worked", "working"], "answer": 1, "explanation": { "tr": "present simple → past simple.", "tk": "present simple → past simple.", "ru": "present simple → past simple." } },
+        { "question": "\"I haven't finished.\" → She said she ___ finished.", "options": ["hasn't", "hadn't", "didn't", "wasn't"], "answer": 1, "explanation": { "tr": "haven't → hadn't.", "tk": "haven't → hadn't.", "ru": "haven't → hadn't." } },
+        { "question": "\"I was sleeping.\" → He said he ___ sleeping.", "options": ["was", "had been", "has been", "is"], "answer": 1, "explanation": { "tr": "past progressive → past perfect progressive.", "tk": "past progressive → past perfect progressive.", "ru": "past progressive → past perfect progressive." } },
+        { "question": "Find the mistake: \"She said she has finished her homework.\"", "options": ["She said", "has finished", "her homework", "There is no mistake"], "answer": 1, "explanation": { "tr": "has finished → had finished.", "tk": "has finished → had finished.", "ru": "has finished → had finished." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Sentences, Word order and Conjunctions: Conjunctions, connecting words of time in English sentences",
+    "title": "Time Conjunctions: when, while, before, after, until, as soon as",
+    "body": {
+      "explanation": {
+        "tr": "Zaman bağlaçları iki olayı zaman açısından bağlar:\n• when — -dığında: When I arrived, she was cooking.\n• while — -iken (uzun süren eylem): While I was reading, the phone rang.\n• before — -meden önce: Wash your hands before you eat.\n• after — -dikten sonra: After he finished, he went home.\n• until / till — -e kadar: Wait until I come.\n• as soon as — -ir -mez: Call me as soon as you arrive.\nGelecek anlamında bu bağlaçlardan sonra will değil present simple kullanılır: I'll call you when I get home. (✗ when I will get)",
+        "tk": "Wagt baglaýjylary iki wakany wagt taýdan baglaýar:\n• when — -anda: When I arrived, she was cooking.\n• while — -ýarka (uzak dowam edýän hereket): While I was reading, the phone rang.\n• before — -mazdan öň: Wash your hands before you eat.\n• after — -andan soň: After he finished, he went home.\n• until / till — -ýança: Wait until I come.\n• as soon as — -an badyna: Call me as soon as you arrive.\nGeljek manysynda bu baglaýjylardan soň will däl-de, present simple ulanylýar: I'll call you when I get home. (✗ when I will get)",
+        "ru": "Союзы времени связывают два события во времени:\n• when — когда: When I arrived, she was cooking.\n• while — пока, в то время как (длительное действие): While I was reading, the phone rang.\n• before — перед тем как: Wash your hands before you eat.\n• after — после того как: After he finished, he went home.\n• until / till — до тех пор, пока: Wait until I come.\n• as soon as — как только: Call me as soon as you arrive.\nО будущем после этих союзов используется present simple, а не will: I'll call you when I get home. (✗ when I will get)"
+      },
+      "examples": [
+        { "en": "When the film ended, we went for a walk.", "tr": "Film bittiğinde yürüyüşe çıktık.", "tk": "Film gutaranda, biz gezelenje çykdyk.", "ru": "Когда фильм закончился, мы пошли гулять." },
+        { "en": "While she was sleeping, it started to rain.", "tr": "O uyurken yağmur başladı.", "tk": "Ol ýatyrka, ýagyş ýagyp başlady.", "ru": "Пока она спала, начался дождь." },
+        { "en": "Brush your teeth before you go to bed.", "tr": "Yatmadan önce dişlerini fırçala.", "tk": "Ýatmazdan öň dişleriňi arassala.", "ru": "Почисти зубы перед сном." },
+        { "en": "After we had lunch, we visited the museum.", "tr": "Öğle yemeğinden sonra müzeyi ziyaret ettik.", "tk": "Günortanlyk edenimizden soň, muzeýe bardyk.", "ru": "После обеда мы посетили музей." },
+        { "en": "Stay here until I come back.", "tr": "Ben dönene kadar burada kal.", "tk": "Men gaýdyp gelýänçäm şu ýerde gal.", "ru": "Оставайся здесь, пока я не вернусь." },
+        { "en": "I'll text you as soon as I land.", "tr": "İner inmez sana mesaj atacağım.", "tk": "Uçar gonan badyna saňa hat ýazaryn.", "ru": "Я напишу тебе, как только приземлюсь." }
+      ],
+      "exercises": [
+        { "question": "I was having a shower ___ the doorbell rang.", "options": ["while", "when", "until", "before"], "answer": 1, "explanation": { "tr": "Kısa olay uzun olayı keser: when.", "tk": "Gysga waka uzak wakany kesýär: when.", "ru": "Короткое событие прерывает длинное: when." } },
+        { "question": "___ I was walking home, I saw an old friend.", "options": ["While", "Until", "Before", "As soon as"], "answer": 0, "explanation": { "tr": "Uzun süren eylem: while.", "tk": "Uzak dowam edýän hereket: while.", "ru": "Длительное действие: while." } },
+        { "question": "Don't open the door ___ you know who it is.", "options": ["after", "until", "while", "when"], "answer": 1, "explanation": { "tr": "-e kadar: until.", "tk": "-ýança: until.", "ru": "пока не: until." } },
+        { "question": "Read the questions carefully ___ you start writing.", "options": ["after", "before", "while", "until"], "answer": 1, "explanation": { "tr": "-meden önce: before.", "tk": "-mazdan öň: before.", "ru": "перед тем как: before." } },
+        { "question": "I'll call you as soon as I ___ the results.", "options": ["will get", "get", "got", "getting"], "answer": 1, "explanation": { "tr": "Zaman bağlacından sonra present simple.", "tk": "Wagt baglaýjysyndan soň present simple.", "ru": "После союза времени — present simple." } },
+        { "question": "___ the lesson finished, the students ran outside.", "options": ["While", "Until", "As soon as", "Before"], "answer": 2, "explanation": { "tr": "-ir -mez: as soon as.", "tk": "-an badyna: as soon as.", "ru": "как только: as soon as." } },
+        { "question": "She went to bed ___ she had finished her homework.", "options": ["after", "until", "while", "before"], "answer": 0, "explanation": { "tr": "-dikten sonra: after.", "tk": "-andan soň: after.", "ru": "после того как: after." } },
+        { "question": "Find the mistake: \"When I will see him, I will tell him.\"", "options": ["When I will see him", "I will tell", "him", "There is no mistake"], "answer": 0, "explanation": { "tr": "When I see him olmalı.", "tk": "When I see him bolmaly.", "ru": "Должно быть: When I see him." } },
+        { "question": "We waited at the station ___ the train arrived.", "options": ["while", "until", "after", "before"], "answer": 1, "explanation": { "tr": "Tren gelene kadar: until.", "tk": "Otly gelýänçä: until.", "ru": "Пока не пришёл поезд: until." } },
+        { "question": "Choose the correct sentence.", "options": ["While I cooked dinner when my sister called.", "My sister called while I was cooking dinner.", "My sister called until I was cooking dinner.", "My sister was calling while I cooked when dinner."], "answer": 1, "explanation": { "tr": "Kısa olay (called) + while + uzun eylem (was cooking).", "tk": "Gysga waka (called) + while + uzak hereket (was cooking).", "ru": "Короткое событие (called) + while + длительное (was cooking)." } }
+      ]
+    }
+  }
+]

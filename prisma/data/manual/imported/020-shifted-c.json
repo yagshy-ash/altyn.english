@@ -1,0 +1,134 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Shifted: Simple Present → Present Progressive – Questions",
+    "title": "Questions: Simple Present → Present Progressive",
+    "body": {
+      "explanation": {
+        "tr": "Simple Present sorusunu Present Progressive sorusuna çevir:\n• Do you work? → Are you working?\n• Does she work? → Is she working?\n• What do they eat? → What are they eating?\nKural: Do → Am/Are; Does → Is. Fiile -ing eklenir.",
+        "tk": "Simple Present soragyny Present Progressive soragyna öwür:\n• Do you work? → Are you working?\n• Does she work? → Is she working?\n• What do they eat? → What are they eating?\nDüzgün: Do → Am/Are; Does → Is. Işlige -ing goşulýar.",
+        "ru": "Преобразуй вопрос из Simple Present в Present Progressive:\n• Do you work? → Are you working?\n• Does she work? → Is she working?\n• What do they eat? → What are they eating?\nПравило: Do → Am/Are; Does → Is. К глаголу добавляется -ing."
+      },
+      "examples": [
+        { "en": "Do you read? → Are you reading?", "tr": "Okuyor musun?", "tk": "Okaýarsyňmy?", "ru": "Ты читаешь (сейчас)?" },
+        { "en": "Does he cook? → Is he cooking?", "tr": "Yemek mi pişiriyor?", "tk": "Ol nahar bişirýärmi?", "ru": "Он готовит?" },
+        { "en": "What do they eat? → What are they eating?", "tr": "Ne yiyorlar?", "tk": "Olar näme iýýärler?", "ru": "Что они едят (сейчас)?" },
+        { "en": "Where does she go? → Where is she going?", "tr": "Nereye gidiyor?", "tk": "Ol nirä barýar?", "ru": "Куда она идёт?" },
+        { "en": "Do we win? → Are we winning?", "tr": "Kazanıyor muyuz?", "tk": "Biz ýeňýärismi?", "ru": "Мы выигрываем?" },
+        { "en": "Does it snow? → Is it snowing?", "tr": "Kar yağıyor mu?", "tk": "Gar ýagýarmy?", "ru": "Идёт снег?" }
+      ],
+      "exercises": [
+        { "question": "Does she sing? → Present Progressive:", "options": ["Is she singing?", "Are she singing?", "Does she singing?", "Is she sing?"], "answer": 0, "explanation": { "tr": "Does → Is + -ing.", "tk": "Does → Is + -ing.", "ru": "Does → Is + -ing." } },
+        { "question": "Do you play? → Present Progressive:", "options": ["Is you playing?", "Are you playing?", "Do you playing?", "Are you play?"], "answer": 1, "explanation": { "tr": "Do → Are.", "tk": "Do → Are.", "ru": "Do → Are." } },
+        { "question": "Do they swim? → Present Progressive:", "options": ["Are they swimming?", "Are they swiming?", "Is they swimming?", "Do they swimming?"], "answer": 0, "explanation": { "tr": "swim → swimming.", "tk": "swim → swimming.", "ru": "swim → swimming." } },
+        { "question": "What does he write? → Present Progressive:", "options": ["What is he writeing?", "What is he writing?", "What are he writing?", "What does he writing?"], "answer": 1, "explanation": { "tr": "write → writing.", "tk": "write → writing.", "ru": "write → writing." } },
+        { "question": "Where do you go? → Present Progressive:", "options": ["Where are you going?", "Where is you going?", "Where do you going?", "Where are you go?"], "answer": 0, "explanation": { "tr": "do → are.", "tk": "do → are.", "ru": "do → are." } },
+        { "question": "Does it work? → Present Progressive:", "options": ["Is it working?", "Are it working?", "Does it working?", "Is it work?"], "answer": 0, "explanation": { "tr": "Does → Is.", "tk": "Does → Is.", "ru": "Does → Is." } },
+        { "question": "Do the children sleep? → Present Progressive:", "options": ["Is the children sleeping?", "Are the children sleeping?", "Do the children sleeping?", "Are the children sleep?"], "answer": 1, "explanation": { "tr": "children → Are.", "tk": "children → Are.", "ru": "children → Are." } },
+        { "question": "Why does she cry? → Present Progressive:", "options": ["Why is she crying?", "Why are she crying?", "Why does she crying?", "Why is she cring?"], "answer": 0, "explanation": { "tr": "cry → crying.", "tk": "cry → crying.", "ru": "cry → crying." } },
+        { "question": "Does your dad drive? → Present Progressive:", "options": ["Is your dad driving?", "Are your dad driving?", "Is your dad driveing?", "Does your dad driving?"], "answer": 0, "explanation": { "tr": "drive → driving.", "tk": "drive → driving.", "ru": "drive → driving." } },
+        { "question": "Find the mistake: \"Is they watching TV?\"", "options": ["Is", "they", "watching", "TV"], "answer": 0, "explanation": { "tr": "they → Are.", "tk": "they → Are.", "ru": "they → Are." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Shifted: Simple Present → Simple Past",
+    "title": "Change Simple Present into Simple Past",
+    "body": {
+      "explanation": {
+        "tr": "Simple Present cümlesini Simple Past'a çevir:\n• She works every day. → She worked yesterday.\nAdımlar:\n1. 3. tekil -s'yi kaldır: works → work\n2. Düzenli fiile -ed ekle: work → worked, live → lived, study → studied, stop → stopped\n3. Düzensiz fiillerin 2. hâlini kullan: go → went, have → had, eat → ate, buy → bought\nbe: am/is → was, are → were",
+        "tk": "Simple Present sözlemini Simple Past-a öwür:\n• She works every day. → She worked yesterday.\nÄdimler:\n1. 3-nji ýöňkemäniň -s-ini aýyr: works → work\n2. Dogry işlige -ed goş: work → worked, live → lived, study → studied, stop → stopped\n3. Nädogry işlikleriň 2-nji görnüşini ulan: go → went, have → had, eat → ate, buy → bought\nbe: am/is → was, are → were",
+        "ru": "Преобразуй Simple Present в Simple Past:\n• She works every day. → She worked yesterday.\nШаги:\n1. Убери -s 3-го лица: works → work\n2. К правильному глаголу добавь -ed: work → worked, live → lived, study → studied, stop → stopped\n3. Для неправильных — вторая форма: go → went, have → had, eat → ate, buy → bought\nbe: am/is → was, are → were"
+      },
+      "examples": [
+        { "en": "She works. → She worked.", "tr": "Çalıştı.", "tk": "Ol işledi.", "ru": "Она работала." },
+        { "en": "We go to the park. → We went to the park.", "tr": "Parka gittik.", "tk": "Biz seýilgähe gitdik.", "ru": "Мы пошли в парк." },
+        { "en": "He has a cold. → He had a cold.", "tr": "Soğuk algınlığı vardı.", "tk": "Ol dümewledi.", "ru": "Он простудился." },
+        { "en": "I am at home. → I was at home.", "tr": "Evdeydim.", "tk": "Men öýdedim.", "ru": "Я был дома." },
+        { "en": "They study English. → They studied English.", "tr": "İngilizce çalıştılar.", "tk": "Olar iňlis dilini okadylar.", "ru": "Они учили английский." },
+        { "en": "The bus stops here. → The bus stopped here.", "tr": "Otobüs burada durdu.", "tk": "Awtobus şu ýerde saklandy.", "ru": "Автобус остановился здесь." }
+      ],
+      "exercises": [
+        { "question": "He plays chess. → Simple Past:", "options": ["He plaied chess.", "He played chess.", "He playd chess.", "He plays chess."], "answer": 1, "explanation": { "tr": "play → played.", "tk": "play → played.", "ru": "play → played." } },
+        { "question": "I eat an apple. → Simple Past:", "options": ["I eated an apple.", "I ate an apple.", "I eaten an apple.", "I eat an apple."], "answer": 1, "explanation": { "tr": "eat → ate.", "tk": "eat → ate.", "ru": "eat → ate." } },
+        { "question": "She is tired. → Simple Past:", "options": ["She were tired.", "She was tired.", "She be tired.", "She is tired."], "answer": 1, "explanation": { "tr": "is → was.", "tk": "is → was.", "ru": "is → was." } },
+        { "question": "We are happy. → Simple Past:", "options": ["We was happy.", "We were happy.", "We are happy.", "We been happy."], "answer": 1, "explanation": { "tr": "are → were.", "tk": "are → were.", "ru": "are → were." } },
+        { "question": "My sister buys a dress. → Simple Past:", "options": ["My sister buyed a dress.", "My sister bought a dress.", "My sister buys a dress.", "My sister brought a dress."], "answer": 1, "explanation": { "tr": "buy → bought.", "tk": "buy → bought.", "ru": "buy → bought." } },
+        { "question": "The baby cries. → Simple Past:", "options": ["The baby cryed.", "The baby cried.", "The baby crys.", "The baby cry."], "answer": 1, "explanation": { "tr": "cry → cried.", "tk": "cry → cried.", "ru": "cry → cried." } },
+        { "question": "They plan a trip. → Simple Past:", "options": ["They planed a trip.", "They planned a trip.", "They plan a trip.", "They planning a trip."], "answer": 1, "explanation": { "tr": "plan → planned.", "tk": "plan → planned.", "ru": "plan → planned." } },
+        { "question": "He writes a letter. → Simple Past:", "options": ["He writed a letter.", "He wrote a letter.", "He written a letter.", "He writes a letter."], "answer": 1, "explanation": { "tr": "write → wrote.", "tk": "write → wrote.", "ru": "write → wrote." } },
+        { "question": "I see my friend. → Simple Past:", "options": ["I seed my friend.", "I saw my friend.", "I seen my friend.", "I sawed my friend."], "answer": 1, "explanation": { "tr": "see → saw.", "tk": "see → saw.", "ru": "see → saw." } },
+        { "question": "She comes home at 6. → Simple Past:", "options": ["She comed home at 6.", "She came home at 6.", "She come home at 6.", "She comes home at 6."], "answer": 1, "explanation": { "tr": "come → came.", "tk": "come → came.", "ru": "come → came." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Shifted: Simple Present → Simple Past – Negation of verbs",
+    "title": "Negatives: Simple Present → Simple Past",
+    "body": {
+      "explanation": {
+        "tr": "Olumsuz Simple Present cümlesini olumsuz Simple Past'a çevir:\n• I don't work. → I didn't work.\n• She doesn't work. → She didn't work.\nKural: don't / doesn't → didn't. Fiil yalın kalır (didn't worked ✗).\nbe: am not / isn't → wasn't; aren't → weren't\ncan't → couldn't",
+        "tk": "Ýokluk Simple Present sözlemini ýokluk Simple Past-a öwür:\n• I don't work. → I didn't work.\n• She doesn't work. → She didn't work.\nDüzgün: don't / doesn't → didn't. Işlik esasy görnüşde galýar (didn't worked ✗).\nbe: am not / isn't → wasn't; aren't → weren't\ncan't → couldn't",
+        "ru": "Преобразуй отрицание из Simple Present в Simple Past:\n• I don't work. → I didn't work.\n• She doesn't work. → She didn't work.\nПравило: don't / doesn't → didn't. Глагол в начальной форме (didn't worked ✗).\nbe: am not / isn't → wasn't; aren't → weren't\ncan't → couldn't"
+      },
+      "examples": [
+        { "en": "I don't like it. → I didn't like it.", "tr": "Beğenmedim.", "tk": "Ol maňa ýaramady.", "ru": "Мне не понравилось." },
+        { "en": "He doesn't call. → He didn't call.", "tr": "Aramadı.", "tk": "Ol jaň etmedi.", "ru": "Он не позвонил." },
+        { "en": "We aren't late. → We weren't late.", "tr": "Geç kalmadık.", "tk": "Biz gijä galmadyk.", "ru": "Мы не опоздали." },
+        { "en": "She isn't at school. → She wasn't at school.", "tr": "Okulda değildi.", "tk": "Ol mekdepde däldi.", "ru": "Её не было в школе." },
+        { "en": "I can't sleep. → I couldn't sleep.", "tr": "Uyuyamadım.", "tk": "Men uklap bilmedim.", "ru": "Я не мог уснуть." },
+        { "en": "They don't go out. → They didn't go out.", "tr": "Dışarı çıkmadılar.", "tk": "Olar daşary çykmadylar.", "ru": "Они не выходили." }
+      ],
+      "exercises": [
+        { "question": "She doesn't eat. → Simple Past:", "options": ["She didn't ate.", "She didn't eat.", "She doesn't ate.", "She wasn't eat."], "answer": 1, "explanation": { "tr": "didn't + eat.", "tk": "didn't + eat.", "ru": "didn't + eat." } },
+        { "question": "I don't know. → Simple Past:", "options": ["I didn't knew.", "I didn't know.", "I don't knew.", "I wasn't know."], "answer": 1, "explanation": { "tr": "didn't + know.", "tk": "didn't + know.", "ru": "didn't + know." } },
+        { "question": "We aren't hungry. → Simple Past:", "options": ["We wasn't hungry.", "We weren't hungry.", "We didn't hungry.", "We aren't hungry."], "answer": 1, "explanation": { "tr": "aren't → weren't.", "tk": "aren't → weren't.", "ru": "aren't → weren't." } },
+        { "question": "He isn't ill. → Simple Past:", "options": ["He wasn't ill.", "He weren't ill.", "He didn't ill.", "He isn't ill."], "answer": 0, "explanation": { "tr": "isn't → wasn't.", "tk": "isn't → wasn't.", "ru": "isn't → wasn't." } },
+        { "question": "They can't come. → Simple Past:", "options": ["They didn't can come.", "They couldn't come.", "They can't came.", "They couldn't came."], "answer": 1, "explanation": { "tr": "can't → couldn't.", "tk": "can't → couldn't.", "ru": "can't → couldn't." } },
+        { "question": "My dad doesn't drive. → Simple Past:", "options": ["My dad didn't drove.", "My dad didn't drive.", "My dad doesn't drove.", "My dad wasn't drive."], "answer": 1, "explanation": { "tr": "didn't + drive.", "tk": "didn't + drive.", "ru": "didn't + drive." } },
+        { "question": "I'm not ready. → Simple Past:", "options": ["I wasn't ready.", "I weren't ready.", "I didn't ready.", "I'm not ready."], "answer": 0, "explanation": { "tr": "am not → wasn't.", "tk": "am not → wasn't.", "ru": "am not → wasn't." } },
+        { "question": "You don't understand. → Simple Past:", "options": ["You didn't understood.", "You didn't understand.", "You don't understood.", "You weren't understand."], "answer": 1, "explanation": { "tr": "didn't + understand.", "tk": "didn't + understand.", "ru": "didn't + understand." } },
+        { "question": "It doesn't rain. → Simple Past:", "options": ["It didn't rain.", "It didn't rained.", "It wasn't rain.", "It doesn't rained."], "answer": 0, "explanation": { "tr": "didn't + rain.", "tk": "didn't + rain.", "ru": "didn't + rain." } },
+        { "question": "Find the mistake: \"We didn't went to the party.\"", "options": ["We", "didn't", "went", "to the party"], "answer": 2, "explanation": { "tr": "didn't + go.", "tk": "didn't + go.", "ru": "didn't + go." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Shifted: Simple Present → Simple Past – Questions",
+    "title": "Questions: Simple Present → Simple Past",
+    "body": {
+      "explanation": {
+        "tr": "Simple Present sorusunu Simple Past sorusuna çevir:\n• Do you work? → Did you work?\n• Does she work? → Did she work?\n• Where do they live? → Where did they live?\nKural: Do / Does → Did (tüm özneler). Fiil yalın kalır.\nbe: Am/Is → Was, Are → Were\nCan → Could",
+        "tk": "Simple Present soragyny Simple Past soragyna öwür:\n• Do you work? → Did you work?\n• Does she work? → Did she work?\n• Where do they live? → Where did they live?\nDüzgün: Do / Does → Did (ähli eýeler). Işlik esasy görnüşde galýar.\nbe: Am/Is → Was, Are → Were\nCan → Could",
+        "ru": "Преобразуй вопрос из Simple Present в Simple Past:\n• Do you work? → Did you work?\n• Does she work? → Did she work?\n• Where do they live? → Where did they live?\nПравило: Do / Does → Did (для всех лиц). Глагол в начальной форме.\nbe: Am/Is → Was, Are → Were\nCan → Could"
+      },
+      "examples": [
+        { "en": "Do you like it? → Did you like it?", "tr": "Beğendin mi?", "tk": "Ol saňa ýaradymy?", "ru": "Тебе понравилось?" },
+        { "en": "Does he play? → Did he play?", "tr": "Oynadı mı?", "tk": "Ol oýnadymy?", "ru": "Он играл?" },
+        { "en": "Where do they live? → Where did they live?", "tr": "Nerede yaşadılar?", "tk": "Olar nirede ýaşadylar?", "ru": "Где они жили?" },
+        { "en": "Is she at home? → Was she at home?", "tr": "Evde miydi?", "tk": "Ol öýdemidi?", "ru": "Она была дома?" },
+        { "en": "Are you tired? → Were you tired?", "tr": "Yorgun muydun?", "tk": "Ýadawmydyň?", "ru": "Ты устал?" },
+        { "en": "Can you swim? → Could you swim?", "tr": "Yüzebiliyor muydun?", "tk": "Ýüzüp bilýärmidiň?", "ru": "Ты умел плавать?" }
+      ],
+      "exercises": [
+        { "question": "Does she call you? → Simple Past:", "options": ["Did she called you?", "Did she call you?", "Does she called you?", "Was she call you?"], "answer": 1, "explanation": { "tr": "Did + call.", "tk": "Did + call.", "ru": "Did + call." } },
+        { "question": "Do they win? → Simple Past:", "options": ["Did they win?", "Did they won?", "Do they won?", "Were they win?"], "answer": 0, "explanation": { "tr": "Did + win.", "tk": "Did + win.", "ru": "Did + win." } },
+        { "question": "Is it expensive? → Simple Past:", "options": ["Did it expensive?", "Was it expensive?", "Were it expensive?", "Is it expensive?"], "answer": 1, "explanation": { "tr": "Is → Was.", "tk": "Is → Was.", "ru": "Is → Was." } },
+        { "question": "Are they friends? → Simple Past:", "options": ["Was they friends?", "Were they friends?", "Did they friends?", "Are they friends?"], "answer": 1, "explanation": { "tr": "Are → Were.", "tk": "Are → Were.", "ru": "Are → Were." } },
+        { "question": "What do you eat? → Simple Past:", "options": ["What did you ate?", "What did you eat?", "What do you ate?", "What were you eat?"], "answer": 1, "explanation": { "tr": "did + eat.", "tk": "did + eat.", "ru": "did + eat." } },
+        { "question": "Can he help? → Simple Past:", "options": ["Did he can help?", "Could he help?", "Can he helped?", "Could he helped?"], "answer": 1, "explanation": { "tr": "Can → Could.", "tk": "Can → Could.", "ru": "Can → Could." } },
+        { "question": "Where does your brother work? → Simple Past:", "options": ["Where did your brother worked?", "Where did your brother work?", "Where does your brother worked?", "Where was your brother work?"], "answer": 1, "explanation": { "tr": "did + work.", "tk": "did + work.", "ru": "did + work." } },
+        { "question": "Am I right? → Simple Past:", "options": ["Was I right?", "Were I right?", "Did I right?", "Am I right?"], "answer": 0, "explanation": { "tr": "Am → Was.", "tk": "Am → Was.", "ru": "Am → Was." } },
+        { "question": "When does the film start? → Simple Past:", "options": ["When did the film start?", "When did the film started?", "When does the film started?", "When was the film start?"], "answer": 0, "explanation": { "tr": "did + start.", "tk": "did + start.", "ru": "did + start." } },
+        { "question": "Find the mistake: \"Did you saw the news?\"", "options": ["Did", "you", "saw", "the news"], "answer": 2, "explanation": { "tr": "Did + see.", "tk": "Did + see.", "ru": "Did + see." } }
+      ]
+    }
+  }
+]

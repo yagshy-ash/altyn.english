@@ -1,0 +1,164 @@
+[
+  {
+    "skill": "SPEAKING", "level": "C1", "topic": "The role of luck in success", "title": "Talent, Effort or Luck?",
+    "body": {
+      "task": { "tr": "Yaklaşık 2 dakika konuşun: Başarıda yetenek, çaba ve şansın payı nedir? Örneklerle nüanslı bir görüş ortaya koyun.", "tk": "Takmynan 2 minut gürläň: Üstünlikde zehiniň, tagallanyň we bagtyň paýy näçe? Mysallar bilen inçe pikir öňe sürüň.", "ru": "Говорите примерно 2 минуты: какую роль в успехе играют талант, усилия и удача? Приведите примеры и выскажите взвешенное мнение." },
+      "questionEn": "To what extent is success the result of talent, hard work or simply luck? Support your view with examples.",
+      "targetSeconds": 120,
+      "hints": ["It's tempting to attribute success purely to hard work, but...", "Take, for instance, the fact that many top athletes were born in...", "That's not to say effort is irrelevant; rather,...", "Luck, in my view, determines the opportunities, whereas...", "So I'd argue it's less a question of either/or than of..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "C1", "topic": "Should voting be compulsory", "title": "Compulsory Voting",
+    "body": {
+      "task": { "tr": "Yaklaşık 2 dakika konuşun: Bazı ülkelerde oy kullanmak zorunludur. Bu demokrasiyi güçlendirir mi yoksa bireysel özgürlüğü mü kısıtlar?", "tk": "Takmynan 2 minut gürläň: Käbir ýurtlarda ses bermek hökmany. Bu demokratiýany berkidýärmi ýa-da şahsy azatlygy çäklendirýärmi?", "ru": "Говорите примерно 2 минуты: в некоторых странах голосование обязательно. Укрепляет ли это демократию или ограничивает личную свободу?" },
+      "questionEn": "In some countries, voting is compulsory. Does this strengthen democracy, or is it an unacceptable limit on personal freedom?",
+      "targetSeconds": 120,
+      "hints": ["Australia is often cited as an example of...", "The main argument in favour is that it ensures...", "Opponents, however, would contend that the right to vote includes...", "There's also a risk that uninformed voters might...", "Weighing up these points, I'm inclined to think..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "C1", "topic": "Describe a skill you taught yourself", "title": "A Skill You Taught Yourself",
+    "body": {
+      "task": { "tr": "Kendi kendinize öğrendiğiniz bir beceriyi yaklaşık 2 dakika anlatın: nasıl öğrendiniz, hangi kaynakları kullandınız, ne zorlandı ve kendi kendine öğrenmeyi önerir misiniz?", "tk": "Özbaşdak öwrenen başarnygyňyz barada takmynan 2 minut gürläň: nähili öwrendiňiz, haýsy çeşmeleri ulandyňyz, näme kyn boldy we özbaşdak öwrenmegi maslahat berýärsiňizmi?", "ru": "Расскажите примерно за 2 минуты о навыке, которому вы научились сами: как учились, какие ресурсы использовали, что было трудно и советуете ли самообучение?" },
+      "questionEn": "Describe a skill you taught yourself. How did you go about learning it, what resources did you use, what was challenging, and would you recommend self-teaching to others?",
+      "targetSeconds": 120,
+      "hints": ["A few years ago I set out to teach myself...", "I relied heavily on online tutorials and...", "The steepest part of the learning curve was...", "What kept me going was...", "Self-teaching certainly has its merits, but I'd caution that..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "C1", "topic": "Are we too dependent on technology", "title": "Too Dependent on Technology?",
+    "body": {
+      "task": { "tr": "Yaklaşık 2 dakika konuşun: İnsanlar teknolojiye fazla mı bağımlı hale geldi? Hafıza, dikkat ve beceri kaybı gibi konuları tartışın.", "tk": "Takmynan 2 minut gürläň: Adamlar tehnologiýa aşa garaşly boldularmy? Ýat, ünsi jemlemek we başarnyklary ýitirmek ýaly meseleleri ara alyp maslahatlaşyň.", "ru": "Говорите примерно 2 минуты: не стали ли люди слишком зависимы от технологий? Обсудите память, внимание и утрату навыков." },
+      "questionEn": "Have people become too dependent on technology? Consider effects on memory, attention and practical skills such as navigation or mental arithmetic.",
+      "targetSeconds": 120,
+      "hints": ["Hardly anyone memorises phone numbers any more, which suggests...", "Some researchers refer to this as 'digital amnesia'...", "Then again, outsourcing routine tasks frees us to...", "Where I think the real danger lies is in...", "Rather than rejecting technology, we ought to..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "C1", "topic": "Generations and values", "title": "The Generation Gap",
+    "body": {
+      "task": { "tr": "Yaklaşık 2 dakika konuşun: Sizin kuşağınızın değerleri ebeveynlerinizin kuşağından nasıl farklı? Bu farklılıkların nedenleri neler?", "tk": "Takmynan 2 minut gürläň: Siziň nesliňiziň gymmatlyklary ene-ataňyzyň nesliniňkiden nähili tapawutlanýar? Bu tapawutlaryň sebäpleri näme?", "ru": "Говорите примерно 2 минуты: чем ценности вашего поколения отличаются от ценностей поколения родителей? В чём причины этих различий?" },
+      "questionEn": "How do the values of your generation differ from those of your parents' generation? What has caused these differences?",
+      "targetSeconds": 120,
+      "hints": ["My parents grew up at a time when...", "For them, job security was paramount, whereas my generation...", "This shift can largely be attributed to...", "That said, I'd be wary of overgeneralising, because...", "If anything, I think we share more than we realise, particularly..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "C1", "topic": "Space tourism", "title": "Holidays in Space?",
+    "body": {
+      "task": { "tr": "Yaklaşık 2 dakika konuşun: Zenginler için uzay turizmi heyecan verici bir ilerleme mi yoksa kaynak israfı mı? Çevresel ve etik boyutları değerlendirin.", "tk": "Takmynan 2 minut gürläň: Baýlar üçin kosmos syýahatçylygy tolgundyryjy ösüşmi ýa-da serişdeleri biderek sarp etmekmi? Ekologik we ahlak taraplaryna baha beriň.", "ru": "Говорите примерно 2 минуты: космический туризм для богатых — захватывающий прогресс или пустая трата ресурсов? Оцените экологические и этические аспекты." },
+      "questionEn": "Is space tourism for the wealthy an exciting step forward or a waste of resources? Consider environmental and ethical aspects.",
+      "targetSeconds": 120,
+      "hints": ["When billionaires first began launching themselves into orbit,...", "Advocates claim that space tourism will eventually...", "Yet each launch emits..., which seems hard to justify when...", "Historically, though, luxuries such as air travel...", "On reflection, I'd say it's justifiable only if..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "C2", "topic": "Is it ever right to break the law", "title": "Civil Disobedience",
+    "body": {
+      "task": { "tr": "Yaklaşık 2 dakika konuşun: Yasaları çiğnemek hiç haklı olabilir mi? Tarihsel örneklerden yararlanarak sivil itaatsizliğin sınırlarını tartışın.", "tk": "Takmynan 2 minut gürläň: Kanuny bozmak haçan-da bolsa dogry bolup bilermi? Taryhy mysallara daýanyp, raýat boýun egmezliginiň çäklerini ara alyp maslahatlaşyň.", "ru": "Говорите примерно 2 минуты: бывает ли нарушение закона оправданным? Опираясь на исторические примеры, обсудите границы гражданского неповиновения." },
+      "questionEn": "Is it ever morally right to break the law? Drawing on historical examples, discuss where the limits of civil disobedience should lie.",
+      "targetSeconds": 120,
+      "hints": ["History is replete with laws we now regard as unjust, such as...", "Figures like Rosa Parks deliberately broke the law in order to...", "The crucial distinction, I'd argue, is between... and...", "If everyone obeyed only the laws they agreed with,...", "So civil disobedience is defensible, but only when..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "C2", "topic": "The value of boredom", "title": "In Praise of Boredom",
+    "body": {
+      "task": { "tr": "Yaklaşık 2 dakika konuşun: Sürekli uyaranlarla dolu bir dünyada can sıkıntısının bir değeri var mı? Yaratıcılık ve düşünme ile ilişkisini tartışın.", "tk": "Takmynan 2 minut gürläň: Yzygiderli gyzyklandyryjylardan doly dünýäde içgysgynçlygyň gymmaty barmy? Onuň döredijilik we pikirlenme bilen baglanyşygyny ara alyp maslahatlaşyň.", "ru": "Говорите примерно 2 минуты: есть ли ценность в скуке в мире постоянных раздражителей? Обсудите её связь с творчеством и размышлением." },
+      "questionEn": "In a world of constant stimulation, does boredom have any value? Discuss its relationship with creativity and reflection.",
+      "targetSeconds": 120,
+      "hints": ["We now reach for our phones at the slightest hint of...", "Paradoxically, it is often in moments of idleness that...", "Some psychologists have found that participants who were bored first...", "Not all boredom is productive, admittedly;...", "Perhaps what we need is not to eliminate boredom but to..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "C2", "topic": "Describe a belief you have changed", "title": "A Belief You Abandoned",
+    "body": {
+      "task": { "tr": "Zamanla değiştirdiğiniz önemli bir inancı ya da görüşü yaklaşık 2 dakika anlatın: önce ne düşünüyordunuz, sizi ne değiştirdi ve bu deneyim fikir değiştirme hakkında size ne öğretti?", "tk": "Wagtyň geçmegi bilen üýtgeden möhüm ynanjyňyz ýa-da garaýşyňyz barada takmynan 2 minut gürläň: öň näme pikir edýärdiňiz, sizi näme üýtgetdi we bu tejribe pikir üýtgetmek barada size näme öwretdi?", "ru": "Расскажите примерно за 2 минуты о важном убеждении, которое вы со временем изменили: что думали раньше, что вас изменило и чему этот опыт научил вас?" },
+      "questionEn": "Describe an important belief or opinion you have changed over time. What did you use to think, what made you change your mind, and what has the experience taught you about changing one's mind?",
+      "targetSeconds": 120,
+      "hints": ["For years I was utterly convinced that...", "What first planted a seed of doubt was...", "It wasn't a sudden conversion so much as a gradual...", "Admitting I'd been wrong was humbling, not least because...", "If anything, it's made me more sceptical of my own certainties."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "C2", "topic": "Should art be judged by its creator", "title": "Separating Art from the Artist",
+    "body": {
+      "task": { "tr": "Yaklaşık 2 dakika konuşun: Ahlaken sorunlu bir sanatçının eserlerine hayranlık duymak doğru mu? Sanatı sanatçıdan ayırabilir miyiz?", "tk": "Takmynan 2 minut gürläň: Ahlak taýdan kemçilikli sungat işgäriniň eserlerine haýran galmak dogrumy? Sungaty onuň awtoryndan aýryp bolarmy?", "ru": "Говорите примерно 2 минуты: допустимо ли восхищаться произведениями морально сомнительного автора? Можно ли отделить искусство от художника?" },
+      "questionEn": "Is it acceptable to admire the work of an artist who behaved immorally? Can we separate art from the artist?",
+      "targetSeconds": 120,
+      "hints": ["This question has gained new urgency in recent years, as...", "One school of thought holds that a work, once created,...", "Yet it seems disingenuous to claim that biography has no bearing on...", "Much depends on whether the wrongdoing is reflected in the work itself.", "Ultimately, I'd suggest that we can appreciate the work while..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "C2", "topic": "Globalisation and local cultures", "title": "Globalisation: Enrichment or Erosion?",
+    "body": {
+      "task": { "tr": "Yaklaşık 2 dakika konuşun: Küreselleşme yerel kültürleri zenginleştiriyor mu yoksa aşındırıyor mu? Dil, yemek ve gelenekler üzerinden örnekler verin.", "tk": "Takmynan 2 minut gürläň: Globallaşma ýerli medeniýetleri baýlaşdyrýarmy ýa-da ýok edýärmi? Dil, tagam we däp-dessurlar arkaly mysallar getiriň.", "ru": "Говорите примерно 2 минуты: обогащает ли глобализация местные культуры или разрушает их? Приведите примеры из сферы языка, кухни и традиций." },
+      "questionEn": "Does globalisation enrich local cultures or erode them? Give examples relating to language, food and traditions.",
+      "targetSeconds": 120,
+      "hints": ["Walk down any high street in the world and you'll find...", "Linguists estimate that a language disappears every few weeks, which...", "Yet cultures have always borrowed from one another; indeed,...", "What distinguishes today's globalisation is its sheer pace and...", "The challenge, then, is to embrace exchange without..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "C2", "topic": "The responsibility of scientists", "title": "Are Scientists Responsible for How Their Discoveries Are Used?",
+    "body": {
+      "task": { "tr": "Yaklaşık 2 dakika konuşun: Bilim insanları buluşlarının nasıl kullanıldığından sorumlu tutulmalı mı? Nükleer fizik ya da yapay zekâ gibi örnekleri ele alın.", "tk": "Takmynan 2 minut gürläň: Alymlar öz açyşlarynyň nähili ulanylýandygy üçin jogapkär bolmalymy? Ýadro fizikasy ýa-da emeli aň ýaly mysallara serediň.", "ru": "Говорите примерно 2 минуты: должны ли учёные нести ответственность за то, как используются их открытия? Рассмотрите примеры ядерной физики или ИИ." },
+      "questionEn": "Should scientists be held responsible for how their discoveries are used? Consider examples such as nuclear physics or artificial intelligence.",
+      "targetSeconds": 120,
+      "hints": ["Oppenheimer's famous remark, 'Now I am become Death', captures...", "On the one hand, knowledge itself is morally neutral;...", "On the other, scientists are uniquely placed to foresee...", "Many AI researchers have now begun to...", "I'd contend that responsibility is shared, but scientists bear a particular duty to..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "TOEFL", "topic": "Independent: study alone or in groups", "title": "Study Alone or in a Group?",
+    "body": {
+      "task": { "tr": "TOEFL konuşma görevi. Görüşünüzü açıkça belirtin, en az iki neden ve somut örnek verin. Hazırlanmak için 15 saniye, konuşmak için 45 saniyeniz var.", "tk": "TOEFL gürleýiş ýumuşy. Pikiriňizi aýdyň beýan ediň, azyndan iki sebäp we anyk mysal getiriň. Taýýarlanmak üçin 15 sekunt, gürlemek üçin 45 sekunt wagtyňyz bar.", "ru": "Задание TOEFL Speaking. Чётко выразите своё мнение, приведите минимум две причины и конкретные примеры. 15 секунд на подготовку, 45 секунд на ответ." },
+      "questionEn": "Some students prefer to study alone, while others prefer to study in a group. Which do you prefer and why? Use specific reasons and examples.",
+      "targetSeconds": 45,
+      "hints": ["I prefer studying in a group for two main reasons.", "First, my classmates can explain things that...", "For example, last semester before my biology exam,...", "Second, studying with others keeps me motivated because...", "That's why I find group study more effective."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "TOEFL", "topic": "Independent: a gap year before university", "title": "Taking a Gap Year",
+    "body": {
+      "task": { "tr": "TOEFL konuşma görevi. Görüşünüzü belirtin ve iki nedenle destekleyin. 15 saniye hazırlık, 45 saniye konuşma.", "tk": "TOEFL gürleýiş ýumuşy. Pikiriňizi aýdyň we iki sebäp bilen goldaň. 15 sekunt taýýarlyk, 45 sekunt gürlemek.", "ru": "Задание TOEFL Speaking. Выразите мнение и подкрепите его двумя причинами. 15 секунд на подготовку, 45 секунд на ответ." },
+      "questionEn": "Some people believe students should take a year off between high school and university to work or travel. Do you agree or disagree? Explain why.",
+      "targetSeconds": 45,
+      "hints": ["I agree that taking a gap year can be very beneficial.", "The first reason is that working for a year helps students...", "For instance, my cousin spent a year...", "Another reason is that...", "So overall, I think a gap year..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "TOEFL", "topic": "Integrated: campus announcement on library hours", "title": "Campus Change: Library Hours",
+    "body": {
+      "task": { "tr": "TOEFL entegre konuşma görevi (kampüs). Duyuruyu okuyun ve öğrencinin görüşünü dinlemiş gibi düşünün. Öğrencinin görüşünü ve gerekçelerini özetleyin. 30 saniye hazırlık, 60 saniye konuşma.", "tk": "TOEFL integrirlenen gürleýiş ýumuşy (uniwersitet şäherçesi). Bildirişi okaň we talybyň pikirini diňlän ýaly göz öňüne getiriň. Talybyň pikirini we onuň sebäplerini gysgaça beýan ediň. 30 sekunt taýýarlyk, 60 sekunt gürlemek.", "ru": "Интегрированное задание TOEFL Speaking (кампус). Прочитайте объявление и представьте, что слышите мнение студента. Кратко изложите его мнение и причины. 30 секунд на подготовку, 60 секунд на ответ." },
+      "questionEn": "ANNOUNCEMENT: The university library will now close at 8 p.m. instead of midnight to save money on staff and electricity. CONVERSATION: The man disagrees. He says (1) many students work during the day and can only study at night, and (2) the library is the only quiet place for students who live in shared dormitories. Summarise the man's opinion and explain his reasons.",
+      "targetSeconds": 60,
+      "hints": ["The university has announced that the library will...", "The man is strongly against this change.", "His first reason is that many students...", "He also points out that dormitories are...", "So he thinks the decision will hurt students who..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "TOEFL", "topic": "Integrated: academic concept of social loafing", "title": "Academic Concept: Social Loafing",
+    "body": {
+      "task": { "tr": "TOEFL entegre konuşma görevi (akademik). Kavramı ve profesörün örneğini kullanarak \"sosyal kaytarma\"yı (social loafing) açıklayın. 30 saniye hazırlık, 60 saniye konuşma.", "tk": "TOEFL integrirlenen gürleýiş ýumuşy (akademiki). Düşünjäni we professoryň mysalyny ulanyp, \"sosial ýaltalyk\" (social loafing) düşünjesini düşündiriň. 30 sekunt taýýarlyk, 60 sekunt gürlemek.", "ru": "Интегрированное задание TOEFL Speaking (академическое). Объясните понятие «социальной лености» (social loafing), используя определение и пример профессора. 30 секунд на подготовку, 60 секунд на ответ." },
+      "questionEn": "READING: Social loafing is the tendency of individuals to put in less effort when working in a group than when working alone, because their individual contribution is harder to identify. LECTURE: The professor describes an experiment where people pulled a rope alone and then in teams; each person pulled less hard in larger teams. He adds that in his own class, group projects improved once each member's part was graded separately. Explain social loafing using the professor's examples.",
+      "targetSeconds": 60,
+      "hints": ["The reading defines social loafing as...", "The professor illustrates this with an experiment in which...", "The results showed that as the group got bigger,...", "He also gives an example from his own class:...", "This shows that when individual effort is visible, people..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "TOEFL", "topic": "Integrated: lecture on animal camouflage", "title": "Lecture: Two Types of Camouflage",
+    "body": {
+      "task": { "tr": "TOEFL entegre konuşma görevi (ders özeti). Profesörün anlattığı iki kamuflaj türünü ve örneklerini özetleyin. 20 saniye hazırlık, 60 saniye konuşma.", "tk": "TOEFL integrirlenen gürleýiş ýumuşy (leksiýanyň gysgaça mazmuny). Professoryň aýdyp beren iki görnüşli bukulma usulyny we olaryň mysallaryny gysgaça beýan ediň. 20 sekunt taýýarlyk, 60 sekunt gürlemek.", "ru": "Интегрированное задание TOEFL Speaking (пересказ лекции). Кратко изложите два типа маскировки, о которых рассказал профессор, и их примеры. 20 секунд на подготовку, 60 секунд на ответ." },
+      "questionEn": "LECTURE: The professor explains two types of camouflage. (1) Background matching: an animal's colour matches its environment — the Arctic hare is white in winter and brown in summer. (2) Disruptive colouration: bold patterns break up the outline of the body — a zebra's stripes make it hard for lions to pick out one animal from a running herd. Using the points and examples from the lecture, explain the two types of camouflage.",
+      "targetSeconds": 60,
+      "hints": ["In the lecture, the professor discusses two ways animals...", "The first type is background matching, which means...", "For example, the Arctic hare changes its fur from...", "The second type is disruptive colouration. Here,...", "The zebra is a good example, because when a herd runs,..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "TOEFL", "topic": "Independent: technology makes life simpler", "title": "Has Technology Made Life Simpler?",
+    "body": {
+      "task": { "tr": "TOEFL konuşma görevi. Katılıp katılmadığınızı söyleyin ve iki somut nedenle destekleyin. 15 saniye hazırlık, 45 saniye konuşma.", "tk": "TOEFL gürleýiş ýumuşy. Goşulýandygyňyzy ýa-da goşulmaýandygyňyzy aýdyň we iki sany anyk sebäp bilen goldaň. 15 sekunt taýýarlyk, 45 sekunt gürlemek.", "ru": "Задание TOEFL Speaking. Скажите, согласны вы или нет, и подкрепите ответ двумя конкретными причинами. 15 секунд на подготовку, 45 секунд на ответ." },
+      "questionEn": "Do you agree or disagree with the following statement? Technology has made our lives simpler. Use specific reasons and examples to support your answer.",
+      "targetSeconds": 45,
+      "hints": ["I partly agree, but overall I think technology has made life more complicated.", "On one hand, tasks like banking are much faster now.", "However, we are now expected to answer messages...", "For example, my father receives work emails...", "So although some things are easier, life feels..."]
+    }
+  }
+]

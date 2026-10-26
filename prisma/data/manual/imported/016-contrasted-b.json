@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Contrasted: Simple Past or Present Perfect",
+    "title": "Simple Past or Present Perfect?",
+    "body": {
+      "explanation": {
+        "tr": "Bu iki zaman Türkçede aynı çevrilebilir ama İngilizcede farklıdır:\n• Simple Past: zamanı BELLİ ve bitmiş geçmiş → I saw him yesterday. She lived in Paris in 2010.\n  Sinyal: yesterday, last…, ago, in 2010, when…?\n• Present Perfect: zamanı belirsiz ya da şimdiye bağlı → I have seen this film. She has lived here since 2010.\n  Sinyal: ever, never, just, already, yet, since, for, so far\n• Soru: When did you arrive? (✓) – When have you arrived? (✗)\n• Deneyim sorusu Present Perfect, ayrıntılar Simple Past: Have you been to Rome? – Yes, I went there last year.",
+        "tk": "Bu iki zaman türkmen dilinde birmeňzeş terjime edilip bilner, emma iňlis dilinde tapawutly:\n• Simple Past: wagty BELLI we gutaran geçmiş → I saw him yesterday. She lived in Paris in 2010.\n  Alamat: yesterday, last…, ago, in 2010, when…?\n• Present Perfect: wagty näbelli ýa-da häzir bilen bagly → I have seen this film. She has lived here since 2010.\n  Alamat: ever, never, just, already, yet, since, for, so far\n• Sorag: When did you arrive? (✓) – When have you arrived? (✗)\n• Tejribe soragy Present Perfect, jikme-jiklik Simple Past: Have you been to Rome? – Yes, I went there last year.",
+        "ru": "На русский эти времена часто переводятся одинаково, но в английском они разные:\n• Simple Past: время УКАЗАНО, действие закончено → I saw him yesterday. She lived in Paris in 2010.\n  Маркеры: yesterday, last…, ago, in 2010, when…?\n• Present Perfect: время не указано или связь с настоящим → I have seen this film. She has lived here since 2010.\n  Маркеры: ever, never, just, already, yet, since, for, so far\n• Вопрос: When did you arrive? (✓) – When have you arrived? (✗)\n• Об опыте — Present Perfect, подробности — Simple Past: Have you been to Rome? – Yes, I went there last year."
+      },
+      "examples": [
+        { "en": "I saw him yesterday.", "tr": "Onu dün gördüm.", "tk": "Men ony düýn gördüm.", "ru": "Я видел его вчера." },
+        { "en": "I have seen this film three times.", "tr": "Bu filmi üç kez gördüm.", "tk": "Men bu filmi üç gezek gördüm.", "ru": "Я смотрел этот фильм три раза." },
+        { "en": "Have you been to Rome? – Yes, I went there last year.", "tr": "Roma'ya gittin mi? – Evet, geçen yıl gittim.", "tk": "Rimde bolduňmy? – Hawa, geçen ýyl bardym.", "ru": "Ты был в Риме? – Да, ездил в прошлом году." },
+        { "en": "She lived in Paris from 2010 to 2015.", "tr": "2010'dan 2015'e kadar Paris'te yaşadı.", "tk": "Ol 2010-njy ýyldan 2015-nji ýyla çenli Parižde ýaşady.", "ru": "Она жила в Париже с 2010 по 2015 год." },
+        { "en": "She has lived in Ashgabat since 2015.", "tr": "2015'ten beri Aşkabat'ta yaşıyor.", "tk": "Ol 2015-nji ýyldan bäri Aşgabatda ýaşaýar.", "ru": "Она живёт в Ашхабаде с 2015 года." },
+        { "en": "When did you start this job?", "tr": "Bu işe ne zaman başladın?", "tk": "Bu işe haçan başladyň?", "ru": "Когда ты начал эту работу?" }
+      ],
+      "exercises": [
+        { "question": "I ___ my homework. Can I go out now?", "options": ["finished", "have finished", "finish", "had finished"], "answer": 1, "explanation": { "tr": "Şimdiye bağlı sonuç → have finished.", "tk": "Häzir bilen bagly netije → have finished.", "ru": "Результат сейчас → have finished." } },
+        { "question": "I ___ my homework last night.", "options": ["finished", "have finished", "finish", "has finished"], "answer": 0, "explanation": { "tr": "last night → Simple Past.", "tk": "last night → Simple Past.", "ru": "last night → Simple Past." } },
+        { "question": "___ you ever ___ a camel?", "options": ["Did / ride", "Have / ridden", "Have / rode", "Did / ridden"], "answer": 1, "explanation": { "tr": "ever → Present Perfect.", "tk": "ever → Present Perfect.", "ru": "ever → Present Perfect." } },
+        { "question": "When ___ you ___ to Ashgabat?", "options": ["have / moved", "did / move", "have / move", "did / moved"], "answer": 1, "explanation": { "tr": "When → Simple Past.", "tk": "When → Simple Past.", "ru": "When → Simple Past." } },
+        { "question": "My grandfather ___ in 1950.", "options": ["has been born", "was born", "has born", "is born"], "answer": 1, "explanation": { "tr": "in 1950 → was born.", "tk": "in 1950 → was born.", "ru": "in 1950 → was born." } },
+        { "question": "We ___ here since 2018.", "options": ["lived", "have lived", "live", "are living"], "answer": 1, "explanation": { "tr": "since → Present Perfect.", "tk": "since → Present Perfect.", "ru": "since → Present Perfect." } },
+        { "question": "\"Have you seen Tom?\" – \"Yes, I ___ him an hour ago.\"", "options": ["have seen", "saw", "see", "had seen"], "answer": 1, "explanation": { "tr": "ago → saw.", "tk": "ago → saw.", "ru": "ago → saw." } },
+        { "question": "She ___ three countries so far.", "options": ["visited", "has visited", "visits", "was visiting"], "answer": 1, "explanation": { "tr": "so far → Present Perfect.", "tk": "so far → Present Perfect.", "ru": "so far → Present Perfect." } },
+        { "question": "Shakespeare ___ many plays.", "options": ["has written", "wrote", "writes", "had write"], "answer": 1, "explanation": { "tr": "Ölmüş kişi, bitmiş dönem → wrote.", "tk": "Aradan çykan adam, gutaran döwür → wrote.", "ru": "Умерший человек, завершённый период → wrote." } },
+        { "question": "Find the mistake: \"I have bought this phone two weeks ago.\"", "options": ["I have bought", "this phone", "two weeks", "ago"], "answer": 0, "explanation": { "tr": "ago → I bought.", "tk": "ago → I bought.", "ru": "ago → I bought." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Contrasted: Simple Present or Present Progressive",
+    "title": "Simple Present or Present Progressive?",
+    "body": {
+      "explanation": {
+        "tr": "• Simple Present: her zaman, genelde, alışkanlık → I play football every Sunday.\n  Sinyal: always, usually, often, every day, on Mondays\n• Present Progressive: şu an, bu aralar → I am playing football now.\n  Sinyal: now, at the moment, today, Look!, Listen!\n• Karşılaştır:\n  She usually drinks tea, but today she is drinking coffee.\n• Durum fiilleri (like, love, know, want) Simple Present'te kalır: I like this song. (I'm liking ✗)",
+        "tk": "• Simple Present: hemişe, adatça, endik → I play football every Sunday.\n  Alamat: always, usually, often, every day, on Mondays\n• Present Progressive: häzir, şu günler → I am playing football now.\n  Alamat: now, at the moment, today, Look!, Listen!\n• Deňeşdir:\n  She usually drinks tea, but today she is drinking coffee.\n• Ýagdaý işlikleri (like, love, know, want) Simple Present-de galýar: I like this song. (I'm liking ✗)",
+        "ru": "• Simple Present: всегда, обычно, привычка → I play football every Sunday.\n  Маркеры: always, usually, often, every day, on Mondays\n• Present Progressive: сейчас, в эти дни → I am playing football now.\n  Маркеры: now, at the moment, today, Look!, Listen!\n• Сравни:\n  She usually drinks tea, but today she is drinking coffee.\n• Глаголы состояния (like, love, know, want) — в Simple Present: I like this song. (I'm liking ✗)"
+      },
+      "examples": [
+        { "en": "I play football every Sunday.", "tr": "Her pazar futbol oynarım.", "tk": "Men her ýekşenbe futbol oýnaýaryn.", "ru": "Я играю в футбол каждое воскресенье." },
+        { "en": "I am playing football now.", "tr": "Şu an futbol oynuyorum.", "tk": "Men häzir futbol oýnaýaryn.", "ru": "Я сейчас играю в футбол." },
+        { "en": "She usually drinks tea, but today she is drinking coffee.", "tr": "Genelde çay içer ama bugün kahve içiyor.", "tk": "Ol adatça çaý içýär, emma şu gün kofe içýär.", "ru": "Обычно она пьёт чай, но сегодня пьёт кофе." },
+        { "en": "Look! It is snowing.", "tr": "Bak! Kar yağıyor.", "tk": "Seret! Gar ýagýar.", "ru": "Смотри! Идёт снег." },
+        { "en": "It often snows in January.", "tr": "Ocak ayında sık sık kar yağar.", "tk": "Ýanwarda köplenç gar ýagýar.", "ru": "В январе часто идёт снег." },
+        { "en": "I know the answer.", "tr": "Cevabı biliyorum.", "tk": "Men jogaby bilýärin.", "ru": "Я знаю ответ." }
+      ],
+      "exercises": [
+        { "question": "My dad ___ to work every day.", "options": ["drives", "is driving", "drive", "driving"], "answer": 0, "explanation": { "tr": "every day → Simple Present.", "tk": "every day → Simple Present.", "ru": "every day → Simple Present." } },
+        { "question": "Look! The baby ___.", "options": ["sleeps", "is sleeping", "sleep", "sleeping"], "answer": 1, "explanation": { "tr": "Look! → Present Progressive.", "tk": "Look! → Present Progressive.", "ru": "Look! → Present Progressive." } },
+        { "question": "We ___ English now.", "options": ["learn", "are learning", "learns", "learning"], "answer": 1, "explanation": { "tr": "now → are learning.", "tk": "now → are learning.", "ru": "now → are learning." } },
+        { "question": "She always ___ breakfast at 7.", "options": ["has", "is having", "have", "having"], "answer": 0, "explanation": { "tr": "always → Simple Present.", "tk": "always → Simple Present.", "ru": "always → Simple Present." } },
+        { "question": "I ___ this song. It's great!", "options": ["like", "am liking", "likes", "liking"], "answer": 0, "explanation": { "tr": "like durum fiili.", "tk": "like ýagdaý işligi.", "ru": "like — глагол состояния." } },
+        { "question": "Listen! Somebody ___ the piano.", "options": ["plays", "is playing", "play", "played"], "answer": 1, "explanation": { "tr": "Listen! → is playing.", "tk": "Listen! → is playing.", "ru": "Listen! → is playing." } },
+        { "question": "They usually ___ by bus, but today they ___.", "options": ["go / are walking", "are going / walk", "go / walk", "going / walking"], "answer": 0, "explanation": { "tr": "usually → go; today → are walking.", "tk": "usually → go; today → are walking.", "ru": "usually → go; today → are walking." } },
+        { "question": "Water ___ at 100°C.", "options": ["boils", "is boiling", "boil", "boiling"], "answer": 0, "explanation": { "tr": "Genel gerçek → boils.", "tk": "Umumy hakykat → boils.", "ru": "Общая истина → boils." } },
+        { "question": "\"What are you doing?\" – \"I ___ a letter.\"", "options": ["write", "am writing", "writes", "wrote"], "answer": 1, "explanation": { "tr": "Şu an → am writing.", "tk": "Häzir → am writing.", "ru": "Сейчас → am writing." } },
+        { "question": "Find the mistake: \"I am wanting a new bike.\"", "options": ["I", "am wanting", "a new", "bike"], "answer": 1, "explanation": { "tr": "want durum fiili → I want.", "tk": "want ýagdaý işligi → I want.", "ru": "want — глагол состояния → I want." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Contrasted: Simple Present or Simple Past – easy sentences",
+    "title": "Simple Present or Simple Past? (Easy)",
+    "body": {
+      "explanation": {
+        "tr": "• Simple Present: şimdi/her zaman → I live in Mary. She works in a bank.\n• Simple Past: geçmişte bitti → I lived in Dashoguz. She worked in a shop.\nZaman ifadesine bak:\n• every day, usually, now (durum), always → Simple Present\n• yesterday, last week, ago, in 2015 → Simple Past\nŞekiller: work → works (he/she) / worked; go → goes / went; have → has / had; be → am/is/are / was/were",
+        "tk": "• Simple Present: häzir/hemişe → I live in Mary. She works in a bank.\n• Simple Past: geçmişde gutardy → I lived in Dashoguz. She worked in a shop.\nWagt aňlatmasyna seret:\n• every day, usually, now (ýagdaý), always → Simple Present\n• yesterday, last week, ago, in 2015 → Simple Past\nGörnüşler: work → works (he/she) / worked; go → goes / went; have → has / had; be → am/is/are / was/were",
+        "ru": "• Simple Present: сейчас/всегда → I live in Mary. She works in a bank.\n• Simple Past: закончилось в прошлом → I lived in Dashoguz. She worked in a shop.\nСмотри на выражение времени:\n• every day, usually, now (состояние), always → Simple Present\n• yesterday, last week, ago, in 2015 → Simple Past\nФормы: work → works (he/she) / worked; go → goes / went; have → has / had; be → am/is/are / was/were"
+      },
+      "examples": [
+        { "en": "I live in Mary now. I lived in Dashoguz before.", "tr": "Şimdi Mary'de yaşıyorum. Önceden Daşoğuz'da yaşadım.", "tk": "Men häzir Maryda ýaşaýaryn. Öň Daşoguzda ýaşadym.", "ru": "Сейчас я живу в Мары. Раньше я жил в Дашогузе." },
+        { "en": "She goes to school every day.", "tr": "Her gün okula gider.", "tk": "Ol her gün mekdebe gidýär.", "ru": "Она ходит в школу каждый день." },
+        { "en": "She went to the cinema yesterday.", "tr": "Dün sinemaya gitti.", "tk": "Ol düýn kinoteatra gitdi.", "ru": "Вчера она ходила в кино." },
+        { "en": "We have a dog.", "tr": "Bir köpeğimiz var.", "tk": "Biziň itimiz bar.", "ru": "У нас есть собака." },
+        { "en": "We had a cat when I was a child.", "tr": "Ben çocukken bir kedimiz vardı.", "tk": "Men çagakam biziň pişigimiz bardy.", "ru": "Когда я был ребёнком, у нас была кошка." },
+        { "en": "It was cold last night.", "tr": "Dün gece hava soğuktu.", "tk": "Düýn gije sowukdy.", "ru": "Вчера ночью было холодно." }
+      ],
+      "exercises": [
+        { "question": "I ___ tea every morning.", "options": ["drink", "drank", "drinks", "drinked"], "answer": 0, "explanation": { "tr": "every morning → drink.", "tk": "every morning → drink.", "ru": "every morning → drink." } },
+        { "question": "I ___ coffee yesterday.", "options": ["drink", "drank", "drinks", "drunk"], "answer": 1, "explanation": { "tr": "yesterday → drank.", "tk": "yesterday → drank.", "ru": "yesterday → drank." } },
+        { "question": "He ___ in a hospital now.", "options": ["works", "worked", "work", "working"], "answer": 0, "explanation": { "tr": "now (durum) → works.", "tk": "now (ýagdaý) → works.", "ru": "now (состояние) → works." } },
+        { "question": "We ___ to Turkey last summer.", "options": ["go", "goes", "went", "gone"], "answer": 2, "explanation": { "tr": "last summer → went.", "tk": "last summer → went.", "ru": "last summer → went." } },
+        { "question": "My sister ___ two children.", "options": ["has", "had", "have", "having"], "answer": 0, "explanation": { "tr": "Şimdiki durum → has.", "tk": "Häzirki ýagdaý → has.", "ru": "Сейчас → has." } },
+        { "question": "The weather ___ terrible last weekend.", "options": ["is", "was", "were", "be"], "answer": 1, "explanation": { "tr": "last weekend → was.", "tk": "last weekend → was.", "ru": "last weekend → was." } },
+        { "question": "They usually ___ dinner at 7.", "options": ["have", "had", "has", "having"], "answer": 0, "explanation": { "tr": "usually → have.", "tk": "usually → have.", "ru": "usually → have." } },
+        { "question": "She ___ her keys an hour ago.", "options": ["loses", "lost", "lose", "losed"], "answer": 1, "explanation": { "tr": "ago → lost.", "tk": "ago → lost.", "ru": "ago → lost." } },
+        { "question": "My parents ___ married in 1998.", "options": ["get", "got", "gets", "are getting"], "answer": 1, "explanation": { "tr": "in 1998 → got.", "tk": "in 1998 → got.", "ru": "in 1998 → got." } },
+        { "question": "Find the mistake: \"Yesterday she buys a new dress.\"", "options": ["Yesterday", "she", "buys", "a new dress"], "answer": 2, "explanation": { "tr": "Yesterday → bought.", "tk": "Yesterday → bought.", "ru": "Yesterday → bought." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Contrasted: Simple Present or Simple Past",
+    "title": "Simple Present or Simple Past?",
+    "body": {
+      "explanation": {
+        "tr": "Zaman seçerken kendine sor: 'Bu şimdi/her zaman mı doğru, yoksa geçmişte bitti mi?'\n• Simple Present: alışkanlık, genel gerçek, şimdiki durum\n  He takes the bus to work. Cats like fish.\n• Simple Past: geçmişte belli bir zamanda bitti\n  He took a taxi this morning. (bu sabah bitti)\n• Hikâye anlatırken geçmiş zaman kullanılır: Once upon a time, a king lived in a big palace.\n• Dikkat: Simple Present'te 3. tekil -s; Simple Past'ta tüm öznelerde aynı biçim.",
+        "tk": "Zamany saýlanyňda özüňden sora: 'Bu häzir/hemişe dogrumy ýa-da geçmişde gutardymy?'\n• Simple Present: endik, umumy hakykat, häzirki ýagdaý\n  He takes the bus to work. Cats like fish.\n• Simple Past: geçmişde belli bir wagtda gutardy\n  He took a taxi this morning. (şu gün irden gutardy)\n• Erteki/hekaýa gürrüň berlende geçmiş zaman ulanylýar: Once upon a time, a king lived in a big palace.\n• Üns beriň: Simple Present-de 3-nji ýöňkeme birlikde -s; Simple Past-da ähli eýelerde birmeňzeş görnüş.",
+        "ru": "Выбирая время, спроси себя: 'Это верно сейчас/всегда или закончилось в прошлом?'\n• Simple Present: привычка, общая истина, текущее состояние\n  He takes the bus to work. Cats like fish.\n• Simple Past: закончилось в определённый момент прошлого\n  He took a taxi this morning. (утро уже прошло)\n• В рассказах используется прошедшее время: Once upon a time, a king lived in a big palace.\n• Внимание: в Simple Present 3-е лицо ед. ч. с -s; в Simple Past форма одинакова для всех."
+      },
+      "examples": [
+        { "en": "He usually takes the bus, but this morning he took a taxi.", "tr": "Genelde otobüse biner ama bu sabah taksiye bindi.", "tk": "Ol adatça awtobusa münýär, emma şu gün irden taksi tutdy.", "ru": "Обычно он ездит на автобусе, но сегодня утром взял такси." },
+        { "en": "Cats like fish.", "tr": "Kediler balığı sever.", "tk": "Pişikler balygy halaýarlar.", "ru": "Кошки любят рыбу." },
+        { "en": "Once upon a time, a king lived in a big palace.", "tr": "Bir zamanlar büyük bir sarayda bir kral yaşardı.", "tk": "Bir zamanlar uly köşkde bir patyşa ýaşapdyr.", "ru": "Жил-был король в большом дворце." },
+        { "en": "I don't eat meat now, but I ate it as a child.", "tr": "Şimdi et yemiyorum ama çocukken yerdim.", "tk": "Men häzir et iýemok, emma çagakam iýýärdim.", "ru": "Сейчас я не ем мясо, но в детстве ел." },
+        { "en": "Does she speak French? Did she study in France?", "tr": "Fransızca konuşur mu? Fransa'da mı okudu?", "tk": "Ol fransuzça gürleýärmi? Fransiýada okadymy?", "ru": "Она говорит по-французски? Она училась во Франции?" },
+        { "en": "The museum opened in 1990. It opens at 9 every day.", "tr": "Müze 1990'da açıldı. Her gün 9'da açılır.", "tk": "Muzeý 1990-njy ýylda açyldy. Ol her gün 9-da açylýar.", "ru": "Музей открылся в 1990 году. Он открывается каждый день в 9." }
+      ],
+      "exercises": [
+        { "question": "Water ___ at 0°C.", "options": ["freezes", "froze", "freeze", "frozen"], "answer": 0, "explanation": { "tr": "Genel gerçek → freezes.", "tk": "Umumy hakykat → freezes.", "ru": "Общая истина → freezes." } },
+        { "question": "The river ___ last winter.", "options": ["freezes", "froze", "freeze", "is freezing"], "answer": 1, "explanation": { "tr": "last winter → froze.", "tk": "last winter → froze.", "ru": "last winter → froze." } },
+        { "question": "My grandma ___ beautiful carpets. She still does it.", "options": ["makes", "made", "make", "maked"], "answer": 0, "explanation": { "tr": "Hâlâ yapıyor → makes.", "tk": "Henizem edýär → makes.", "ru": "Делает до сих пор → makes." } },
+        { "question": "When I was young, I ___ in the village.", "options": ["live", "lived", "lives", "living"], "answer": 1, "explanation": { "tr": "When I was young → lived.", "tk": "When I was young → lived.", "ru": "When I was young → lived." } },
+        { "question": "___ you see the match last night?", "options": ["Do", "Did", "Does", "Are"], "answer": 1, "explanation": { "tr": "last night → Did.", "tk": "last night → Did.", "ru": "last night → Did." } },
+        { "question": "___ he play any instruments?", "options": ["Do", "Did", "Does", "Is"], "answer": 2, "explanation": { "tr": "Genel soru, he → Does.", "tk": "Umumy sorag, he → Does.", "ru": "Общий вопрос, he → Does." } },
+        { "question": "The train usually ___ on time, but yesterday it ___ late.", "options": ["arrives / was", "arrived / is", "arrive / were", "arrives / is"], "answer": 0, "explanation": { "tr": "usually → arrives; yesterday → was.", "tk": "usually → arrives; yesterday → was.", "ru": "usually → arrives; yesterday → was." } },
+        { "question": "Mozart ___ his first music at the age of five.", "options": ["writes", "wrote", "write", "has written"], "answer": 1, "explanation": { "tr": "Bitmiş geçmiş → wrote.", "tk": "Gutaran geçmiş → wrote.", "ru": "Завершённое прошлое → wrote." } },
+        { "question": "I ___ understand this word. What does it mean?", "options": ["don't", "didn't", "doesn't", "not"], "answer": 0, "explanation": { "tr": "Şimdiki durum → don't.", "tk": "Häzirki ýagdaý → don't.", "ru": "Сейчас → don't." } },
+        { "question": "Find the mistake: \"Last year my brother study in Moscow.\"", "options": ["Last year", "my brother", "study", "in Moscow"], "answer": 2, "explanation": { "tr": "Last year → studied.", "tk": "Last year → studied.", "ru": "Last year → studied." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Contrasted: Simple Present or Simple Past – negative sentences",
+    "title": "Negatives: Simple Present or Simple Past?",
+    "body": {
+      "explanation": {
+        "tr": "Olumsuz cümlelerde yardımcı fiil zamanı gösterir:\n• Simple Present: don't / doesn't + yalın fiil\n  I don't like fish. She doesn't work here.\n• Simple Past: didn't + yalın fiil (tüm özneler)\n  I didn't like the film. She didn't work yesterday.\n• be fiili: isn't/aren't/am not ↔ wasn't/weren't\n  He isn't at home now. He wasn't at home last night.\nDikkat: doesn't ve didn't sonrası fiil yalın: She didn't went (✗) → She didn't go (✓).",
+        "tk": "Ýokluk sözlemlerde kömekçi işlik zamany görkezýär:\n• Simple Present: don't / doesn't + esasy işlik\n  I don't like fish. She doesn't work here.\n• Simple Past: didn't + esasy işlik (ähli eýeler)\n  I didn't like the film. She didn't work yesterday.\n• be işligi: isn't/aren't/am not ↔ wasn't/weren't\n  He isn't at home now. He wasn't at home last night.\nÜns beriň: doesn't we didn't-dan soň işlik esasy görnüşde: She didn't went (✗) → She didn't go (✓).",
+        "ru": "В отрицаниях время показывает вспомогательный глагол:\n• Simple Present: don't / doesn't + начальная форма\n  I don't like fish. She doesn't work here.\n• Simple Past: didn't + начальная форма (для всех лиц)\n  I didn't like the film. She didn't work yesterday.\n• Глагол be: isn't/aren't/am not ↔ wasn't/weren't\n  He isn't at home now. He wasn't at home last night.\nВнимание: после doesn't и didn't — начальная форма: She didn't went (✗) → She didn't go (✓)."
+      },
+      "examples": [
+        { "en": "I don't like fish.", "tr": "Balık sevmem.", "tk": "Men balygy halamok.", "ru": "Я не люблю рыбу." },
+        { "en": "I didn't like the film.", "tr": "Filmi beğenmedim.", "tk": "Film maňa ýaramady.", "ru": "Мне не понравился фильм." },
+        { "en": "She doesn't work on Sundays.", "tr": "Pazar günleri çalışmaz.", "tk": "Ol ýekşenbe günleri işlemeýär.", "ru": "По воскресеньям она не работает." },
+        { "en": "She didn't work yesterday.", "tr": "Dün çalışmadı.", "tk": "Ol düýn işlemedi.", "ru": "Вчера она не работала." },
+        { "en": "He isn't at home now.", "tr": "Şu an evde değil.", "tk": "Ol häzir öýde däl.", "ru": "Сейчас его нет дома." },
+        { "en": "They weren't at the party.", "tr": "Partide değillerdi.", "tk": "Olar oturylyşykda däldi.", "ru": "Их не было на вечеринке." }
+      ],
+      "exercises": [
+        { "question": "He ___ coffee. He prefers tea.", "options": ["doesn't drink", "didn't drink", "don't drink", "doesn't drinks"], "answer": 0, "explanation": { "tr": "Genel tercih → doesn't drink.", "tk": "Umumy saýlaw → doesn't drink.", "ru": "Общее предпочтение → doesn't drink." } },
+        { "question": "We ___ to school yesterday because it was a holiday.", "options": ["don't go", "didn't go", "didn't went", "doesn't go"], "answer": 1, "explanation": { "tr": "yesterday → didn't go.", "tk": "yesterday → didn't go.", "ru": "yesterday → didn't go." } },
+        { "question": "I ___ hungry now. I just ate.", "options": ["wasn't", "am not", "don't", "didn't"], "answer": 1, "explanation": { "tr": "now → am not.", "tk": "now → am not.", "ru": "now → am not." } },
+        { "question": "The shop ___ open last Sunday.", "options": ["isn't", "wasn't", "doesn't", "didn't"], "answer": 1, "explanation": { "tr": "last Sunday + be → wasn't.", "tk": "last Sunday + be → wasn't.", "ru": "last Sunday + be → wasn't." } },
+        { "question": "My parents ___ TV in the morning.", "options": ["don't watch", "doesn't watch", "didn't watched", "aren't watch"], "answer": 0, "explanation": { "tr": "Alışkanlık, çoğul → don't watch.", "tk": "Endik, köplük → don't watch.", "ru": "Привычка, мн. ч. → don't watch." } },
+        { "question": "She ___ the answer, so she asked the teacher.", "options": ["doesn't know", "didn't know", "didn't knew", "don't know"], "answer": 1, "explanation": { "tr": "Geçmiş hikâye → didn't know.", "tk": "Geçmiş waka → didn't know.", "ru": "Рассказ о прошлом → didn't know." } },
+        { "question": "It ___ much in summer here.", "options": ["doesn't rain", "didn't rain", "don't rain", "isn't rain"], "answer": 0, "explanation": { "tr": "Genel durum → doesn't rain.", "tk": "Umumy ýagdaý → doesn't rain.", "ru": "Обычно → doesn't rain." } },
+        { "question": "We ___ tired after the trip.", "options": ["weren't", "aren't", "didn't", "don't"], "answer": 0, "explanation": { "tr": "after the trip (geçmiş) + be → weren't.", "tk": "after the trip (geçmiş) + be → weren't.", "ru": "after the trip (прошлое) + be → weren't." } },
+        { "question": "Choose the correct sentence.", "options": ["He didn't went to work.", "He doesn't went to work.", "He didn't go to work.", "He don't go to work."], "answer": 2, "explanation": { "tr": "didn't + go.", "tk": "didn't + go.", "ru": "didn't + go." } },
+        { "question": "Find the mistake: \"My sister don't like spiders.\"", "options": ["My sister", "don't", "like", "spiders"], "answer": 1, "explanation": { "tr": "sister → doesn't.", "tk": "sister → doesn't.", "ru": "sister → doesn't." } }
+      ]
+    }
+  }
+]

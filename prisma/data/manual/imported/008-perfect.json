@@ -1,0 +1,200 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Present Perfect: Sentences and negations in the Present Perfect",
+    "title": "Present Perfect: Positive and Negative",
+    "body": {
+      "explanation": {
+        "tr": "Present Perfect olumlu ve olumsuz cümleleri karşılaştır:\n• Olumlu: have/has + V3 → I have cleaned my room.\n• Olumsuz: haven't/hasn't + V3 → I haven't cleaned my room.\n• already olumluda (zaten), yet olumsuzda (henüz):\n  She has already left. / She hasn't left yet.\n• just (az önce) olumlu cümlede: We have just eaten.\n• never: olumlu yapı + olumsuz anlam: He has never lied.",
+        "tk": "Present Perfect-iň tassyklaýjy we ýokluk sözlemlerini deňeşdir:\n• Tassyklaýjy: have/has + V3 → I have cleaned my room.\n• Ýokluk: haven't/hasn't + V3 → I haven't cleaned my room.\n• already tassyklaýjyda (eýýäm), yet ýoklukda (entek):\n  She has already left. / She hasn't left yet.\n• just (ýaňy) tassyklaýjy sözlemde: We have just eaten.\n• never: tassyklaýjy gurluş + ýokluk many: He has never lied.",
+        "ru": "Сравни утвердительные и отрицательные предложения в Present Perfect:\n• Утверждение: have/has + V3 → I have cleaned my room.\n• Отрицание: haven't/hasn't + V3 → I haven't cleaned my room.\n• already в утверждении (уже), yet в отрицании (ещё не):\n  She has already left. / She hasn't left yet.\n• just (только что) в утверждении: We have just eaten.\n• never: утвердительная форма + отрицательный смысл: He has never lied."
+      },
+      "examples": [
+        { "en": "I have already done the shopping.", "tr": "Alışverişi zaten yaptım.", "tk": "Men eýýäm söwda etdim.", "ru": "Я уже сделал покупки." },
+        { "en": "I haven't done the shopping yet.", "tr": "Alışverişi henüz yapmadım.", "tk": "Men entek söwda etmedim.", "ru": "Я ещё не сделал покупки." },
+        { "en": "He has just woken up.", "tr": "Az önce uyandı.", "tk": "Ol ýaňy oýandy.", "ru": "Он только что проснулся." },
+        { "en": "She hasn't written to me for months.", "tr": "Aylardır bana yazmadı.", "tk": "Ol aýlap maňa ýazmady.", "ru": "Она не писала мне несколько месяцев." },
+        { "en": "We have painted the kitchen.", "tr": "Mutfağı boyadık.", "tk": "Biz aşhanany reňkledik.", "ru": "Мы покрасили кухню." },
+        { "en": "My cat has never caught a mouse.", "tr": "Kedim hiç fare yakalamadı.", "tk": "Meniň pişigim hiç haçan syçan tutmady.", "ru": "Моя кошка никогда не ловила мышь." }
+      ],
+      "exercises": [
+        { "question": "I've cleaned the car. → Negative: I ___ the car.", "options": ["haven't cleaned", "hasn't cleaned", "didn't cleaned", "haven't clean"], "answer": 0, "explanation": { "tr": "I → haven't + V3.", "tk": "I → haven't + V3.", "ru": "I → haven't + V3." } },
+        { "question": "She ___ her keys. She can't open the door.", "options": ["have lost", "has lost", "hasn't lost", "lost has"], "answer": 1, "explanation": { "tr": "Sonuç şimdi → has lost.", "tk": "Netije häzir → has lost.", "ru": "Результат сейчас → has lost." } },
+        { "question": "They haven't arrived ___.", "options": ["already", "just", "yet", "ever"], "answer": 2, "explanation": { "tr": "Olumsuzda sonda: yet.", "tk": "Ýoklukda ahyrda: yet.", "ru": "В отрицании в конце: yet." } },
+        { "question": "We have ___ had dinner, thanks.", "options": ["yet", "already", "since", "for"], "answer": 1, "explanation": { "tr": "Olumluda: already.", "tk": "Tassyklaýjyda: already.", "ru": "В утверждении: already." } },
+        { "question": "He ___ a lie in his life.", "options": ["has never told", "hasn't never told", "never has told", "has never tell"], "answer": 0, "explanation": { "tr": "has never + V3 (told).", "tk": "has never + V3 (told).", "ru": "has never + V3 (told)." } },
+        { "question": "The baby has ___ fallen asleep.", "options": ["yet", "just", "ever", "since"], "answer": 1, "explanation": { "tr": "Az önce: just.", "tk": "Ýaňy: just.", "ru": "Только что: just." } },
+        { "question": "My parents ___ the new neighbours yet.", "options": ["hasn't met", "haven't met", "haven't meet", "didn't met"], "answer": 1, "explanation": { "tr": "Çoğul → haven't met.", "tk": "Köplük → haven't met.", "ru": "Мн. ч. → haven't met." } },
+        { "question": "It ___ snowed here for years.", "options": ["haven't", "hasn't", "isn't", "didn't"], "answer": 1, "explanation": { "tr": "it → hasn't.", "tk": "it → hasn't.", "ru": "it → hasn't." } },
+        { "question": "Choose the correct sentence.", "options": ["I have yet finished.", "I haven't finished already.", "I haven't finished yet.", "I hasn't finished yet."], "answer": 2, "explanation": { "tr": "haven't + V3 + yet.", "tk": "haven't + V3 + yet.", "ru": "haven't + V3 + yet." } },
+        { "question": "Find the mistake: \"She has already wrote the email.\"", "options": ["She has", "already", "wrote", "the email"], "answer": 2, "explanation": { "tr": "write → written.", "tk": "write → written.", "ru": "write → written." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Present Perfect: Sentences and questions in the Present Perfect",
+    "title": "Present Perfect: Statements and Questions Practice",
+    "body": {
+      "explanation": {
+        "tr": "Present Perfect'te cümle ve soru alıştırması.\n• Cümle: Özne + have/has + V3: You have travelled a lot.\n• Soru: Have/Has + özne + V3?: Have you travelled a lot?\n• Wh-soru: Where have you travelled?\n• Deneyim sorusu: Have you ever ...? – Yes, I have. I ... (sonra Simple Past ile ayrıntı verilir)\n  Have you ever been to Turkey? – Yes, I have. I went there in 2022.",
+        "tk": "Present Perfect-de sözlem we sorag türgenleşigi.\n• Sözlem: Eýe + have/has + V3: You have travelled a lot.\n• Sorag: Have/Has + eýe + V3?: Have you travelled a lot?\n• Wh-sorag: Where have you travelled?\n• Tejribe soragy: Have you ever ...? – Yes, I have. I ... (soň Simple Past bilen jikme-jiklik berilýär)\n  Have you ever been to Turkey? – Yes, I have. I went there in 2022.",
+        "ru": "Тренировка утверждений и вопросов в Present Perfect.\n• Утверждение: подлежащее + have/has + V3: You have travelled a lot.\n• Вопрос: Have/Has + подлежащее + V3?: Have you travelled a lot?\n• Специальный вопрос: Where have you travelled?\n• Вопрос об опыте: Have you ever ...? – Yes, I have. I ... (подробности — в Simple Past)\n  Have you ever been to Turkey? – Yes, I have. I went there in 2022."
+      },
+      "examples": [
+        { "en": "Have you ever been to Turkey? – Yes, I have. I went there in 2022.", "tr": "Hiç Türkiye'ye gittin mi? – Evet. 2022'de gittim.", "tk": "Hiç Türkiýä bardyňmy? – Hawa. 2022-nji ýylda bardym.", "ru": "Ты когда-нибудь был в Турции? – Да. Я ездил туда в 2022 году." },
+        { "en": "She has learned three languages.", "tr": "Üç dil öğrendi.", "tk": "Ol üç dil öwrendi.", "ru": "Она выучила три языка." },
+        { "en": "Which languages has she learned?", "tr": "Hangi dilleri öğrendi?", "tk": "Ol haýsy dilleri öwrendi?", "ru": "Какие языки она выучила?" },
+        { "en": "We have moved to a new flat.", "tr": "Yeni bir daireye taşındık.", "tk": "Biz täze kwartira göçdük.", "ru": "Мы переехали в новую квартиру." },
+        { "en": "Has he fixed the computer?", "tr": "Bilgisayarı tamir etti mi?", "tk": "Ol kompýuteri bejertdimi?", "ru": "Он починил компьютер?" },
+        { "en": "How many times have you seen this film?", "tr": "Bu filmi kaç kez gördün?", "tk": "Bu filmi näçe gezek gördüň?", "ru": "Сколько раз ты смотрел этот фильм?" }
+      ],
+      "exercises": [
+        { "question": "She ___ (visit) London twice.", "options": ["have visited", "has visited", "visited has", "has visit"], "answer": 1, "explanation": { "tr": "she → has + V3.", "tk": "she → has + V3.", "ru": "she → has + V3." } },
+        { "question": "___ you ___ (finish) the report?", "options": ["Have / finished", "Has / finished", "Did / finished", "Have / finish"], "answer": 0, "explanation": { "tr": "Have + you + V3.", "tk": "Have + you + V3.", "ru": "Have + you + V3." } },
+        { "question": "Where ___ he ___ (put) my glasses?", "options": ["have / put", "has / put", "has / putted", "did / put"], "answer": 1, "explanation": { "tr": "he → has; put → put.", "tk": "he → has; put → put.", "ru": "he → has; put → put." } },
+        { "question": "\"Have you ever met a famous person?\" – \"Yes, I ___. I met a singer last year.\"", "options": ["did", "have", "met", "has"], "answer": 1, "explanation": { "tr": "Kısa cevap: Yes, I have.", "tk": "Gysga jogap: Yes, I have.", "ru": "Краткий ответ: Yes, I have." } },
+        { "question": "They ___ (build) a new school in our town.", "options": ["have built", "has built", "have builded", "built have"], "answer": 0, "explanation": { "tr": "build → built.", "tk": "build → built.", "ru": "build → built." } },
+        { "question": "How long ___ you ___ (know) Mr. Smith?", "options": ["have / knew", "have / known", "did / know", "has / known"], "answer": 1, "explanation": { "tr": "know → known.", "tk": "know → known.", "ru": "know → known." } },
+        { "question": "My brother ___ (become) a doctor.", "options": ["has become", "have become", "has became", "became has"], "answer": 0, "explanation": { "tr": "become → become (V3).", "tk": "become → become (V3).", "ru": "become → become (V3)." } },
+        { "question": "\"Have you been to Paris?\" – \"Yes, I went there ___.\"", "options": ["already", "since 2019", "in 2019", "yet"], "answer": 2, "explanation": { "tr": "Ayrıntı Simple Past: in 2019.", "tk": "Jikme-jiklik Simple Past: in 2019.", "ru": "Подробность в Simple Past: in 2019." } },
+        { "question": "Choose the correct question.", "options": ["Has your friends arrived?", "Have your friends arrived?", "Did your friends have arrived?", "Have your friends arrive?"], "answer": 1, "explanation": { "tr": "friends (çoğul) → Have + V3.", "tk": "friends (köplük) → Have + V3.", "ru": "friends (мн. ч.) → Have + V3." } },
+        { "question": "What ___ you ___ (do) to your hair? It looks great!", "options": ["have / done", "has / done", "did / done", "have / did"], "answer": 0, "explanation": { "tr": "do → done.", "tk": "do → done.", "ru": "do → done." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Past Perfect: Past Perfect",
+    "title": "Past Perfect: The Past Before the Past",
+    "body": {
+      "explanation": {
+        "tr": "Past Perfect, geçmişteki bir olaydan DAHA ÖNCE olan eylemi anlatır.\n• Yapı: had + V3 (tüm öznelerde aynı)\n• When I arrived at the station, the train had already left. (Önce tren gitti, sonra ben geldim.)\n• Önce olan → Past Perfect, sonra olan → Simple Past.\n• Sık kullanılan kelimeler: already, before, after, by the time, never ... before\n  By the time we got there, the film had started.\n• Kısaltma: I'd, she'd, they'd.",
+        "tk": "Past Perfect geçmişdäki bir wakadan HAS ÖŇ bolan hereketi aňladýar.\n• Gurluşy: had + V3 (ähli eýelerde birmeňzeş)\n• When I arrived at the station, the train had already left. (Ilki otly gitdi, soň men geldim.)\n• Öň bolan → Past Perfect, soň bolan → Simple Past.\n• Köp ulanylýan sözler: already, before, after, by the time, never ... before\n  By the time we got there, the film had started.\n• Gysgaltma: I'd, she'd, they'd.",
+        "ru": "Past Perfect описывает действие, которое произошло РАНЬШЕ другого события в прошлом.\n• Схема: had + V3 (одинаково для всех лиц)\n• When I arrived at the station, the train had already left. (Сначала ушёл поезд, потом пришёл я.)\n• Что было раньше → Past Perfect, что позже → Simple Past.\n• Частые слова: already, before, after, by the time, never ... before\n  By the time we got there, the film had started.\n• Сокращения: I'd, she'd, they'd."
+      },
+      "examples": [
+        { "en": "When we arrived, the party had already started.", "tr": "Biz vardığımızda parti çoktan başlamıştı.", "tk": "Biz baranymyzda, oturylyşyk eýýäm başlapdy.", "ru": "Когда мы пришли, вечеринка уже началась." },
+        { "en": "She had never seen the sea before that trip.", "tr": "O geziden önce denizi hiç görmemişti.", "tk": "Ol şol syýahatdan öň deňzi hiç görmändi.", "ru": "До той поездки она никогда не видела моря." },
+        { "en": "I couldn't get in because I had lost my key.", "tr": "Anahtarımı kaybettiğim için içeri giremedim.", "tk": "Açarymy ýitirenim üçin içeri girip bilmedim.", "ru": "Я не мог войти, потому что потерял ключ." },
+        { "en": "After he had finished his work, he went home.", "tr": "İşini bitirdikten sonra eve gitti.", "tk": "Işini gutarandan soň, ol öýe gitdi.", "ru": "Закончив работу, он пошёл домой." },
+        { "en": "By the time the police came, the thief had escaped.", "tr": "Polis geldiğinde hırsız kaçmıştı.", "tk": "Polisiýa gelýänçä, ogry gaçypdy.", "ru": "К приезду полиции вор уже сбежал." },
+        { "en": "They were tired because they had walked all day.", "tr": "Bütün gün yürüdükleri için yorgundular.", "tk": "Olar bütin gün ýöränleri üçin ýadawdylar.", "ru": "Они устали, потому что гуляли весь день." }
+      ],
+      "exercises": [
+        { "question": "When I got home, my sister ___ dinner.", "options": ["has cooked", "had cooked", "cooks", "had cook"], "answer": 1, "explanation": { "tr": "Daha önce olan → had + V3.", "tk": "Has öň bolan → had + V3.", "ru": "Более раннее → had + V3." } },
+        { "question": "The film ___ when we arrived at the cinema.", "options": ["had started", "has started", "starts", "had start"], "answer": 0, "explanation": { "tr": "Film önce başladı → had started.", "tk": "Film öň başlady → had started.", "ru": "Фильм начался раньше → had started." } },
+        { "question": "She ___ Paris before, so everything was new to her.", "options": ["hadn't visited", "didn't visited", "hasn't visited", "hadn't visit"], "answer": 0, "explanation": { "tr": "Olumsuz: hadn't + V3.", "tk": "Ýokluk: hadn't + V3.", "ru": "Отрицание: hadn't + V3." } },
+        { "question": "After they ___ lunch, they went for a walk.", "options": ["have eaten", "had eaten", "eat", "had ate"], "answer": 1, "explanation": { "tr": "Önce yemek → had eaten.", "tk": "Ilki nahar → had eaten.", "ru": "Сначала обед → had eaten." } },
+        { "question": "By the time I woke up, everybody ___.", "options": ["left", "had left", "has left", "leaves"], "answer": 1, "explanation": { "tr": "By the time → had + V3.", "tk": "By the time → had + V3.", "ru": "By the time → had + V3." } },
+        { "question": "Which action happened first? \"When I called him, he had gone to bed.\"", "options": ["I called him", "He went to bed", "Both at the same time", "We don't know"], "answer": 1, "explanation": { "tr": "had gone → önce oldu.", "tk": "had gone → öň boldy.", "ru": "had gone → произошло раньше." } },
+        { "question": "I was hungry because I ___ breakfast.", "options": ["didn't have", "hadn't had", "haven't had", "hadn't have"], "answer": 1, "explanation": { "tr": "had → had (V3): hadn't had.", "tk": "had → had (V3): hadn't had.", "ru": "had → had (V3): hadn't had." } },
+        { "question": "They ___ each other before the wedding.", "options": ["had never met", "have never met", "never had meet", "had never meet"], "answer": 0, "explanation": { "tr": "had never + V3.", "tk": "had never + V3.", "ru": "had never + V3." } },
+        { "question": "Choose the correct sentence.", "options": ["When she arrived, the bus has left.", "When she arrived, the bus had left.", "When she had arrived, the bus left already had.", "When she arrives, the bus had left."], "answer": 1, "explanation": { "tr": "Simple Past + Past Perfect.", "tk": "Simple Past + Past Perfect.", "ru": "Simple Past + Past Perfect." } },
+        { "question": "Find the mistake: \"He had already went home when I came.\"", "options": ["He had", "already", "went", "when I came"], "answer": 2, "explanation": { "tr": "go → gone: had gone.", "tk": "go → gone: had gone.", "ru": "go → gone: had gone." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Past Perfect: Past Perfect – Negations",
+    "title": "Past Perfect: Negative Sentences",
+    "body": {
+      "explanation": {
+        "tr": "Past Perfect olumsuz: hadn't (had not) + V3.\n• I hadn't seen him before. (Onu daha önce görmemiştim.)\n• She hadn't finished when the bell rang.\n• Tüm öznelerle aynı: I/he/they hadn't ...\n• never ile: had never + V3 → We had never flown before. (never ile hadn't birlikte kullanılmaz)\n• Genellikle bir neden açıklar: He failed the test because he hadn't studied.",
+        "tk": "Past Perfect ýokluk: hadn't (had not) + V3.\n• I hadn't seen him before. (Men ony öň görmändim.)\n• She hadn't finished when the bell rang.\n• Ähli eýeler bilen birmeňzeş: I/he/they hadn't ...\n• never bilen: had never + V3 → We had never flown before. (never bilen hadn't bile ulanylmaýar)\n• Köplenç sebäbi düşündirýär: He failed the test because he hadn't studied.",
+        "ru": "Отрицание в Past Perfect: hadn't (had not) + V3.\n• I hadn't seen him before. (Я не видел его раньше.)\n• She hadn't finished when the bell rang.\n• Одинаково для всех лиц: I/he/they hadn't ...\n• С never: had never + V3 → We had never flown before. (never и hadn't вместе не используются)\n• Часто объясняет причину: He failed the test because he hadn't studied."
+      },
+      "examples": [
+        { "en": "I hadn't met her before the party.", "tr": "Partiden önce onunla tanışmamıştım.", "tk": "Oturylyşykdan öň men onuň bilen tanyşmandym.", "ru": "До вечеринки я не был с ней знаком." },
+        { "en": "He failed because he hadn't studied.", "tr": "Çalışmadığı için kaldı.", "tk": "Ol okamandygy üçin synagdan geçmedi.", "ru": "Он провалился, потому что не готовился." },
+        { "en": "We hadn't eaten anything since breakfast.", "tr": "Kahvaltıdan beri hiçbir şey yememiştik.", "tk": "Ertirlikden bäri hiç zat iýmändik.", "ru": "С завтрака мы ничего не ели." },
+        { "en": "She was nervous because she had never flown before.", "tr": "Daha önce hiç uçmadığı için gergindi.", "tk": "Ol öň hiç uçmandygy üçin tolgunýardy.", "ru": "Она нервничала, потому что никогда раньше не летала." },
+        { "en": "They hadn't booked a table, so they waited.", "tr": "Masa ayırtmamışlardı, bu yüzden beklediler.", "tk": "Olar stol bronlamandylar, şonuň üçin garaşdylar.", "ru": "Они не забронировали столик, поэтому ждали." },
+        { "en": "The guests hadn't arrived when we finished cooking.", "tr": "Yemeği bitirdiğimizde misafirler gelmemişti.", "tk": "Nahar bişirip gutaranymyzda myhmanlar gelmändi.", "ru": "Когда мы закончили готовить, гости ещё не пришли." }
+      ],
+      "exercises": [
+        { "question": "I ___ the book, so I didn't know the ending.", "options": ["hadn't read", "haven't read", "didn't read had", "hadn't readed"], "answer": 0, "explanation": { "tr": "hadn't + V3 (read).", "tk": "hadn't + V3 (read).", "ru": "hadn't + V3 (read)." } },
+        { "question": "She was hungry because she ___ lunch.", "options": ["hadn't eaten", "hasn't eaten", "hadn't eat", "didn't eaten"], "answer": 0, "explanation": { "tr": "Neden → hadn't eaten.", "tk": "Sebäp → hadn't eaten.", "ru": "Причина → hadn't eaten." } },
+        { "question": "We ___ such a beautiful place before.", "options": ["had never seen", "hadn't never seen", "had never saw", "never had seen"], "answer": 0, "explanation": { "tr": "had never + V3.", "tk": "had never + V3.", "ru": "had never + V3." } },
+        { "question": "He couldn't pay because he ___ his wallet.", "options": ["hadn't brought", "hadn't bring", "hasn't brought", "didn't brought"], "answer": 0, "explanation": { "tr": "bring → brought.", "tk": "bring → brought.", "ru": "bring → brought." } },
+        { "question": "The students ___ the homework when the teacher came.", "options": ["hasn't done", "hadn't done", "hadn't did", "haven't done"], "answer": 1, "explanation": { "tr": "hadn't + done.", "tk": "hadn't + done.", "ru": "hadn't + done." } },
+        { "question": "I was surprised. I ___ that he was married.", "options": ["didn't know had", "hadn't known", "haven't known", "hadn't know"], "answer": 1, "explanation": { "tr": "know → known.", "tk": "know → known.", "ru": "know → known." } },
+        { "question": "They got lost because they ___ a map.", "options": ["hadn't taken", "hadn't took", "haven't taken", "didn't taken"], "answer": 0, "explanation": { "tr": "take → taken.", "tk": "take → taken.", "ru": "take → taken." } },
+        { "question": "Choose the correct sentence.", "options": ["She hadn't never been there.", "She had never been there.", "She hasn't never been there.", "She had never went there."], "answer": 1, "explanation": { "tr": "had never + been.", "tk": "had never + been.", "ru": "had never + been." } },
+        { "question": "My phone was dead because I ___ it.", "options": ["hadn't charged", "haven't charged", "hadn't charge", "didn't charged"], "answer": 0, "explanation": { "tr": "hadn't + charged.", "tk": "hadn't + charged.", "ru": "hadn't + charged." } },
+        { "question": "Find the mistake: \"The shop hadn't open yet when we arrived.\"", "options": ["The shop", "hadn't open", "yet", "when we arrived"], "answer": 1, "explanation": { "tr": "hadn't opened.", "tk": "hadn't opened.", "ru": "hadn't opened." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Past Perfect: Past Perfect – Sentences",
+    "title": "Past Perfect: Building Sentences",
+    "body": {
+      "explanation": {
+        "tr": "İki geçmiş olayı birleştirerek Past Perfect cümle kur:\n• Önce: The rain stopped. Sonra: We went out.\n  → We went out after the rain had stopped.\n  → When the rain had stopped, we went out.\n• Bağlaçlar: when, after, before, because, by the time, as soon as\n• before ile: She had cleaned the house before the guests came.\n• because ile neden: I was tired because I had worked all day.\nKural: önce olan → had + V3; sonra olan → Simple Past.",
+        "tk": "Iki geçmiş wakany birleşdirip, Past Perfect sözlem düz:\n• Ilki: The rain stopped. Soň: We went out.\n  → We went out after the rain had stopped.\n  → When the rain had stopped, we went out.\n• Baglaýjylar: when, after, before, because, by the time, as soon as\n• before bilen: She had cleaned the house before the guests came.\n• because bilen sebäp: I was tired because I had worked all day.\nDüzgün: öň bolan → had + V3; soň bolan → Simple Past.",
+        "ru": "Соедини два события в прошлом в предложение с Past Perfect:\n• Сначала: The rain stopped. Потом: We went out.\n  → We went out after the rain had stopped.\n  → When the rain had stopped, we went out.\n• Союзы: when, after, before, because, by the time, as soon as\n• С before: She had cleaned the house before the guests came.\n• С because — причина: I was tired because I had worked all day.\nПравило: что было раньше → had + V3; что позже → Simple Past."
+      },
+      "examples": [
+        { "en": "We went out after the rain had stopped.", "tr": "Yağmur dindikten sonra dışarı çıktık.", "tk": "Ýagyş kesilenden soň, biz daşary çykdyk.", "ru": "Мы вышли, после того как кончился дождь." },
+        { "en": "She had cleaned the house before the guests came.", "tr": "Misafirler gelmeden önce evi temizlemişti.", "tk": "Ol myhmanlar gelmänkä öýi arassalapdy.", "ru": "Она убрала дом до прихода гостей." },
+        { "en": "I was tired because I had worked all day.", "tr": "Bütün gün çalıştığım için yorgundum.", "tk": "Bütin gün işländigim üçin ýadawdym.", "ru": "Я устал, потому что работал весь день." },
+        { "en": "As soon as he had paid, he left the shop.", "tr": "Öder ödemez dükkândan çıktı.", "tk": "Ol töländen badyna dükandan çykdy.", "ru": "Как только он заплатил, он вышел из магазина." },
+        { "en": "By the time she arrived, we had eaten everything.", "tr": "O geldiğinde her şeyi yemiştik.", "tk": "Ol gelýänçä, biz hemme zady iýipdik.", "ru": "К её приходу мы всё съели." },
+        { "en": "He told me he had found a new job.", "tr": "Bana yeni bir iş bulduğunu söyledi.", "tk": "Ol maňa täze iş tapandygyny aýtdy.", "ru": "Он сказал мне, что нашёл новую работу." }
+      ],
+      "exercises": [
+        { "question": "Join: \"I finished my homework. Then I watched TV.\"", "options": ["I watched TV after I had finished my homework.", "I had watched TV after I finished my homework.", "I watched TV after I have finished my homework.", "After I watched TV, I had finished my homework."], "answer": 0, "explanation": { "tr": "Önce ödev → had finished.", "tk": "Ilki öý işi → had finished.", "ru": "Сначала домашка → had finished." } },
+        { "question": "The plane ___ before we got to the airport.", "options": ["had taken off", "has taken off", "took off had", "had took off"], "answer": 0, "explanation": { "tr": "take → taken.", "tk": "take → taken.", "ru": "take → taken." } },
+        { "question": "When I opened the fridge, I saw that somebody ___ my cake.", "options": ["has eaten", "had eaten", "ate had", "eats"], "answer": 1, "explanation": { "tr": "Önce yenmişti → had eaten.", "tk": "Öň iýlipdi → had eaten.", "ru": "Съели раньше → had eaten." } },
+        { "question": "She was happy because she ___ the exam.", "options": ["had passed", "has passed", "had pass", "passes"], "answer": 0, "explanation": { "tr": "Neden → had passed.", "tk": "Sebäp → had passed.", "ru": "Причина → had passed." } },
+        { "question": "We ___ home by the time it started to rain.", "options": ["got", "had got", "have got", "get"], "answer": 1, "explanation": { "tr": "By the time → had + V3.", "tk": "By the time → had + V3.", "ru": "By the time → had + V3." } },
+        { "question": "After the teacher ___ the rules, we started the game.", "options": ["explained had", "had explained", "has explained", "had explain"], "answer": 1, "explanation": { "tr": "had + explained.", "tk": "had + explained.", "ru": "had + explained." } },
+        { "question": "Join: \"He lost his job. Then he moved to another city.\"", "options": ["He moved to another city because he had lost his job.", "He had moved to another city because he lost his job.", "He moved to another city because he has lost his job.", "He lost his job because he had moved."], "answer": 0, "explanation": { "tr": "Önce iş kaybı → had lost.", "tk": "Ilki iş ýitirmek → had lost.", "ru": "Сначала потеря работы → had lost." } },
+        { "question": "I recognised him because I ___ his photo.", "options": ["had seen", "had saw", "have seen", "saw had"], "answer": 0, "explanation": { "tr": "see → seen.", "tk": "see → seen.", "ru": "see → seen." } },
+        { "question": "As soon as they ___ the tickets, they went inside.", "options": ["had bought", "have bought", "had buy", "bought had"], "answer": 0, "explanation": { "tr": "buy → bought.", "tk": "buy → bought.", "ru": "buy → bought." } },
+        { "question": "Find the mistake: \"When we had arrived, the concert has already begun.\"", "options": ["When we had arrived", "the concert", "has already begun", "There is no mistake"], "answer": 2, "explanation": { "tr": "Doğrusu: When we arrived, the concert had already begun.", "tk": "Dogrusy: When we arrived, the concert had already begun.", "ru": "Правильно: When we arrived, the concert had already begun." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Past Perfect: Questions in the Past Perfect",
+    "title": "Past Perfect: Questions",
+    "body": {
+      "explanation": {
+        "tr": "Past Perfect'te soru:\n• Had + özne + V3? → Had you seen the film before?\n• Wh-soru: Where had she gone? What had they done?\n• Kısa cevap: Yes, I had. / No, I hadn't.\n• 'ever' ile deneyim: Had you ever been abroad before you moved here?\n• How long had ... ile süre: How long had you lived there before you moved?",
+        "tk": "Past Perfect-de sorag:\n• Had + eýe + V3? → Had you seen the film before?\n• Wh-sorag: Where had she gone? What had they done?\n• Gysga jogap: Yes, I had. / No, I hadn't.\n• 'ever' bilen tejribe: Had you ever been abroad before you moved here?\n• How long had ... bilen dowamlylyk: How long had you lived there before you moved?",
+        "ru": "Вопросы в Past Perfect:\n• Had + подлежащее + V3? → Had you seen the film before?\n• Специальные: Where had she gone? What had they done?\n• Краткий ответ: Yes, I had. / No, I hadn't.\n• С 'ever' — опыт: Had you ever been abroad before you moved here?\n• How long had ... — длительность: How long had you lived there before you moved?"
+      },
+      "examples": [
+        { "en": "Had you met him before the meeting? – No, I hadn't.", "tr": "Toplantıdan önce onunla tanışmış mıydın? – Hayır.", "tk": "Ýygnakdan öň onuň bilen tanyşmydyň? – Ýok.", "ru": "Ты был знаком с ним до встречи? – Нет." },
+        { "en": "Where had they gone?", "tr": "Nereye gitmişlerdi?", "tk": "Olar nirä gidipdiler?", "ru": "Куда они ушли?" },
+        { "en": "Had she finished when you called? – Yes, she had.", "tr": "Aradığında bitirmiş miydi? – Evet.", "tk": "Sen jaň edeniňde ol tamamlapmydy? – Hawa.", "ru": "Она закончила, когда ты позвонил? – Да." },
+        { "en": "What had happened before the police arrived?", "tr": "Polis gelmeden önce ne olmuştu?", "tk": "Polisiýa gelmänkä näme bolupdy?", "ru": "Что произошло до приезда полиции?" },
+        { "en": "How long had you waited?", "tr": "Ne kadar beklemiştin?", "tk": "Sen näçe wagt garaşdyň?", "ru": "Сколько ты прождал?" },
+        { "en": "Had you ever tried sushi before?", "tr": "Daha önce hiç suşi denemiş miydin?", "tk": "Öň hiç suşi synap gördüňmi?", "ru": "Ты раньше когда-нибудь пробовал суши?" }
+      ],
+      "exercises": [
+        { "question": "___ you ever seen snow before you went to Russia?", "options": ["Have", "Had", "Did", "Were"], "answer": 1, "explanation": { "tr": "Past Perfect soru: Had.", "tk": "Past Perfect sorag: Had.", "ru": "Вопрос Past Perfect: Had." } },
+        { "question": "\"Had the film started?\" – \"Yes, it ___.\"", "options": ["did", "had", "has", "was"], "answer": 1, "explanation": { "tr": "Yes, it had.", "tk": "Yes, it had.", "ru": "Yes, it had." } },
+        { "question": "Where ___ she ___ her bag?", "options": ["had / leave", "had / left", "has / left", "did / left"], "answer": 1, "explanation": { "tr": "had + V3 (left).", "tk": "had + V3 (left).", "ru": "had + V3 (left)." } },
+        { "question": "\"Had they eaten before the guests came?\" – \"No, they ___.\"", "options": ["didn't", "hadn't", "haven't", "weren't"], "answer": 1, "explanation": { "tr": "No, they hadn't.", "tk": "No, they hadn't.", "ru": "No, they hadn't." } },
+        { "question": "What ___ he ___ before he became a teacher?", "options": ["had / done", "had / did", "has / done", "did / done"], "answer": 0, "explanation": { "tr": "had + done.", "tk": "had + done.", "ru": "had + done." } },
+        { "question": "How long ___ you known her before you got married?", "options": ["have", "had", "did", "were"], "answer": 1, "explanation": { "tr": "had + known.", "tk": "had + known.", "ru": "had + known." } },
+        { "question": "Choose the correct question.", "options": ["Had you finish your work?", "Had you finished your work?", "Did you had finished your work?", "Have you finished your work before?"], "answer": 1, "explanation": { "tr": "Had + özne + V3.", "tk": "Had + eýe + V3.", "ru": "Had + подлежащее + V3." } },
+        { "question": "Why ___ the children gone to bed so early?", "options": ["has", "had", "did", "were"], "answer": 1, "explanation": { "tr": "had + gone.", "tk": "had + gone.", "ru": "had + gone." } },
+        { "question": "Had she ___ the letter before you arrived?", "options": ["write", "wrote", "written", "writing"], "answer": 2, "explanation": { "tr": "write → written.", "tk": "write → written.", "ru": "write → written." } },
+        { "question": "Find the mistake: \"Had they went home before you called?\"", "options": ["Had they", "went", "home", "before you called"], "answer": 1, "explanation": { "tr": "went → gone.", "tk": "went → gone.", "ru": "went → gone." } }
+      ]
+    }
+  }
+]

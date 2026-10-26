@@ -1,0 +1,134 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Language, Proverbs: Opposites of verbs",
+    "title": "Opposites of Verbs",
+    "body": {
+      "explanation": {
+        "tr": "Fiillerin zıtları:\n• buy ↔ sell, give ↔ take, lend ↔ borrow\n• open ↔ close, start ↔ finish/stop, arrive ↔ leave/depart\n• win ↔ lose, remember ↔ forget, push ↔ pull\n• laugh ↔ cry, love ↔ hate, ask ↔ answer\n• come ↔ go, sit down ↔ stand up, turn on ↔ turn off\n• Ön ekle: like ↔ dislike, agree ↔ disagree, appear ↔ disappear, lock ↔ unlock, pack ↔ unpack\nDikkat: lend (ödünç vermek) ↔ borrow (ödünç almak): Can you lend me your pen? / Can I borrow your pen?",
+        "tk": "Işlikleriň garşylyklary:\n• buy ↔ sell, give ↔ take, lend ↔ borrow\n• open ↔ close, start ↔ finish/stop, arrive ↔ leave/depart\n• win ↔ lose, remember ↔ forget, push ↔ pull\n• laugh ↔ cry, love ↔ hate, ask ↔ answer\n• come ↔ go, sit down ↔ stand up, turn on ↔ turn off\n• Öňgoşulma bilen: like ↔ dislike, agree ↔ disagree, appear ↔ disappear, lock ↔ unlock, pack ↔ unpack\nÜns beriň: lend (karz bermek) ↔ borrow (karz almak): Can you lend me your pen? / Can I borrow your pen?",
+        "ru": "Антонимы глаголов:\n• buy ↔ sell, give ↔ take, lend ↔ borrow\n• open ↔ close, start ↔ finish/stop, arrive ↔ leave/depart\n• win ↔ lose, remember ↔ forget, push ↔ pull\n• laugh ↔ cry, love ↔ hate, ask ↔ answer\n• come ↔ go, sit down ↔ stand up, turn on ↔ turn off\n• С приставкой: like ↔ dislike, agree ↔ disagree, appear ↔ disappear, lock ↔ unlock, pack ↔ unpack\nВнимание: lend (давать взаймы) ↔ borrow (брать взаймы): Can you lend me your pen? / Can I borrow your pen?"
+      },
+      "examples": [
+        { "en": "I bought a bike and sold my old one.", "tr": "Bir bisiklet aldım ve eskisini sattım.", "tk": "Men welosiped satyn aldym we könesini satdym.", "ru": "Я купил велосипед и продал старый." },
+        { "en": "Can I borrow your book? – Sure, I'll lend it to you.", "tr": "Kitabını ödünç alabilir miyim? – Tabii, sana ödünç veririm.", "tk": "Kitabyňy karz alyp bilerinmi? – Elbetde, saňa karz bererin.", "ru": "Можно взять твою книгу? – Конечно, одолжу." },
+        { "en": "Did your team win or lose?", "tr": "Takımın kazandı mı kaybetti mi?", "tk": "Toparyňyz ýeňdimi ýa-da utuldymy?", "ru": "Твоя команда выиграла или проиграла?" },
+        { "en": "Don't forget my birthday! – I'll remember.", "tr": "Doğum günümü unutma! – Hatırlayacağım.", "tk": "Doglan günümi unutma! – Ýatda saklaryn.", "ru": "Не забудь мой день рождения! – Запомню." },
+        { "en": "Push the door, don't pull it.", "tr": "Kapıyı it, çekme.", "tk": "Gapyny it, çekme.", "ru": "Толкай дверь, не тяни." },
+        { "en": "I agree with you, but my brother disagrees.", "tr": "Sana katılıyorum ama kardeşim katılmıyor.", "tk": "Men saňa goşulýaryn, emma doganym goşulmaýar.", "ru": "Я с тобой согласен, а мой брат — нет." }
+      ],
+      "exercises": [
+        { "question": "Opposite of \"buy\":", "options": ["pay", "sell", "give", "shop"], "answer": 1, "explanation": { "tr": "buy ↔ sell.", "tk": "buy ↔ sell.", "ru": "buy ↔ sell." } },
+        { "question": "Opposite of \"remember\":", "options": ["forget", "lose", "remind", "know"], "answer": 0, "explanation": { "tr": "remember ↔ forget.", "tk": "remember ↔ forget.", "ru": "remember ↔ forget." } },
+        { "question": "Opposite of \"win\":", "options": ["fail", "lose", "miss", "beat"], "answer": 1, "explanation": { "tr": "win ↔ lose.", "tk": "win ↔ lose.", "ru": "win ↔ lose." } },
+        { "question": "Opposite of \"push\":", "options": ["pull", "open", "carry", "hold"], "answer": 0, "explanation": { "tr": "push ↔ pull.", "tk": "push ↔ pull.", "ru": "push ↔ pull." } },
+        { "question": "Opposite of \"lend\":", "options": ["give", "borrow", "take back", "pay"], "answer": 1, "explanation": { "tr": "lend ↔ borrow.", "tk": "lend ↔ borrow.", "ru": "lend ↔ borrow." } },
+        { "question": "Opposite of \"arrive\":", "options": ["come", "leave", "reach", "stay"], "answer": 1, "explanation": { "tr": "arrive ↔ leave.", "tk": "arrive ↔ leave.", "ru": "arrive ↔ leave." } },
+        { "question": "Opposite of \"agree\":", "options": ["unagree", "disagree", "inagree", "misagree"], "answer": 1, "explanation": { "tr": "dis- + agree.", "tk": "dis- + agree.", "ru": "dis- + agree." } },
+        { "question": "Opposite of \"lock\":", "options": ["unlock", "dislock", "open lock", "inlock"], "answer": 0, "explanation": { "tr": "un- + lock.", "tk": "un- + lock.", "ru": "un- + lock." } },
+        { "question": "Opposite of \"laugh\":", "options": ["smile", "cry", "shout", "sing"], "answer": 1, "explanation": { "tr": "laugh ↔ cry.", "tk": "laugh ↔ cry.", "ru": "laugh ↔ cry." } },
+        { "question": "\"Can I ___ your pen?\" (I want to take it for a short time.)", "options": ["lend", "borrow", "give", "sell"], "answer": 1, "explanation": { "tr": "Ödünç almak → borrow.", "tk": "Karz almak → borrow.", "ru": "Взять на время → borrow." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Language, Proverbs: Talk at the table",
+    "title": "Talking at the Table",
+    "body": {
+      "explanation": {
+        "tr": "Sofrada kullanılan kibar ifadeler:\n• Bir şey istemek: Could you pass me the salt, please? / Can I have some bread, please?\n• Teklif: Would you like some more tea? / Help yourself! (Buyurun, kendiniz alın!)\n• Kabul: Yes, please. / That would be lovely.\n• Ret: No, thank you. I'm full. (Doydum.)\n• Övgü: This is delicious! / It tastes great!\n• Başlarken: Enjoy your meal! (Afiyet olsun!)\n• Teşekkür: Thank you for the meal. It was wonderful.\n• Kalkmak için izin: May I leave the table?",
+        "tk": "Saçakda ulanylýan sypaýy aňlatmalar:\n• Bir zat soramak: Could you pass me the salt, please? / Can I have some bread, please?\n• Teklip: Would you like some more tea? / Help yourself! (Buýruň, özüňiz alyň!)\n• Kabul etmek: Yes, please. / That would be lovely.\n• Ret etmek: No, thank you. I'm full. (Doýdum.)\n• Öwgi: This is delicious! / It tastes great!\n• Başlanda: Enjoy your meal! (Işdäňiz açyk bolsun!)\n• Minnetdarlyk: Thank you for the meal. It was wonderful.\n• Turmak üçin rugsat: May I leave the table?",
+        "ru": "Вежливые фразы за столом:\n• Попросить: Could you pass me the salt, please? / Can I have some bread, please?\n• Предложить: Would you like some more tea? / Help yourself! (Угощайтесь!)\n• Согласиться: Yes, please. / That would be lovely.\n• Отказаться: No, thank you. I'm full. (Я наелся.)\n• Похвалить: This is delicious! / It tastes great!\n• В начале еды: Enjoy your meal! (Приятного аппетита!)\n• Поблагодарить: Thank you for the meal. It was wonderful.\n• Попросить разрешения встать: May I leave the table?"
+      },
+      "examples": [
+        { "en": "Could you pass me the salt, please?", "tr": "Tuzu uzatabilir misin lütfen?", "tk": "Duzy uzadyp bilersiňmi?", "ru": "Не передашь соль, пожалуйста?" },
+        { "en": "Would you like some more plov?", "tr": "Biraz daha pilav ister misin?", "tk": "Ýene biraz palow isleýärsiňmi?", "ru": "Хочешь ещё плова?" },
+        { "en": "No, thank you. I'm full.", "tr": "Hayır, teşekkürler. Doydum.", "tk": "Ýok, sag boluň. Men doýdum.", "ru": "Нет, спасибо. Я наелся." },
+        { "en": "This soup is delicious!", "tr": "Bu çorba nefis!", "tk": "Bu çorba örän tagamly!", "ru": "Этот суп очень вкусный!" },
+        { "en": "Enjoy your meal!", "tr": "Afiyet olsun!", "tk": "Işdäňiz açyk bolsun!", "ru": "Приятного аппетита!" },
+        { "en": "Help yourself to some salad.", "tr": "Salatadan buyurun.", "tk": "Salatdan alyberiň.", "ru": "Берите салат." }
+      ],
+      "exercises": [
+        { "question": "You want the bread. You say:", "options": ["Give bread!", "Could you pass me the bread, please?", "Bread now.", "I take bread."], "answer": 1, "explanation": { "tr": "Kibar rica.", "tk": "Sypaýy haýyş.", "ru": "Вежливая просьба." } },
+        { "question": "Someone offers you more food, but you can't eat more. You say:", "options": ["No, thank you. I'm full.", "No. Bad food.", "Stop it.", "I'm empty."], "answer": 0, "explanation": { "tr": "Kibar ret.", "tk": "Sypaýy ret.", "ru": "Вежливый отказ." } },
+        { "question": "\"Would you like some tea?\" – Polite yes:", "options": ["Yes.", "Yes, please.", "Give.", "OK, tea."], "answer": 1, "explanation": { "tr": "Yes, please.", "tk": "Yes, please.", "ru": "Yes, please." } },
+        { "question": "Before the meal starts, you say:", "options": ["Enjoy your meal!", "Good night!", "See you!", "Congratulations!"], "answer": 0, "explanation": { "tr": "Afiyet olsun.", "tk": "Işdäňiz açyk bolsun.", "ru": "Приятного аппетита." } },
+        { "question": "The host says \"Help yourself!\". It means:", "options": ["Do it alone.", "Take the food you want.", "Help me in the kitchen.", "Wash the dishes."], "answer": 1, "explanation": { "tr": "Buyurun, kendiniz alın.", "tk": "Buýruň, özüňiz alyň.", "ru": "Угощайтесь." } },
+        { "question": "You like the food. You say:", "options": ["It's terrible.", "This is delicious!", "I'm hungry.", "Pass the salt."], "answer": 1, "explanation": { "tr": "Övgü.", "tk": "Öwgi.", "ru": "Похвала." } },
+        { "question": "A child wants to stand up after dinner. Polite question:", "options": ["I go now.", "May I leave the table?", "Bye, table.", "Stop eating."], "answer": 1, "explanation": { "tr": "İzin istemek.", "tk": "Rugsat soramak.", "ru": "Просьба разрешения." } },
+        { "question": "After the meal you say to the host:", "options": ["Thank you for the meal.", "Where is the bill?", "I'm still hungry.", "See you never."], "answer": 0, "explanation": { "tr": "Teşekkür.", "tk": "Minnetdarlyk.", "ru": "Благодарность." } },
+        { "question": "Which question is the most polite?", "options": ["Salt!", "Give me salt.", "Could you pass the salt, please?", "I want salt."], "answer": 2, "explanation": { "tr": "Could you…, please?", "tk": "Could you…, please?", "ru": "Could you…, please?" } },
+        { "question": "\"Would you like some more?\" – \"___, it was lovely, but I couldn't eat another bite.\"", "options": ["Yes, please", "No, thanks", "Help yourself", "Enjoy your meal"], "answer": 1, "explanation": { "tr": "Kibar ret.", "tk": "Sypaýy ret.", "ru": "Вежливый отказ." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Language, Proverbs: Where do you hear the following sentences?",
+    "title": "Where Would You Hear This?",
+    "body": {
+      "explanation": {
+        "tr": "Bazı cümleler belirli yerlerde kullanılır. Anahtar kelimelere dikkat et:\n• Havalimanı: boarding pass, gate, check-in, flight, departure\n• Restoran: menu, order, bill, starter, main course\n• Doktor: symptoms, prescription, temperature, medicine\n• Otel: reservation, single/double room, key card, check out\n• Dükkân: size, try on, changing room, receipt, discount\n• Okul: homework, timetable, break, exam\n• Banka: account, withdraw, deposit, exchange rate\n• Tren istasyonu: platform, single/return ticket, delayed",
+        "tk": "Käbir sözlemler belli ýerlerde ulanylýar. Açar sözlere üns ber:\n• Howa menzili: boarding pass, gate, check-in, flight, departure\n• Restoran: menu, order, bill, starter, main course\n• Lukman: symptoms, prescription, temperature, medicine\n• Myhmanhana: reservation, single/double room, key card, check out\n• Dükan: size, try on, changing room, receipt, discount\n• Mekdep: homework, timetable, break, exam\n• Bank: account, withdraw, deposit, exchange rate\n• Otly wokzaly: platform, single/return ticket, delayed",
+        "ru": "Некоторые фразы звучат в определённых местах. Обращай внимание на ключевые слова:\n• Аэропорт: boarding pass, gate, check-in, flight, departure\n• Ресторан: menu, order, bill, starter, main course\n• Врач: symptoms, prescription, temperature, medicine\n• Отель: reservation, single/double room, key card, check out\n• Магазин: size, try on, changing room, receipt, discount\n• Школа: homework, timetable, break, exam\n• Банк: account, withdraw, deposit, exchange rate\n• Вокзал: platform, single/return ticket, delayed"
+      },
+      "examples": [
+        { "en": "Can I see your boarding pass, please? (airport)", "tr": "Biniş kartınızı görebilir miyim? (havalimanı)", "tk": "Uçara münmek talonyňyzy görüp bilerinmi? (howa menzili)", "ru": "Можно ваш посадочный талон? (аэропорт)" },
+        { "en": "Are you ready to order? (restaurant)", "tr": "Sipariş vermeye hazır mısınız? (restoran)", "tk": "Sargyt bermäge taýýarmy? (restoran)", "ru": "Вы готовы сделать заказ? (ресторан)" },
+        { "en": "Take this medicine three times a day. (doctor)", "tr": "Bu ilacı günde üç kez alın. (doktor)", "tk": "Bu dermany günde üç gezek içiň. (lukman)", "ru": "Принимайте это лекарство три раза в день. (врач)" },
+        { "en": "Can I try this on? (shop)", "tr": "Bunu deneyebilir miyim? (dükkân)", "tk": "Muny geýip görüp bilerinmi? (dükan)", "ru": "Можно примерить? (магазин)" },
+        { "en": "The train to Mary leaves from platform 2. (station)", "tr": "Mary treni 2. perondan kalkıyor. (istasyon)", "tk": "Mara gidýän otly 2-nji platformadan ugraýar. (wokzal)", "ru": "Поезд в Мары отправляется со второй платформы. (вокзал)" },
+        { "en": "What time is check-out? (hotel)", "tr": "Çıkış saati kaçta? (otel)", "tk": "Myhmanhanadan çykmak wagty haçan? (myhmanhana)", "ru": "Во сколько выезд? (отель)" }
+      ],
+      "exercises": [
+        { "question": "\"Your flight is delayed by one hour.\" Where?", "options": ["at a bank", "at an airport", "at school", "at the doctor's"], "answer": 1, "explanation": { "tr": "flight → havalimanı.", "tk": "flight → howa menzili.", "ru": "flight → аэропорт." } },
+        { "question": "\"Could we have the bill, please?\" Where?", "options": ["in a restaurant", "in a library", "at the station", "in a classroom"], "answer": 0, "explanation": { "tr": "bill → restoran.", "tk": "bill → restoran.", "ru": "bill → ресторан." } },
+        { "question": "\"What size are you?\" Where?", "options": ["at a clothes shop", "at the dentist's", "at the bank", "at the airport"], "answer": 0, "explanation": { "tr": "size → giyim mağazası.", "tk": "size → eşik dükany.", "ru": "size → магазин одежды." } },
+        { "question": "\"Open your mouth and say 'aaa'.\" Where?", "options": ["at the hairdresser's", "at the doctor's", "at a café", "at a cinema"], "answer": 1, "explanation": { "tr": "Doktor muayenesi.", "tk": "Lukmanyň barlagy.", "ru": "Осмотр у врача." } },
+        { "question": "\"I'd like to open an account.\" Where?", "options": ["at a bank", "at a supermarket", "at a hotel", "at a museum"], "answer": 0, "explanation": { "tr": "account → banka.", "tk": "account → bank.", "ru": "account → банк." } },
+        { "question": "\"A return ticket to Turkmenabat, please.\" Where?", "options": ["at a train station", "at a restaurant", "at a school", "at a pharmacy"], "answer": 0, "explanation": { "tr": "ticket → istasyon.", "tk": "ticket → wokzal.", "ru": "ticket → вокзал." } },
+        { "question": "\"I have a reservation for a double room.\" Where?", "options": ["at a hotel", "at a hospital", "at a bank", "at a shop"], "answer": 0, "explanation": { "tr": "room reservation → otel.", "tk": "otag bronlamak → myhmanhana.", "ru": "бронь номера → отель." } },
+        { "question": "\"Hand in your homework on Monday.\" Where?", "options": ["at work", "at school", "at a café", "at the airport"], "answer": 1, "explanation": { "tr": "homework → okul.", "tk": "homework → mekdep.", "ru": "homework → школа." } },
+        { "question": "\"The changing rooms are on the left.\" Where?", "options": ["in a clothes shop", "in a hospital", "in a bank", "in a kitchen"], "answer": 0, "explanation": { "tr": "changing rooms → mağaza.", "tk": "geýinmek otaglary → dükan.", "ru": "примерочные → магазин." } },
+        { "question": "\"Please fasten your seatbelts.\" Where?", "options": ["on a plane", "in a classroom", "in a shop", "at home"], "answer": 0, "explanation": { "tr": "Uçakta.", "tk": "Uçarda.", "ru": "В самолёте." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Language, Proverbs: Words in language teaching",
+    "title": "Words for Language Learning",
+    "body": {
+      "explanation": {
+        "tr": "Dil derslerinde sık geçen kelimeler (talimatları anlamak için önemli):\n• noun (isim), verb (fiil), adjective (sıfat), adverb (zarf), pronoun (zamir), preposition (edat), conjunction (bağlaç), article (artikel)\n• sentence (cümle), paragraph (paragraf), vowel (ünlü), consonant (ünsüz), syllable (hece)\n• singular (tekil), plural (çoğul), tense (zaman), spelling (yazım), pronunciation (telaffuz), meaning (anlam)\n• Talimatlar: fill in the gaps (boşlukları doldur), match (eşleştir), underline (altını çiz), circle (daire içine al), tick (işaretle), translate (çevir), rewrite (yeniden yaz), correct the mistakes (hataları düzelt)",
+        "tk": "Dil sapaklarynda köp duş gelýän sözler (tabşyryklara düşünmek üçin möhüm):\n• noun (at), verb (işlik), adjective (sypat), adverb (hal), pronoun (çalyşma), preposition (sözlem), conjunction (baglaýjy), article (artikl)\n• sentence (sözlem), paragraph (abzas), vowel (çekimli), consonant (çekimsiz), syllable (bogun)\n• singular (birlik), plural (köplük), tense (zaman), spelling (ýazylyş), pronunciation (aýdylyş), meaning (many)\n• Tabşyryklar: fill in the gaps (boşluklary doldur), match (jübütle), underline (astyny çyz), circle (tegelege al), tick (bellik goý), translate (terjime et), rewrite (gaýtadan ýaz), correct the mistakes (ýalňyşlary düzet)",
+        "ru": "Слова, которые часто встречаются на уроках языка (важно для понимания заданий):\n• noun (существительное), verb (глагол), adjective (прилагательное), adverb (наречие), pronoun (местоимение), preposition (предлог), conjunction (союз), article (артикль)\n• sentence (предложение), paragraph (абзац), vowel (гласная), consonant (согласная), syllable (слог)\n• singular (ед. ч.), plural (мн. ч.), tense (время), spelling (написание), pronunciation (произношение), meaning (значение)\n• Задания: fill in the gaps (заполни пропуски), match (соедини), underline (подчеркни), circle (обведи), tick (отметь), translate (переведи), rewrite (перепиши), correct the mistakes (исправь ошибки)"
+      },
+      "examples": [
+        { "en": "\"Cat\" is a noun.", "tr": "\"Cat\" bir isimdir.", "tk": "\"Cat\" — at.", "ru": "\"Cat\" — существительное." },
+        { "en": "\"Run\" is a verb.", "tr": "\"Run\" bir fiildir.", "tk": "\"Run\" — işlik.", "ru": "\"Run\" — глагол." },
+        { "en": "Fill in the gaps with the correct word.", "tr": "Boşlukları doğru kelimeyle doldurun.", "tk": "Boşluklary dogry söz bilen dolduryň.", "ru": "Заполните пропуски правильным словом." },
+        { "en": "Match the words with the pictures.", "tr": "Kelimeleri resimlerle eşleştirin.", "tk": "Sözleri suratlar bilen jübütläň.", "ru": "Соедините слова с картинками." },
+        { "en": "\"Banana\" has three syllables: ba-na-na.", "tr": "\"Banana\" üç hecelidir: ba-na-na.", "tk": "\"Banana\" üç bogunly: ba-na-na.", "ru": "В слове \"banana\" три слога: ba-na-na." },
+        { "en": "A, E, I, O and U are vowels.", "tr": "A, E, I, O ve U ünlüdür.", "tk": "A, E, I, O we U — çekimliler.", "ru": "A, E, I, O и U — гласные." }
+      ],
+      "exercises": [
+        { "question": "\"Beautiful\" is a(n) ___.", "options": ["noun", "verb", "adjective", "adverb"], "answer": 2, "explanation": { "tr": "Sıfat.", "tk": "Sypat.", "ru": "Прилагательное." } },
+        { "question": "\"Quickly\" is a(n) ___.", "options": ["adjective", "adverb", "noun", "pronoun"], "answer": 1, "explanation": { "tr": "Zarf.", "tk": "Hal.", "ru": "Наречие." } },
+        { "question": "\"She\" is a(n) ___.", "options": ["pronoun", "noun", "article", "verb"], "answer": 0, "explanation": { "tr": "Zamir.", "tk": "Çalyşma.", "ru": "Местоимение." } },
+        { "question": "\"In, on, at\" are ___.", "options": ["conjunctions", "prepositions", "articles", "verbs"], "answer": 1, "explanation": { "tr": "Edatlar.", "tk": "Sözlemler.", "ru": "Предлоги." } },
+        { "question": "\"And, but, because\" are ___.", "options": ["conjunctions", "adverbs", "nouns", "prepositions"], "answer": 0, "explanation": { "tr": "Bağlaçlar.", "tk": "Baglaýjylar.", "ru": "Союзы." } },
+        { "question": "\"Children\" is the ___ of \"child\".", "options": ["singular", "plural", "tense", "spelling"], "answer": 1, "explanation": { "tr": "Çoğul.", "tk": "Köplük.", "ru": "Мн. ч." } },
+        { "question": "\"Underline the verbs\" means:", "options": ["Draw a line under the verbs.", "Write the verbs again.", "Translate the verbs.", "Delete the verbs."], "answer": 0, "explanation": { "tr": "Altını çiz.", "tk": "Astyny çyz.", "ru": "Подчеркни." } },
+        { "question": "How many syllables in \"computer\"?", "options": ["two", "three", "four", "one"], "answer": 1, "explanation": { "tr": "com-pu-ter.", "tk": "com-pu-ter.", "ru": "com-pu-ter." } },
+        { "question": "\"B, C, D\" are ___.", "options": ["vowels", "consonants", "syllables", "articles"], "answer": 1, "explanation": { "tr": "Ünsüzler.", "tk": "Çekimsizler.", "ru": "Согласные." } },
+        { "question": "\"A, an, the\" are ___.", "options": ["pronouns", "articles", "adverbs", "conjunctions"], "answer": 1, "explanation": { "tr": "Artikeller.", "tk": "Artikller.", "ru": "Артикли." } }
+      ]
+    }
+  }
+]

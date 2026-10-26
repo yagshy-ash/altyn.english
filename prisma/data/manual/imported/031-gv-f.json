@@ -1,0 +1,107 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Tenses",
+    "title": "English Tenses: The Big Picture",
+    "body": {
+      "explanation": {
+        "tr": "İngilizce zamanların genel haritası:\n• PRESENT: Simple (I work – alışkanlık), Progressive (I'm working – şu an), Perfect (I've worked – şimdiye bağlı geçmiş), Perfect Progressive (I've been working – süre)\n• PAST: Simple (I worked – bitti), Progressive (I was working – geçmişte devam), Perfect (I had worked – daha önce), Perfect Progressive (I had been working – geçmişte bir noktaya kadar süre)\n• FUTURE: will (I'll work – tahmin/karar), going to (I'm going to work – plan), Present Progressive (I'm working tomorrow – randevu), Future Progressive (I'll be working – gelecekte devam), Future Perfect (I'll have worked – gelecekte bir noktaya kadar bitmiş)\nAnahtar: Simple = tamamlanmış/genel, Progressive = süreç, Perfect = önceki zamana bağlantı.",
+        "tk": "Iňlis zamanlarynyň umumy kartasy:\n• PRESENT: Simple (I work – endik), Progressive (I'm working – häzir), Perfect (I've worked – häzir bilen bagly geçmiş), Perfect Progressive (I've been working – dowamlylyk)\n• PAST: Simple (I worked – gutardy), Progressive (I was working – geçmişde dowam), Perfect (I had worked – has öň), Perfect Progressive (I had been working – geçmişde bir nokada çenli dowamlylyk)\n• FUTURE: will (I'll work – çaklama/karar), going to (I'm going to work – meýilnama), Present Progressive (I'm working tomorrow – duşuşyk), Future Progressive (I'll be working – geljekde dowam), Future Perfect (I'll have worked – geljekde bir nokada çenli tamamlanan)\nAçar: Simple = tamamlanan/umumy, Progressive = proses, Perfect = öňki wagt bilen baglanyşyk.",
+        "ru": "Общая карта времён английского языка:\n• PRESENT: Simple (I work – привычка), Progressive (I'm working – сейчас), Perfect (I've worked – прошлое со связью с настоящим), Perfect Progressive (I've been working – длительность)\n• PAST: Simple (I worked – закончено), Progressive (I was working – длилось в прошлом), Perfect (I had worked – ещё раньше), Perfect Progressive (I had been working – длилось до момента в прошлом)\n• FUTURE: will (I'll work – прогноз/решение), going to (I'm going to work – план), Present Progressive (I'm working tomorrow – договорённость), Future Progressive (I'll be working – в процессе в будущем), Future Perfect (I'll have worked – завершится к моменту в будущем)\nКлюч: Simple = факт/завершённость, Progressive = процесс, Perfect = связь с более ранним моментом."
+      },
+      "examples": [
+        { "en": "I work in a bank. (Simple Present)", "tr": "Bir bankada çalışıyorum.", "tk": "Men bankda işleýärin.", "ru": "Я работаю в банке." },
+        { "en": "I've been working here since 2020. (Present Perfect Progressive)", "tr": "2020'den beri burada çalışıyorum.", "tk": "Men 2020-nji ýyldan bäri şu ýerde işleýärin.", "ru": "Я работаю здесь с 2020 года." },
+        { "en": "I had worked there for five years before I moved. (Past Perfect)", "tr": "Taşınmadan önce orada beş yıl çalışmıştım.", "tk": "Göçmezimden öň men şol ýerde bäş ýyl işläpdim.", "ru": "До переезда я проработал там пять лет." },
+        { "en": "This time next week I'll be lying on the beach. (Future Progressive)", "tr": "Haftaya bu zaman plajda uzanıyor olacağım.", "tk": "Indiki hepde şu wagt men kenarda ýatan bolaryn.", "ru": "Через неделю в это время я буду лежать на пляже." },
+        { "en": "By 2030 I will have finished university. (Future Perfect)", "tr": "2030'a kadar üniversiteyi bitirmiş olacağım.", "tk": "2030-njy ýyla çenli men uniwersiteti tamamlan bolaryn.", "ru": "К 2030 году я окончу университет." },
+        { "en": "When I arrived, they were having dinner. (Past Progressive)", "tr": "Geldiğimde akşam yemeği yiyorlardı.", "tk": "Men gelenimde olar agşamlyk edýärdiler.", "ru": "Когда я пришёл, они ужинали." }
+      ],
+      "exercises": [
+        { "question": "By next June, I ___ here for ten years.", "options": ["will work", "will have worked", "work", "am working"], "answer": 1, "explanation": { "tr": "By + gelecek → Future Perfect.", "tk": "By + geljek → Future Perfect.", "ru": "By + будущее → Future Perfect." } },
+        { "question": "She ___ for two hours when the bus finally came.", "options": ["has waited", "had been waiting", "was waited", "waits"], "answer": 1, "explanation": { "tr": "Geçmişte bir noktaya kadar süre → had been waiting.", "tk": "Geçmişde bir nokada çenli dowam → had been waiting.", "ru": "Длилось до момента в прошлом → had been waiting." } },
+        { "question": "I ___ English for three years now.", "options": ["learn", "have been learning", "learned", "had learned"], "answer": 1, "explanation": { "tr": "Şimdiye kadar süre → have been learning.", "tk": "Häzire çenli dowam → have been learning.", "ru": "Длится до сих пор → have been learning." } },
+        { "question": "Don't call at 9. I ___ my favourite show.", "options": ["will watch", "will be watching", "watch", "have watched"], "answer": 1, "explanation": { "tr": "Gelecekte belli anda → will be watching.", "tk": "Geljekde belli pursatda → will be watching.", "ru": "В момент в будущем → will be watching." } },
+        { "question": "When I got home, my sister ___ dinner.", "options": ["has already cooked", "had already cooked", "already cooks", "will cook"], "answer": 1, "explanation": { "tr": "Önce → had cooked.", "tk": "Öň → had cooked.", "ru": "Раньше → had cooked." } },
+        { "question": "The sun ___ in the east.", "options": ["rises", "is rising", "rose", "has risen"], "answer": 0, "explanation": { "tr": "Gerçek → Simple Present.", "tk": "Hakykat → Simple Present.", "ru": "Факт → Simple Present." } },
+        { "question": "I ___ my keys. Have you seen them?", "options": ["lost", "have lost", "had lost", "lose"], "answer": 1, "explanation": { "tr": "Şimdiki sonuç → have lost.", "tk": "Häzirki netije → have lost.", "ru": "Результат сейчас → have lost." } },
+        { "question": "While I ___ TV, the phone rang.", "options": ["watched", "was watching", "have watched", "watch"], "answer": 1, "explanation": { "tr": "Uzun eylem → was watching.", "tk": "Uzak hereket → was watching.", "ru": "Длительное → was watching." } },
+        { "question": "Our train ___ at 6:15 tomorrow.", "options": ["leaves", "will be leave", "has left", "left"], "answer": 0, "explanation": { "tr": "Tarife → leaves.", "tk": "Tertipnama → leaves.", "ru": "Расписание → leaves." } },
+        { "question": "Which tense: \"They will have left by then.\"", "options": ["Future Progressive", "Future Perfect", "Present Perfect", "Past Perfect"], "answer": 1, "explanation": { "tr": "will have + V3.", "tk": "will have + V3.", "ru": "will have + V3." } },
+        { "question": "Which tense: \"He had been running.\"", "options": ["Past Perfect Progressive", "Present Perfect Progressive", "Past Progressive", "Past Perfect"], "answer": 0, "explanation": { "tr": "had been + -ing.", "tk": "had been + -ing.", "ru": "had been + -ing." } },
+        { "question": "Find the mistake: \"I have seen her last week.\"", "options": ["I have seen", "her", "last week", "There is no mistake"], "answer": 0, "explanation": { "tr": "last week → I saw.", "tk": "last week → I saw.", "ru": "last week → I saw." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Various",
+    "title": "Mixed Grammar Practice (B1)",
+    "body": {
+      "explanation": {
+        "tr": "Bu karma alıştırma B1 seviyesindeki önemli konuları tekrar eder:\n• Zamanlar (Simple / Progressive / Perfect)\n• Koşul cümleleri (if…)\n• Passive (be + V3)\n• Gerund / infinitive\n• Modallar (must, should, have to)\n• Karşılaştırma (-er / more / the most)\n• Relative pronouns: who (insan), which (nesne), that (ikisi), where (yer), whose (iyelik)\n  The man who lives next door is a doctor. The book which I bought is great.",
+        "tk": "Bu garyşyk gönükme B1 derejesindäki möhüm temalary gaýtalaýar:\n• Zamanlar (Simple / Progressive / Perfect)\n• Şert sözlemleri (if…)\n• Passive (be + V3)\n• Gerund / infinitive\n• Modal işlikler (must, should, have to)\n• Deňeşdirme (-er / more / the most)\n• Relative pronouns: who (adam), which (zat), that (ikisi), where (ýer), whose (eýelik)\n  The man who lives next door is a doctor. The book which I bought is great.",
+        "ru": "Это смешанное упражнение повторяет важные темы уровня B1:\n• Времена (Simple / Progressive / Perfect)\n• Условные предложения (if…)\n• Пассив (be + V3)\n• Герундий / инфинитив\n• Модальные глаголы (must, should, have to)\n• Сравнение (-er / more / the most)\n• Относительные местоимения: who (люди), which (предметы), that (и то, и другое), where (место), whose (чей)\n  The man who lives next door is a doctor. The book which I bought is great."
+      },
+      "examples": [
+        { "en": "The woman who works here is my aunt.", "tr": "Burada çalışan kadın benim teyzem.", "tk": "Bu ýerde işleýän aýal meniň daýzam.", "ru": "Женщина, которая здесь работает, — моя тётя." },
+        { "en": "This is the town where I was born.", "tr": "Burası doğduğum kasaba.", "tk": "Bu meniň doglan şäherçäm.", "ru": "Это город, где я родился." },
+        { "en": "If I had more money, I would buy a house.", "tr": "Daha çok param olsaydı bir ev alırdım.", "tk": "Köpräk pulum bolsady, jaý satyn alardym.", "ru": "Если бы у меня было больше денег, я бы купил дом." },
+        { "en": "The bridge was built in 2005.", "tr": "Köprü 2005'te inşa edildi.", "tk": "Köpri 2005-nji ýylda guruldy.", "ru": "Мост был построен в 2005 году." },
+        { "en": "She's the friend whose brother is a pilot.", "tr": "Kardeşi pilot olan arkadaş o.", "tk": "Ol dogany uçarman bolan dost.", "ru": "Это подруга, у которой брат — пилот." },
+        { "en": "You should stop working so hard.", "tr": "Bu kadar çok çalışmayı bırakmalısın.", "tk": "Sen beýle köp işlemegi bes etmeli.", "ru": "Тебе стоит перестать так много работать." }
+      ],
+      "exercises": [
+        { "question": "The boy ___ won the race is my cousin.", "options": ["which", "who", "where", "whose"], "answer": 1, "explanation": { "tr": "İnsan → who.", "tk": "Adam → who.", "ru": "Человек → who." } },
+        { "question": "This is the phone ___ I bought yesterday.", "options": ["who", "which", "where", "whose"], "answer": 1, "explanation": { "tr": "Nesne → which.", "tk": "Zat → which.", "ru": "Предмет → which." } },
+        { "question": "That's the restaurant ___ we had dinner.", "options": ["which", "who", "where", "whose"], "answer": 2, "explanation": { "tr": "Yer → where.", "tk": "Ýer → where.", "ru": "Место → where." } },
+        { "question": "I know a girl ___ father is a famous singer.", "options": ["who", "whose", "which", "that"], "answer": 1, "explanation": { "tr": "İyelik → whose.", "tk": "Eýelik → whose.", "ru": "Принадлежность → whose." } },
+        { "question": "If it ___ tomorrow, we'll stay home.", "options": ["rains", "will rain", "rained", "would rain"], "answer": 0, "explanation": { "tr": "Tip 1 → rains.", "tk": "1-nji görnüş → rains.", "ru": "Тип 1 → rains." } },
+        { "question": "The letter ___ yesterday.", "options": ["sent", "was sent", "has sent", "is sending"], "answer": 1, "explanation": { "tr": "Passive → was sent.", "tk": "Passive → was sent.", "ru": "Пассив → was sent." } },
+        { "question": "I'm looking forward to ___ you.", "options": ["see", "seeing", "to see", "saw"], "answer": 1, "explanation": { "tr": "look forward to + -ing.", "tk": "look forward to + -ing.", "ru": "look forward to + -ing." } },
+        { "question": "This is ___ restaurant in town.", "options": ["the better", "the best", "the goodest", "best"], "answer": 1, "explanation": { "tr": "good → the best.", "tk": "good → the best.", "ru": "good → the best." } },
+        { "question": "You ___ wear a seatbelt. It's the law.", "options": ["have to", "don't have to", "might", "could"], "answer": 0, "explanation": { "tr": "Kural → have to.", "tk": "Düzgün → have to.", "ru": "Правило → have to." } },
+        { "question": "She ___ in Mary since 2015.", "options": ["lives", "has lived", "lived", "is living"], "answer": 1, "explanation": { "tr": "since → has lived.", "tk": "since → has lived.", "ru": "since → has lived." } },
+        { "question": "I'd like ___ a cup of tea, please.", "options": ["having", "to have", "have", "had"], "answer": 1, "explanation": { "tr": "would like + to.", "tk": "would like + to.", "ru": "would like + to." } },
+        { "question": "Find the mistake: \"The man which helped me was very kind.\"", "options": ["The man", "which", "helped me", "was very kind"], "answer": 1, "explanation": { "tr": "İnsan → who.", "tk": "Adam → who.", "ru": "Человек → who." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Verbs",
+    "title": "Verbs: Forms and Patterns",
+    "body": {
+      "explanation": {
+        "tr": "Fiil biçimleri:\n• Yalın hâl (V1): go, play\n• Simple Past (V2): went, played\n• Past participle (V3): gone, played\n• -ing biçimi: going, playing\nFiil türleri:\n• Yardımcı fiiller: be, have, do → zaman ve soru/olumsuz kurar\n• Modallar: can, must, should, will…\n• Ana fiiller: eylem (run, eat) veya durum (know, like, belong)\n• Geçişli (nesne alır: She bought a car) / geçişsiz (nesne almaz: The baby slept)\n• make / do: make a mistake, make a cake, make friends; do homework, do the dishes, do sport",
+        "tk": "Işlik görnüşleri:\n• Esasy görnüş (V1): go, play\n• Simple Past (V2): went, played\n• Past participle (V3): gone, played\n• -ing görnüşi: going, playing\nIşlik görnüşleri:\n• Kömekçi işlikler: be, have, do → zaman we sorag/ýokluk düzýär\n• Modal işlikler: can, must, should, will…\n• Esasy işlikler: hereket (run, eat) ýa-da ýagdaý (know, like, belong)\n• Geçişli (doldurgyç alýar: She bought a car) / geçişsiz (doldurgyç almaýar: The baby slept)\n• make / do: make a mistake, make a cake, make friends; do homework, do the dishes, do sport",
+        "ru": "Формы глагола:\n• Начальная форма (V1): go, play\n• Simple Past (V2): went, played\n• Причастие прошедшего времени (V3): gone, played\n• Форма на -ing: going, playing\nВиды глаголов:\n• Вспомогательные: be, have, do → образуют времена, вопросы и отрицания\n• Модальные: can, must, should, will…\n• Смысловые: действия (run, eat) или состояния (know, like, belong)\n• Переходные (с дополнением: She bought a car) / непереходные (без дополнения: The baby slept)\n• make / do: make a mistake, make a cake, make friends; do homework, do the dishes, do sport"
+      },
+      "examples": [
+        { "en": "go – went – gone", "tr": "gitmek", "tk": "gitmek", "ru": "идти" },
+        { "en": "I made a mistake in the test.", "tr": "Sınavda bir hata yaptım.", "tk": "Men synagda ýalňyşlyk goýberdim.", "ru": "Я сделал ошибку в тесте." },
+        { "en": "Have you done your homework?", "tr": "Ödevini yaptın mı?", "tk": "Öý işiňi etdiňmi?", "ru": "Ты сделал домашнее задание?" },
+        { "en": "This bag belongs to my sister.", "tr": "Bu çanta kız kardeşime ait.", "tk": "Bu sumka uýamyňky.", "ru": "Эта сумка принадлежит моей сестре." },
+        { "en": "The children laughed.", "tr": "Çocuklar güldü.", "tk": "Çagalar güldüler.", "ru": "Дети засмеялись." },
+        { "en": "She is writing a letter.", "tr": "Bir mektup yazıyor.", "tk": "Ol hat ýazýar.", "ru": "Она пишет письмо." }
+      ],
+      "exercises": [
+        { "question": "V3 of \"take\":", "options": ["took", "taken", "taked", "takes"], "answer": 1, "explanation": { "tr": "take – took – taken.", "tk": "take – took – taken.", "ru": "take – took – taken." } },
+        { "question": "V2 of \"begin\":", "options": ["begun", "began", "beginned", "begins"], "answer": 1, "explanation": { "tr": "begin – began – begun.", "tk": "begin – began – begun.", "ru": "begin – began – begun." } },
+        { "question": "Don't worry. Everyone ___ mistakes.", "options": ["does", "makes", "takes", "has"], "answer": 1, "explanation": { "tr": "make a mistake.", "tk": "make a mistake.", "ru": "make a mistake." } },
+        { "question": "I need to ___ the shopping.", "options": ["make", "do", "take", "have"], "answer": 1, "explanation": { "tr": "do the shopping.", "tk": "do the shopping.", "ru": "do the shopping." } },
+        { "question": "She ___ a lot of friends at her new school.", "options": ["did", "made", "took", "got up"], "answer": 1, "explanation": { "tr": "make friends.", "tk": "make friends.", "ru": "make friends." } },
+        { "question": "Which verb is a state verb?", "options": ["run", "know", "jump", "write"], "answer": 1, "explanation": { "tr": "know = durum.", "tk": "know = ýagdaý.", "ru": "know — состояние." } },
+        { "question": "V3 of \"write\":", "options": ["wrote", "written", "writed", "writing"], "answer": 1, "explanation": { "tr": "write – wrote – written.", "tk": "write – wrote – written.", "ru": "write – wrote – written." } },
+        { "question": "Which sentence has an auxiliary verb?", "options": ["She sings.", "She is singing.", "She sang.", "Sing!"], "answer": 1, "explanation": { "tr": "is = yardımcı fiil.", "tk": "is = kömekçi işlik.", "ru": "is — вспомогательный." } },
+        { "question": "V2 of \"bring\":", "options": ["brang", "brought", "bringed", "brung"], "answer": 1, "explanation": { "tr": "bring – brought – brought.", "tk": "bring – brought – brought.", "ru": "bring – brought – brought." } },
+        { "question": "Can you ___ me a favour?", "options": ["make", "do", "give to", "take"], "answer": 1, "explanation": { "tr": "do someone a favour.", "tk": "do someone a favour.", "ru": "do someone a favour." } },
+        { "question": "V3 of \"fly\":", "options": ["flew", "flown", "flied", "flyed"], "answer": 1, "explanation": { "tr": "fly – flew – flown.", "tk": "fly – flew – flown.", "ru": "fly – flew – flown." } },
+        { "question": "Find the mistake: \"I did a cake for my mum's birthday.\"", "options": ["I did", "a cake", "for my mum's", "birthday"], "answer": 0, "explanation": { "tr": "make a cake → I made.", "tk": "make a cake → I made.", "ru": "make a cake → I made." } }
+      ]
+    }
+  }
+]

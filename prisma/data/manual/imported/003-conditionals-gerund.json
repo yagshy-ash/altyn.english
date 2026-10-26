@@ -1,0 +1,200 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Conditional sentences (if-clauses and main clauses): Find the correct conditions",
+    "title": "Which Condition Fits?",
+    "body": {
+      "explanation": {
+        "tr": "Bu alıştırmada ana cümleye uyan if kısmını bulacaksın. Zamanlara bak:\n• will + fiil → if + present simple (1. tip)\n• would + fiil → if + past simple (2. tip)\n• would have + V3 → if + had + V3 (3. tip)\n• Sıfır tip (genel gerçekler): If + present simple, present simple → If you heat water to 100°C, it boils.\nAnlam da önemli: koşul ile sonuç mantıklı bağlanmalı.",
+        "tk": "Bu gönükmede esasy bölege laýyk gelýän if bölegini taparsyň. Zamanlara seret:\n• will + işlik → if + present simple (1-nji görnüş)\n• would + işlik → if + past simple (2-nji görnüş)\n• would have + V3 → if + had + V3 (3-nji görnüş)\n• Nol görnüş (umumy hakykatlar): If + present simple, present simple → If you heat water to 100°C, it boils.\nManysy hem möhüm: şert bilen netije manyly baglanyşmaly.",
+        "ru": "В этом упражнении нужно подобрать часть с if к главной части. Смотри на времена:\n• will + глагол → if + present simple (1-й тип)\n• would + глагол → if + past simple (2-й тип)\n• would have + V3 → if + had + V3 (3-й тип)\n• Нулевой тип (общие истины): If + present simple, present simple → If you heat water to 100°C, it boils.\nВажен и смысл: условие и результат должны логично сочетаться."
+      },
+      "examples": [
+        { "en": "If you mix red and white, you get pink.", "tr": "Kırmızı ile beyazı karıştırırsan pembe elde edersin.", "tk": "Gyzyl bilen aky garyşdyrsaň, gülgüne alarsyň.", "ru": "Если смешать красный и белый, получится розовый." },
+        { "en": "If you press this button, the machine will start.", "tr": "Bu düğmeye basarsan makine çalışacak.", "tk": "Bu düwmä bassaň, maşyn işläp başlar.", "ru": "Если нажмёшь эту кнопку, машина запустится." },
+        { "en": "If I knew the way, I would show you.", "tr": "Yolu bilseydim sana gösterirdim.", "tk": "Ýoly bilsedim, saňa görkezerdim.", "ru": "Если бы я знал дорогу, я бы тебе показал." },
+        { "en": "If she had left earlier, she would have caught the train.", "tr": "Daha erken çıksaydı trene yetişirdi.", "tk": "Ol irräk çykan bolsa, otla ýetişerdi.", "ru": "Если бы она вышла раньше, она бы успела на поезд." },
+        { "en": "If plants don't get water, they die.", "tr": "Bitkiler su almazsa ölür.", "tk": "Ösümlikler suw almasa, ölýär.", "ru": "Если растения не получают воды, они погибают." },
+        { "en": "If you study every day, your English will improve.", "tr": "Her gün çalışırsan İngilizcen gelişecek.", "tk": "Her gün okasaň, iňlis diliň gowulanar.", "ru": "Если будешь заниматься каждый день, твой английский улучшится." }
+      ],
+      "exercises": [
+        { "question": "___, I would buy a boat.", "options": ["If I have money", "If I had money", "If I will have money", "If I had had money"], "answer": 1, "explanation": { "tr": "would + fiil → if + past simple.", "tk": "would + işlik → if + past simple.", "ru": "would + глагол → if + past simple." } },
+        { "question": "___, you will feel better.", "options": ["If you took this medicine", "If you take this medicine", "If you had taken this medicine", "If you would take this medicine"], "answer": 1, "explanation": { "tr": "will → if + present simple.", "tk": "will → if + present simple.", "ru": "will → if + present simple." } },
+        { "question": "___, we would have won the game.", "options": ["If we played better", "If we play better", "If we had played better", "If we will play better"], "answer": 2, "explanation": { "tr": "would have + V3 → if + had + V3.", "tk": "would have + V3 → if + had + V3.", "ru": "would have + V3 → if + had + V3." } },
+        { "question": "___, ice melts.", "options": ["If you heat it", "If you heated it", "If you will heat it", "If you had heated it"], "answer": 0, "explanation": { "tr": "Genel gerçek → sıfır tip: if + present simple.", "tk": "Umumy hakykat → nol görnüş: if + present simple.", "ru": "Общая истина → нулевой тип: if + present simple." } },
+        { "question": "If you don't wear a coat, ___.", "options": ["you would catch a cold", "you will catch a cold", "you would have caught a cold", "you caught a cold"], "answer": 1, "explanation": { "tr": "if + present simple → will.", "tk": "if + present simple → will.", "ru": "if + present simple → will." } },
+        { "question": "If I were taller, ___.", "options": ["I will play volleyball", "I would play volleyball", "I play volleyball", "I would have played volleyball"], "answer": 1, "explanation": { "tr": "if + were → would.", "tk": "if + were → would.", "ru": "if + were → would." } },
+        { "question": "Which ending makes sense? \"If you're thirsty, ...\"", "options": ["drink some water.", "you would have drunk water.", "you drank water.", "you had drunk water."], "answer": 0, "explanation": { "tr": "Gerçek durum + emir cümlesi mantıklıdır.", "tk": "Hakyky ýagdaý + buýruk manyly.", "ru": "Реальная ситуация + повеление — логично." } },
+        { "question": "If he had told the truth, ___.", "options": ["nobody will be angry", "nobody would be angry yesterday", "nobody would have been angry", "nobody is angry"], "answer": 2, "explanation": { "tr": "had + V3 → would have + V3.", "tk": "had + V3 → would have + V3.", "ru": "had + V3 → would have + V3." } },
+        { "question": "___, the plants grow fast.", "options": ["If it rains a lot", "If it rained a lot", "If it will rain a lot", "If it had rained a lot"], "answer": 0, "explanation": { "tr": "Genel doğru → present + present.", "tk": "Umumy dogry → present + present.", "ru": "Общее правило → present + present." } },
+        { "question": "If you lent me your bike, ___.", "options": ["I'll be careful", "I'd be careful", "I'd have been careful", "I am careful"], "answer": 1, "explanation": { "tr": "past simple → would (I'd).", "tk": "past simple → would (I'd).", "ru": "past simple → would (I'd)." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Conditional sentences (if-clauses and main clauses): Match the if-clauses to the main clauses",
+    "title": "Matching If-Clauses and Main Clauses",
+    "body": {
+      "explanation": {
+        "tr": "Bir koşul cümlesi iki parçadan oluşur: if kısmı (koşul) ve ana cümle (sonuç). Doğru eşleştirmek için:\n1. Zaman uyumuna bak (present → will, past → would, had + V3 → would have + V3).\n2. Anlamı kontrol et: koşul mantıklı olarak sonuca yol açmalı.\n• If you lose your key, ... → you won't get into the house.\n• If I were a cook, ... → I would open a restaurant.\nVirgül kuralı: if başta ise virgül gelir; sonda ise virgül gerekmez.",
+        "tk": "Şert sözlemi iki bölekden durýar: if bölegi (şert) we esasy bölek (netije). Dogry jübütlemek üçin:\n1. Zamanlaryň laýyklygyna seret (present → will, past → would, had + V3 → would have + V3).\n2. Manysyny barla: şert manyly ýagdaýda netijä getirmeli.\n• If you lose your key, ... → you won't get into the house.\n• If I were a cook, ... → I would open a restaurant.\nOtur düzgüni: if başda bolsa otur goýulýar; ahyrda bolsa otur gerek däl.",
+        "ru": "Условное предложение состоит из двух частей: части с if (условие) и главной части (результат). Чтобы правильно соединить:\n1. Смотри на согласование времён (present → will, past → would, had + V3 → would have + V3).\n2. Проверь смысл: условие должно логично вести к результату.\n• If you lose your key, ... → you won't get into the house.\n• If I were a cook, ... → I would open a restaurant.\nЗапятая: если if в начале — ставится запятая; если в конце — не нужна."
+      },
+      "examples": [
+        { "en": "If you lose your key, you won't get into the house.", "tr": "Anahtarını kaybedersen eve giremezsin.", "tk": "Açaryňy ýitirseň, öýe girip bilmersiň.", "ru": "Если потеряешь ключ, не сможешь попасть в дом." },
+        { "en": "If I were a cook, I would open a restaurant.", "tr": "Aşçı olsaydım bir restoran açardım.", "tk": "Aşpez bolsadym, restoran açardym.", "ru": "Если бы я был поваром, я бы открыл ресторан." },
+        { "en": "You will get wet if you go out without an umbrella.", "tr": "Şemsiyesiz dışarı çıkarsan ıslanacaksın.", "tk": "Saýawansyz daşary çyksaň, öllenersiň.", "ru": "Ты промокнешь, если выйдешь без зонта." },
+        { "en": "If they had booked a table, they would have got a seat.", "tr": "Masa ayırtsalardı yer bulurlardı.", "tk": "Olar stol bronlan bolsalar, ýer taparlardy.", "ru": "Если бы они забронировали столик, им бы досталось место." },
+        { "en": "If you touch the stove, you will burn your hand.", "tr": "Ocağa dokunursan elini yakarsın.", "tk": "Peje degseň, eliňi ýakarsyň.", "ru": "Если дотронешься до плиты, обожжёшь руку." },
+        { "en": "If I had more space, I would get a piano.", "tr": "Daha çok yerim olsaydı bir piyano alırdım.", "tk": "Köpräk ýerim bolsady, pianino alardym.", "ru": "Если бы у меня было больше места, я бы купил пианино." }
+      ],
+      "exercises": [
+        { "question": "If you leave the milk in the sun, ___", "options": ["it would have gone sour.", "it will go sour.", "it went sour.", "it would go sour yesterday."], "answer": 1, "explanation": { "tr": "present → will.", "tk": "present → will.", "ru": "present → will." } },
+        { "question": "If I were the boss, ___", "options": ["everybody will have a long holiday.", "everybody would have a long holiday.", "everybody has a long holiday.", "everybody had had a long holiday."], "answer": 1, "explanation": { "tr": "were → would.", "tk": "were → would.", "ru": "were → would." } },
+        { "question": "If we had set the alarm, ___", "options": ["we wouldn't have overslept.", "we won't oversleep.", "we don't oversleep.", "we wouldn't oversleep tomorrow."], "answer": 0, "explanation": { "tr": "had + V3 → would have + V3.", "tk": "had + V3 → would have + V3.", "ru": "had + V3 → would have + V3." } },
+        { "question": "___ if you don't feed it.", "options": ["The cat would be hungry", "The cat will be hungry", "The cat would have been hungry", "The cat was hungry"], "answer": 1, "explanation": { "tr": "don't feed (present) → will be.", "tk": "don't feed (present) → will be.", "ru": "don't feed (present) → will be." } },
+        { "question": "Which pair makes sense?", "options": ["If you water flowers, they will grow.", "If you water flowers, they will cry.", "If you water flowers, they would have flown.", "If you water flowers, they will sing."], "answer": 0, "explanation": { "tr": "Anlam olarak mantıklı olan: they will grow.", "tk": "Many taýdan manyly: they will grow.", "ru": "По смыслу логично: they will grow." } },
+        { "question": "If my sister had a phone, ___", "options": ["she will text me.", "she would text me.", "she texts me.", "she would have texted me last year."], "answer": 1, "explanation": { "tr": "had (past) → would.", "tk": "had (past) → would.", "ru": "had (past) → would." } },
+        { "question": "If you mix blue and yellow, ___", "options": ["you get green.", "you would have green.", "you had green.", "you got green tomorrow."], "answer": 0, "explanation": { "tr": "Genel gerçek: present + present.", "tk": "Umumy hakykat: present + present.", "ru": "Общая истина: present + present." } },
+        { "question": "Where should the comma go? \"If it snows we will build a snowman\"", "options": ["after 'If'", "after 'snows'", "after 'will'", "no comma is possible"], "answer": 1, "explanation": { "tr": "If kısmının sonuna: If it snows, we will ...", "tk": "If böleginiň soňuna: If it snows, we will ...", "ru": "После части с if: If it snows, we will ..." } },
+        { "question": "If he hadn't been so rude, ___", "options": ["she will forgive him.", "she would have forgiven him.", "she forgives him.", "she would forgive him tomorrow."], "answer": 1, "explanation": { "tr": "hadn't + V3 → would have + V3.", "tk": "hadn't + V3 → would have + V3.", "ru": "hadn't + V3 → would have + V3." } },
+        { "question": "___ if I see a spider.", "options": ["I'll scream", "I'd have screamed", "I screamed", "I had screamed"], "answer": 0, "explanation": { "tr": "see (present) → will (I'll).", "tk": "see (present) → will (I'll).", "ru": "see (present) → will (I'll)." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Gerund and infinitive: Gerund as subject or object",
+    "title": "The Gerund as Subject and Object",
+    "body": {
+      "explanation": {
+        "tr": "Gerund, fiile -ing eklenerek yapılan ve isim gibi kullanılan biçimdir.\n• Özne olarak: Swimming is good for your health. (Yüzmek sağlığa iyidir.)\n• Nesne olarak: I enjoy reading. / She hates waiting.\n• Edattan sonra her zaman gerund gelir: She is good at drawing. Thank you for helping.\n• Gerund özne olduğunda fiil tekildir: Learning languages is fun.\n• Olumsuz: Not sleeping enough makes you tired.\nYazım: make → making, run → running, lie → lying.",
+        "tk": "Gerund — işlige -ing goşulyp ýasalýan we at ýaly ulanylýan görnüş.\n• Eýe hökmünde: Swimming is good for your health. (Ýüzmek saglyga peýdaly.)\n• Doldurgyç hökmünde: I enjoy reading. / She hates waiting.\n• Sözlemden (preposition) soň elmydama gerund gelýär: She is good at drawing. Thank you for helping.\n• Gerund eýe bolanda işlik birlikde bolýar: Learning languages is fun.\n• Ýokluk: Not sleeping enough makes you tired.\nÝazylyşy: make → making, run → running, lie → lying.",
+        "ru": "Герундий — форма глагола с -ing, которая употребляется как существительное.\n• Как подлежащее: Swimming is good for your health. (Плавание полезно для здоровья.)\n• Как дополнение: I enjoy reading. / She hates waiting.\n• После предлогов всегда герундий: She is good at drawing. Thank you for helping.\n• Если герундий — подлежащее, глагол в ед. ч.: Learning languages is fun.\n• Отрицание: Not sleeping enough makes you tired.\nОрфография: make → making, run → running, lie → lying."
+      },
+      "examples": [
+        { "en": "Swimming is my favourite sport.", "tr": "Yüzmek en sevdiğim spor.", "tk": "Ýüzmek meniň iň halaýan sportum.", "ru": "Плавание — мой любимый вид спорта." },
+        { "en": "I enjoy cooking for my friends.", "tr": "Arkadaşlarıma yemek yapmaktan hoşlanırım.", "tk": "Dostlarym üçin nahar bişirmegi halaýaryn.", "ru": "Мне нравится готовить для друзей." },
+        { "en": "Learning a new language takes time.", "tr": "Yeni bir dil öğrenmek zaman alır.", "tk": "Täze dil öwrenmek wagt talap edýär.", "ru": "Изучение нового языка требует времени." },
+        { "en": "She is interested in taking photos.", "tr": "Fotoğraf çekmekle ilgileniyor.", "tk": "Ol surat düşürmäge gyzyklanýar.", "ru": "Она интересуется фотографией." },
+        { "en": "Thank you for inviting me.", "tr": "Beni davet ettiğin için teşekkürler.", "tk": "Meni çagyranyň üçin sag bol.", "ru": "Спасибо, что пригласил меня." },
+        { "en": "Not eating breakfast is a bad habit.", "tr": "Kahvaltı yapmamak kötü bir alışkanlıktır.", "tk": "Ertirlik naharyny iýmezlik erbet endik.", "ru": "Не завтракать — плохая привычка." }
+      ],
+      "exercises": [
+        { "question": "___ in the sea is dangerous when there are big waves.", "options": ["Swim", "Swimming", "To swimming", "Swims"], "answer": 1, "explanation": { "tr": "Cümlenin öznesi gerund: Swimming.", "tk": "Sözlemiň eýesi gerund: Swimming.", "ru": "Подлежащее — герундий: Swimming." } },
+        { "question": "My brother hates ___ the dishes.", "options": ["wash", "washing", "washes", "washed"], "answer": 1, "explanation": { "tr": "hate + gerund (nesne).", "tk": "hate + gerund (doldurgyç).", "ru": "hate + герундий (дополнение)." } },
+        { "question": "She is very good at ___.", "options": ["sing", "to sing", "singing", "sings"], "answer": 2, "explanation": { "tr": "Edattan (at) sonra gerund.", "tk": "Sözlemden (at) soň gerund.", "ru": "После предлога (at) — герундий." } },
+        { "question": "Reading books ___ my favourite hobby.", "options": ["are", "is", "be", "were"], "answer": 1, "explanation": { "tr": "Gerund özne → tekil fiil: is.", "tk": "Gerund eýe → birlik işlik: is.", "ru": "Герундий-подлежащее → глагол в ед. ч.: is." } },
+        { "question": "Thank you for ___ me with my homework.", "options": ["help", "helping", "to help", "helped"], "answer": 1, "explanation": { "tr": "for + gerund.", "tk": "for + gerund.", "ru": "for + герундий." } },
+        { "question": "Which is spelled correctly?", "options": ["runing", "running", "runnning", "runeing"], "answer": 1, "explanation": { "tr": "Kısa ünlü + tek ünsüz → ünsüz ikilenir: running.", "tk": "Gysga çekimli + bir çekimsiz → çekimsiz iki esse ýazylýar: running.", "ru": "Краткая гласная + одна согласная → согласная удваивается: running." } },
+        { "question": "___ too much sugar is bad for your teeth.", "options": ["Eat", "Eats", "Eating", "Ate"], "answer": 2, "explanation": { "tr": "Özne konumunda gerund: Eating.", "tk": "Eýe ornunda gerund: Eating.", "ru": "В роли подлежащего — герундий: Eating." } },
+        { "question": "Find the mistake: \"I'm tired of wait for the bus.\"", "options": ["I'm tired", "of wait", "for the bus", "There is no mistake"], "answer": 1, "explanation": { "tr": "of + gerund: of waiting.", "tk": "of + gerund: of waiting.", "ru": "of + герундий: of waiting." } },
+        { "question": "He finished ___ the report at midnight.", "options": ["write", "writing", "to write", "wrote"], "answer": 1, "explanation": { "tr": "finish + gerund.", "tk": "finish + gerund.", "ru": "finish + герундий." } },
+        { "question": "___ enough water is important in summer.", "options": ["Not drinking", "Drinking not", "Don't drinking", "No drink"], "answer": 0, "explanation": { "tr": "Olumsuz gerund: Not + V-ing. (Doğru cümle: Drinking enough water ... da olurdu.)", "tk": "Ýokluk gerund: Not + V-ing.", "ru": "Отрицательный герундий: Not + V-ing." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Gerund and infinitive: Gerund or Progressive",
+    "title": "Gerund or Progressive Form?",
+    "body": {
+      "explanation": {
+        "tr": "-ing biçimi iki farklı görevde kullanılır:\n• Progressive (süreklilik): be + V-ing → devam eden bir eylem.\n  She is reading a book. (Şu an okuyor.)\n• Gerund: isim gibi kullanılır; önünde 'be' yoktur ya da 'be' sadece bağlaçtır.\n  Reading is relaxing. / My hobby is reading. (Hobim okumaktır.)\nİpucu: 'My hobby is reading' cümlesinde reading = hobi (isim) → gerund.\n'He is reading' → ne yapıyor? → progressive.",
+        "tk": "-ing görnüşi iki dürli wezipede ulanylýar:\n• Progressive (dowamlylyk): be + V-ing → dowam edýän hereket.\n  She is reading a book. (Häzir okaýar.)\n• Gerund: at ýaly ulanylýar; öňünde 'be' ýok ýa-da 'be' diňe baglaýjy.\n  Reading is relaxing. / My hobby is reading. (Meniň gyzyklanmam — okamak.)\nMaslahat: 'My hobby is reading' sözleminde reading = gyzyklanma (at) → gerund.\n'He is reading' → näme edýär? → progressive.",
+        "ru": "Форма на -ing выполняет две разные роли:\n• Progressive (длительное время): be + V-ing → действие в процессе.\n  She is reading a book. (Она сейчас читает.)\n• Gerund: используется как существительное; перед ним нет 'be' или 'be' — просто связка.\n  Reading is relaxing. / My hobby is reading. (Моё хобби — чтение.)\nПодсказка: в 'My hobby is reading' reading = хобби (существительное) → герундий.\n'He is reading' → что он делает? → progressive."
+      },
+      "examples": [
+        { "en": "They are playing football now. (progressive)", "tr": "Şu an futbol oynuyorlar.", "tk": "Olar häzir futbol oýnaýarlar.", "ru": "Они сейчас играют в футбол." },
+        { "en": "Playing football keeps me fit. (gerund)", "tr": "Futbol oynamak beni formda tutar.", "tk": "Futbol oýnamak meni sagdyn saklaýar.", "ru": "Игра в футбол помогает мне быть в форме." },
+        { "en": "My favourite activity is dancing. (gerund)", "tr": "En sevdiğim etkinlik dans etmek.", "tk": "Meniň iň halaýan işim — tans etmek.", "ru": "Моё любимое занятие — танцы." },
+        { "en": "She was dancing when I arrived. (progressive)", "tr": "Ben geldiğimde dans ediyordu.", "tk": "Men gelenimde ol tans edýärdi.", "ru": "Она танцевала, когда я пришёл." },
+        { "en": "I'm not interested in shopping. (gerund)", "tr": "Alışverişle ilgilenmiyorum.", "tk": "Men söwda bilen gyzyklanamok.", "ru": "Меня не интересует шопинг." },
+        { "en": "We are shopping for new shoes. (progressive)", "tr": "Yeni ayakkabı alışverişi yapıyoruz.", "tk": "Biz täze aýakgap satyn alýarys.", "ru": "Мы выбираем новую обувь." }
+      ],
+      "exercises": [
+        { "question": "\"Listen! The baby is crying.\" — crying is ...", "options": ["a gerund", "a progressive form"], "answer": 1, "explanation": { "tr": "is + V-ing = şu an devam eden eylem.", "tk": "is + V-ing = häzir dowam edýän hereket.", "ru": "is + V-ing = действие сейчас." } },
+        { "question": "\"Cycling is good exercise.\" — cycling is ...", "options": ["a progressive form", "a gerund"], "answer": 1, "explanation": { "tr": "Cümlenin öznesi → gerund.", "tk": "Sözlemiň eýesi → gerund.", "ru": "Подлежащее → герундий." } },
+        { "question": "\"My job is teaching children.\" — teaching is ...", "options": ["a gerund", "a progressive form"], "answer": 0, "explanation": { "tr": "teaching = iş (isim) → gerund.", "tk": "teaching = iş (at) → gerund.", "ru": "teaching = работа (существительное) → герундий." } },
+        { "question": "\"He was sleeping at 10 o'clock.\" — sleeping is ...", "options": ["a gerund", "a progressive form"], "answer": 1, "explanation": { "tr": "was + V-ing → past progressive.", "tk": "was + V-ing → past progressive.", "ru": "was + V-ing → past progressive." } },
+        { "question": "\"She's afraid of flying.\" — flying is ...", "options": ["a gerund", "a progressive form"], "answer": 0, "explanation": { "tr": "Edattan sonra → gerund.", "tk": "Sözlemden soň → gerund.", "ru": "После предлога → герундий." } },
+        { "question": "Which sentence has a gerund?", "options": ["I am writing an email.", "Writing emails takes a lot of time.", "They were writing all day.", "She is writing a song."], "answer": 1, "explanation": { "tr": "Writing burada öznedir.", "tk": "Writing bu ýerde eýe.", "ru": "Writing здесь — подлежащее." } },
+        { "question": "Which sentence has a progressive form?", "options": ["I love painting.", "Painting is relaxing.", "My sister is painting the fence.", "She is good at painting."], "answer": 2, "explanation": { "tr": "is painting = şu an yapıyor.", "tk": "is painting = häzir edýär.", "ru": "is painting = делает сейчас." } },
+        { "question": "\"We are thinking about moving.\" — thinking and moving are ...", "options": ["both gerunds", "both progressive", "thinking = progressive, moving = gerund", "thinking = gerund, moving = progressive"], "answer": 2, "explanation": { "tr": "are thinking → progressive; about moving → gerund.", "tk": "are thinking → progressive; about moving → gerund.", "ru": "are thinking → progressive; about moving → герундий." } },
+        { "question": "Complete: \"___ late is not polite.\"", "options": ["Being", "Is being", "Are being", "Be"], "answer": 0, "explanation": { "tr": "Özne → gerund: Being late.", "tk": "Eýe → gerund: Being late.", "ru": "Подлежащее → герундий: Being late." } },
+        { "question": "Complete: \"Look! It ___.\"", "options": ["snowing", "is snowing", "snows now", "to snow"], "answer": 1, "explanation": { "tr": "Şu an olan eylem: is snowing.", "tk": "Häzir bolýan hereket: is snowing.", "ru": "Действие сейчас: is snowing." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Gerund and infinitive: Infinitive of English verbs",
+    "title": "The Infinitive: to + Verb",
+    "body": {
+      "explanation": {
+        "tr": "Infinitive (mastar), fiilin yalın hâlidir. İki türü var:\n• to + fiil: to go, to eat, to learn\n• to'suz (bare infinitive): can, must, will, should, let, make sonrasında → I can swim. Let me help.\nto + fiil şu durumlarda kullanılır:\n• want, need, decide, hope, plan, would like + to: I want to travel.\n• Amaç bildirmek için (… için): I went to the shop to buy milk.\n• Sıfattan sonra: It's easy to learn. / Nice to meet you.\n• Olumsuz: not to + fiil → He decided not to go.",
+        "tk": "Infinitive (nämälim forma) — işligiň esasy görnüşi. Iki görnüşi bar:\n• to + işlik: to go, to eat, to learn\n• to-suz (bare infinitive): can, must, will, should, let, make-den soň → I can swim. Let me help.\nto + işlik şu ýagdaýlarda ulanylýar:\n• want, need, decide, hope, plan, would like + to: I want to travel.\n• Maksady aňlatmak üçin (… üçin): I went to the shop to buy milk.\n• Sypatdan soň: It's easy to learn. / Nice to meet you.\n• Ýokluk: not to + işlik → He decided not to go.",
+        "ru": "Инфинитив — начальная форма глагола. Бывает двух видов:\n• to + глагол: to go, to eat, to learn\n• без to (bare infinitive): после can, must, will, should, let, make → I can swim. Let me help.\nto + глагол используется:\n• после want, need, decide, hope, plan, would like: I want to travel.\n• для выражения цели (чтобы): I went to the shop to buy milk.\n• после прилагательных: It's easy to learn. / Nice to meet you.\n• Отрицание: not to + глагол → He decided not to go."
+      },
+      "examples": [
+        { "en": "I want to learn Spanish.", "tr": "İspanyolca öğrenmek istiyorum.", "tk": "Ispan dilini öwrenmek isleýärin.", "ru": "Я хочу выучить испанский." },
+        { "en": "She went to the bakery to buy bread.", "tr": "Ekmek almak için fırına gitti.", "tk": "Ol çörek almak üçin çörekhana gitdi.", "ru": "Она пошла в пекарню, чтобы купить хлеб." },
+        { "en": "You must wear a helmet.", "tr": "Kask takmalısın.", "tk": "Sen kaska geýmeli.", "ru": "Ты должен надеть шлем." },
+        { "en": "It is easy to make tea.", "tr": "Çay yapmak kolaydır.", "tk": "Çaý demlemek aňsat.", "ru": "Заварить чай легко." },
+        { "en": "We decided not to go out.", "tr": "Dışarı çıkmamaya karar verdik.", "tk": "Biz daşary çykmazlyk kararyna geldik.", "ru": "Мы решили не выходить." },
+        { "en": "Let me carry your bag.", "tr": "Çantanı ben taşıyayım.", "tk": "Goý, sumkaňy men göteriýin.", "ru": "Давай я понесу твою сумку." }
+      ],
+      "exercises": [
+        { "question": "I need ___ some new shoes.", "options": ["buy", "to buy", "buying", "buys"], "answer": 1, "explanation": { "tr": "need + to + fiil.", "tk": "need + to + işlik.", "ru": "need + to + глагол." } },
+        { "question": "She can ___ three languages.", "options": ["to speak", "speaking", "speak", "speaks"], "answer": 2, "explanation": { "tr": "can sonrası to'suz fiil.", "tk": "can-dan soň to-suz işlik.", "ru": "После can — глагол без to." } },
+        { "question": "We went to the park ___ football.", "options": ["play", "to play", "playing", "for play"], "answer": 1, "explanation": { "tr": "Amaç: to + fiil.", "tk": "Maksat: to + işlik.", "ru": "Цель: to + глагол." } },
+        { "question": "It's nice ___ you!", "options": ["meet", "meeting to", "to meet", "met"], "answer": 2, "explanation": { "tr": "Sıfat + to + fiil: nice to meet.", "tk": "Sypat + to + işlik: nice to meet.", "ru": "Прилагательное + to + глагол: nice to meet." } },
+        { "question": "My parents let me ___ late on Saturdays.", "options": ["stay", "to stay", "staying", "stays"], "answer": 0, "explanation": { "tr": "let + to'suz fiil.", "tk": "let + to-suz işlik.", "ru": "let + глагол без to." } },
+        { "question": "He promised ___ late again.", "options": ["not be", "to not being", "not to be", "don't be"], "answer": 2, "explanation": { "tr": "Olumsuz infinitive: not to + fiil.", "tk": "Ýokluk infinitive: not to + işlik.", "ru": "Отрицательный инфинитив: not to + глагол." } },
+        { "question": "Would you like ___ something?", "options": ["drink", "to drink", "drinking", "drank"], "answer": 1, "explanation": { "tr": "would like + to.", "tk": "would like + to.", "ru": "would like + to." } },
+        { "question": "Find the mistake: \"You should to call your mum.\"", "options": ["You should", "to call", "your mum", "There is no mistake"], "answer": 1, "explanation": { "tr": "should sonrası to olmaz: should call.", "tk": "should-dan soň to bolmaýar: should call.", "ru": "После should нет to: should call." } },
+        { "question": "They hope ___ the competition.", "options": ["win", "to win", "winning", "won"], "answer": 1, "explanation": { "tr": "hope + to + fiil.", "tk": "hope + to + işlik.", "ru": "hope + to + глагол." } },
+        { "question": "The teacher made us ___ the text again.", "options": ["to read", "read", "reading", "reads"], "answer": 1, "explanation": { "tr": "make + nesne + to'suz fiil.", "tk": "make + doldurgyç + to-suz işlik.", "ru": "make + дополнение + глагол без to." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Gerund and infinitive: Infinitive or Gerund after verbs",
+    "title": "Verb + Gerund or Verb + Infinitive?",
+    "body": {
+      "explanation": {
+        "tr": "Bazı fiillerden sonra gerund (-ing), bazılarından sonra infinitive (to + fiil) gelir.\n• Gerund alan fiiller: enjoy, finish, mind, avoid, suggest, keep, practise, imagine, miss, give up\n  I enjoy swimming. Do you mind waiting?\n• Infinitive alan fiiller: want, decide, hope, plan, agree, promise, refuse, learn, manage, afford, offer\n  She decided to leave.\n• İkisini de alabilen fiiller: like, love, hate, start, begin, continue (anlam pek değişmez)\n• Anlamı değişenler: stop, remember, forget, try\n  I stopped smoking. (Bıraktım.) / I stopped to smoke. (Sigara içmek için durdum.)",
+        "tk": "Käbir işliklerden soň gerund (-ing), käbirlerinden soň infinitive (to + işlik) gelýär.\n• Gerund alýan işlikler: enjoy, finish, mind, avoid, suggest, keep, practise, imagine, miss, give up\n  I enjoy swimming. Do you mind waiting?\n• Infinitive alýan işlikler: want, decide, hope, plan, agree, promise, refuse, learn, manage, afford, offer\n  She decided to leave.\n• Ikisini hem alyp bilýänler: like, love, hate, start, begin, continue (manysy kän üýtgemeýär)\n• Manysy üýtgeýänler: stop, remember, forget, try\n  I stopped smoking. (Taşladym.) / I stopped to smoke. (Çilim çekmek üçin durdum.)",
+        "ru": "После одних глаголов идёт герундий (-ing), после других — инфинитив (to + глагол).\n• С герундием: enjoy, finish, mind, avoid, suggest, keep, practise, imagine, miss, give up\n  I enjoy swimming. Do you mind waiting?\n• С инфинитивом: want, decide, hope, plan, agree, promise, refuse, learn, manage, afford, offer\n  She decided to leave.\n• И то, и другое: like, love, hate, start, begin, continue (смысл почти не меняется)\n• Смысл меняется: stop, remember, forget, try\n  I stopped smoking. (Бросил курить.) / I stopped to smoke. (Остановился, чтобы покурить.)"
+      },
+      "examples": [
+        { "en": "She avoids eating fast food.", "tr": "Fast food yemekten kaçınıyor.", "tk": "Ol çalt taýýarlanýan naharlary iýmekden gaça durýar.", "ru": "Она избегает фастфуда." },
+        { "en": "We agreed to meet at six.", "tr": "Altıda buluşmaya karar verdik.", "tk": "Biz alty sagatda duşuşmaga ylalaşdyk.", "ru": "Мы договорились встретиться в шесть." },
+        { "en": "Remember to lock the door!", "tr": "Kapıyı kilitlemeyi unutma!", "tk": "Gapyny gulplamagy ýatdan çykarma!", "ru": "Не забудь запереть дверь!" },
+        { "en": "I remember meeting him in Rome.", "tr": "Onunla Roma'da tanıştığımı hatırlıyorum.", "tk": "Onuň bilen Rimde tanyşanymy ýadymda.", "ru": "Я помню, как познакомился с ним в Риме." },
+        { "en": "He couldn't afford to buy a new car.", "tr": "Yeni bir araba almaya gücü yetmedi.", "tk": "Onuň täze maşyn almaga puly ýetmedi.", "ru": "Он не мог позволить себе новую машину." },
+        { "en": "Keep practising and you'll improve.", "tr": "Pratik yapmaya devam et, gelişeceksin.", "tk": "Türgenleşmegi dowam et, gowulanarsyň.", "ru": "Продолжай тренироваться, и у тебя получится." }
+      ],
+      "exercises": [
+        { "question": "Have you finished ___ your essay?", "options": ["to write", "writing", "write", "wrote"], "answer": 1, "explanation": { "tr": "finish + gerund.", "tk": "finish + gerund.", "ru": "finish + герундий." } },
+        { "question": "They decided ___ a new house.", "options": ["buying", "to buy", "buy", "bought"], "answer": 1, "explanation": { "tr": "decide + to + fiil.", "tk": "decide + to + işlik.", "ru": "decide + to + глагол." } },
+        { "question": "Would you mind ___ the window?", "options": ["to open", "opening", "open", "opened"], "answer": 1, "explanation": { "tr": "mind + gerund.", "tk": "mind + gerund.", "ru": "mind + герундий." } },
+        { "question": "He refused ___ the question.", "options": ["answering", "answer", "to answer", "answered"], "answer": 2, "explanation": { "tr": "refuse + to + fiil.", "tk": "refuse + to + işlik.", "ru": "refuse + to + глагол." } },
+        { "question": "I've given up ___ sweets.", "options": ["to eat", "eat", "eating", "ate"], "answer": 2, "explanation": { "tr": "give up + gerund.", "tk": "give up + gerund.", "ru": "give up + герундий." } },
+        { "question": "We managed ___ the last train.", "options": ["catching", "to catch", "catch", "caught"], "answer": 1, "explanation": { "tr": "manage + to + fiil.", "tk": "manage + to + işlik.", "ru": "manage + to + глагол." } },
+        { "question": "\"Don't forget ___ milk on your way home!\"", "options": ["buying", "to buy", "buy", "bought"], "answer": 1, "explanation": { "tr": "Gelecekte yapılacak iş: forget to + fiil.", "tk": "Geljekde ediljek iş: forget to + işlik.", "ru": "Действие в будущем: forget to + глагол." } },
+        { "question": "He stopped ___ because the doctor told him to.", "options": ["to smoke", "smoking", "smoke", "smoked"], "answer": 1, "explanation": { "tr": "Bir alışkanlığı bırakmak: stop + gerund.", "tk": "Endigi taşlamak: stop + gerund.", "ru": "Бросить привычку: stop + герундий." } },
+        { "question": "She suggested ___ to the beach.", "options": ["to go", "going", "go", "went"], "answer": 1, "explanation": { "tr": "suggest + gerund.", "tk": "suggest + gerund.", "ru": "suggest + герундий." } },
+        { "question": "Find the mistake: \"I hope seeing you soon.\"", "options": ["I hope", "seeing", "you soon", "There is no mistake"], "answer": 1, "explanation": { "tr": "hope + to + fiil: hope to see.", "tk": "hope + to + işlik: hope to see.", "ru": "hope + to + глагол: hope to see." } }
+      ]
+    }
+  }
+]

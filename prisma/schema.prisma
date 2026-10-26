@@ -1,0 +1,249 @@
+// altyn.english veritabanı şeması
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum Role {
+  TEACHER
+  STUDENT
+}
+
+enum Locale {
+  tr
+  tk
+  ru
+}
+
+// Öğretmenin öğrenciye atadığı seviye/program. Öğrenci sadece kendi seviyesine
+// etiketlenmiş içerikleri görür (src/lib/content.ts). TOEFL ayrı bir sınav programıdır.
+enum Level {
+  A1
+  A2
+  B1
+  B2
+  C1
+  C2
+  TOEFL
+}
+
+enum Skill {
+  READING
+  LISTENING
+  WRITING
+  SPEAKING
+  VOCABULARY
+  GRAMMAR
+}
+
+model User {
+  id           String    @id @default(cuid())
+  username     String    @unique
+  passwordHash String
+  name         String
+  role         Role
+  locale       Locale    @default(tr)
+  level        Level     @default(A1)
+  active       Boolean   @default(true)
+  note         String?
+  lastActiveAt DateTime?
+  createdAt    DateTime  @default(now())
+
+  // Öğrencinin öğretmeni (öğretmenlerde boş)
+  teacherId String?
+  teacher   User?   @relation("TeacherStudents", fields: [teacherId], references: [id])
+  students  User[]  @relation("TeacherStudents")
+
+  contents            Content[]
+  assignmentsGiven    Assignment[]    @relation("AssignmentTeacher")
+  assignmentsReceived Assignment[]    @relation("AssignmentStudent")
+  attempts            Attempt[]
+  mistakes            Mistake[]
+  vocabCards          VocabCard[]
+  activity            ActivityDay[]
+  levelHistory        LevelSnapshot[]
+  onlineSessions      OnlineSession[]
+  lessonsTaught       Lesson[]        @relation("LessonTeacher")
+  lessons             Lesson[]        @relation("LessonStudents")
+  postsWritten        Post[]          @relation("PostTeacher")
+  postsReceived       Post[]          @relation("PostStudent")
+}
+
+// Okuma metni, dinleme, yazma görevi, kelime seti, gramer alıştırması, konuşma senaryosu.
+// `body` beceriye göre farklı yapıda JSON tutar (src/lib/content-types.ts).
+model Content {
+  id          String   @id @default(cuid())
+  skill       Skill
+  level       Level
+  topic       String
+  title       String
+  body        Json
+  aiGenerated Boolean  @default(true)
+  published   Boolean  @default(true)
+  createdAt   DateTime @default(now())
+
+  createdById String?
+  createdBy   User?   @relation(fields: [createdById], references: [id])
+
+  assignments Assignment[]
+  attempts    Attempt[]
+
+  @@index([skill, level])
+}
+
+model Assignment {
+  id          String    @id @default(cuid())
+  note        String?
+  dueAt       DateTime?
+  completedAt DateTime?
+  createdAt   DateTime  @default(now())
+
+  teacherId String
+  teacher   User    @relation("AssignmentTeacher", fields: [teacherId], references: [id])
+  studentId String
+  student   User    @relation("AssignmentStudent", fields: [studentId], references: [id], onDelete: Cascade)
+  contentId String
+  content   Content @relation(fields: [contentId], references: [id], onDelete: Cascade)
+
+  attempts Attempt[]
+
+  @@index([studentId, completedAt])
+}
+
+// Öğrencinin bir içerik üzerindeki her denemesi
+model Attempt {
+  id          String   @id @default(cuid())
+  skill       Skill
+  score       Float? // 0–100
+  levelGuess  Level? // yapay zekanın tahmini (yazma/konuşma)
+  durationSec Int      @default(0)
+  answers     Json?
+  feedback    Json?
+  createdAt   DateTime @default(now())
+
+  studentId    String
+  student      User        @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  contentId    String?
+  content      Content?    @relation(fields: [contentId], references: [id], onDelete: SetNull)
+  assignmentId String?
+  assignment   Assignment? @relation(fields: [assignmentId], references: [id], onDelete: SetNull)
+
+  mistakes Mistake[]
+
+  @@index([studentId, createdAt])
+}
+
+model Mistake {
+  id          String   @id @default(cuid())
+  skill       Skill
+  type        String // tense, article, preposition, spelling, word_choice, comprehension…
+  wrong       String
+  right       String
+  explanation String?
+  createdAt   DateTime @default(now())
+
+  studentId String
+  student   User     @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  attemptId String?
+  attempt   Attempt? @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+
+  @@index([studentId, type])
+}
+
+// Aralıklı tekrar (Leitner kutuları)
+model VocabCard {
+  id          String   @id @default(cuid())
+  word        String
+  translation String
+  example     String?
+  box         Int      @default(0)
+  dueAt       DateTime @default(now())
+  reviews     Int      @default(0)
+  lapses      Int      @default(0)
+  source      String   @default("set") // set: kelime setinden, mistake: kendi hatasından
+  createdAt   DateTime @default(now())
+
+  studentId String
+  student   User   @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@unique([studentId, word])
+  @@index([studentId, dueAt])
+}
+
+// Platformda geçirilen süre: gün ve bölüm başına toplanır
+model ActivityDay {
+  id      String   @id @default(cuid())
+  day     DateTime @db.Date
+  area    String // dashboard, reading, listening, writing, speaking, vocabulary, grammar
+  seconds Int      @default(0)
+
+  studentId String
+  student   User   @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@unique([studentId, day, area])
+}
+
+model LevelSnapshot {
+  id        String   @id @default(cuid())
+  level     Level
+  skill     Skill?
+  source    String // teacher, ai
+  createdAt DateTime @default(now())
+
+  studentId String
+  student   User   @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([studentId, createdAt])
+}
+
+// Öğrencinin online oturumları: heartbeat 2 dakikadan uzun kesilirse yeni oturum başlar
+model OnlineSession {
+  id         String   @id @default(cuid())
+  startedAt  DateTime @default(now())
+  lastSeenAt DateTime @default(now())
+  seconds    Int      @default(0)
+
+  studentId String
+  student   User   @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([studentId, lastSeenAt])
+}
+
+// Takvim: öğretmenin planladığı dersler
+model Lesson {
+  id          String   @id @default(cuid())
+  title       String
+  startsAt    DateTime
+  durationMin Int      @default(60)
+  link        String?
+  note        String?
+  createdAt   DateTime @default(now())
+
+  teacherId String
+  teacher   User   @relation("LessonTeacher", fields: [teacherId], references: [id])
+  students  User[] @relation("LessonStudents")
+
+  @@index([teacherId, startsAt])
+}
+
+// Öğretmen paylaşımları: herkese, bir seviyeye ya da tek öğrenciye
+model Post {
+  id        String   @id @default(cuid())
+  body      String
+  link      String?
+  pinned    Boolean  @default(false)
+  level     Level? // null: herkes
+  createdAt DateTime @default(now())
+
+  teacherId String
+  teacher   User    @relation("PostTeacher", fields: [teacherId], references: [id])
+  studentId String? // dolu ise sadece o öğrenci görür
+  student   User?   @relation("PostStudent", fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@index([teacherId, createdAt])
+}

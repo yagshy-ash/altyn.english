@@ -1,0 +1,902 @@
+{
+ "eh-0": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Adjectives and adverbs: Adjective or adverb"
+ },
+ "eh-5": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Adjectives and adverbs: Adverbs of frequency in English sentences"
+ },
+ "eh-11": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Adjectives and adverbs: Position of adverbs"
+ },
+ "eh-14": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Adjectives and adverbs: Order of adjectives"
+ },
+ "eh-366": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Animals, Plants: Animals"
+ },
+ "eh-367": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Animals, Plants: Animals in the field – Spelling"
+ },
+ "eh-368": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Animals, Plants: Animals in the forest – Spelling"
+ },
+ "eh-371": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Animals, Plants: Animal sounds in English"
+ },
+ "eh-374": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Animals, Plants: In the garden – Find the pairs"
+ },
+ "eh-375": {
+  "skill": "READING",
+  "level": "A1",
+  "topic": "Animals, Plants: In the zoo – Find the pairs 1"
+ },
+ "eh-386": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – English speaking countries: Canada (Provinces and Territories)"
+ },
+ "eh-387": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – English speaking countries: Customs and Traditions – Australia,New Zealand"
+ },
+ "eh-1": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Adjectives and adverbs: Adjective or adverb on -ly"
+ },
+ "eh-12": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Adjectives and adverbs: Position of adverbs of frequency"
+ },
+ "eh-17": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences, if-clauses – Complex Test"
+ },
+ "eh-15": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Adjectives and adverbs: Strong adjectives in English"
+ },
+ "eh-373": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Animals, Plants: Domestic animals – Spelling"
+ },
+ "eh-370": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Animals, Plants: Animal sounds"
+ },
+ "eh-369": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Animals, Plants: Animals on the farm – wild animals"
+ },
+ "eh-383": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Animals, Plants: Spring flowers"
+ },
+ "eh-376": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Animals, Plants: In the zoo – Find the pairs 2"
+ },
+ "eh-396": {
+  "skill": "READING",
+  "level": "A1",
+  "topic": "Customs and Traditions – United Kingdom: Christmas in Britain – Spelling"
+ },
+ "eh-390": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – English speaking countries: Christmas – Find the pairs"
+ },
+ "eh-388": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – English speaking countries: Provinces and Territories in Canada and their capitals"
+ },
+ "eh-2": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Adjectives and adverbs: Adjectives – comparison"
+ },
+ "eh-46": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Endings of nouns and verbs: Noun or verb?"
+ },
+ "eh-30": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences – type III – statements"
+ },
+ "eh-16": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Adjectives and adverbs: What do adjectives express"
+ },
+ "eh-378": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Animals, Plants: Missing vowels in English – Animals and pets"
+ },
+ "eh-481": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Environment, Weather: Environment – Paraphrasing"
+ },
+ "eh-372": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Animals, Plants: Baby animals"
+ },
+ "eh-455": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Date, Numbers, Time: Measures and weights in English"
+ },
+ "eh-377": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Animals, Plants: In the zoo – Find the pairs 3"
+ },
+ "eh-429": {
+  "skill": "READING",
+  "level": "A1",
+  "topic": "Customs and Traditions – Non-English speaking countries: Capitals"
+ },
+ "eh-394": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – English speaking countries: TV Stations in the United Kingdom (UK) and the USA"
+ },
+ "eh-389": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – English speaking countries: States, Territories and Regions in Australia and New Zealand"
+ },
+ "eh-3": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Adjectives and adverbs: Adjectives in English – Comparison"
+ },
+ "eh-53": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Imperative: The imperative in English"
+ },
+ "eh-32": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences III – mixed"
+ },
+ "eh-93": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Passive Voice: Passive sentences in Active voice with negations"
+ },
+ "eh-381": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Animals, Plants: Pets"
+ },
+ "eh-485": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Environment, Weather: The car"
+ },
+ "eh-379": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Animals, Plants: On the farm"
+ },
+ "eh-480": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Environment, Weather: Environment"
+ },
+ "eh-391": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Customs and Traditions – English speaking countries: Christmas in Britain/USA"
+ },
+ "eh-438": {
+  "skill": "READING",
+  "level": "A1",
+  "topic": "Customs and Traditions – Non-English speaking countries: Flags in Europe"
+ },
+ "eh-395": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – United Kingdom: Castle"
+ },
+ "eh-392": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – English speaking countries: Customs and Traditions – United Kingdom, USA, Australia, Canada"
+ },
+ "eh-4": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Adjectives and adverbs: Adverbs – comparison"
+ },
+ "eh-57": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Irregular and regular verbs: Irregular verbs in English"
+ },
+ "eh-33": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences III – mixed with negations"
+ },
+ "eh-112": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Plural, 's, one: Special Plural forms in English"
+ },
+ "eh-382": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Animals, Plants: Pets – Spelling"
+ },
+ "eh-489": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Food, Drinks: At the restaurant"
+ },
+ "eh-380": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Animals, Plants: Opposites of adjectives with prefixes"
+ },
+ "eh-482": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Environment, Weather: In the air, on the ground, on/in the sea"
+ },
+ "eh-393": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Customs and Traditions – English speaking countries: Halloween"
+ },
+ "eh-443": {
+  "skill": "READING",
+  "level": "A1",
+  "topic": "Customs and Traditions – Non-English speaking countries: Languages around the world"
+ },
+ "eh-406": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – United Kingdom: History of the United Kingdom"
+ },
+ "eh-397": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – United Kingdom: Customs and Traditions – Great Britain, UK"
+ },
+ "eh-6": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Adjectives and adverbs: Comparative adjectives in a sentence"
+ },
+ "eh-63": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Irregular and regular verbs: Regular or irregular verbs – Odd man out 1"
+ },
+ "eh-34": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences III, Exercise – easy"
+ },
+ "eh-155": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Questions, Question words, Short answers: Questions in English in different tenses"
+ },
+ "eh-447": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Date, Numbers, Time: Cardinal and ordinal numbers in English"
+ },
+ "eh-501": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Free Time: At a hotel"
+ },
+ "eh-384": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Animals, Plants: Where do animals and people live?"
+ },
+ "eh-500": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Food, Drinks: Vegetables or fruit"
+ },
+ "eh-404": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Customs and Traditions – United Kingdom: Festivals in the UK"
+ },
+ "eh-457": {
+  "skill": "READING",
+  "level": "A1",
+  "topic": "Date, Numbers, Time: Months – Find the pairs"
+ },
+ "eh-412": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – United Kingdom: Signs in Britain"
+ },
+ "eh-398": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – United Kingdom: Customs and Traditions in Great Britain"
+ },
+ "eh-7": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Adjectives and adverbs: Comparative of English adjectives"
+ },
+ "eh-66": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Irregular and regular verbs: Simple Past of the irregular verbs"
+ },
+ "eh-35": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences III, Exercise – medium"
+ },
+ "eh-190": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Sentences, Word order and Conjunctions: Punctuation Marks in English"
+ },
+ "eh-448": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Date, Numbers, Time: Cardinal and Ordinal numbers"
+ },
+ "eh-505": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Free Time: English Literature – Questions"
+ },
+ "eh-385": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Animals, Plants: Wild animals – Spelling"
+ },
+ "eh-506": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Free Time: Instruments"
+ },
+ "eh-405": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Customs and Traditions – United Kingdom: Geography – Great Britain, UK"
+ },
+ "eh-507": {
+  "skill": "READING",
+  "level": "A1",
+  "topic": "Free Time: Movements (verbs) – Find the pairs"
+ },
+ "eh-415": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – USA: Customs and Traditions – USA"
+ },
+ "eh-399": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – United Kingdom: Customs and Traditions in England"
+ },
+ "eh-8": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Adjectives and adverbs: Comparison of adjectives in sentences"
+ },
+ "eh-68": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Modal auxiliaries: Contracted forms and long forms in English"
+ },
+ "eh-36": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences – type I and II – statements"
+ },
+ "eh-247": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Tenses – Future Perfect: Future Perfect – Statements"
+ },
+ "eh-449": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Date, Numbers, Time: Days of the week"
+ },
+ "eh-510": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Free Time: Questions about Music in English"
+ },
+ "eh-479": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Environment, Weather: Bicycle"
+ },
+ "eh-513": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Free Time: Signs of the zodiac"
+ },
+ "eh-407": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Customs and Traditions – United Kingdom: Names of sights in London"
+ },
+ "eh-526": {
+  "skill": "READING",
+  "level": "A1",
+  "topic": "Home, House: In the house – Find the pairs"
+ },
+ "eh-416": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – USA: Geography USA"
+ },
+ "eh-400": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – United Kingdom: Customs and Traditions in Scotland"
+ },
+ "eh-9": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Adjectives and adverbs: Form of adverbs"
+ },
+ "eh-69": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Modal auxiliaries: Contracted forms in English – Mixed exercise"
+ },
+ "eh-37": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences – type I and II with negations"
+ },
+ "eh-248": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Tenses – Future Perfect: Future Perfect – Statements and Questions"
+ },
+ "eh-450": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Date, Numbers, Time: Days of the week – Fill-in Exercise"
+ },
+ "eh-514": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Free Time: Soccer/Football – Paraphrasing"
+ },
+ "eh-487": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Environment, Weather: Weather – Spelling"
+ },
+ "eh-522": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Free Time: Tools"
+ },
+ "eh-408": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Customs and Traditions – United Kingdom: Parts of the United Kingdom"
+ },
+ "eh-592": {
+  "skill": "READING",
+  "level": "A1",
+  "topic": "Work, Jobs and School: Colours – Find the pairs"
+ },
+ "eh-417": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – USA: Navajos"
+ },
+ "eh-401": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – United Kingdom: Customs and Traditions in Wales"
+ },
+ "eh-10": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Adjectives and adverbs: Form of adverbs in English"
+ },
+ "eh-102": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Plural, 's, one: 's (Apostrophe, genitive, possessive)"
+ },
+ "eh-39": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences  – all types"
+ },
+ "eh-273": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Tenses – Future Perfect Progressive: Future Perfect Progressive – Statements and Questions"
+ },
+ "eh-451": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Date, Numbers, Time: Find the numbers"
+ },
+ "eh-523": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Free Time: Trivia Quiz"
+ },
+ "eh-488": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Environment, Weather: Weather report – English – Which sentences are correct?"
+ },
+ "eh-528": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Home, House: Kitchen"
+ },
+ "eh-410": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Customs and Traditions – United Kingdom: Road signs in Britain"
+ },
+ "eh-418": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – USA: Nicknames for US Coins"
+ },
+ "eh-402": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – United Kingdom: English counties/shires"
+ },
+ "eh-13": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Adjectives and adverbs: Opposites of comparatives"
+ },
+ "eh-106": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Plural, 's, one: Plural"
+ },
+ "eh-40": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences – all types, Negations"
+ },
+ "eh-287": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Tenses – Contrasted: Simple Present or will-future – Complex sentences"
+ },
+ "eh-452": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Date, Numbers, Time: How to say the date in English"
+ },
+ "eh-530": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Home, House: Parts of things"
+ },
+ "eh-491": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Food, Drinks: Food"
+ },
+ "eh-529": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Home, House: Parts and their objects"
+ },
+ "eh-411": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Customs and Traditions – United Kingdom: Sights in London (photos)"
+ },
+ "eh-420": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – USA: Presidents on US Dollar Bills"
+ },
+ "eh-403": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – United Kingdom: English Kings and Queens"
+ },
+ "eh-18": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences – type I – statements"
+ },
+ "eh-107": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Plural, 's, one: Plural in English"
+ },
+ "eh-41": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences I – III"
+ },
+ "eh-542": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Language, Proverbs: Phrases in conversations"
+ },
+ "eh-453": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Date, Numbers, Time: How to write numbers in English"
+ },
+ "eh-531": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Home, House: Rooms"
+ },
+ "eh-493": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Food, Drinks: Fruit"
+ },
+ "eh-532": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Home, House: Things in the kitchen – Paraphrasing"
+ },
+ "eh-414": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Customs and Traditions – United Kingdom: Tube Stations in London – Names and colours of the lines"
+ },
+ "eh-421": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – USA: State Capitals of the USA"
+ },
+ "eh-409": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – United Kingdom: Questions about London"
+ },
+ "eh-19": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences – type I – negations"
+ },
+ "eh-108": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Plural, 's, one: Singular of nouns"
+ },
+ "eh-42": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences I – III, special forms"
+ },
+ "eh-543": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Language, Proverbs: Punctuation Marks in English"
+ },
+ "eh-454": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Date, Numbers, Time: How to write the date in English"
+ },
+ "eh-557": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "People, Family: Parts of the body 2"
+ },
+ "eh-496": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Food, Drinks: Vegetables"
+ },
+ "eh-554": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "People, Family: Feelings"
+ },
+ "eh-431": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Customs and Traditions – Non-English speaking countries: Country or inhabitant"
+ },
+ "eh-422": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – USA: States of the USA"
+ },
+ "eh-413": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – United Kingdom: Sights and places in the United Kingdom"
+ },
+ "eh-20": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences I – mixed"
+ },
+ "eh-109": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Plural, 's, one: Singular of nouns in English"
+ },
+ "eh-45": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Conditional sentences (if-clauses and main clauses): Zero Conditional"
+ },
+ "eh-578": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Word Formation: Opposites of adjectives in English with prefixes"
+ },
+ "eh-456": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Date, Numbers, Time: Months"
+ },
+ "eh-558": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "People, Family: Positive and negative feelings"
+ },
+ "eh-508": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Free Time: Music"
+ },
+ "eh-555": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "People, Family: Male, Female or both in English"
+ },
+ "eh-432": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Customs and Traditions – Non-English speaking countries: Currencies"
+ },
+ "eh-423": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – USA: States of the USA – Nicknames"
+ },
+ "eh-419": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – USA: Presidents of the USA"
+ },
+ "eh-21": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences I – mixed with negations"
+ },
+ "eh-110": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Plural, 's, one: Singular or plural in English"
+ },
+ "eh-47": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Gerund and infinitive: Gerund after prepositions"
+ },
+ "eh-585": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Word Formation: What are the verbs in the sentences"
+ },
+ "eh-458": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Date, Numbers, Time: Months in English – Fill-in Exercise"
+ },
+ "eh-594": {
+  "skill": "VOCABULARY",
+  "level": "B1",
+  "topic": "Work, Jobs and School: Geometry"
+ },
+ "eh-511": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Free Time: Scientific questions in English"
+ },
+ "eh-599": {
+  "skill": "VOCABULARY",
+  "level": "B2",
+  "topic": "Work, Jobs and School: Mathematics – Spelling"
+ },
+ "eh-433": {
+  "skill": "READING",
+  "level": "A2",
+  "topic": "Customs and Traditions – Non-English speaking countries: European capitals"
+ },
+ "eh-424": {
+  "skill": "READING",
+  "level": "B1",
+  "topic": "Customs and Traditions – USA: States of the USA – Shapes"
+ },
+ "eh-425": {
+  "skill": "READING",
+  "level": "B2",
+  "topic": "Customs and Traditions – USA: State capitals of the USA"
+ },
+ "eh-22": {
+  "skill": "GRAMMAR",
+  "level": "A2",
+  "topic": "Conditional sentences (if-clauses and main clauses): Conditional sentences I, Exercise – easy"
+ },
+ "eh-113": {
+  "skill": "GRAMMAR",
+  "level": "A1",
+  "topic": "Plural, 's, one: The plural of the nouns in English"
+ },
+ "eh-48": {
+  "skill": "GRAMMAR",
+  "level": "B1",
+  "topic": "Gerund and infinitive: Gerund and Infinitive"
+ },
+ "eh-588": {
+  "skill": "GRAMMAR",
+  "level": "B2",
+  "topic": "Word Formation: Word formation – Verb, Noun, Adjective"
+ },
+ "eh-459": {
+  "skill": "VOCABULARY",
+  "level": "A1",
+  "topic": "Date, Numbers, Time: Numbers 0 – 1,000"
+ },
+ "eh-512": {
+  "skill": "VOCABULARY",
+  "level": "A2",
+  "topic": "Free Time: Sentences about holidays"
+ }
+}

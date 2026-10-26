@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Animals, Plants",
+    "title": "Animals and Plants: Groups, Sounds and Young",
+    "body": {
+      "explanation": {
+        "tr": "Hayvan ve bitki kelimelerinde B1 düzeyinde bilinmesi gerekenler:\n• Yavrular: cat → kitten, dog → puppy, cow → calf, sheep → lamb, horse → foal, bird → chick\n• Gruplar: a herd of cows, a flock of sheep/birds, a pack of wolves, a swarm of bees, a school of fish\n• Sesler: dogs bark, cats miaow, cows moo, lions roar, birds sing, bees buzz\n• Düzensiz çoğullar: sheep → sheep, fish → fish, mouse → mice, goose → geese\n• Bitki: root (kök), stem (gövde), leaf → leaves (yaprak), branch (dal), seed (tohum); plants grow, flowers bloom, trees lose their leaves",
+        "tk": "Haýwan we ösümlik sözlerinde B1 derejesinde bilmeli zatlar:\n• Çagalary: cat → kitten, dog → puppy, cow → calf, sheep → lamb, horse → foal, bird → chick\n• Toparlar: a herd of cows, a flock of sheep/birds, a pack of wolves, a swarm of bees, a school of fish\n• Sesleri: dogs bark, cats miaow, cows moo, lions roar, birds sing, bees buzz\n• Düzgünsiz köplük: sheep → sheep, fish → fish, mouse → mice, goose → geese\n• Ösümlik: root (kök), stem (baldak), leaf → leaves (ýaprak), branch (şaha), seed (tohum); plants grow, flowers bloom, trees lose their leaves",
+        "ru": "Что нужно знать о животных и растениях на уровне B1:\n• Детёныши: cat → kitten, dog → puppy, cow → calf, sheep → lamb, horse → foal, bird → chick\n• Группы: a herd of cows, a flock of sheep/birds, a pack of wolves, a swarm of bees, a school of fish\n• Звуки: dogs bark, cats miaow, cows moo, lions roar, birds sing, bees buzz\n• Неправильное мн. ч.: sheep → sheep, fish → fish, mouse → mice, goose → geese\n• Растения: root (корень), stem (стебель), leaf → leaves (лист), branch (ветка), seed (семя); plants grow, flowers bloom, trees lose their leaves"
+      },
+      "examples": [
+        { "en": "Our cat had four kittens.", "tr": "Kedimiz dört yavru doğurdu.", "tk": "Pişigimiz dört sany pişijik dogurdy.", "ru": "Наша кошка родила четырёх котят." },
+        { "en": "A flock of sheep crossed the road.", "tr": "Bir koyun sürüsü yolu geçti.", "tk": "Bir süri goýun ýoldan geçdi.", "ru": "Стадо овец перешло дорогу." },
+        { "en": "The dog barked all night.", "tr": "Köpek bütün gece havladı.", "tk": "It bütin gije üýrdi.", "ru": "Собака лаяла всю ночь." },
+        { "en": "There are two mice in the kitchen.", "tr": "Mutfakta iki fare var.", "tk": "Aşhanada iki sany syçan bar.", "ru": "На кухне две мыши." },
+        { "en": "In autumn the trees lose their leaves.", "tr": "Sonbaharda ağaçlar yapraklarını döker.", "tk": "Güýzde agaçlar ýapraklaryny dökýär.", "ru": "Осенью деревья теряют листья." },
+        { "en": "Plant the seeds in spring.", "tr": "Tohumları ilkbaharda ek.", "tk": "Tohumlary ýazda ek.", "ru": "Сажай семена весной." }
+      ],
+      "exercises": [
+        { "question": "A young dog is a ___.", "options": ["kitten", "puppy", "calf", "foal"], "answer": 1, "explanation": { "tr": "puppy = köpek yavrusu.", "tk": "puppy = güjük.", "ru": "puppy = щенок." } },
+        { "question": "a ___ of wolves", "options": ["flock", "herd", "pack", "swarm"], "answer": 2, "explanation": { "tr": "pack of wolves.", "tk": "pack of wolves.", "ru": "pack of wolves." } },
+        { "question": "a ___ of bees", "options": ["swarm", "school", "pack", "flock"], "answer": 0, "explanation": { "tr": "swarm of bees.", "tk": "swarm of bees.", "ru": "swarm of bees." } },
+        { "question": "Lions ___.", "options": ["bark", "roar", "moo", "buzz"], "answer": 1, "explanation": { "tr": "roar = kükremek.", "tk": "roar = arlamak.", "ru": "roar = рычать." } },
+        { "question": "Plural of \"goose\":", "options": ["gooses", "geese", "goose", "geeses"], "answer": 1, "explanation": { "tr": "Düzensiz: geese.", "tk": "Düzgünsiz: geese.", "ru": "Неправильное: geese." } },
+        { "question": "\"I saw three ___ in the field.\"", "options": ["sheeps", "sheep", "sheepes", "shoop"], "answer": 1, "explanation": { "tr": "sheep değişmez.", "tk": "sheep üýtgemeýär.", "ru": "sheep не меняется." } },
+        { "question": "A baby cow is a ___.", "options": ["lamb", "chick", "calf", "foal"], "answer": 2, "explanation": { "tr": "calf = buzağı.", "tk": "calf = göle.", "ru": "calf = телёнок." } },
+        { "question": "The part of a plant under the ground:", "options": ["leaf", "root", "branch", "stem"], "answer": 1, "explanation": { "tr": "root = kök.", "tk": "root = kök.", "ru": "root = корень." } },
+        { "question": "Plural of \"leaf\":", "options": ["leafs", "leaves", "leafes", "leavs"], "answer": 1, "explanation": { "tr": "f → ves.", "tk": "f → ves.", "ru": "f → ves." } },
+        { "question": "a ___ of fish", "options": ["school", "class", "pack", "herd"], "answer": 0, "explanation": { "tr": "school of fish = balık sürüsü.", "tk": "school of fish = balyk topary.", "ru": "school of fish = косяк рыб." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Confusing Words",
+    "title": "Commonly Confused Words",
+    "body": {
+      "explanation": {
+        "tr": "Sık karıştırılan kelimeler:\n• borrow (ödünç almak) / lend (ödünç vermek): Can I borrow your pen? Can you lend me your pen?\n• say (bir şey söylemek) / tell (birine söylemek): She said hello. She told me the truth.\n• make (üretmek) / do (yapmak, iş): make a cake, make a mistake / do homework, do the dishes\n• lose (kaybetmek) / loose (bol, gevşek)\n• bring (buraya getirmek) / take (oraya götürmek)\n• remember (hatırlamak) / remind (hatırlatmak)\n• rise (kendiliğinden yükselmek) / raise (bir şeyi kaldırmak)\n• affect (fiil: etkilemek) / effect (isim: etki)",
+        "tk": "Köp garyşdyrylýan sözler:\n• borrow (karz almak) / lend (karz bermek): Can I borrow your pen? Can you lend me your pen?\n• say (bir zat aýtmak) / tell (birine aýtmak): She said hello. She told me the truth.\n• make (döretmek) / do (etmek, iş): make a cake, make a mistake / do homework, do the dishes\n• lose (ýitirmek) / loose (giň, gowşak)\n• bring (bu ýere getirmek) / take (ol ýere alyp gitmek)\n• remember (ýatlamak) / remind (ýatlatmak)\n• rise (öz-özünden galmak) / raise (bir zady galdyrmak)\n• affect (işlik: täsir etmek) / effect (at: täsir)",
+        "ru": "Часто путаемые слова:\n• borrow (брать взаймы) / lend (давать взаймы): Can I borrow your pen? Can you lend me your pen?\n• say (сказать что-то) / tell (сказать кому-то): She said hello. She told me the truth.\n• make (создавать) / do (делать, работа): make a cake, make a mistake / do homework, do the dishes\n• lose (терять) / loose (свободный, неплотный)\n• bring (приносить сюда) / take (уносить туда)\n• remember (помнить) / remind (напоминать)\n• rise (подниматься самому) / raise (поднимать что-то)\n• affect (глагол: влиять) / effect (сущ.: эффект)"
+      },
+      "examples": [
+        { "en": "Can you lend me some money?", "tr": "Bana biraz borç para verebilir misin?", "tk": "Maňa birneme pul karz berip bilersiňmi?", "ru": "Можешь одолжить мне денег?" },
+        { "en": "He told me a funny story.", "tr": "Bana komik bir hikâye anlattı.", "tk": "Ol maňa gülkünç hekaýa gürrüň berdi.", "ru": "Он рассказал мне смешную историю." },
+        { "en": "I made a mistake in my homework.", "tr": "Ödevimde bir hata yaptım.", "tk": "Öý işimde ýalňyşlyk goýberdim.", "ru": "Я сделал ошибку в домашнем задании." },
+        { "en": "Remind me to call Mum.", "tr": "Anneyi aramamı bana hatırlat.", "tk": "Ejeme jaň etmegi maňa ýatlat.", "ru": "Напомни мне позвонить маме." },
+        { "en": "The sun rises in the east.", "tr": "Güneş doğudan doğar.", "tk": "Gün gündogardan dogýar.", "ru": "Солнце встаёт на востоке." },
+        { "en": "Raise your hand if you know.", "tr": "Biliyorsan elini kaldır.", "tk": "Bilýän bolsaň, eliňi galdyr.", "ru": "Подними руку, если знаешь." }
+      ],
+      "exercises": [
+        { "question": "Can I ___ your bike for an hour?", "options": ["lend", "borrow", "give", "take off"], "answer": 1, "explanation": { "tr": "Ben alıyorum → borrow.", "tk": "Men alýaryn → borrow.", "ru": "Я беру → borrow." } },
+        { "question": "She ___ me she was tired.", "options": ["said", "told", "spoke", "talked"], "answer": 1, "explanation": { "tr": "tell + kişi.", "tk": "tell + adam.", "ru": "tell + кому." } },
+        { "question": "He ___ goodbye and left.", "options": ["told", "said", "talked", "spoke"], "answer": 1, "explanation": { "tr": "say goodbye.", "tk": "say goodbye.", "ru": "say goodbye." } },
+        { "question": "I have to ___ my homework.", "options": ["make", "do", "have", "take"], "answer": 1, "explanation": { "tr": "do homework.", "tk": "do homework.", "ru": "do homework." } },
+        { "question": "Don't ___ your keys again!", "options": ["loose", "lose", "loss", "lost"], "answer": 1, "explanation": { "tr": "lose = kaybetmek.", "tk": "lose = ýitirmek.", "ru": "lose = терять." } },
+        { "question": "These trousers are too ___.", "options": ["lose", "loose", "lost", "losing"], "answer": 1, "explanation": { "tr": "loose = bol.", "tk": "loose = giň.", "ru": "loose = свободный." } },
+        { "question": "This song ___ me of my childhood.", "options": ["remembers", "reminds", "recalls to", "memorizes"], "answer": 1, "explanation": { "tr": "remind sb of sth.", "tk": "remind sb of sth.", "ru": "remind sb of sth." } },
+        { "question": "Prices ___ every year.", "options": ["raise", "rise", "rose up", "arise"], "answer": 1, "explanation": { "tr": "Kendiliğinden → rise.", "tk": "Öz-özünden → rise.", "ru": "Сами по себе → rise." } },
+        { "question": "The weather can ___ your mood.", "options": ["effect", "affect", "affection", "effective"], "answer": 1, "explanation": { "tr": "Fiil → affect.", "tk": "Işlik → affect.", "ru": "Глагол → affect." } },
+        { "question": "___ an umbrella when you go out.", "options": ["Bring", "Take", "Borrow", "Lend"], "answer": 1, "explanation": { "tr": "Dışarı götürmek → take.", "tk": "Daşary alyp gitmek → take.", "ru": "Унести с собой → take." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Customs and Traditions",
+    "title": "Talking About Customs and Traditions",
+    "body": {
+      "explanation": {
+        "tr": "Gelenekleri anlatırken kullanılan yapılar:\n• Genel alışkanlık: Present Simple: People eat turkey at Christmas.\n• Gelenek / beklenti: be supposed to, it is traditional to, it's customary to: You're supposed to take off your shoes.\n• Pasif: Eggs are painted at Easter. Gifts are exchanged.\n• Geçmiş alışkanlık: used to: People used to light candles.\nKelimeler: celebrate (kutlamak), festival, custom (âdet), tradition, ceremony (tören), wedding, anniversary, fireworks, decorate (süslemek), exchange gifts, wish someone a happy…\nEdatlar: AT Christmas/Easter, ON Christmas Day/New Year's Eve, IN December",
+        "tk": "Däp-dessurlary beýan edende ulanylýan gurluşlar:\n• Umumy endik: Present Simple: People eat turkey at Christmas.\n• Däp / garaşylýan zat: be supposed to, it is traditional to, it's customary to: You're supposed to take off your shoes.\n• Passiw: Eggs are painted at Easter. Gifts are exchanged.\n• Geçmiş endik: used to: People used to light candles.\nSözler: celebrate (bellemek), festival, custom (adat), tradition, ceremony (dabara), wedding, anniversary, fireworks, decorate (bezemek), exchange gifts, wish someone a happy…\nPredloglar: AT Christmas/Easter, ON Christmas Day/New Year's Eve, IN December",
+        "ru": "Конструкции для описания традиций:\n• Общая привычка: Present Simple: People eat turkey at Christmas.\n• Обычай / ожидание: be supposed to, it is traditional to, it's customary to: You're supposed to take off your shoes.\n• Пассив: Eggs are painted at Easter. Gifts are exchanged.\n• Привычка в прошлом: used to: People used to light candles.\nСлова: celebrate (праздновать), festival, custom (обычай), tradition, ceremony (церемония), wedding, anniversary, fireworks, decorate (украшать), exchange gifts, wish someone a happy…\nПредлоги: AT Christmas/Easter, ON Christmas Day/New Year's Eve, IN December"
+      },
+      "examples": [
+        { "en": "We celebrate Nowruz on 21 March.", "tr": "Nevruz'u 21 Mart'ta kutlarız.", "tk": "Biz Nowruzy 21-nji martda belleýäris.", "ru": "Мы празднуем Навруз 21 марта." },
+        { "en": "It's traditional to cook sumalak.", "tr": "Semeni pişirmek gelenektir.", "tk": "Sümelek bişirmek däp bolup durýar.", "ru": "По традиции готовят сумаляк." },
+        { "en": "You're supposed to take off your shoes at the door.", "tr": "Kapıda ayakkabılarını çıkarman beklenir.", "tk": "Gapyda aýakgabyňy çykarmaly.", "ru": "У двери принято снимать обувь." },
+        { "en": "Presents are given at New Year.", "tr": "Yılbaşında hediyeler verilir.", "tk": "Täze ýylda sowgatlar berilýär.", "ru": "На Новый год дарят подарки." },
+        { "en": "My grandparents used to sing at weddings.", "tr": "Büyükannemle büyükbabam düğünlerde şarkı söylerdi.", "tk": "Atam bilen enem toýlarda aýdym aýdardylar.", "ru": "Мои бабушка и дедушка раньше пели на свадьбах." },
+        { "en": "They decorate the house with lights.", "tr": "Evi ışıklarla süslerler.", "tk": "Olar öýi çyralar bilen bezeýärler.", "ru": "Они украшают дом огнями." }
+      ],
+      "exercises": [
+        { "question": "We exchange gifts ___ New Year's Eve.", "options": ["in", "at", "on", "by"], "answer": 2, "explanation": { "tr": "Belirli gün → on.", "tk": "Belli gün → on.", "ru": "Конкретный день → on." } },
+        { "question": "Children get chocolate eggs ___ Easter.", "options": ["at", "on", "in", "during in"], "answer": 0, "explanation": { "tr": "Bayram dönemi → at.", "tk": "Baýram döwri → at.", "ru": "Праздник → at." } },
+        { "question": "You're ___ to bring a gift when you visit.", "options": ["supposing", "supposed", "suppose", "supposes"], "answer": 1, "explanation": { "tr": "be supposed to.", "tk": "be supposed to.", "ru": "be supposed to." } },
+        { "question": "Fireworks ___ at midnight.", "options": ["set off", "are set off", "setting off", "are setting"], "answer": 1, "explanation": { "tr": "Pasif.", "tk": "Passiw.", "ru": "Пассив." } },
+        { "question": "People ___ to wear special clothes, but now they don't.", "options": ["use", "used", "were used", "using"], "answer": 1, "explanation": { "tr": "Geçmiş alışkanlık: used to.", "tk": "Geçmiş endik: used to.", "ru": "Привычка в прошлом: used to." } },
+        { "question": "A formal event like a wedding is a ___.", "options": ["ceremony", "custom", "festival", "holiday"], "answer": 0, "explanation": { "tr": "ceremony = tören.", "tk": "ceremony = dabara.", "ru": "ceremony = церемония." } },
+        { "question": "They ___ their 10th wedding anniversary.", "options": ["celebrated", "congratulated", "decorated", "wished"], "answer": 0, "explanation": { "tr": "celebrate = kutlamak.", "tk": "celebrate = bellemek.", "ru": "celebrate = праздновать." } },
+        { "question": "\"We ___ you a Merry Christmas!\"", "options": ["want", "wish", "hope", "celebrate"], "answer": 1, "explanation": { "tr": "wish sb sth.", "tk": "wish sb sth.", "ru": "wish sb sth." } },
+        { "question": "It's ___ to eat cake on your birthday.", "options": ["traditional", "tradition", "traditionally", "traditions"], "answer": 0, "explanation": { "tr": "It's + sıfat.", "tk": "It's + sypat.", "ru": "It's + прил." } },
+        { "question": "In many countries people ___ the New Year at midnight.", "options": ["see in", "look in", "go in", "get in"], "answer": 0, "explanation": { "tr": "see in the New Year = yeni yılı karşılamak.", "tk": "see in the New Year = Täze ýyly garşylamak.", "ru": "see in the New Year = встречать Новый год." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Date, Numbers, Time",
+    "title": "Dates, Numbers and Telling the Time",
+    "body": {
+      "explanation": {
+        "tr": "Tarih: yazılış (BrE) 21 March 2026, okunuş: the twenty-first of March. AmE: March 21 → March twenty-first. Sıra sayıları: 1st first, 2nd second, 3rd third, 12th twelfth, 20th twentieth, 22nd twenty-second.\nYıllar: 1995 = nineteen ninety-five, 2008 = two thousand and eight, 2026 = twenty twenty-six.\nSayılar: 345 = three hundred AND forty-five (BrE), 2,500 = two thousand five hundred; hundred/thousand/million çoğul -s almaz: two hundred people (ama: hundreds of people).\nOndalık: 2.5 = two point five. Telefon: 0 = 'oh'.\nSaat: 7:15 quarter past seven, 7:30 half past seven, 7:45 quarter to eight, 7:20 twenty past seven, 7:40 twenty to eight. Edatlar: AT 7 o'clock, ON Monday / on 5 May, IN May / in 2026 / in the morning.",
+        "tk": "Sene: ýazylyşy (BrE) 21 March 2026, okalyşy: the twenty-first of March. AmE: March 21 → March twenty-first. Tertip sanlary: 1st first, 2nd second, 3rd third, 12th twelfth, 20th twentieth, 22nd twenty-second.\nÝyllar: 1995 = nineteen ninety-five, 2008 = two thousand and eight, 2026 = twenty twenty-six.\nSanlar: 345 = three hundred AND forty-five (BrE), 2,500 = two thousand five hundred; hundred/thousand/million köplük -s almaýar: two hundred people (emma: hundreds of people).\nOnluk droblar: 2.5 = two point five. Telefon: 0 = 'oh'.\nSagat: 7:15 quarter past seven, 7:30 half past seven, 7:45 quarter to eight, 7:20 twenty past seven, 7:40 twenty to eight. Predloglar: AT 7 o'clock, ON Monday / on 5 May, IN May / in 2026 / in the morning.",
+        "ru": "Дата: запись (BrE) 21 March 2026, чтение: the twenty-first of March. AmE: March 21 → March twenty-first. Порядковые: 1st first, 2nd second, 3rd third, 12th twelfth, 20th twentieth, 22nd twenty-second.\nГоды: 1995 = nineteen ninety-five, 2008 = two thousand and eight, 2026 = twenty twenty-six.\nЧисла: 345 = three hundred AND forty-five (BrE), 2,500 = two thousand five hundred; hundred/thousand/million без -s: two hundred people (но: hundreds of people).\nДроби: 2.5 = two point five. Телефон: 0 = 'oh'.\nВремя: 7:15 quarter past seven, 7:30 half past seven, 7:45 quarter to eight, 7:20 twenty past seven, 7:40 twenty to eight. Предлоги: AT 7 o'clock, ON Monday / on 5 May, IN May / in 2026 / in the morning."
+      },
+      "examples": [
+        { "en": "My birthday is on the third of June.", "tr": "Doğum günüm üç Haziran'da.", "tk": "Meniň doglan günüm üçünji iýunda.", "ru": "Мой день рождения третьего июня." },
+        { "en": "She was born in two thousand and five.", "tr": "İki bin beşte doğdu.", "tk": "Ol iki müň bäşinji ýylda doguldy.", "ru": "Она родилась в две тысячи пятом году." },
+        { "en": "The lesson starts at quarter past nine.", "tr": "Ders dokuzu çeyrek geçe başlıyor.", "tk": "Sapak dokuzdan on bäş minut geçende başlanýar.", "ru": "Урок начинается в четверть десятого." },
+        { "en": "There were two hundred people at the concert.", "tr": "Konserde iki yüz kişi vardı.", "tk": "Konsertde iki ýüz adam bardy.", "ru": "На концерте было двести человек." },
+        { "en": "The temperature is twenty-two point five degrees.", "tr": "Sıcaklık yirmi iki buçuk derece.", "tk": "Howanyň temperaturasy ýigrimi iki bitin ondan bäş gradus.", "ru": "Температура двадцать два и пять десятых градуса." },
+        { "en": "See you at twenty to eight.", "tr": "Sekize yirmi kala görüşürüz.", "tk": "Sekize ýigrimi minut galanda görüşeris.", "ru": "Увидимся без двадцати восемь." }
+      ],
+      "exercises": [
+        { "question": "7:45 =", "options": ["quarter past seven", "quarter to eight", "half past seven", "quarter to seven"], "answer": 1, "explanation": { "tr": "Sekize çeyrek var.", "tk": "Sekize on bäş minut bar.", "ru": "Без четверти восемь." } },
+        { "question": "How do you say 22nd?", "options": ["twenty-twoth", "twenty-second", "twenty-two", "twentieth-second"], "answer": 1, "explanation": { "tr": "twenty-second.", "tk": "twenty-second.", "ru": "twenty-second." } },
+        { "question": "My exam is ___ 12 May.", "options": ["in", "at", "on", "by"], "answer": 2, "explanation": { "tr": "Tarih → on.", "tk": "Sene → on.", "ru": "Дата → on." } },
+        { "question": "We met ___ 2019.", "options": ["on", "in", "at", "by"], "answer": 1, "explanation": { "tr": "Yıl → in.", "tk": "Ýyl → in.", "ru": "Год → in." } },
+        { "question": "How do you say 1998?", "options": ["one thousand nine hundred ninety-eight", "nineteen ninety-eight", "nineteen hundred ninety-eight", "one nine nine eight"], "answer": 1, "explanation": { "tr": "İkişer okunur.", "tk": "Ikiden okalýar.", "ru": "Читаем парами." } },
+        { "question": "\"There were three ___ guests.\"", "options": ["hundreds", "hundred", "hundreds of", "hundred of"], "answer": 1, "explanation": { "tr": "Sayıdan sonra -s yok.", "tk": "Sandan soň -s ýok.", "ru": "После числа без -s." } },
+        { "question": "\"___ of people came to see the match.\"", "options": ["Thousand", "Thousands", "Thousands of", "Thousand of"], "answer": 1, "explanation": { "tr": "Belirsiz çokluk: Thousands of people (of zaten cümlede).", "tk": "Kesgitsiz köplük: Thousands of people (of sözlemde bar).", "ru": "Неопределённое множество: Thousands of people (of уже есть)." } },
+        { "question": "3.7 =", "options": ["three comma seven", "three point seven", "three dot seven", "three and seven"], "answer": 1, "explanation": { "tr": "point.", "tk": "point.", "ru": "point." } },
+        { "question": "6:30 =", "options": ["half past six", "half to seven", "half six past", "thirty to seven"], "answer": 0, "explanation": { "tr": "half past six.", "tk": "half past six.", "ru": "half past six." } },
+        { "question": "I usually get up ___ 7 o'clock.", "options": ["in", "on", "at", "by the"], "answer": 2, "explanation": { "tr": "Saat → at.", "tk": "Sagat → at.", "ru": "Время → at." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: English Around the World",
+    "title": "British and American English",
+    "body": {
+      "explanation": {
+        "tr": "İngilizce 60'tan fazla ülkede resmî dildir. En belirgin farklar İngiliz (BrE) ve Amerikan (AmE) İngilizcesi arasındadır:\n• Kelime: flat/apartment, lift/elevator, biscuit/cookie, holiday/vacation, rubbish/trash, autumn/fall, mobile/cell phone, underground/subway, petrol/gas, chips/fries\n• Yazım: colour/color, centre/center, travelled/traveled, organise/organize, programme/program\n• Dilbilgisi: BrE have got / AmE have; BrE I've just eaten / AmE I just ate; at the weekend / on the weekend\n• Tarih: BrE 5/3 = 5 March, AmE 5/3 = May 3",
+        "tk": "Iňlis dili 60-dan gowrak ýurtda resmi dil. Iň görnükli tapawutlar Britan (BrE) we Amerikan (AmE) iňlis diliniň arasynda:\n• Söz: flat/apartment, lift/elevator, biscuit/cookie, holiday/vacation, rubbish/trash, autumn/fall, mobile/cell phone, underground/subway, petrol/gas, chips/fries\n• Ýazylyş: colour/color, centre/center, travelled/traveled, organise/organize, programme/program\n• Grammatika: BrE have got / AmE have; BrE I've just eaten / AmE I just ate; at the weekend / on the weekend\n• Sene: BrE 5/3 = 5-nji mart, AmE 5/3 = 3-nji maý",
+        "ru": "Английский — официальный язык более чем в 60 странах. Главные различия — между британским (BrE) и американским (AmE) вариантами:\n• Лексика: flat/apartment, lift/elevator, biscuit/cookie, holiday/vacation, rubbish/trash, autumn/fall, mobile/cell phone, underground/subway, petrol/gas, chips/fries\n• Орфография: colour/color, centre/center, travelled/traveled, organise/organize, programme/program\n• Грамматика: BrE have got / AmE have; BrE I've just eaten / AmE I just ate; at the weekend / on the weekend\n• Даты: BrE 5/3 = 5 марта, AmE 5/3 = 3 мая"
+      },
+      "examples": [
+        { "en": "BrE: We live in a flat. / AmE: We live in an apartment.", "tr": "Bir dairede yaşıyoruz.", "tk": "Biz kwartirada ýaşaýarys.", "ru": "Мы живём в квартире." },
+        { "en": "BrE: Take the lift. / AmE: Take the elevator.", "tr": "Asansöre bin.", "tk": "Lifte mün.", "ru": "Поезжай на лифте." },
+        { "en": "BrE: What's your favourite colour? / AmE: favorite color", "tr": "En sevdiğin renk ne?", "tk": "Iň halaýan reňkiň haýsy?", "ru": "Какой твой любимый цвет?" },
+        { "en": "BrE: I've got a car. / AmE: I have a car.", "tr": "Bir arabam var.", "tk": "Meniň ulagym bar.", "ru": "У меня есть машина." },
+        { "en": "BrE: see you at the weekend / AmE: on the weekend", "tr": "Hafta sonu görüşürüz.", "tk": "Dynç günleri görüşeris.", "ru": "Увидимся на выходных." },
+        { "en": "English is spoken in Australia, India and Nigeria.", "tr": "Avustralya, Hindistan ve Nijerya'da İngilizce konuşulur.", "tk": "Awstraliýada, Hindistanda we Nigeriýada iňlis dilinde gepleýärler.", "ru": "На английском говорят в Австралии, Индии и Нигерии." }
+      ],
+      "exercises": [
+        { "question": "AmE for \"lift\":", "options": ["escalator", "elevator", "stairs", "subway"], "answer": 1, "explanation": { "tr": "elevator.", "tk": "elevator.", "ru": "elevator." } },
+        { "question": "BrE for \"cookie\":", "options": ["cake", "biscuit", "bun", "crisp"], "answer": 1, "explanation": { "tr": "biscuit.", "tk": "biscuit.", "ru": "biscuit." } },
+        { "question": "AmE spelling of \"centre\":", "options": ["centre", "center", "centr", "sentre"], "answer": 1, "explanation": { "tr": "-re → -er.", "tk": "-re → -er.", "ru": "-re → -er." } },
+        { "question": "AmE for \"autumn\":", "options": ["fall", "harvest", "winter", "drop"], "answer": 0, "explanation": { "tr": "fall.", "tk": "fall.", "ru": "fall." } },
+        { "question": "BrE for \"trash\":", "options": ["garbage", "rubbish", "waste paper", "junk food"], "answer": 1, "explanation": { "tr": "rubbish.", "tk": "rubbish.", "ru": "rubbish." } },
+        { "question": "BrE spelling of \"traveled\":", "options": ["travelled", "traveled", "travaled", "travelld"], "answer": 0, "explanation": { "tr": "BrE l'yi ikiler.", "tk": "BrE l-i iki esse ýazýar.", "ru": "BrE удваивает l." } },
+        { "question": "AmE for \"petrol\":", "options": ["oil", "gas", "diesel", "fuel station"], "answer": 1, "explanation": { "tr": "gas.", "tk": "gas.", "ru": "gas." } },
+        { "question": "BrE for \"vacation\":", "options": ["holiday", "weekend", "break time", "journey"], "answer": 0, "explanation": { "tr": "holiday.", "tk": "holiday.", "ru": "holiday." } },
+        { "question": "Which is typical BrE?", "options": ["I just ate.", "I've just eaten.", "I just have ate.", "I've just ate."], "answer": 1, "explanation": { "tr": "BrE Present Perfect tercih eder.", "tk": "BrE Present Perfect-i saýlaýar.", "ru": "BrE предпочитает Present Perfect." } },
+        { "question": "In the USA, 4/7/2026 means…", "options": ["4 July", "7 April", "4 April", "7 July"], "answer": 1, "explanation": { "tr": "AmE: ay/gün.", "tk": "AmE: aý/gün.", "ru": "AmE: месяц/день." } }
+      ]
+    }
+  }
+]

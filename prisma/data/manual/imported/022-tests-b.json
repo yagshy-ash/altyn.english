@@ -1,0 +1,177 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Tests: Simple Present – Complex Test 1",
+    "title": "Simple Present Test 1",
+    "body": {
+      "explanation": {
+        "tr": "Simple Present testi (kolay). Kontrol et:\n• he/she/it → fiil + s/es (works, goes, watches, studies)\n• Olumsuz: don't / doesn't + yalın fiil\n• Soru: Do / Does + özne + yalın fiil?\n• be: am / is / are\n• Sinyal: always, usually, often, sometimes, never, every day",
+        "tk": "Simple Present synagy (aňsat). Barla:\n• he/she/it → işlik + s/es (works, goes, watches, studies)\n• Ýokluk: don't / doesn't + esasy işlik\n• Sorag: Do / Does + eýe + esasy işlik?\n• be: am / is / are\n• Alamat: always, usually, often, sometimes, never, every day",
+        "ru": "Тест по Simple Present (лёгкий). Проверь:\n• he/she/it → глагол + s/es (works, goes, watches, studies)\n• Отрицание: don't / doesn't + начальная форма\n• Вопрос: Do / Does + подлежащее + начальная форма?\n• be: am / is / are\n• Маркеры: always, usually, often, sometimes, never, every day"
+      },
+      "examples": [
+        { "en": "I like apples.", "tr": "Elma severim.", "tk": "Men almany halaýaryn.", "ru": "Я люблю яблоки." },
+        { "en": "He goes to school by bus.", "tr": "Okula otobüsle gider.", "tk": "Ol mekdebe awtobus bilen gidýär.", "ru": "Он ездит в школу на автобусе." },
+        { "en": "She doesn't eat meat.", "tr": "Et yemez.", "tk": "Ol et iýmeýär.", "ru": "Она не ест мясо." },
+        { "en": "Do you speak English?", "tr": "İngilizce konuşur musun?", "tk": "Iňlisçe gürleýärsiňmi?", "ru": "Ты говоришь по-английски?" },
+        { "en": "They are my friends.", "tr": "Onlar benim arkadaşlarım.", "tk": "Olar meniň dostlarym.", "ru": "Они мои друзья." },
+        { "en": "We always have lunch at 1.", "tr": "Her zaman saat 1'de öğle yemeği yeriz.", "tk": "Biz hemişe sagat 1-de günortanlyk edýäris.", "ru": "Мы всегда обедаем в час." }
+      ],
+      "exercises": [
+        { "question": "She ___ TV every evening.", "options": ["watch", "watches", "watchs", "watching"], "answer": 1, "explanation": { "tr": "-ch → -es.", "tk": "-ch → -es.", "ru": "-ch → -es." } },
+        { "question": "I ___ coffee.", "options": ["doesn't like", "don't like", "don't likes", "not like"], "answer": 1, "explanation": { "tr": "I → don't.", "tk": "I → don't.", "ru": "I → don't." } },
+        { "question": "___ he play tennis?", "options": ["Do", "Does", "Is", "Are"], "answer": 1, "explanation": { "tr": "he → Does.", "tk": "he → Does.", "ru": "he → Does." } },
+        { "question": "We ___ students.", "options": ["is", "am", "are", "be"], "answer": 2, "explanation": { "tr": "we → are.", "tk": "we → are.", "ru": "we → are." } },
+        { "question": "My dog ___ in the garden.", "options": ["sleep", "sleeps", "sleepes", "sleeping"], "answer": 1, "explanation": { "tr": "dog → sleeps.", "tk": "dog → sleeps.", "ru": "dog → sleeps." } },
+        { "question": "He ___ his homework after school.", "options": ["do", "does", "dos", "doing"], "answer": 1, "explanation": { "tr": "do → does.", "tk": "do → does.", "ru": "do → does." } },
+        { "question": "They ___ in Ashgabat.", "options": ["lives", "live", "living", "is live"], "answer": 1, "explanation": { "tr": "they → live.", "tk": "they → live.", "ru": "they → live." } },
+        { "question": "\"Do you like music?\" – \"Yes, I ___.\"", "options": ["do", "does", "am", "like"], "answer": 0, "explanation": { "tr": "Yes, I do.", "tk": "Yes, I do.", "ru": "Yes, I do." } },
+        { "question": "My sister ___ French at school.", "options": ["studys", "studies", "study", "studying"], "answer": 1, "explanation": { "tr": "y → ies.", "tk": "y → ies.", "ru": "y → ies." } },
+        { "question": "It ___ cold today.", "options": ["am", "are", "is", "be"], "answer": 2, "explanation": { "tr": "it → is.", "tk": "it → is.", "ru": "it → is." } },
+        { "question": "Where ___ you live?", "options": ["does", "do", "are", "is"], "answer": 1, "explanation": { "tr": "you → do.", "tk": "you → do.", "ru": "you → do." } },
+        { "question": "Find the mistake: \"He don't like fish.\"", "options": ["He", "don't", "like", "fish"], "answer": 1, "explanation": { "tr": "he → doesn't.", "tk": "he → doesn't.", "ru": "he → doesn't." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Tests: Simple Present  – Complex Test 2",
+    "title": "Simple Present Test 2",
+    "body": {
+      "explanation": {
+        "tr": "Simple Present testi (orta seviye):\n• Alışkanlıklar, genel gerçekler, tarifeler (The train leaves at 7.)\n• Sıklık zarflarının yeri: ana fiilden önce (She often reads), be'den sonra (He is always late).\n• Wh-sorular: How often do you…? What time does it start?\n• Özne soruları: Who lives here? (does yok)\n• Durum fiilleri: know, want, need, believe, belong",
+        "tk": "Simple Present synagy (orta dereje):\n• Endikler, umumy hakykatlar, tertipnamalar (The train leaves at 7.)\n• Ýygylyk hallarynyň orny: esasy işlikden öň (She often reads), be-den soň (He is always late).\n• Wh-soraglar: How often do you…? What time does it start?\n• Eýe soraglary: Who lives here? (does ýok)\n• Ýagdaý işlikleri: know, want, need, believe, belong",
+        "ru": "Тест по Simple Present (средний уровень):\n• Привычки, общие истины, расписания (The train leaves at 7.)\n• Место наречий частоты: перед глаголом (She often reads), после be (He is always late).\n• Специальные вопросы: How often do you…? What time does it start?\n• Вопросы к подлежащему: Who lives here? (без does)\n• Глаголы состояния: know, want, need, believe, belong"
+      },
+      "examples": [
+        { "en": "The train leaves at 7:15.", "tr": "Tren 7:15'te kalkar.", "tk": "Otly 7:15-de ugraýar.", "ru": "Поезд отправляется в 7:15." },
+        { "en": "She often reads before bed.", "tr": "Yatmadan önce sık sık okur.", "tk": "Ol ýatmazdan öň köplenç okaýar.", "ru": "Она часто читает перед сном." },
+        { "en": "He is always late.", "tr": "Her zaman geç kalır.", "tk": "Ol hemişe gijä galýar.", "ru": "Он всегда опаздывает." },
+        { "en": "How often do you go swimming?", "tr": "Ne sıklıkla yüzmeye gidersin?", "tk": "Ýüzmäge näçe ýygy gidýärsiň?", "ru": "Как часто ты ходишь плавать?" },
+        { "en": "Who lives in that house?", "tr": "O evde kim yaşıyor?", "tk": "Ol jaýda kim ýaşaýar?", "ru": "Кто живёт в том доме?" },
+        { "en": "This bag belongs to me.", "tr": "Bu çanta bana ait.", "tk": "Bu sumka meniňki.", "ru": "Эта сумка принадлежит мне." }
+      ],
+      "exercises": [
+        { "question": "The shop ___ at 9 am.", "options": ["open", "opens", "is opening", "opened"], "answer": 1, "explanation": { "tr": "Program → opens.", "tk": "Maksatnama → opens.", "ru": "Расписание → opens." } },
+        { "question": "Put 'never' in the right place: \"She eats meat.\"", "options": ["She eats never meat.", "She never eats meat.", "Never she eats meat.", "She eats meat never."], "answer": 1, "explanation": { "tr": "Ana fiilden önce.", "tk": "Esasy işlikden öň.", "ru": "Перед глаголом." } },
+        { "question": "Put 'usually' in the right place: \"They are tired.\"", "options": ["They usually are tired.", "They are usually tired.", "Usually are they tired.", "They are tired usually."], "answer": 1, "explanation": { "tr": "be'den sonra.", "tk": "be-den soň.", "ru": "После be." } },
+        { "question": "How often ___ she visit her parents?", "options": ["do", "does", "is", "did"], "answer": 1, "explanation": { "tr": "she → does.", "tk": "she → does.", "ru": "she → does." } },
+        { "question": "Who ___ the best cakes in your family?", "options": ["make", "makes", "does make", "making"], "answer": 1, "explanation": { "tr": "Özne sorusu → makes.", "tk": "Eýe soragy → makes.", "ru": "Вопрос к подлежащему → makes." } },
+        { "question": "I ___ the answer. Ask Ali.", "options": ["don't know", "am not knowing", "doesn't know", "not know"], "answer": 0, "explanation": { "tr": "know → don't know.", "tk": "know → don't know.", "ru": "know → don't know." } },
+        { "question": "What time ___ the lesson finish?", "options": ["do", "does", "is", "are"], "answer": 1, "explanation": { "tr": "lesson → does.", "tk": "lesson → does.", "ru": "lesson → does." } },
+        { "question": "The Earth ___ around the Sun.", "options": ["go", "goes", "is going", "went"], "answer": 1, "explanation": { "tr": "Genel gerçek → goes.", "tk": "Umumy hakykat → goes.", "ru": "Общая истина → goes." } },
+        { "question": "My parents ___ to the radio in the car.", "options": ["often listen", "listen often", "often listens", "are often listen"], "answer": 0, "explanation": { "tr": "often + fiil.", "tk": "often + işlik.", "ru": "often + глагол." } },
+        { "question": "This car ___ to my uncle.", "options": ["belong", "belongs", "is belonging", "belonging"], "answer": 1, "explanation": { "tr": "belong durum fiili.", "tk": "belong ýagdaý işligi.", "ru": "belong — глагол состояния." } },
+        { "question": "\"Does your brother work here?\" – \"No, he ___.\"", "options": ["don't", "doesn't", "isn't", "not"], "answer": 1, "explanation": { "tr": "No, he doesn't.", "tk": "No, he doesn't.", "ru": "No, he doesn't." } },
+        { "question": "Find the mistake: \"Who does live in this flat?\"", "options": ["Who", "does live", "in this", "flat"], "answer": 1, "explanation": { "tr": "Özne sorusu: Who lives?", "tk": "Eýe soragy: Who lives?", "ru": "Вопрос к подлежащему: Who lives?" } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Tests: Simple Past – Present Perfect – Complex Test",
+    "title": "Test: Simple Past or Present Perfect?",
+    "body": {
+      "explanation": {
+        "tr": "Bu testte Simple Past ile Present Perfect arasında seçim yapacaksın:\n• Belli geçmiş zaman (yesterday, last…, ago, in 2010, when?) → Simple Past\n• Belirsiz zaman / şimdiye bağlantı (ever, never, just, already, yet, since, for, so far, recently) → Present Perfect\n• Deneyim sorusu + ayrıntı: Have you ever...? – Yes, I ... last year.\n• Bitmiş dönem (ölen kişi, eski iş) → Simple Past",
+        "tk": "Bu synagda Simple Past bilen Present Perfect arasynda saýlaw edersiň:\n• Belli geçmiş wagt (yesterday, last…, ago, in 2010, when?) → Simple Past\n• Näbelli wagt / häzir bilen baglanyşyk (ever, never, just, already, yet, since, for, so far, recently) → Present Perfect\n• Tejribe soragy + jikme-jiklik: Have you ever...? – Yes, I ... last year.\n• Gutaran döwür (aradan çykan adam, öňki iş) → Simple Past",
+        "ru": "В этом тесте нужно выбирать между Simple Past и Present Perfect:\n• Указанное время в прошлом (yesterday, last…, ago, in 2010, when?) → Simple Past\n• Неопределённое время / связь с настоящим (ever, never, just, already, yet, since, for, so far, recently) → Present Perfect\n• Вопрос об опыте + подробности: Have you ever...? – Yes, I ... last year.\n• Завершённый период (умерший человек, прежняя работа) → Simple Past"
+      },
+      "examples": [
+        { "en": "I have been to Turkey. I went there in 2021.", "tr": "Türkiye'de bulundum. 2021'de gittim.", "tk": "Men Türkiýede boldum. 2021-nji ýylda bardym.", "ru": "Я был в Турции. Ездил туда в 2021 году." },
+        { "en": "She has just left.", "tr": "Az önce çıktı.", "tk": "Ol ýaňy gitdi.", "ru": "Она только что ушла." },
+        { "en": "She left five minutes ago.", "tr": "Beş dakika önce çıktı.", "tk": "Ol bäş minut ozal gitdi.", "ru": "Она ушла пять минут назад." },
+        { "en": "Have you finished? – Yes, I finished at 6.", "tr": "Bitirdin mi? – Evet, 6'da bitirdim.", "tk": "Gutardyňmy? – Hawa, 6-da gutardym.", "ru": "Ты закончил? – Да, в 6." },
+        { "en": "He has worked here since 2019.", "tr": "2019'dan beri burada çalışıyor.", "tk": "Ol 2019-njy ýyldan bäri şu ýerde işleýär.", "ru": "Он работает здесь с 2019 года." },
+        { "en": "He worked in a bank before.", "tr": "Önceden bir bankada çalıştı.", "tk": "Ol öň bankda işledi.", "ru": "Раньше он работал в банке." }
+      ],
+      "exercises": [
+        { "question": "I ___ him last week.", "options": ["have met", "met", "meet", "has met"], "answer": 1, "explanation": { "tr": "last week → met.", "tk": "last week → met.", "ru": "last week → met." } },
+        { "question": "I ___ never ___ a camel.", "options": ["have / ridden", "did / ride", "have / rode", "was / riding"], "answer": 0, "explanation": { "tr": "never → have ridden.", "tk": "never → have ridden.", "ru": "never → have ridden." } },
+        { "question": "When ___ you ___ your job?", "options": ["have / started", "did / start", "have / start", "did / started"], "answer": 1, "explanation": { "tr": "When → did start.", "tk": "When → did start.", "ru": "When → did start." } },
+        { "question": "She ___ already ___ lunch.", "options": ["has / had", "did / have", "has / have", "had / had"], "answer": 0, "explanation": { "tr": "already → has had.", "tk": "already → has had.", "ru": "already → has had." } },
+        { "question": "They ___ married in 2010.", "options": ["have got", "got", "get", "have get"], "answer": 1, "explanation": { "tr": "in 2010 → got.", "tk": "in 2010 → got.", "ru": "in 2010 → got." } },
+        { "question": "We ___ here for five years.", "options": ["lived", "have lived", "live", "were living"], "answer": 1, "explanation": { "tr": "for + şimdiye kadar → have lived.", "tk": "for + häzire çenli → have lived.", "ru": "for + до сих пор → have lived." } },
+        { "question": "\"Have you seen Tom?\" – \"Yes, I ___ him this morning.\"", "options": ["have seen", "saw", "see", "seen"], "answer": 1, "explanation": { "tr": "this morning (bitmiş) → saw.", "tk": "this morning (gutaran) → saw.", "ru": "this morning (прошло) → saw." } },
+        { "question": "My grandfather ___ in the army for 20 years. (He is dead now.)", "options": ["has served", "served", "serves", "has serve"], "answer": 1, "explanation": { "tr": "Bitmiş dönem → served.", "tk": "Gutaran döwür → served.", "ru": "Завершённый период → served." } },
+        { "question": "I ___ my homework yet.", "options": ["didn't finish", "haven't finished", "don't finish", "hasn't finished"], "answer": 1, "explanation": { "tr": "yet → haven't finished.", "tk": "yet → haven't finished.", "ru": "yet → haven't finished." } },
+        { "question": "She ___ three books so far this month.", "options": ["read", "has read", "reads", "is reading"], "answer": 1, "explanation": { "tr": "so far → has read.", "tk": "so far → has read.", "ru": "so far → has read." } },
+        { "question": "He ___ to the doctor two days ago.", "options": ["has gone", "went", "goes", "has been"], "answer": 1, "explanation": { "tr": "ago → went.", "tk": "ago → went.", "ru": "ago → went." } },
+        { "question": "Find the mistake: \"Did you ever eat sushi?\" (asking about life experience)", "options": ["Did you", "ever", "eat", "sushi"], "answer": 0, "explanation": { "tr": "Deneyim → Have you ever eaten sushi?", "tk": "Tejribe → Have you ever eaten sushi?", "ru": "Опыт → Have you ever eaten sushi?" } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Tests: Simple Present – Present Progressive – Complex Test 1",
+    "title": "Test: Simple Present or Present Progressive? (1)",
+    "body": {
+      "explanation": {
+        "tr": "Bu testte iki şimdiki zaman arasında seçim yapacaksın:\n• Simple Present: her zaman / genelde / alışkanlık → every day, usually, always, on Mondays\n• Present Progressive: şu an → now, at the moment, Look!, Listen!\nAynı cümlede ikisi: I usually drink tea, but now I'm drinking juice.",
+        "tk": "Bu synagda iki häzirki zamanyň arasynda saýlaw edersiň:\n• Simple Present: hemişe / adatça / endik → every day, usually, always, on Mondays\n• Present Progressive: häzir → now, at the moment, Look!, Listen!\nBir sözlemde ikisi: I usually drink tea, but now I'm drinking juice.",
+        "ru": "В этом тесте нужно выбирать между двумя настоящими временами:\n• Simple Present: всегда / обычно / привычка → every day, usually, always, on Mondays\n• Present Progressive: сейчас → now, at the moment, Look!, Listen!\nОба в одном предложении: I usually drink tea, but now I'm drinking juice."
+      },
+      "examples": [
+        { "en": "I usually drink tea, but now I'm drinking juice.", "tr": "Genelde çay içerim ama şu an meyve suyu içiyorum.", "tk": "Men adatça çaý içýärin, emma häzir şire içýärin.", "ru": "Обычно я пью чай, но сейчас пью сок." },
+        { "en": "Look! The boy is climbing the tree.", "tr": "Bak! Çocuk ağaca tırmanıyor.", "tk": "Seret! Oglan agaja dyrmaşýar.", "ru": "Смотри! Мальчик лезет на дерево." },
+        { "en": "My dad reads the newspaper every morning.", "tr": "Babam her sabah gazete okur.", "tk": "Kakam her ir gazet okaýar.", "ru": "Папа читает газету каждое утро." },
+        { "en": "She is talking on the phone now.", "tr": "Şu an telefonda konuşuyor.", "tk": "Ol häzir telefonda gürleşýär.", "ru": "Она сейчас говорит по телефону." },
+        { "en": "We go to the park on Sundays.", "tr": "Pazar günleri parka gideriz.", "tk": "Biz ýekşenbe günleri seýilgähe gidýäris.", "ru": "По воскресеньям мы ходим в парк." },
+        { "en": "Listen! The birds are singing.", "tr": "Dinle! Kuşlar şarkı söylüyor.", "tk": "Diňle! Guşlar saýraýar.", "ru": "Слушай! Птицы поют." }
+      ],
+      "exercises": [
+        { "question": "I ___ my teeth every morning.", "options": ["brush", "am brushing", "brushes", "brushing"], "answer": 0, "explanation": { "tr": "every morning → brush.", "tk": "every morning → brush.", "ru": "every morning → brush." } },
+        { "question": "Look! It ___.", "options": ["snows", "is snowing", "snow", "snowing"], "answer": 1, "explanation": { "tr": "Look! → is snowing.", "tk": "Look! → is snowing.", "ru": "Look! → is snowing." } },
+        { "question": "She ___ to school on foot every day.", "options": ["goes", "is going", "go", "going"], "answer": 0, "explanation": { "tr": "every day → goes.", "tk": "every day → goes.", "ru": "every day → goes." } },
+        { "question": "Be quiet! The baby ___.", "options": ["sleeps", "is sleeping", "sleep", "sleeping"], "answer": 1, "explanation": { "tr": "Şu an → is sleeping.", "tk": "Häzir → is sleeping.", "ru": "Сейчас → is sleeping." } },
+        { "question": "We ___ football on Saturdays.", "options": ["play", "are playing", "plays", "playing"], "answer": 0, "explanation": { "tr": "on Saturdays → play.", "tk": "on Saturdays → play.", "ru": "on Saturdays → play." } },
+        { "question": "My mum ___ dinner now.", "options": ["cooks", "is cooking", "cook", "cooking"], "answer": 1, "explanation": { "tr": "now → is cooking.", "tk": "now → is cooking.", "ru": "now → is cooking." } },
+        { "question": "They usually ___ at 7.", "options": ["get up", "are getting up", "gets up", "getting up"], "answer": 0, "explanation": { "tr": "usually → get up.", "tk": "usually → get up.", "ru": "usually → get up." } },
+        { "question": "Listen! Somebody ___ at the door.", "options": ["knocks", "is knocking", "knock", "knocking"], "answer": 1, "explanation": { "tr": "Listen! → is knocking.", "tk": "Listen! → is knocking.", "ru": "Listen! → is knocking." } },
+        { "question": "He ___ coffee. He only drinks tea.", "options": ["doesn't drink", "isn't drinking", "don't drink", "not drink"], "answer": 0, "explanation": { "tr": "Genel → doesn't drink.", "tk": "Umumy → doesn't drink.", "ru": "В целом → doesn't drink." } },
+        { "question": "At the moment I ___ a book.", "options": ["read", "am reading", "reads", "reading"], "answer": 1, "explanation": { "tr": "At the moment → am reading.", "tk": "At the moment → am reading.", "ru": "At the moment → am reading." } },
+        { "question": "Cats ___ milk.", "options": ["like", "are liking", "likes", "liking"], "answer": 0, "explanation": { "tr": "Genel gerçek → like.", "tk": "Umumy hakykat → like.", "ru": "Общая истина → like." } },
+        { "question": "Find the mistake: \"Look! The dog runs after the cat.\"", "options": ["Look!", "The dog", "runs", "after the cat"], "answer": 2, "explanation": { "tr": "Look! → is running.", "tk": "Look! → is running.", "ru": "Look! → is running." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Tenses – Tests: Simple Present – Present Progressive – Complex Test 2",
+    "title": "Test: Simple Present or Present Progressive? (2)",
+    "body": {
+      "explanation": {
+        "tr": "İleri seviye Simple Present / Present Progressive testi:\n• Kalıcı durum (Simple Present) ↔ geçici durum (Progressive): I live in Mary. / I'm living with friends this month.\n• Değişen/gelişen durumlar Progressive: The city is growing fast.\n• Can sıkıcı tekrar: always + Progressive: He's always losing his keys!\n• Tarife Simple Present, kişisel plan Progressive: The film starts at 8. We're meeting at 7.30.\n• Durum fiilleri anlam değiştirince Progressive olabilir: I think it's good (fikir) / I'm thinking about it (düşünüyorum).",
+        "tk": "Ýokary derejeli Simple Present / Present Progressive synagy:\n• Hemişelik ýagdaý (Simple Present) ↔ wagtlaýyn ýagdaý (Progressive): I live in Mary. / I'm living with friends this month.\n• Üýtgeýän/ösýän ýagdaýlar Progressive: The city is growing fast.\n• Gaharlandyrýan gaýtalanma: always + Progressive: He's always losing his keys!\n• Tertipnama Simple Present, şahsy meýilnama Progressive: The film starts at 8. We're meeting at 7.30.\n• Ýagdaý işlikleri manysy üýtgände Progressive bolup biler: I think it's good (pikir) / I'm thinking about it (oýlanýaryn).",
+        "ru": "Тест повышенного уровня: Simple Present или Present Progressive:\n• Постоянное (Simple Present) ↔ временное (Progressive): I live in Mary. / I'm living with friends this month.\n• Меняющиеся ситуации — Progressive: The city is growing fast.\n• Раздражающая привычка: always + Progressive: He's always losing his keys!\n• Расписание — Simple Present, личный план — Progressive: The film starts at 8. We're meeting at 7.30.\n• Глаголы состояния в другом значении могут быть в Progressive: I think it's good (мнение) / I'm thinking about it (обдумываю)."
+      },
+      "examples": [
+        { "en": "I live in Mary, but this month I'm living with friends in Ashgabat.", "tr": "Mary'de yaşıyorum ama bu ay Aşkabat'ta arkadaşlarımla kalıyorum.", "tk": "Men Maryda ýaşaýaryn, emma bu aý Aşgabatda dostlarym bilen ýaşaýaryn.", "ru": "Я живу в Мары, но в этом месяце живу у друзей в Ашхабаде." },
+        { "en": "The city is growing fast.", "tr": "Şehir hızla büyüyor.", "tk": "Şäher çalt ösýär.", "ru": "Город быстро растёт." },
+        { "en": "He's always losing his keys!", "tr": "Sürekli anahtarlarını kaybediyor!", "tk": "Ol hemişe açarlaryny ýitirýär!", "ru": "Он вечно теряет ключи!" },
+        { "en": "The film starts at 8, and we're meeting at 7:30.", "tr": "Film 8'de başlıyor, biz 7:30'da buluşuyoruz.", "tk": "Film 8-de başlanýar, biz 7:30-da duşuşýarys.", "ru": "Фильм начинается в 8, а мы встречаемся в 7:30." },
+        { "en": "I think this plan is good.", "tr": "Bence bu plan iyi.", "tk": "Meniň pikirimçe, bu meýilnama gowy.", "ru": "Я думаю, этот план хороший." },
+        { "en": "I'm thinking about changing my job.", "tr": "İşimi değiştirmeyi düşünüyorum.", "tk": "Işimi üýtgetmek barada oýlanýaryn.", "ru": "Я подумываю сменить работу." }
+      ],
+      "exercises": [
+        { "question": "My brother ___ in Germany, but this year he ___ in Spain.", "options": ["lives / is studying", "is living / studies", "live / studying", "lives / studies"], "answer": 0, "explanation": { "tr": "Kalıcı → lives; geçici → is studying.", "tk": "Hemişelik → lives; wagtlaýyn → is studying.", "ru": "Постоянное → lives; временное → is studying." } },
+        { "question": "The number of tourists ___ every year.", "options": ["is increasing", "increases now", "increase", "increasing"], "answer": 0, "explanation": { "tr": "Değişen durum → is increasing.", "tk": "Üýtgeýän ýagdaý → is increasing.", "ru": "Меняющаяся ситуация → is increasing." } },
+        { "question": "You ___ always ___ me! It's so annoying.", "options": ["are / interrupting", "do / interrupt", "are / interrupt", "is / interrupting"], "answer": 0, "explanation": { "tr": "always + Progressive (şikâyet).", "tk": "always + Progressive (nägilelik).", "ru": "always + Progressive (раздражение)." } },
+        { "question": "The museum ___ at 6 pm on weekdays.", "options": ["closes", "is closing", "close", "closing"], "answer": 0, "explanation": { "tr": "Program → closes.", "tk": "Maksatnama → closes.", "ru": "Расписание → closes." } },
+        { "question": "\"What are your plans?\" – \"I ___ my cousins on Friday.\"", "options": ["visit", "am visiting", "visits", "visited"], "answer": 1, "explanation": { "tr": "Kişisel plan → am visiting.", "tk": "Şahsy meýilnama → am visiting.", "ru": "Личный план → am visiting." } },
+        { "question": "I ___ you're right.", "options": ["think", "am thinking", "thinks", "thinking"], "answer": 0, "explanation": { "tr": "Fikir → think.", "tk": "Pikir → think.", "ru": "Мнение → think." } },
+        { "question": "Be quiet, please. I ___ about the problem.", "options": ["think", "am thinking", "thinks", "thought"], "answer": 1, "explanation": { "tr": "Düşünme süreci → am thinking.", "tk": "Oýlanma prosesi → am thinking.", "ru": "Процесс обдумывания → am thinking." } },
+        { "question": "This soup ___ delicious.", "options": ["tastes", "is tasting", "taste", "tasting"], "answer": 0, "explanation": { "tr": "Durum (tat) → tastes.", "tk": "Ýagdaý (tagam) → tastes.", "ru": "Состояние (вкус) → tastes." } },
+        { "question": "The chef ___ the soup to check the salt.", "options": ["tastes", "is tasting", "taste", "tasted"], "answer": 1, "explanation": { "tr": "Eylem (tadına bakmak) → is tasting.", "tk": "Hereket (dadyp görmek) → is tasting.", "ru": "Действие (пробует) → is tasting." } },
+        { "question": "Prices ___ up these days.", "options": ["go", "are going", "goes", "went"], "answer": 1, "explanation": { "tr": "these days → are going.", "tk": "these days → are going.", "ru": "these days → are going." } },
+        { "question": "Water ___ at 100 degrees Celsius.", "options": ["boils", "is boiling", "boil", "boiling"], "answer": 0, "explanation": { "tr": "Bilimsel gerçek → boils.", "tk": "Ylmy hakykat → boils.", "ru": "Научный факт → boils." } },
+        { "question": "Find the mistake: \"I am owning two cars.\"", "options": ["I", "am owning", "two", "cars"], "answer": 1, "explanation": { "tr": "own durum fiili → I own.", "tk": "own ýagdaý işligi → I own.", "ru": "own — глагол состояния → I own." } }
+      ]
+    }
+  }
+]

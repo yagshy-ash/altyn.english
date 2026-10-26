@@ -1,0 +1,107 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Prepositions",
+    "title": "Prepositions of Time, Place and Movement",
+    "body": {
+      "explanation": {
+        "tr": "• Zaman: at (saat, at night, at the weekend), on (günler, tarihler: on Monday, on 5 May), in (ay, yıl, mevsim, sabah/akşam: in July, in 2020, in summer, in the morning)\n• Yer: at (nokta: at the bus stop, at home, at school), on (yüzey: on the table, on the wall), in (içinde: in the box, in Ashgabat, in the car)\n• Hareket: to (-e doğru), into (içine), out of (dışına), across (karşıya), through (içinden), along (boyunca), up/down\n• Diğer: by bus/car (ama on foot), between (iki şey arası), among (grup içinde), next to, opposite, behind, in front of\n• Fiil + edat: listen to, wait for, depend on, look at, be good at, be afraid of, be interested in",
+        "tk": "• Wagt: at (sagat, at night, at the weekend), on (günler, seneler: on Monday, on 5 May), in (aý, ýyl, pasyl, irden/agşam: in July, in 2020, in summer, in the morning)\n• Ýer: at (nokat: at the bus stop, at home, at school), on (üst: on the table, on the wall), in (içinde: in the box, in Ashgabat, in the car)\n• Hereket: to (-a tarap), into (içine), out of (daşyna), across (ol tarapa), through (içinden), along (boýunça), up/down\n• Beýlekiler: by bus/car (emma on foot), between (iki zadyň arasy), among (toparyň içinde), next to, opposite, behind, in front of\n• Işlik + sözlem: listen to, wait for, depend on, look at, be good at, be afraid of, be interested in",
+        "ru": "• Время: at (часы, at night, at the weekend), on (дни, даты: on Monday, on 5 May), in (месяц, год, сезон, утро/вечер: in July, in 2020, in summer, in the morning)\n• Место: at (точка: at the bus stop, at home, at school), on (поверхность: on the table, on the wall), in (внутри: in the box, in Ashgabat, in the car)\n• Движение: to (к), into (внутрь), out of (из), across (через, поперёк), through (сквозь), along (вдоль), up/down\n• Другие: by bus/car (но on foot), between (между двумя), among (среди), next to, opposite, behind, in front of\n• Глагол + предлог: listen to, wait for, depend on, look at, be good at, be afraid of, be interested in"
+      },
+      "examples": [
+        { "en": "The lesson starts at 9 on Monday.", "tr": "Ders pazartesi saat 9'da başlıyor.", "tk": "Sapak duşenbe güni sagat 9-da başlanýar.", "ru": "Урок начинается в 9 в понедельник." },
+        { "en": "I was born in 2008, in winter.", "tr": "2008'de, kışın doğdum.", "tk": "Men 2008-nji ýylda, gyşda doguldym.", "ru": "Я родился в 2008 году, зимой." },
+        { "en": "The keys are on the table, in the kitchen.", "tr": "Anahtarlar mutfakta, masanın üzerinde.", "tk": "Açarlar aşhanada, stoluň üstünde.", "ru": "Ключи на столе на кухне." },
+        { "en": "She walked into the room.", "tr": "Odaya girdi.", "tk": "Ol otaga girdi.", "ru": "Она вошла в комнату." },
+        { "en": "We go to school on foot.", "tr": "Okula yürüyerek gideriz.", "tk": "Biz mekdebe pyýada gidýäris.", "ru": "Мы ходим в школу пешком." },
+        { "en": "I'm waiting for the bus.", "tr": "Otobüsü bekliyorum.", "tk": "Men awtobusa garaşýaryn.", "ru": "Я жду автобус." }
+      ],
+      "exercises": [
+        { "question": "My birthday is ___ 12 March.", "options": ["in", "on", "at", "by"], "answer": 1, "explanation": { "tr": "Tarih → on.", "tk": "Sene → on.", "ru": "Дата → on." } },
+        { "question": "We usually go skiing ___ winter.", "options": ["on", "at", "in", "by"], "answer": 2, "explanation": { "tr": "Mevsim → in.", "tk": "Pasyl → in.", "ru": "Сезон → in." } },
+        { "question": "The film starts ___ 8 pm.", "options": ["in", "on", "at", "to"], "answer": 2, "explanation": { "tr": "Saat → at.", "tk": "Sagat → at.", "ru": "Время → at." } },
+        { "question": "There's a picture ___ the wall.", "options": ["in", "on", "at", "into"], "answer": 1, "explanation": { "tr": "Yüzey → on.", "tk": "Üst → on.", "ru": "Поверхность → on." } },
+        { "question": "I'll meet you ___ the bus stop.", "options": ["in", "on", "at", "into"], "answer": 2, "explanation": { "tr": "Nokta → at.", "tk": "Nokat → at.", "ru": "Точка → at." } },
+        { "question": "She jumped ___ the swimming pool.", "options": ["in", "into", "on", "at"], "answer": 1, "explanation": { "tr": "İçine hareket → into.", "tk": "Içine hereket → into.", "ru": "Движение внутрь → into." } },
+        { "question": "I usually go to work ___ bus.", "options": ["on", "by", "in", "with"], "answer": 1, "explanation": { "tr": "by bus.", "tk": "by bus.", "ru": "by bus." } },
+        { "question": "The bank is ___ the post office and the café.", "options": ["among", "between", "next", "opposite of"], "answer": 1, "explanation": { "tr": "İki şey arası → between.", "tk": "Iki zadyň arasy → between.", "ru": "Между двумя → between." } },
+        { "question": "Are you afraid ___ spiders?", "options": ["from", "of", "about", "with"], "answer": 1, "explanation": { "tr": "afraid of.", "tk": "afraid of.", "ru": "afraid of." } },
+        { "question": "It depends ___ the weather.", "options": ["of", "from", "on", "at"], "answer": 2, "explanation": { "tr": "depend on.", "tk": "depend on.", "ru": "depend on." } },
+        { "question": "We walked ___ the river for an hour.", "options": ["along", "into", "at", "on"], "answer": 0, "explanation": { "tr": "Boyunca → along.", "tk": "Boýunça → along.", "ru": "Вдоль → along." } },
+        { "question": "Find the mistake: \"I'll see you in Monday.\"", "options": ["I'll see", "you", "in Monday", "There is no mistake"], "answer": 2, "explanation": { "tr": "on Monday.", "tk": "on Monday.", "ru": "on Monday." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Pronouns",
+    "title": "Pronouns: Subject, Object, Possessive, Reflexive",
+    "body": {
+      "explanation": {
+        "tr": "• Özne zamirleri: I, you, he, she, it, we, they → She likes music.\n• Nesne zamirleri: me, you, him, her, it, us, them → I like her.\n• İyelik sıfatları (isimden önce): my, your, his, her, its, our, their → This is my book.\n• İyelik zamirleri (tek başına): mine, yours, his, hers, ours, theirs → This book is mine.\n• Dönüşlü zamirler: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves → I hurt myself. She made it herself.\n• Dikkat: its (onun) ≠ it's (it is); their (onların) ≠ there (orada) ≠ they're (they are)",
+        "tk": "• Eýe çalyşmalary: I, you, he, she, it, we, they → She likes music.\n• Doldurgyç çalyşmalary: me, you, him, her, it, us, them → I like her.\n• Eýelik sypatlary (atdan öň): my, your, his, her, its, our, their → This is my book.\n• Eýelik çalyşmalary (ýeke özi): mine, yours, his, hers, ours, theirs → This book is mine.\n• Gaýdyş çalyşmalary: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves → I hurt myself. She made it herself.\n• Üns beriň: its (onuň) ≠ it's (it is); their (olaryň) ≠ there (ol ýerde) ≠ they're (they are)",
+        "ru": "• Личные (подлежащее): I, you, he, she, it, we, they → She likes music.\n• Объектные: me, you, him, her, it, us, them → I like her.\n• Притяжательные прилагательные (перед существительным): my, your, his, her, its, our, their → This is my book.\n• Притяжательные местоимения (самостоятельно): mine, yours, his, hers, ours, theirs → This book is mine.\n• Возвратные: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves → I hurt myself. She made it herself.\n• Внимание: its (его) ≠ it's (it is); their (их) ≠ there (там) ≠ they're (they are)"
+      },
+      "examples": [
+        { "en": "Give it to me, please.", "tr": "Onu bana ver lütfen.", "tk": "Ony maňa ber.", "ru": "Дай это мне, пожалуйста." },
+        { "en": "Is this your bag? – No, it's hers.", "tr": "Bu senin çantan mı? – Hayır, onun.", "tk": "Bu seniň sumkaňmy? – Ýok, onuňky.", "ru": "Это твоя сумка? – Нет, её." },
+        { "en": "We painted the house ourselves.", "tr": "Evi kendimiz boyadık.", "tk": "Biz jaýy özümiz reňkledik.", "ru": "Мы сами покрасили дом." },
+        { "en": "The dog is wagging its tail.", "tr": "Köpek kuyruğunu sallıyor.", "tk": "It guýrugyny bulaýar.", "ru": "Собака виляет хвостом." },
+        { "en": "Their house is over there.", "tr": "Onların evi şurada.", "tk": "Olaryň jaýy ol ýerde.", "ru": "Их дом вон там." },
+        { "en": "My friends and I went to the park.", "tr": "Arkadaşlarım ve ben parka gittik.", "tk": "Dostlarym we men seýilgähe gitdik.", "ru": "Мы с друзьями пошли в парк." }
+      ],
+      "exercises": [
+        { "question": "Can you help ___?", "options": ["I", "me", "my", "mine"], "answer": 1, "explanation": { "tr": "Nesne → me.", "tk": "Doldurgyç → me.", "ru": "Объект → me." } },
+        { "question": "This pen isn't ___. It's Ali's.", "options": ["my", "mine", "me", "I"], "answer": 1, "explanation": { "tr": "Tek başına → mine.", "tk": "Ýeke özi → mine.", "ru": "Самостоятельно → mine." } },
+        { "question": "She cut ___ while cooking.", "options": ["her", "herself", "hers", "she"], "answer": 1, "explanation": { "tr": "Dönüşlü → herself.", "tk": "Gaýdyş → herself.", "ru": "Возвратное → herself." } },
+        { "question": "The cat is playing with ___ toy.", "options": ["it's", "its", "it", "itself"], "answer": 1, "explanation": { "tr": "İyelik → its.", "tk": "Eýelik → its.", "ru": "Притяжательное → its." } },
+        { "question": "___ going to the cinema tonight.", "options": ["Their", "There", "They're", "Theirs"], "answer": 2, "explanation": { "tr": "They are → They're.", "tk": "They are → They're.", "ru": "They are → They're." } },
+        { "question": "Is that ___ car? It's very nice.", "options": ["you", "your", "yours", "yourself"], "answer": 1, "explanation": { "tr": "İsimden önce → your.", "tk": "Atdan öň → your.", "ru": "Перед существительным → your." } },
+        { "question": "I saw Tom and Anna and said hello to ___.", "options": ["they", "them", "their", "theirs"], "answer": 1, "explanation": { "tr": "Nesne → them.", "tk": "Doldurgyç → them.", "ru": "Объект → them." } },
+        { "question": "We don't need help. We can do it ___.", "options": ["ourself", "ourselves", "us", "ours"], "answer": 1, "explanation": { "tr": "we → ourselves.", "tk": "we → ourselves.", "ru": "we → ourselves." } },
+        { "question": "\"Whose books are these?\" – \"They're ___.\"", "options": ["our", "ours", "us", "we"], "answer": 1, "explanation": { "tr": "Tek başına → ours.", "tk": "Ýeke özi → ours.", "ru": "Самостоятельно → ours." } },
+        { "question": "___ is my best friend.", "options": ["Her", "She", "Hers", "Herself"], "answer": 1, "explanation": { "tr": "Özne → She.", "tk": "Eýe → She.", "ru": "Подлежащее → She." } },
+        { "question": "Choose the correct sentence.", "options": ["Me and Ali went to school.", "Ali and I went to school.", "Ali and me went to school.", "I and Ali went to school."], "answer": 1, "explanation": { "tr": "Özne → Ali and I.", "tk": "Eýe → Ali and I.", "ru": "Подлежащее → Ali and I." } },
+        { "question": "Find the mistake: \"This is my brother's room and that is my.\"", "options": ["This is", "my brother's", "room", "that is my"], "answer": 3, "explanation": { "tr": "that is mine.", "tk": "that is mine.", "ru": "that is mine." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Quantifiers",
+    "title": "Quantifiers: some, any, much, many, a lot of, few, little",
+    "body": {
+      "explanation": {
+        "tr": "• some: olumlu cümle, teklif/rica → I have some money. Would you like some tea?\n• any: olumsuz ve soru → I don't have any money. Have you got any questions?\n• much: sayılamayan (genelde olumsuz/soru) → How much time? There isn't much water.\n• many: sayılabilen çoğul → How many people? There aren't many cars.\n• a lot of / lots of: hepsiyle, özellikle olumlu → a lot of friends, a lot of money\n• a few (birkaç, yeterli) / few (çok az, yetersiz): sayılabilen → I have a few friends. Few people came.\n• a little / little: sayılamayan → a little sugar, little time\n• no / none: There are no tickets left. None of them came.",
+        "tk": "• some: tassyklaýjy sözlem, teklip/haýyş → I have some money. Would you like some tea?\n• any: ýokluk we sorag → I don't have any money. Have you got any questions?\n• much: sanalmaýan (köplenç ýokluk/sorag) → How much time? There isn't much water.\n• many: sanalýan köplük → How many people? There aren't many cars.\n• a lot of / lots of: ählisi bilen, esasan tassyklaýjyda → a lot of friends, a lot of money\n• a few (birnäçe, ýeterlik) / few (örän az, ýetmezçilik): sanalýan → I have a few friends. Few people came.\n• a little / little: sanalmaýan → a little sugar, little time\n• no / none: There are no tickets left. None of them came.",
+        "ru": "• some: утверждения, предложения/просьбы → I have some money. Would you like some tea?\n• any: отрицания и вопросы → I don't have any money. Have you got any questions?\n• much: неисчисляемые (чаще в отрицаниях/вопросах) → How much time? There isn't much water.\n• many: исчисляемые во мн. ч. → How many people? There aren't many cars.\n• a lot of / lots of: со всеми, особенно в утверждениях → a lot of friends, a lot of money\n• a few (несколько, достаточно) / few (мало, недостаточно): исчисляемые → I have a few friends. Few people came.\n• a little / little: неисчисляемые → a little sugar, little time\n• no / none: There are no tickets left. None of them came."
+      },
+      "examples": [
+        { "en": "Would you like some cake?", "tr": "Biraz pasta ister misin?", "tk": "Birneme tort isleýärsiňmi?", "ru": "Хочешь торта?" },
+        { "en": "There isn't any milk in the fridge.", "tr": "Buzdolabında hiç süt yok.", "tk": "Sowadyjyda hiç süýt ýok.", "ru": "В холодильнике нет молока." },
+        { "en": "How many brothers have you got?", "tr": "Kaç erkek kardeşin var?", "tk": "Näçe doganyň bar?", "ru": "Сколько у тебя братьев?" },
+        { "en": "I don't have much free time.", "tr": "Çok boş vaktim yok.", "tk": "Meniň kän boş wagtym ýok.", "ru": "У меня мало свободного времени." },
+        { "en": "I've got a few good friends.", "tr": "Birkaç iyi arkadaşım var.", "tk": "Meniň birnäçe gowy dostum bar.", "ru": "У меня есть несколько хороших друзей." },
+        { "en": "Add a little salt.", "tr": "Biraz tuz ekle.", "tk": "Birneme duz goş.", "ru": "Добавь немного соли." }
+      ],
+      "exercises": [
+        { "question": "Have you got ___ brothers or sisters?", "options": ["some", "any", "much", "a little"], "answer": 1, "explanation": { "tr": "Soru → any.", "tk": "Sorag → any.", "ru": "Вопрос → any." } },
+        { "question": "How ___ money do you need?", "options": ["many", "much", "few", "a lot"], "answer": 1, "explanation": { "tr": "money sayılamaz → much.", "tk": "money sanalmaýar → much.", "ru": "money неисчисляемое → much." } },
+        { "question": "How ___ students are in your class?", "options": ["much", "many", "little", "a little"], "answer": 1, "explanation": { "tr": "students sayılabilir → many.", "tk": "students sanalýar → many.", "ru": "students исчисляемое → many." } },
+        { "question": "Would you like ___ coffee?", "options": ["any", "some", "many", "few"], "answer": 1, "explanation": { "tr": "Teklif → some.", "tk": "Teklip → some.", "ru": "Предложение → some." } },
+        { "question": "There are ___ apples left. Let's buy more.", "options": ["a few", "few", "a little", "much"], "answer": 1, "explanation": { "tr": "Yetersiz → few.", "tk": "Ýetmezçilik → few.", "ru": "Недостаточно → few." } },
+        { "question": "I have ___ time. Let's have a coffee.", "options": ["a little", "little", "a few", "few"], "answer": 0, "explanation": { "tr": "Yeterli, sayılamaz → a little.", "tk": "Ýeterlik, sanalmaýan → a little.", "ru": "Достаточно, неисчисляемое → a little." } },
+        { "question": "She has ___ friends in Ashgabat.", "options": ["a lot of", "much", "a little", "any"], "answer": 0, "explanation": { "tr": "Olumlu → a lot of.", "tk": "Tassyklaýjy → a lot of.", "ru": "Утверждение → a lot of." } },
+        { "question": "We didn't see ___ animals in the zoo.", "options": ["some", "many", "much", "a little"], "answer": 1, "explanation": { "tr": "Olumsuz, sayılabilen → many.", "tk": "Ýokluk, sanalýan → many.", "ru": "Отрицание, исчисляемое → many." } },
+        { "question": "There's ___ sugar in my tea. It's not sweet.", "options": ["a little", "little", "few", "many"], "answer": 1, "explanation": { "tr": "Yetersiz → little.", "tk": "Ýetmezçilik → little.", "ru": "Недостаточно → little." } },
+        { "question": "I invited ten people, but ___ of them came.", "options": ["no", "none", "any", "nothing"], "answer": 1, "explanation": { "tr": "none of.", "tk": "none of.", "ru": "none of." } },
+        { "question": "Can I ask you ___ questions?", "options": ["a few", "a little", "much", "little"], "answer": 0, "explanation": { "tr": "Sayılabilen → a few.", "tk": "Sanalýan → a few.", "ru": "Исчисляемое → a few." } },
+        { "question": "Find the mistake: \"I don't have some money.\"", "options": ["I don't", "have", "some", "money"], "answer": 2, "explanation": { "tr": "Olumsuz → any.", "tk": "Ýokluk → any.", "ru": "Отрицание → any." } }
+      ]
+    }
+  }
+]

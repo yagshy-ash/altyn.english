@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Present Perfect: Negations in the Present Perfect",
+    "title": "Present Perfect: Negative Sentences",
+    "body": {
+      "explanation": {
+        "tr": "Present Perfect olumsuz biçimi:\n• haven't / hasn't + V3 (past participle)\n  I haven't finished my homework. She hasn't called yet.\n• I/you/we/they → haven't, he/she/it → hasn't\n• 'yet' olumsuz cümlelerde sona gelir: I haven't eaten yet. (Henüz yemedim.)\n• 'never' ile olumlu yapı olumsuz anlam verir: I have never been to Japan. (Never ile haven't kullanılmaz.)\nV3 örnekleri: do → done, see → seen, go → gone/been, eat → eaten, write → written.",
+        "tk": "Present Perfect-iň ýokluk görnüşi:\n• haven't / hasn't + V3 (past participle)\n  I haven't finished my homework. She hasn't called yet.\n• I/you/we/they → haven't, he/she/it → hasn't\n• 'yet' ýokluk sözlemlerde ahyrda gelýär: I haven't eaten yet. (Entek iýmedim.)\n• 'never' bilen tassyklaýjy gurluş ýokluk manyny berýär: I have never been to Japan. (Never bilen haven't ulanylmaýar.)\nV3 mysallary: do → done, see → seen, go → gone/been, eat → eaten, write → written.",
+        "ru": "Отрицательная форма Present Perfect:\n• haven't / hasn't + V3 (past participle)\n  I haven't finished my homework. She hasn't called yet.\n• I/you/we/they → haven't, he/she/it → hasn't\n• 'yet' в отрицаниях ставится в конец: I haven't eaten yet. (Я ещё не ел.)\n• 'never' с утвердительной формой даёт отрицательный смысл: I have never been to Japan. (С never haven't не используется.)\nПримеры V3: do → done, see → seen, go → gone/been, eat → eaten, write → written."
+      },
+      "examples": [
+        { "en": "I haven't seen that film yet.", "tr": "O filmi henüz görmedim.", "tk": "Ol filmi entek görmedim.", "ru": "Я ещё не видел этот фильм." },
+        { "en": "She hasn't answered my message.", "tr": "Mesajıma cevap vermedi.", "tk": "Ol meniň habaryma jogap bermedi.", "ru": "Она не ответила на моё сообщение." },
+        { "en": "We haven't decided where to go.", "tr": "Nereye gideceğimize karar vermedik.", "tk": "Nirä gitjekdigimizi heniz çözmedik.", "ru": "Мы ещё не решили, куда поехать." },
+        { "en": "He has never eaten sushi.", "tr": "Hiç suşi yemedi.", "tk": "Ol hiç haçan suşi iýmedi.", "ru": "Он никогда не ел суши." },
+        { "en": "The bus hasn't arrived yet.", "tr": "Otobüs henüz gelmedi.", "tk": "Awtobus entek gelmedi.", "ru": "Автобус ещё не пришёл." },
+        { "en": "They haven't paid the bill.", "tr": "Faturayı ödemediler.", "tk": "Olar hasaby tölemediler.", "ru": "Они не оплатили счёт." }
+      ],
+      "exercises": [
+        { "question": "I ___ my homework yet.", "options": ["haven't finished", "hasn't finished", "didn't finished", "haven't finish"], "answer": 0, "explanation": { "tr": "I → haven't + V3.", "tk": "I → haven't + V3.", "ru": "I → haven't + V3." } },
+        { "question": "She ___ the new teacher.", "options": ["haven't met", "hasn't met", "hasn't meet", "not has met"], "answer": 1, "explanation": { "tr": "she → hasn't + V3 (met).", "tk": "she → hasn't + V3 (met).", "ru": "she → hasn't + V3 (met)." } },
+        { "question": "We haven't ___ the tickets.", "options": ["buy", "bought", "buyed", "buying"], "answer": 1, "explanation": { "tr": "buy → bought (V3).", "tk": "buy → bought (V3).", "ru": "buy → bought (V3)." } },
+        { "question": "Put 'yet' in the correct place: \"He hasn't called.\"", "options": ["He yet hasn't called.", "He hasn't yet called.", "He hasn't called yet.", "Yet he hasn't called."], "answer": 2, "explanation": { "tr": "yet → cümle sonunda.", "tk": "yet → sözlemiň ahyrynda.", "ru": "yet → в конце предложения." } },
+        { "question": "My parents ___ to China.", "options": ["has never been", "have never been", "haven't never been", "never have went"], "answer": 1, "explanation": { "tr": "never ile haven't kullanılmaz; have never been.", "tk": "never bilen haven't ulanylmaýar; have never been.", "ru": "С never не нужен haven't: have never been." } },
+        { "question": "It ___ rained this month.", "options": ["haven't", "hasn't", "didn't", "isn't"], "answer": 1, "explanation": { "tr": "it → hasn't.", "tk": "it → hasn't.", "ru": "it → hasn't." } },
+        { "question": "They haven't ___ the letter.", "options": ["wrote", "writed", "written", "write"], "answer": 2, "explanation": { "tr": "write → written.", "tk": "write → written.", "ru": "write → written." } },
+        { "question": "Choose the correct sentence.", "options": ["I haven't never seen snow.", "I have never seen snow.", "I haven't saw snow.", "I hasn't seen snow."], "answer": 1, "explanation": { "tr": "have never + V3.", "tk": "have never + V3.", "ru": "have never + V3." } },
+        { "question": "The children ___ their lunch.", "options": ["hasn't eaten", "haven't eaten", "haven't ate", "didn't eaten"], "answer": 1, "explanation": { "tr": "children (çoğul) → haven't + eaten.", "tk": "children (köplük) → haven't + eaten.", "ru": "children (мн. ч.) → haven't + eaten." } },
+        { "question": "Find the mistake: \"He hasn't do his homework.\"", "options": ["He", "hasn't", "do", "his homework"], "answer": 2, "explanation": { "tr": "do → done.", "tk": "do → done.", "ru": "do → done." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Present Perfect: Present Perfect – Sentences",
+    "title": "Present Perfect: Positive Sentences",
+    "body": {
+      "explanation": {
+        "tr": "Present Perfect, geçmişte olan ama şimdiye bağlantısı olan eylemler için kullanılır.\n• Yapı: have / has + V3\n  I have lost my keys. (Şu an anahtarım yok.)\n  She has visited Paris three times. (Hayat deneyimi)\n• Kullanım: deneyimler (ever, never), yeni olaylar (just), sonuçlar (already), süre (for, since).\n• Kısaltma: I've, you've, he's, she's, we've, they've.\n• Zaman belirtilmez! I have seen him yesterday (✗).",
+        "tk": "Present Perfect geçmişde bolan, emma häzirki wagt bilen baglanyşygy bolan hereketler üçin ulanylýar.\n• Gurluşy: have / has + V3\n  I have lost my keys. (Häzir açarym ýok.)\n  She has visited Paris three times. (Durmuş tejribesi)\n• Ulanylyşy: tejribeler (ever, never), täze wakalar (just), netijeler (already), dowamlylyk (for, since).\n• Gysgaltma: I've, you've, he's, she's, we've, they've.\n• Anyk wagt aýdylmaýar! I have seen him yesterday (✗).",
+        "ru": "Present Perfect используется для действий в прошлом, связанных с настоящим.\n• Схема: have / has + V3\n  I have lost my keys. (Сейчас у меня нет ключей.)\n  She has visited Paris three times. (Жизненный опыт)\n• Употребление: опыт (ever, never), недавние события (just), результат (already), длительность (for, since).\n• Сокращения: I've, you've, he's, she's, we've, they've.\n• Точное время не указывается! I have seen him yesterday (✗)."
+      },
+      "examples": [
+        { "en": "I have just finished my lunch.", "tr": "Öğle yemeğimi az önce bitirdim.", "tk": "Günortanlyk naharymy ýaňy gutardym.", "ru": "Я только что закончил обед." },
+        { "en": "She has lived here for ten years.", "tr": "On yıldır burada yaşıyor.", "tk": "Ol on ýyl bäri şu ýerde ýaşaýar.", "ru": "Она живёт здесь десять лет." },
+        { "en": "We have already seen this film.", "tr": "Bu filmi zaten gördük.", "tk": "Biz bu filmi eýýäm gördük.", "ru": "Мы уже видели этот фильм." },
+        { "en": "He has broken his arm.", "tr": "Kolunu kırdı.", "tk": "Ol elini döwdi.", "ru": "Он сломал руку." },
+        { "en": "They have been to Ashgabat twice.", "tr": "Aşkabat'a iki kez gittiler.", "tk": "Olar Aşgabatda iki gezek boldular.", "ru": "Они были в Ашхабаде дважды." },
+        { "en": "I've known him since 2015.", "tr": "Onu 2015'ten beri tanıyorum.", "tk": "Men ony 2015-nji ýyldan bäri tanaýaryn.", "ru": "Я знаю его с 2015 года." }
+      ],
+      "exercises": [
+        { "question": "I ___ my wallet. I can't find it anywhere.", "options": ["have lost", "has lost", "lost have", "have lose"], "answer": 0, "explanation": { "tr": "I + have + V3.", "tk": "I + have + V3.", "ru": "I + have + V3." } },
+        { "question": "She ___ three books this month.", "options": ["have read", "has read", "has readed", "have reading"], "answer": 1, "explanation": { "tr": "she → has + read (V3).", "tk": "she → has + read (V3).", "ru": "she → has + read (V3)." } },
+        { "question": "We have ___ the new restaurant.", "options": ["try", "tryed", "tried", "trying"], "answer": 2, "explanation": { "tr": "try → tried.", "tk": "try → tried.", "ru": "try → tried." } },
+        { "question": "They ___ just arrived.", "options": ["has", "have", "are", "did"], "answer": 1, "explanation": { "tr": "they → have.", "tk": "they → have.", "ru": "they → have." } },
+        { "question": "He has ___ a cold.", "options": ["catch", "catched", "caught", "catching"], "answer": 2, "explanation": { "tr": "catch → caught.", "tk": "catch → caught.", "ru": "catch → caught." } },
+        { "question": "I have known her ___ ten years.", "options": ["since", "for", "ago", "from"], "answer": 1, "explanation": { "tr": "Süre → for.", "tk": "Dowamlylyk → for.", "ru": "Длительность → for." } },
+        { "question": "My dad has worked here ___ 2010.", "options": ["for", "since", "ago", "during"], "answer": 1, "explanation": { "tr": "Başlangıç noktası → since.", "tk": "Başlangyç nokady → since.", "ru": "Точка отсчёта → since." } },
+        { "question": "Choose the correct sentence.", "options": ["I have seen him yesterday.", "I saw him yesterday.", "I have saw him.", "I has seen him."], "answer": 1, "explanation": { "tr": "yesterday → Simple Past.", "tk": "yesterday → Simple Past.", "ru": "yesterday → Simple Past." } },
+        { "question": "The film ___ already started.", "options": ["have", "has", "is", "was"], "answer": 1, "explanation": { "tr": "the film → has.", "tk": "the film → has.", "ru": "the film → has." } },
+        { "question": "Find the mistake: \"She has went to the shop.\"", "options": ["She", "has", "went", "to the shop"], "answer": 2, "explanation": { "tr": "go → gone: has gone.", "tk": "go → gone: has gone.", "ru": "go → gone: has gone." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Present Perfect: Questions and short answers in the Present Perfect",
+    "title": "Present Perfect: Questions and Short Answers",
+    "body": {
+      "explanation": {
+        "tr": "Present Perfect'te soru:\n• Have / Has + özne + V3?\n  Have you finished? Has she called?\n• 'ever' deneyim sorar: Have you ever been to London?\n• Kısa cevaplar: Yes, I have. / No, I haven't. Yes, she has. / No, she hasn't.\n• 'yet' soruda sonda: Have you done it yet?\nKısa cevapta V3 tekrarlanmaz: Yes, I have. (✓) – Yes, I have finished. (uzun cevap)",
+        "tk": "Present Perfect-de sorag:\n• Have / Has + eýe + V3?\n  Have you finished? Has she called?\n• 'ever' tejribe barada soraýar: Have you ever been to London?\n• Gysga jogaplar: Yes, I have. / No, I haven't. Yes, she has. / No, she hasn't.\n• 'yet' soragda ahyrda: Have you done it yet?\nGysga jogapda V3 gaýtalanmaýar: Yes, I have. (✓) – Yes, I have finished. (uzyn jogap)",
+        "ru": "Вопросы в Present Perfect:\n• Have / Has + подлежащее + V3?\n  Have you finished? Has she called?\n• 'ever' спрашивает об опыте: Have you ever been to London?\n• Краткие ответы: Yes, I have. / No, I haven't. Yes, she has. / No, she hasn't.\n• 'yet' в вопросе — в конце: Have you done it yet?\nВ кратком ответе V3 не повторяется: Yes, I have. (✓) – Yes, I have finished. (полный ответ)"
+      },
+      "examples": [
+        { "en": "Have you ever ridden a horse? – Yes, I have.", "tr": "Hiç ata bindin mi? – Evet.", "tk": "Hiç ata mündüňmi? – Hawa.", "ru": "Ты когда-нибудь ездил на лошади? – Да." },
+        { "en": "Has he finished his work? – No, he hasn't.", "tr": "İşini bitirdi mi? – Hayır.", "tk": "Ol işini gutardymy? – Ýok.", "ru": "Он закончил работу? – Нет." },
+        { "en": "Have they arrived yet? – Yes, they have.", "tr": "Geldiler mi? – Evet.", "tk": "Olar geldilermi? – Hawa.", "ru": "Они уже приехали? – Да." },
+        { "en": "Has it stopped raining? – No, it hasn't.", "tr": "Yağmur durdu mu? – Hayır.", "tk": "Ýagyş kesildimi? – Ýok.", "ru": "Дождь прекратился? – Нет." },
+        { "en": "Have you seen my phone? – No, I haven't.", "tr": "Telefonumu gördün mü? – Hayır.", "tk": "Telefonymy gördüňmi? – Ýok.", "ru": "Ты видел мой телефон? – Нет." },
+        { "en": "Has your sister ever travelled abroad? – Yes, she has.", "tr": "Kız kardeşin hiç yurt dışına gitti mi? – Evet.", "tk": "Uýaň hiç daşary ýurda gitdimi? – Hawa.", "ru": "Твоя сестра когда-нибудь ездила за границу? – Да." }
+      ],
+      "exercises": [
+        { "question": "___ you ever eaten Turkmen plov?", "options": ["Has", "Have", "Did", "Do"], "answer": 1, "explanation": { "tr": "you → Have.", "tk": "you → Have.", "ru": "you → Have." } },
+        { "question": "___ she done her homework?", "options": ["Have", "Has", "Is", "Did"], "answer": 1, "explanation": { "tr": "she → Has.", "tk": "she → Has.", "ru": "she → Has." } },
+        { "question": "\"Have you seen the new film?\" – \"Yes, I ___.\"", "options": ["have", "did", "seen", "has"], "answer": 0, "explanation": { "tr": "Yes, I have.", "tk": "Yes, I have.", "ru": "Yes, I have." } },
+        { "question": "\"Has Tom called?\" – \"No, he ___.\"", "options": ["hasn't", "haven't", "didn't", "isn't"], "answer": 0, "explanation": { "tr": "No, he hasn't.", "tk": "No, he hasn't.", "ru": "No, he hasn't." } },
+        { "question": "Have they ___ the house yet?", "options": ["sell", "sold", "selled", "selling"], "answer": 1, "explanation": { "tr": "sell → sold.", "tk": "sell → sold.", "ru": "sell → sold." } },
+        { "question": "Put 'ever' in the correct place: \"Have you been to Italy?\"", "options": ["Have ever you been to Italy?", "Have you ever been to Italy?", "Have you been ever to Italy?", "Ever have you been to Italy?"], "answer": 1, "explanation": { "tr": "ever → özneden sonra, V3'ten önce.", "tk": "ever → eýeden soň, V3-den öň.", "ru": "ever → после подлежащего, перед V3." } },
+        { "question": "\"Have your friends arrived?\" – \"Yes, they ___.\"", "options": ["has", "have", "did", "are"], "answer": 1, "explanation": { "tr": "they → have.", "tk": "they → have.", "ru": "they → have." } },
+        { "question": "Has the shop ___?", "options": ["open", "opened", "opening", "opens"], "answer": 1, "explanation": { "tr": "open → opened (V3).", "tk": "open → opened (V3).", "ru": "open → opened (V3)." } },
+        { "question": "Choose the correct question.", "options": ["Have you finish?", "Has you finished?", "Have you finished?", "Did you have finished?"], "answer": 2, "explanation": { "tr": "Have + you + V3.", "tk": "Have + you + V3.", "ru": "Have + you + V3." } },
+        { "question": "\"Has it snowed this year?\" – \"No, it ___.\"", "options": ["didn't", "hasn't", "haven't", "wasn't"], "answer": 1, "explanation": { "tr": "it → hasn't.", "tk": "it → hasn't.", "ru": "it → hasn't." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Present Perfect: Questions in the Present Perfect",
+    "title": "Forming Present Perfect Questions",
+    "body": {
+      "explanation": {
+        "tr": "Present Perfect soru kurma adımları:\n1. have/has özneden önce gelir: You have seen it. → Have you seen it?\n2. Soru kelimesi en başa: Where have you been? What has she bought?\n3. How long + Present Perfect = ne zamandır: How long have you lived here?\n4. Özne sorusu: Who has taken my pen? (Who özne olduğu için has ondan sonra)\nV3 değişmez: Have you eaten? Has he written?",
+        "tk": "Present Perfect soragyny düzmegiň ädimleri:\n1. have/has eýeden öň gelýär: You have seen it. → Have you seen it?\n2. Sorag sözi iň başda: Where have you been? What has she bought?\n3. How long + Present Perfect = näçe wagtdan bäri: How long have you lived here?\n4. Eýe soragy: Who has taken my pen? (Who eýe bolany üçin has ondan soň)\nV3 üýtgemeýär: Have you eaten? Has he written?",
+        "ru": "Как построить вопрос в Present Perfect:\n1. have/has ставится перед подлежащим: You have seen it. → Have you seen it?\n2. Вопросительное слово — в самом начале: Where have you been? What has she bought?\n3. How long + Present Perfect = как долго: How long have you lived here?\n4. Вопрос к подлежащему: Who has taken my pen? (Who — подлежащее, has после него)\nV3 не меняется: Have you eaten? Has he written?"
+      },
+      "examples": [
+        { "en": "Where have you been?", "tr": "Neredeydin?", "tk": "Nirede bolduň?", "ru": "Где ты был?" },
+        { "en": "What has she cooked for dinner?", "tr": "Akşam yemeği için ne pişirdi?", "tk": "Ol agşamlyk üçin näme bişirdi?", "ru": "Что она приготовила на ужин?" },
+        { "en": "How long have you known Sara?", "tr": "Sara'yı ne zamandır tanıyorsun?", "tk": "Sarany näçe wagtdan bäri tanaýarsyň?", "ru": "Как долго ты знаешь Сару?" },
+        { "en": "Who has eaten my chocolate?", "tr": "Çikolatamı kim yedi?", "tk": "Meniň şokoladymy kim iýdi?", "ru": "Кто съел мой шоколад?" },
+        { "en": "How many countries have you visited?", "tr": "Kaç ülke ziyaret ettin?", "tk": "Näçe ýurda baryp gördüň?", "ru": "Сколько стран ты посетил?" },
+        { "en": "Why has he left so early?", "tr": "Neden bu kadar erken gitti?", "tk": "Ol näme üçin beýle ir gitdi?", "ru": "Почему он ушёл так рано?" }
+      ],
+      "exercises": [
+        { "question": "You have been to Spain. → ___ to Spain?", "options": ["Have you been", "Has you been", "Did you been", "You have been"], "answer": 0, "explanation": { "tr": "have özneden önce.", "tk": "have eýeden öň.", "ru": "have перед подлежащим." } },
+        { "question": "How long ___ she worked here?", "options": ["have", "has", "did", "is"], "answer": 1, "explanation": { "tr": "she → has.", "tk": "she → has.", "ru": "she → has." } },
+        { "question": "What ___ you done with my book?", "options": ["has", "did", "have", "are"], "answer": 2, "explanation": { "tr": "you → have.", "tk": "you → have.", "ru": "you → have." } },
+        { "question": "Who ___ opened the window?", "options": ["have", "has", "did have", "is"], "answer": 1, "explanation": { "tr": "Who (tekil özne) → has.", "tk": "Who (birlik eýe) → has.", "ru": "Who (ед. ч.) → has." } },
+        { "question": "How many films have you ___ this year?", "options": ["saw", "see", "seen", "seeing"], "answer": 2, "explanation": { "tr": "see → seen.", "tk": "see → seen.", "ru": "see → seen." } },
+        { "question": "Where ___ they gone?", "options": ["has", "have", "did", "are"], "answer": 1, "explanation": { "tr": "they → have.", "tk": "they → have.", "ru": "they → have." } },
+        { "question": "Choose the correct question.", "options": ["How long you have lived here?", "How long have you lived here?", "How long did you have lived here?", "How long has you lived here?"], "answer": 1, "explanation": { "tr": "How long + have + özne + V3.", "tk": "How long + have + eýe + V3.", "ru": "How long + have + подлежащее + V3." } },
+        { "question": "Why ___ the price gone up?", "options": ["have", "has", "is", "did"], "answer": 1, "explanation": { "tr": "the price → has.", "tk": "the price → has.", "ru": "the price → has." } },
+        { "question": "Have you ___ your grandparents recently?", "options": ["visit", "visited", "visiting", "visits"], "answer": 1, "explanation": { "tr": "V3: visited.", "tk": "V3: visited.", "ru": "V3: visited." } },
+        { "question": "Find the mistake: \"What have she bought?\"", "options": ["What", "have", "she", "bought"], "answer": 1, "explanation": { "tr": "she → has.", "tk": "she → has.", "ru": "she → has." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Present Perfect: Rules – Present Perfect",
+    "title": "Present Perfect: All the Rules",
+    "body": {
+      "explanation": {
+        "tr": "Present Perfect kuralları özeti:\n1. Yapı: have/has + V3. Olumsuz: haven't/hasn't + V3. Soru: Have/Has + özne + V3?\n2. Kullanım:\n• Hayat deneyimi (zaman belirsiz): I have been to Rome.\n• Şimdi etkisi süren geçmiş olay: She has broken her leg.\n• Şimdiye kadar devam eden durum: We have lived here since 2010 / for 5 years.\n• Yeni bitmiş eylem: He has just left.\n3. Sinyal kelimeler: ever, never, just, already, yet, so far, since, for, recently.\n4. Belli geçmiş zaman (yesterday, ago, in 2010) varsa Simple Past kullanılır.",
+        "tk": "Present Perfect düzgünleriniň jemi:\n1. Gurluşy: have/has + V3. Ýokluk: haven't/hasn't + V3. Sorag: Have/Has + eýe + V3?\n2. Ulanylyşy:\n• Durmuş tejribesi (wagty näbelli): I have been to Rome.\n• Täsiri häzir hem dowam edýän geçmiş waka: She has broken her leg.\n• Häzire çenli dowam edýän ýagdaý: We have lived here since 2010 / for 5 years.\n• Ýaňy tamamlanan hereket: He has just left.\n3. Alamat sözler: ever, never, just, already, yet, so far, since, for, recently.\n4. Belli geçmiş wagt (yesterday, ago, in 2010) bar bolsa, Simple Past ulanylýar.",
+        "ru": "Сводка правил Present Perfect:\n1. Схема: have/has + V3. Отрицание: haven't/hasn't + V3. Вопрос: Have/Has + подлежащее + V3?\n2. Употребление:\n• Жизненный опыт (время не указано): I have been to Rome.\n• Событие в прошлом с результатом сейчас: She has broken her leg.\n• Ситуация, длящаяся до сих пор: We have lived here since 2010 / for 5 years.\n• Только что завершённое действие: He has just left.\n3. Маркеры: ever, never, just, already, yet, so far, since, for, recently.\n4. Если указано время в прошлом (yesterday, ago, in 2010) — нужен Simple Past."
+      },
+      "examples": [
+        { "en": "I have never flown in a helicopter.", "tr": "Hiç helikopterle uçmadım.", "tk": "Men hiç haçan dikuçarda uçmadym.", "ru": "Я никогда не летал на вертолёте." },
+        { "en": "She has already eaten.", "tr": "O zaten yemek yedi.", "tk": "Ol eýýäm nahar iýdi.", "ru": "Она уже поела." },
+        { "en": "We have had three tests so far.", "tr": "Şimdiye kadar üç sınavımız oldu.", "tk": "Şu wagta çenli üç synagymyz boldy.", "ru": "Пока у нас было три контрольные." },
+        { "en": "He has just left the office.", "tr": "Ofisten az önce çıktı.", "tk": "Ol ýaňy edaradan çykdy.", "ru": "Он только что ушёл из офиса." },
+        { "en": "They have lived in this flat since 2018.", "tr": "2018'den beri bu dairede yaşıyorlar.", "tk": "Olar 2018-nji ýyldan bäri bu kwartirada ýaşaýarlar.", "ru": "Они живут в этой квартире с 2018 года." },
+        { "en": "Have you heard the news recently?", "tr": "Son zamanlarda haberleri duydun mu?", "tk": "Soňky wagtlarda habarlary eşitdiňmi?", "ru": "Ты слышал новости в последнее время?" }
+      ],
+      "exercises": [
+        { "question": "Which word is NOT a signal word for the Present Perfect?", "options": ["already", "yet", "yesterday", "since"], "answer": 2, "explanation": { "tr": "yesterday → Simple Past.", "tk": "yesterday → Simple Past.", "ru": "yesterday → Simple Past." } },
+        { "question": "I ___ this book three times.", "options": ["have read", "read have", "has read", "am reading"], "answer": 0, "explanation": { "tr": "Deneyim/sayı → Present Perfect.", "tk": "Tejribe/sany → Present Perfect.", "ru": "Опыт/количество раз → Present Perfect." } },
+        { "question": "She ___ her leg, so she can't walk.", "options": ["breaks", "has broken", "has broke", "is breaking"], "answer": 1, "explanation": { "tr": "Şimdiki sonuç → has broken.", "tk": "Häzirki netije → has broken.", "ru": "Результат сейчас → has broken." } },
+        { "question": "We have been friends ___ we were children.", "options": ["for", "since", "ago", "yet"], "answer": 1, "explanation": { "tr": "Başlangıç noktası → since.", "tk": "Başlangyç nokady → since.", "ru": "Точка отсчёта → since." } },
+        { "question": "I ___ him last week.", "options": ["have met", "met", "has met", "have meet"], "answer": 1, "explanation": { "tr": "last week → Simple Past: met.", "tk": "last week → Simple Past: met.", "ru": "last week → Simple Past: met." } },
+        { "question": "Has the post ___ yet?", "options": ["come", "came", "comed", "coming"], "answer": 0, "explanation": { "tr": "come → come (V3).", "tk": "come → come (V3).", "ru": "come → come (V3)." } },
+        { "question": "They have ___ finished their project.", "options": ["yet", "already", "ago", "since"], "answer": 1, "explanation": { "tr": "Olumlu cümlede 'zaten': already.", "tk": "Tassyklaýjy sözlemde 'eýýäm': already.", "ru": "В утверждении 'уже': already." } },
+        { "question": "He has lived in Mary ___ six months.", "options": ["since", "for", "from", "ago"], "answer": 1, "explanation": { "tr": "Süre → for.", "tk": "Dowamlylyk → for.", "ru": "Длительность → for." } },
+        { "question": "Choose the correct sentence.", "options": ["I have finished it two hours ago.", "I finished it two hours ago.", "I have finish it.", "I finished it already yet."], "answer": 1, "explanation": { "tr": "ago → Simple Past.", "tk": "ago → Simple Past.", "ru": "ago → Simple Past." } },
+        { "question": "Find the mistake: \"We haven't seen him since three weeks.\"", "options": ["We haven't", "seen him", "since", "three weeks"], "answer": 2, "explanation": { "tr": "Süre → for three weeks.", "tk": "Dowamlylyk → for three weeks.", "ru": "Длительность → for three weeks." } }
+      ]
+    }
+  }
+]

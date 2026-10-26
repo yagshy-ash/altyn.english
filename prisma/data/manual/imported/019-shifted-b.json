@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Shifted: Simple Past → Simple Present",
+    "title": "Change Simple Past into Simple Present",
+    "body": {
+      "explanation": {
+        "tr": "Simple Past cümlesini Simple Present'e çevir:\n• She worked yesterday. → She works every day.\nAdımlar:\n1. Fiilin yalın hâlini bul: worked → work, went → go, bought → buy, was → is\n2. he/she/it ise -s/-es ekle: went → goes, watched → watches, studied → studies, had → has\n3. I/you/we/they ile ek yok: they went → they go\nbe: was → am/is, were → are",
+        "tk": "Simple Past sözlemini Simple Present-e öwür:\n• She worked yesterday. → She works every day.\nÄdimler:\n1. Işligiň esasy görnüşini tap: worked → work, went → go, bought → buy, was → is\n2. he/she/it bolsa -s/-es goş: went → goes, watched → watches, studied → studies, had → has\n3. I/you/we/they bilen goşulma ýok: they went → they go\nbe: was → am/is, were → are",
+        "ru": "Преобразуй Simple Past в Simple Present:\n• She worked yesterday. → She works every day.\nШаги:\n1. Найди начальную форму: worked → work, went → go, bought → buy, was → is\n2. Для he/she/it добавь -s/-es: went → goes, watched → watches, studied → studies, had → has\n3. С I/you/we/they без окончания: they went → they go\nbe: was → am/is, were → are"
+      },
+      "examples": [
+        { "en": "She went to school. → She goes to school.", "tr": "Okula gider.", "tk": "Ol mekdebe gidýär.", "ru": "Она ходит в школу." },
+        { "en": "They bought bread. → They buy bread.", "tr": "Ekmek alırlar.", "tk": "Olar çörek satyn alýarlar.", "ru": "Они покупают хлеб." },
+        { "en": "He watched TV. → He watches TV.", "tr": "Televizyon izler.", "tk": "Ol telewizor görýär.", "ru": "Он смотрит телевизор." },
+        { "en": "I was tired. → I am tired.", "tr": "Yorgunum.", "tk": "Men ýadaw.", "ru": "Я устал." },
+        { "en": "We had a dog. → We have a dog.", "tr": "Bir köpeğimiz var.", "tk": "Biziň itimiz bar.", "ru": "У нас есть собака." },
+        { "en": "My brother studied a lot. → My brother studies a lot.", "tr": "Kardeşim çok ders çalışır.", "tk": "Doganym köp okaýar.", "ru": "Мой брат много занимается." }
+      ],
+      "exercises": [
+        { "question": "He played football. → Simple Present:", "options": ["He play football.", "He plays football.", "He playes football.", "He is play football."], "answer": 1, "explanation": { "tr": "he → plays.", "tk": "he → plays.", "ru": "he → plays." } },
+        { "question": "We went home. → Simple Present:", "options": ["We goes home.", "We go home.", "We went home.", "We gone home."], "answer": 1, "explanation": { "tr": "went → go.", "tk": "went → go.", "ru": "went → go." } },
+        { "question": "She had lunch at 1. → Simple Present:", "options": ["She have lunch at 1.", "She has lunch at 1.", "She haves lunch at 1.", "She is have lunch at 1."], "answer": 1, "explanation": { "tr": "she + have → has.", "tk": "she + have → has.", "ru": "she + have → has." } },
+        { "question": "I was happy. → Simple Present:", "options": ["I is happy.", "I am happy.", "I are happy.", "I be happy."], "answer": 1, "explanation": { "tr": "was → am.", "tk": "was → am.", "ru": "was → am." } },
+        { "question": "They were late. → Simple Present:", "options": ["They is late.", "They are late.", "They am late.", "They be late."], "answer": 1, "explanation": { "tr": "were → are.", "tk": "were → are.", "ru": "were → are." } },
+        { "question": "My mum cooked dinner. → Simple Present:", "options": ["My mum cook dinner.", "My mum cooks dinner.", "My mum cookes dinner.", "My mum cooked dinner."], "answer": 1, "explanation": { "tr": "mum → cooks.", "tk": "mum → cooks.", "ru": "mum → cooks." } },
+        { "question": "He did the dishes. → Simple Present:", "options": ["He dos the dishes.", "He does the dishes.", "He do the dishes.", "He doing the dishes."], "answer": 1, "explanation": { "tr": "did → does.", "tk": "did → does.", "ru": "did → does." } },
+        { "question": "She flew to Baku. → Simple Present:", "options": ["She flys to Baku.", "She flies to Baku.", "She fly to Baku.", "She flew to Baku."], "answer": 1, "explanation": { "tr": "fly → flies.", "tk": "fly → flies.", "ru": "fly → flies." } },
+        { "question": "It was cold. → Simple Present:", "options": ["It are cold.", "It is cold.", "It am cold.", "It be cold."], "answer": 1, "explanation": { "tr": "was → is.", "tk": "was → is.", "ru": "was → is." } },
+        { "question": "The children slept well. → Simple Present:", "options": ["The children sleeps well.", "The children sleep well.", "The children slept well.", "The children sleeping well."], "answer": 1, "explanation": { "tr": "children (çoğul) → sleep.", "tk": "children (köplük) → sleep.", "ru": "children (мн. ч.) → sleep." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Shifted: Simple Past → Simple Present – Negation",
+    "title": "Negatives: Simple Past → Simple Present",
+    "body": {
+      "explanation": {
+        "tr": "Olumsuz Simple Past cümlesini olumsuz Simple Present'e çevir:\n• I didn't work. → I don't work.\n• She didn't work. → She doesn't work.\n• They didn't work. → They don't work.\nKural: didn't → don't (I/you/we/they) veya doesn't (he/she/it). Fiil yalın kalır.\nbe: wasn't → isn't / am not, weren't → aren't",
+        "tk": "Ýokluk Simple Past sözlemini ýokluk Simple Present-e öwür:\n• I didn't work. → I don't work.\n• She didn't work. → She doesn't work.\n• They didn't work. → They don't work.\nDüzgün: didn't → don't (I/you/we/they) ýa-da doesn't (he/she/it). Işlik esasy görnüşde galýar.\nbe: wasn't → isn't / am not, weren't → aren't",
+        "ru": "Преобразуй отрицание из Simple Past в Simple Present:\n• I didn't work. → I don't work.\n• She didn't work. → She doesn't work.\n• They didn't work. → They don't work.\nПравило: didn't → don't (I/you/we/they) или doesn't (he/she/it). Глагол в начальной форме.\nbe: wasn't → isn't / am not, weren't → aren't"
+      },
+      "examples": [
+        { "en": "She didn't eat meat. → She doesn't eat meat.", "tr": "Et yemez.", "tk": "Ol et iýmeýär.", "ru": "Она не ест мясо." },
+        { "en": "We didn't watch TV. → We don't watch TV.", "tr": "Televizyon izlemeyiz.", "tk": "Biz telewizor görmeýäris.", "ru": "Мы не смотрим телевизор." },
+        { "en": "He wasn't at home. → He isn't at home.", "tr": "Evde değil.", "tk": "Ol öýde däl.", "ru": "Его нет дома." },
+        { "en": "They weren't ready. → They aren't ready.", "tr": "Hazır değiller.", "tk": "Olar taýýar däl.", "ru": "Они не готовы." },
+        { "en": "I didn't like it. → I don't like it.", "tr": "Beğenmiyorum.", "tk": "Ol maňa ýaramaýar.", "ru": "Мне это не нравится." },
+        { "en": "It didn't work. → It doesn't work.", "tr": "Çalışmıyor.", "tk": "Ol işlemeýär.", "ru": "Это не работает." }
+      ],
+      "exercises": [
+        { "question": "He didn't drive. → Simple Present:", "options": ["He don't drive.", "He doesn't drive.", "He doesn't drives.", "He didn't drive."], "answer": 1, "explanation": { "tr": "he → doesn't.", "tk": "he → doesn't.", "ru": "he → doesn't." } },
+        { "question": "We didn't know. → Simple Present:", "options": ["We doesn't know.", "We don't know.", "We don't knows.", "We not know."], "answer": 1, "explanation": { "tr": "we → don't.", "tk": "we → don't.", "ru": "we → don't." } },
+        { "question": "I wasn't hungry. → Simple Present:", "options": ["I isn't hungry.", "I'm not hungry.", "I don't hungry.", "I aren't hungry."], "answer": 1, "explanation": { "tr": "wasn't → am not.", "tk": "wasn't → am not.", "ru": "wasn't → am not." } },
+        { "question": "They weren't friends. → Simple Present:", "options": ["They aren't friends.", "They isn't friends.", "They don't friends.", "They weren't friends."], "answer": 0, "explanation": { "tr": "weren't → aren't.", "tk": "weren't → aren't.", "ru": "weren't → aren't." } },
+        { "question": "She didn't sing. → Simple Present:", "options": ["She don't sing.", "She doesn't sing.", "She doesn't sings.", "She isn't sing."], "answer": 1, "explanation": { "tr": "she → doesn't sing.", "tk": "she → doesn't sing.", "ru": "she → doesn't sing." } },
+        { "question": "It wasn't expensive. → Simple Present:", "options": ["It isn't expensive.", "It doesn't expensive.", "It aren't expensive.", "It not expensive."], "answer": 0, "explanation": { "tr": "wasn't → isn't.", "tk": "wasn't → isn't.", "ru": "wasn't → isn't." } },
+        { "question": "My parents didn't smoke. → Simple Present:", "options": ["My parents doesn't smoke.", "My parents don't smoke.", "My parents don't smokes.", "My parents aren't smoke."], "answer": 1, "explanation": { "tr": "parents → don't.", "tk": "parents → don't.", "ru": "parents → don't." } },
+        { "question": "You didn't listen. → Simple Present:", "options": ["You don't listen.", "You doesn't listen.", "You aren't listen.", "You not listen."], "answer": 0, "explanation": { "tr": "you → don't.", "tk": "you → don't.", "ru": "you → don't." } },
+        { "question": "The bus didn't stop here. → Simple Present:", "options": ["The bus don't stop here.", "The bus doesn't stop here.", "The bus doesn't stops here.", "The bus isn't stop here."], "answer": 1, "explanation": { "tr": "bus → doesn't.", "tk": "bus → doesn't.", "ru": "bus → doesn't." } },
+        { "question": "Find the mistake: \"He doesn't went to school.\"", "options": ["He", "doesn't", "went", "to school"], "answer": 2, "explanation": { "tr": "doesn't + go.", "tk": "doesn't + go.", "ru": "doesn't + go." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Shifted: Simple Past → Simple Present – Questions",
+    "title": "Questions: Simple Past → Simple Present",
+    "body": {
+      "explanation": {
+        "tr": "Simple Past sorusunu Simple Present sorusuna çevir:\n• Did you work? → Do you work?\n• Did she work? → Does she work?\n• Where did they live? → Where do they live?\nKural: Did → Do (I/you/we/they) veya Does (he/she/it). Fiil yalın kalır.\nbe: Was he...? → Is he...? Were they...? → Are they...?",
+        "tk": "Simple Past soragyny Simple Present soragyna öwür:\n• Did you work? → Do you work?\n• Did she work? → Does she work?\n• Where did they live? → Where do they live?\nDüzgün: Did → Do (I/you/we/they) ýa-da Does (he/she/it). Işlik esasy görnüşde galýar.\nbe: Was he...? → Is he...? Were they...? → Are they...?",
+        "ru": "Преобразуй вопрос из Simple Past в Simple Present:\n• Did you work? → Do you work?\n• Did she work? → Does she work?\n• Where did they live? → Where do they live?\nПравило: Did → Do (I/you/we/they) или Does (he/she/it). Глагол в начальной форме.\nbe: Was he...? → Is he...? Were they...? → Are they...?"
+      },
+      "examples": [
+        { "en": "Did you like it? → Do you like it?", "tr": "Beğeniyor musun?", "tk": "Ol saňa ýaraýarmy?", "ru": "Тебе это нравится?" },
+        { "en": "Did he play? → Does he play?", "tr": "Oynar mı?", "tk": "Ol oýnaýarmy?", "ru": "Он играет?" },
+        { "en": "Where did they live? → Where do they live?", "tr": "Nerede yaşıyorlar?", "tk": "Olar nirede ýaşaýarlar?", "ru": "Где они живут?" },
+        { "en": "Was she at work? → Is she at work?", "tr": "İşte mi?", "tk": "Ol işdemi?", "ru": "Она на работе?" },
+        { "en": "Were you busy? → Are you busy?", "tr": "Meşgul müsün?", "tk": "Sen meşgulmy?", "ru": "Ты занят?" },
+        { "en": "What did he say? → What does he say?", "tr": "Ne diyor?", "tk": "Ol näme diýýär?", "ru": "Что он говорит?" }
+      ],
+      "exercises": [
+        { "question": "Did she call? → Simple Present:", "options": ["Do she call?", "Does she call?", "Does she calls?", "Is she call?"], "answer": 1, "explanation": { "tr": "she → Does.", "tk": "she → Does.", "ru": "she → Does." } },
+        { "question": "Did they swim? → Simple Present:", "options": ["Does they swim?", "Do they swim?", "Do they swims?", "Are they swim?"], "answer": 1, "explanation": { "tr": "they → Do.", "tk": "they → Do.", "ru": "they → Do." } },
+        { "question": "Was it cold? → Simple Present:", "options": ["Does it cold?", "Is it cold?", "Are it cold?", "Do it cold?"], "answer": 1, "explanation": { "tr": "Was → Is.", "tk": "Was → Is.", "ru": "Was → Is." } },
+        { "question": "Where did he work? → Simple Present:", "options": ["Where do he work?", "Where does he work?", "Where does he works?", "Where is he work?"], "answer": 1, "explanation": { "tr": "did → does.", "tk": "did → does.", "ru": "did → does." } },
+        { "question": "Were you ready? → Simple Present:", "options": ["Are you ready?", "Is you ready?", "Do you ready?", "Am you ready?"], "answer": 0, "explanation": { "tr": "Were → Are.", "tk": "Were → Are.", "ru": "Were → Are." } },
+        { "question": "What did you eat? → Simple Present:", "options": ["What does you eat?", "What do you eat?", "What do you eats?", "What are you eat?"], "answer": 1, "explanation": { "tr": "did → do.", "tk": "did → do.", "ru": "did → do." } },
+        { "question": "Did your dog bark? → Simple Present:", "options": ["Do your dog bark?", "Does your dog bark?", "Does your dog barks?", "Is your dog bark?"], "answer": 1, "explanation": { "tr": "dog → Does.", "tk": "dog → Does.", "ru": "dog → Does." } },
+        { "question": "When did the film start? → Simple Present:", "options": ["When do the film start?", "When does the film start?", "When does the film starts?", "When is the film start?"], "answer": 1, "explanation": { "tr": "film → does.", "tk": "film → does.", "ru": "film → does." } },
+        { "question": "Did we win? → Simple Present:", "options": ["Do we win?", "Does we win?", "Are we win?", "Do we wins?"], "answer": 0, "explanation": { "tr": "we → Do.", "tk": "we → Do.", "ru": "we → Do." } },
+        { "question": "Find the mistake: \"Does she likes tea?\"", "options": ["Does", "she", "likes", "tea"], "answer": 2, "explanation": { "tr": "Does + like.", "tk": "Does + like.", "ru": "Does + like." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Shifted: Simple Present → Present Progressive",
+    "title": "Change Simple Present into Present Progressive",
+    "body": {
+      "explanation": {
+        "tr": "Simple Present (genelde) cümlesini Present Progressive'e (şu an) çevir:\n• She reads. → She is reading.\n• They play. → They are playing.\nAdımlar:\n1. Özneye göre am/is/are ekle.\n2. Fiildeki -s/-es'i kaldır ve -ing ekle: reads → reading, watches → watching, writes → writing, runs → running",
+        "tk": "Simple Present (adatça) sözlemini Present Progressive-e (häzir) öwür:\n• She reads. → She is reading.\n• They play. → They are playing.\nÄdimler:\n1. Eýä görä am/is/are goş.\n2. Işlikdäki -s/-es-i aýyryp -ing goş: reads → reading, watches → watching, writes → writing, runs → running",
+        "ru": "Преобразуй Simple Present (обычно) в Present Progressive (сейчас):\n• She reads. → She is reading.\n• They play. → They are playing.\nШаги:\n1. Добавь am/is/are по подлежащему.\n2. Убери -s/-es и добавь -ing: reads → reading, watches → watching, writes → writing, runs → running"
+      },
+      "examples": [
+        { "en": "She reads. → She is reading.", "tr": "Okuyor.", "tk": "Ol okaýar.", "ru": "Она читает (сейчас)." },
+        { "en": "They play. → They are playing.", "tr": "Oynuyorlar.", "tk": "Olar oýnaýarlar.", "ru": "Они играют (сейчас)." },
+        { "en": "I write. → I am writing.", "tr": "Yazıyorum.", "tk": "Men ýazýaryn.", "ru": "Я пишу (сейчас)." },
+        { "en": "He runs. → He is running.", "tr": "Koşuyor.", "tk": "Ol ylgaýar.", "ru": "Он бежит." },
+        { "en": "We watch TV. → We are watching TV.", "tr": "Televizyon izliyoruz.", "tk": "Biz telewizor görýäris.", "ru": "Мы смотрим телевизор." },
+        { "en": "The cat sleeps. → The cat is sleeping.", "tr": "Kedi uyuyor.", "tk": "Pişik ýatyr.", "ru": "Кошка спит." }
+      ],
+      "exercises": [
+        { "question": "He cooks. → Present Progressive:", "options": ["He is cooking.", "He are cooking.", "He cooking.", "He is cooks."], "answer": 0, "explanation": { "tr": "is + cooking.", "tk": "is + cooking.", "ru": "is + cooking." } },
+        { "question": "I sing. → Present Progressive:", "options": ["I is singing.", "I am singing.", "I singing.", "I am sing."], "answer": 1, "explanation": { "tr": "I → am + singing.", "tk": "I → am + singing.", "ru": "I → am + singing." } },
+        { "question": "They swim. → Present Progressive:", "options": ["They are swiming.", "They are swimming.", "They is swimming.", "They swimming."], "answer": 1, "explanation": { "tr": "swim → swimming.", "tk": "swim → swimming.", "ru": "swim → swimming." } },
+        { "question": "She dances. → Present Progressive:", "options": ["She is danceing.", "She is dancing.", "She are dancing.", "She is dances."], "answer": 1, "explanation": { "tr": "dance → dancing.", "tk": "dance → dancing.", "ru": "dance → dancing." } },
+        { "question": "We drink tea. → Present Progressive:", "options": ["We are drinking tea.", "We is drinking tea.", "We drinking tea.", "We are drinks tea."], "answer": 0, "explanation": { "tr": "we → are + -ing.", "tk": "we → are + -ing.", "ru": "we → are + -ing." } },
+        { "question": "The baby cries. → Present Progressive:", "options": ["The baby is cring.", "The baby is crying.", "The baby are crying.", "The baby is cries."], "answer": 1, "explanation": { "tr": "cry → crying.", "tk": "cry → crying.", "ru": "cry → crying." } },
+        { "question": "You sit here. → Present Progressive:", "options": ["You are siting here.", "You are sitting here.", "You is sitting here.", "You sitting here."], "answer": 1, "explanation": { "tr": "sit → sitting.", "tk": "sit → sitting.", "ru": "sit → sitting." } },
+        { "question": "It snows. → Present Progressive:", "options": ["It is snowing.", "It are snowing.", "It is snowwing.", "It snowing."], "answer": 0, "explanation": { "tr": "it → is + snowing.", "tk": "it → is + snowing.", "ru": "it → is + snowing." } },
+        { "question": "My friends wait. → Present Progressive:", "options": ["My friends is waiting.", "My friends are waiting.", "My friends waiting.", "My friends are waits."], "answer": 1, "explanation": { "tr": "friends → are.", "tk": "friends → are.", "ru": "friends → are." } },
+        { "question": "He lies on the sofa. → Present Progressive:", "options": ["He is lieing on the sofa.", "He is lying on the sofa.", "He is liing on the sofa.", "He are lying on the sofa."], "answer": 1, "explanation": { "tr": "lie → lying.", "tk": "lie → lying.", "ru": "lie → lying." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Shifted: Simple Present → Present Progressive – Negation",
+    "title": "Negatives: Simple Present → Present Progressive",
+    "body": {
+      "explanation": {
+        "tr": "Olumsuz Simple Present cümlesini olumsuz Present Progressive'e çevir:\n• I don't work. → I'm not working.\n• She doesn't work. → She isn't working.\n• They don't work. → They aren't working.\nKural: don't → am not / aren't; doesn't → isn't. Fiile -ing eklenir.",
+        "tk": "Ýokluk Simple Present sözlemini ýokluk Present Progressive-e öwür:\n• I don't work. → I'm not working.\n• She doesn't work. → She isn't working.\n• They don't work. → They aren't working.\nDüzgün: don't → am not / aren't; doesn't → isn't. Işlige -ing goşulýar.",
+        "ru": "Преобразуй отрицание из Simple Present в Present Progressive:\n• I don't work. → I'm not working.\n• She doesn't work. → She isn't working.\n• They don't work. → They aren't working.\nПравило: don't → am not / aren't; doesn't → isn't. К глаголу добавляется -ing."
+      },
+      "examples": [
+        { "en": "I don't sleep. → I'm not sleeping.", "tr": "Uyumuyorum.", "tk": "Men ýatamok.", "ru": "Я не сплю (сейчас)." },
+        { "en": "He doesn't listen. → He isn't listening.", "tr": "Dinlemiyor.", "tk": "Ol diňlänok.", "ru": "Он не слушает." },
+        { "en": "We don't eat. → We aren't eating.", "tr": "Yemek yemiyoruz.", "tk": "Biz iýmeýäris.", "ru": "Мы не едим (сейчас)." },
+        { "en": "It doesn't rain. → It isn't raining.", "tr": "Yağmur yağmıyor.", "tk": "Ýagyş ýagmaýar.", "ru": "Дождя нет (сейчас)." },
+        { "en": "They don't run. → They aren't running.", "tr": "Koşmuyorlar.", "tk": "Olar ylgamaýarlar.", "ru": "Они не бегут." },
+        { "en": "She doesn't write. → She isn't writing.", "tr": "Yazmıyor.", "tk": "Ol ýazmaýar.", "ru": "Она не пишет (сейчас)." }
+      ],
+      "exercises": [
+        { "question": "She doesn't cook. → Present Progressive:", "options": ["She isn't cooking.", "She aren't cooking.", "She doesn't cooking.", "She isn't cook."], "answer": 0, "explanation": { "tr": "doesn't → isn't + -ing.", "tk": "doesn't → isn't + -ing.", "ru": "doesn't → isn't + -ing." } },
+        { "question": "I don't read. → Present Progressive:", "options": ["I isn't reading.", "I'm not reading.", "I don't reading.", "I aren't reading."], "answer": 1, "explanation": { "tr": "I → I'm not.", "tk": "I → I'm not.", "ru": "I → I'm not." } },
+        { "question": "We don't play. → Present Progressive:", "options": ["We aren't playing.", "We isn't playing.", "We don't playing.", "We aren't play."], "answer": 0, "explanation": { "tr": "we → aren't.", "tk": "we → aren't.", "ru": "we → aren't." } },
+        { "question": "He doesn't swim. → Present Progressive:", "options": ["He isn't swiming.", "He isn't swimming.", "He aren't swimming.", "He doesn't swimming."], "answer": 1, "explanation": { "tr": "swim → swimming.", "tk": "swim → swimming.", "ru": "swim → swimming." } },
+        { "question": "They don't dance. → Present Progressive:", "options": ["They aren't dancing.", "They aren't danceing.", "They isn't dancing.", "They don't dancing."], "answer": 0, "explanation": { "tr": "dance → dancing.", "tk": "dance → dancing.", "ru": "dance → dancing." } },
+        { "question": "It doesn't work. → Present Progressive:", "options": ["It isn't working.", "It aren't working.", "It doesn't working.", "It not working."], "answer": 0, "explanation": { "tr": "it → isn't.", "tk": "it → isn't.", "ru": "it → isn't." } },
+        { "question": "You don't listen. → Present Progressive:", "options": ["You isn't listening.", "You aren't listening.", "You don't listening.", "You aren't listen."], "answer": 1, "explanation": { "tr": "you → aren't.", "tk": "you → aren't.", "ru": "you → aren't." } },
+        { "question": "My dad doesn't drive. → Present Progressive:", "options": ["My dad isn't driving.", "My dad aren't driving.", "My dad isn't driveing.", "My dad doesn't driving."], "answer": 0, "explanation": { "tr": "drive → driving.", "tk": "drive → driving.", "ru": "drive → driving." } },
+        { "question": "The kids don't sit. → Present Progressive:", "options": ["The kids isn't sitting.", "The kids aren't sitting.", "The kids aren't siting.", "The kids don't sitting."], "answer": 1, "explanation": { "tr": "sit → sitting.", "tk": "sit → sitting.", "ru": "sit → sitting." } },
+        { "question": "Find the mistake: \"She isn't sleep now.\"", "options": ["She", "isn't", "sleep", "now"], "answer": 2, "explanation": { "tr": "sleep → sleeping.", "tk": "sleep → sleeping.", "ru": "sleep → sleeping." } }
+      ]
+    }
+  }
+]

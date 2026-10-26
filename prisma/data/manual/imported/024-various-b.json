@@ -1,0 +1,101 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Tenses – Various exercises: Gerund or Progressive",
+    "title": "-ing Form: Gerund or Progressive Tense?",
+    "body": {
+      "explanation": {
+        "tr": "Bir -ing kelimesi iki farklı görevde olabilir:\n• Progressive zaman: be (am/is/are/was/were/been) + V-ing → fiil görevinde, eylem devam ediyor.\n  They were swimming. She has been working.\n• Gerund: isim görevinde; özne, nesne veya edattan sonra.\n  Swimming is fun. I enjoy swimming. She's good at swimming.\nTest: -ing'in yerine bir isim (ör. 'football') koyabiliyorsan büyük ihtimalle gerund'dur: I enjoy football ✓ → I enjoy swimming = gerund.",
+        "tk": "-ing sözi iki dürli wezipede bolup biler:\n• Progressive zaman: be (am/is/are/was/were/been) + V-ing → işlik wezipesinde, hereket dowam edýär.\n  They were swimming. She has been working.\n• Gerund: at wezipesinde; eýe, doldurgyç ýa-da sözlemden soň.\n  Swimming is fun. I enjoy swimming. She's good at swimming.\nBarlag: -ing-iň ýerine at (mysal üçin 'football') goýup bilseň, ol köplenç gerund: I enjoy football ✓ → I enjoy swimming = gerund.",
+        "ru": "Слово на -ing может выполнять две разные роли:\n• Progressive (длительное время): be (am/is/are/was/were/been) + V-ing → это глагол, действие в процессе.\n  They were swimming. She has been working.\n• Gerund: роль существительного; подлежащее, дополнение или после предлога.\n  Swimming is fun. I enjoy swimming. She's good at swimming.\nПроверка: если на место -ing можно поставить существительное (например, 'football'), скорее всего это герундий: I enjoy football ✓ → I enjoy swimming = герундий."
+      },
+      "examples": [
+        { "en": "They were swimming in the lake. (progressive)", "tr": "Gölde yüzüyorlardı.", "tk": "Olar kölde ýüzýärdiler.", "ru": "Они плавали в озере." },
+        { "en": "Swimming is good for you. (gerund)", "tr": "Yüzmek sana iyi gelir.", "tk": "Ýüzmek saňa peýdaly.", "ru": "Плавание полезно." },
+        { "en": "She has been working all day. (progressive)", "tr": "Bütün gün çalışıyor.", "tk": "Ol bütin gün işleýär.", "ru": "Она работает весь день." },
+        { "en": "Working at night is hard. (gerund)", "tr": "Gece çalışmak zordur.", "tk": "Gijesine işlemek kyn.", "ru": "Работать ночью тяжело." },
+        { "en": "I'm interested in learning Chinese. (gerund)", "tr": "Çince öğrenmekle ilgileniyorum.", "tk": "Men hytaý dilini öwrenmek bilen gyzyklanýaryn.", "ru": "Мне интересно изучать китайский." },
+        { "en": "I'm learning Chinese this year. (progressive)", "tr": "Bu yıl Çince öğreniyorum.", "tk": "Men bu ýyl hytaý dilini öwrenýärin.", "ru": "В этом году я учу китайский." }
+      ],
+      "exercises": [
+        { "question": "\"Reading helps you relax.\" — reading is:", "options": ["a gerund", "a progressive form"], "answer": 0, "explanation": { "tr": "Özne → gerund.", "tk": "Eýe → gerund.", "ru": "Подлежащее → герундий." } },
+        { "question": "\"She was reading when I called.\" — reading is:", "options": ["a gerund", "a progressive form"], "answer": 1, "explanation": { "tr": "was + -ing → progressive.", "tk": "was + -ing → progressive.", "ru": "was + -ing → progressive." } },
+        { "question": "\"He is afraid of flying.\" — flying is:", "options": ["a gerund", "a progressive form"], "answer": 0, "explanation": { "tr": "Edattan sonra → gerund.", "tk": "Sözlemden soň → gerund.", "ru": "После предлога → герундий." } },
+        { "question": "\"We have been waiting for ages.\" — waiting is:", "options": ["a gerund", "a progressive form"], "answer": 1, "explanation": { "tr": "have been + -ing.", "tk": "have been + -ing.", "ru": "have been + -ing." } },
+        { "question": "\"My hobby is collecting stamps.\" — collecting is:", "options": ["a gerund", "a progressive form"], "answer": 0, "explanation": { "tr": "hobby = collecting (isim).", "tk": "hobby = collecting (at).", "ru": "hobby = collecting (существительное)." } },
+        { "question": "\"The children are collecting shells.\" — collecting is:", "options": ["a gerund", "a progressive form"], "answer": 1, "explanation": { "tr": "are + -ing → şu an.", "tk": "are + -ing → häzir.", "ru": "are + -ing → сейчас." } },
+        { "question": "Which sentence has a gerund?", "options": ["She is cooking.", "I hate cooking.", "They were cooking.", "He has been cooking."], "answer": 1, "explanation": { "tr": "hate + gerund.", "tk": "hate + gerund.", "ru": "hate + герундий." } },
+        { "question": "Which sentence has a progressive form?", "options": ["Smoking is unhealthy.", "He gave up smoking.", "He is smoking outside.", "No smoking!"], "answer": 2, "explanation": { "tr": "is + -ing.", "tk": "is + -ing.", "ru": "is + -ing." } },
+        { "question": "Complete: \"I'm tired of ___ the same thing.\"", "options": ["hear", "hearing", "to hear", "heard"], "answer": 1, "explanation": { "tr": "of + gerund.", "tk": "of + gerund.", "ru": "of + герундий." } },
+        { "question": "Complete: \"Shh! The baby ___.\"", "options": ["sleeping", "is sleeping", "to sleep", "sleep"], "answer": 1, "explanation": { "tr": "Progressive: is sleeping.", "tk": "Progressive: is sleeping.", "ru": "Progressive: is sleeping." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Various exercises: Negative sentences in English",
+    "title": "Negative Sentences in Different Tenses",
+    "body": {
+      "explanation": {
+        "tr": "Her zamanda olumsuz cümle:\n• Simple Present: don't / doesn't + fiil → He doesn't smoke.\n• Present Progressive: am not / isn't / aren't + -ing → They aren't listening.\n• Simple Past: didn't + fiil → I didn't go.\n• Past Progressive: wasn't / weren't + -ing → She wasn't sleeping.\n• Present Perfect: haven't / hasn't + V3 → We haven't finished.\n• will-future: won't + fiil → It won't rain.\n• Modallar: can't, mustn't, shouldn't + fiil\n• be: am not / isn't / aren't / wasn't / weren't",
+        "tk": "Her zamanda ýokluk sözlem:\n• Simple Present: don't / doesn't + işlik → He doesn't smoke.\n• Present Progressive: am not / isn't / aren't + -ing → They aren't listening.\n• Simple Past: didn't + işlik → I didn't go.\n• Past Progressive: wasn't / weren't + -ing → She wasn't sleeping.\n• Present Perfect: haven't / hasn't + V3 → We haven't finished.\n• will-future: won't + işlik → It won't rain.\n• Modal işlikler: can't, mustn't, shouldn't + işlik\n• be: am not / isn't / aren't / wasn't / weren't",
+        "ru": "Отрицание в разных временах:\n• Simple Present: don't / doesn't + глагол → He doesn't smoke.\n• Present Progressive: am not / isn't / aren't + -ing → They aren't listening.\n• Simple Past: didn't + глагол → I didn't go.\n• Past Progressive: wasn't / weren't + -ing → She wasn't sleeping.\n• Present Perfect: haven't / hasn't + V3 → We haven't finished.\n• will-future: won't + глагол → It won't rain.\n• Модальные: can't, mustn't, shouldn't + глагол\n• be: am not / isn't / aren't / wasn't / weren't"
+      },
+      "examples": [
+        { "en": "He doesn't smoke.", "tr": "Sigara içmez.", "tk": "Ol çilim çekmeýär.", "ru": "Он не курит." },
+        { "en": "They aren't listening.", "tr": "Dinlemiyorlar.", "tk": "Olar diňlänok.", "ru": "Они не слушают." },
+        { "en": "I didn't go to the party.", "tr": "Partiye gitmedim.", "tk": "Men oturylyşyga gitmedim.", "ru": "Я не пошёл на вечеринку." },
+        { "en": "We haven't finished yet.", "tr": "Henüz bitirmedik.", "tk": "Biz entek gutarmadyk.", "ru": "Мы ещё не закончили." },
+        { "en": "It won't rain tomorrow.", "tr": "Yarın yağmur yağmayacak.", "tk": "Ertir ýagyş ýagmaz.", "ru": "Завтра дождя не будет." },
+        { "en": "You mustn't park here.", "tr": "Buraya park etmemelisin.", "tk": "Bu ýerde awtoulag goýmaly däl.", "ru": "Здесь нельзя парковаться." }
+      ],
+      "exercises": [
+        { "question": "She likes fish. → negative:", "options": ["She don't like fish.", "She doesn't like fish.", "She doesn't likes fish.", "She isn't like fish."], "answer": 1, "explanation": { "tr": "doesn't + like.", "tk": "doesn't + like.", "ru": "doesn't + like." } },
+        { "question": "They are coming. → negative:", "options": ["They don't coming.", "They aren't coming.", "They isn't coming.", "They aren't come."], "answer": 1, "explanation": { "tr": "aren't + -ing.", "tk": "aren't + -ing.", "ru": "aren't + -ing." } },
+        { "question": "I saw the film. → negative:", "options": ["I didn't saw the film.", "I didn't see the film.", "I haven't see the film.", "I wasn't see the film."], "answer": 1, "explanation": { "tr": "didn't + see.", "tk": "didn't + see.", "ru": "didn't + see." } },
+        { "question": "He has called. → negative:", "options": ["He hasn't called.", "He haven't called.", "He didn't called.", "He hasn't call."], "answer": 0, "explanation": { "tr": "hasn't + V3.", "tk": "hasn't + V3.", "ru": "hasn't + V3." } },
+        { "question": "We will be late. → negative:", "options": ["We willn't be late.", "We won't be late.", "We don't will be late.", "We aren't be late."], "answer": 1, "explanation": { "tr": "won't + be.", "tk": "won't + be.", "ru": "won't + be." } },
+        { "question": "You can swim here. → negative:", "options": ["You don't can swim here.", "You can't swim here.", "You can't to swim here.", "You cann't swim here."], "answer": 1, "explanation": { "tr": "can → can't.", "tk": "can → can't.", "ru": "can → can't." } },
+        { "question": "She was crying. → negative:", "options": ["She wasn't crying.", "She weren't crying.", "She didn't crying.", "She wasn't cry."], "answer": 0, "explanation": { "tr": "wasn't + -ing.", "tk": "wasn't + -ing.", "ru": "wasn't + -ing." } },
+        { "question": "My parents are at home. → negative:", "options": ["My parents isn't at home.", "My parents aren't at home.", "My parents don't at home.", "My parents not at home."], "answer": 1, "explanation": { "tr": "are → aren't.", "tk": "are → aren't.", "ru": "are → aren't." } },
+        { "question": "I am hungry. → negative:", "options": ["I amn't hungry.", "I'm not hungry.", "I don't hungry.", "I isn't hungry."], "answer": 1, "explanation": { "tr": "I'm not.", "tk": "I'm not.", "ru": "I'm not." } },
+        { "question": "Find the mistake: \"He didn't went home.\"", "options": ["He", "didn't", "went", "home"], "answer": 2, "explanation": { "tr": "didn't + go.", "tk": "didn't + go.", "ru": "didn't + go." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Tenses – Various exercises: Negation of questions",
+    "title": "Negative Questions",
+    "body": {
+      "explanation": {
+        "tr": "Olumsuz sorular şaşkınlık, kızgınlık veya 'evet' cevabı beklendiğini gösterir:\n• Don't you like it? (Beğenmedin mi? — şaşkınlık)\n• Isn't it beautiful? (Güzel değil mi? — onay bekliyorum)\n• Yapı: kısaltılmış olumsuz yardımcı fiil + özne + …\n  Don't you…? Doesn't she…? Didn't they…? Isn't he…? Aren't you…? Haven't you…? Won't you…? Can't you…?\n• Uzun biçim (daha resmî): Do you not like it?\n• Dikkat: 'I' ile: Aren't I…? (amn't yok)\n• Cevap gerçeğe göre: \"Didn't you go?\" – \"Yes, I did.\" (gittim) / \"No, I didn't.\" (gitmedim)",
+        "tk": "Ýokluk soraglar geň galmany, gaharyny ýa-da 'hawa' jogabyna garaşylýandygyny görkezýär:\n• Don't you like it? (Saňa ýaramadymy? — geň galmak)\n• Isn't it beautiful? (Owadan dälmi? — tassyklama garaşýaryn)\n• Gurluşy: gysgaldylan ýokluk kömekçi işlik + eýe + …\n  Don't you…? Doesn't she…? Didn't they…? Isn't he…? Aren't you…? Haven't you…? Won't you…? Can't you…?\n• Uzyn görnüş (has resmi): Do you not like it?\n• Üns beriň: 'I' bilen: Aren't I…? (amn't ýok)\n• Jogap hakykata görä: \"Didn't you go?\" – \"Yes, I did.\" (gitdim) / \"No, I didn't.\" (gitmedim)",
+        "ru": "Отрицательные вопросы выражают удивление, раздражение или ожидание ответа «да»:\n• Don't you like it? (Тебе не нравится? — удивление)\n• Isn't it beautiful? (Разве не красиво? — жду согласия)\n• Схема: сокращённый отрицательный вспомогательный глагол + подлежащее + …\n  Don't you…? Doesn't she…? Didn't they…? Isn't he…? Aren't you…? Haven't you…? Won't you…? Can't you…?\n• Полная форма (официальнее): Do you not like it?\n• Внимание: с 'I': Aren't I…? (amn't нет)\n• Отвечаем по факту: \"Didn't you go?\" – \"Yes, I did.\" (ходил) / \"No, I didn't.\" (не ходил)"
+      },
+      "examples": [
+        { "en": "Don't you like the soup?", "tr": "Çorbayı sevmedin mi?", "tk": "Çorba saňa ýaramadymy?", "ru": "Тебе не нравится суп?" },
+        { "en": "Isn't it a beautiful day?", "tr": "Güzel bir gün değil mi?", "tk": "Ajaýyp gün dälmi?", "ru": "Разве не чудесный день?" },
+        { "en": "Didn't you get my message? – No, I didn't.", "tr": "Mesajımı almadın mı? – Hayır, almadım.", "tk": "Habarymy almadyňmy? – Ýok, almadym.", "ru": "Ты не получил моё сообщение? – Нет, не получил." },
+        { "en": "Haven't you finished yet?", "tr": "Hâlâ bitirmedin mi?", "tk": "Entek gutarmadyňmy?", "ru": "Ты ещё не закончил?" },
+        { "en": "Can't you see I'm busy?", "tr": "Meşgul olduğumu görmüyor musun?", "tk": "Meniň meşguldygymy görmeýärsiňmi?", "ru": "Ты не видишь, что я занят?" },
+        { "en": "Aren't I invited?", "tr": "Ben davetli değil miyim?", "tk": "Men çagyrylmadymmy?", "ru": "Меня разве не пригласили?" }
+      ],
+      "exercises": [
+        { "question": "You like chocolate. → negative question:", "options": ["Don't you like chocolate?", "Doesn't you like chocolate?", "You don't like chocolate?", "Not you like chocolate?"], "answer": 0, "explanation": { "tr": "Don't + you + fiil.", "tk": "Don't + you + işlik.", "ru": "Don't + you + глагол." } },
+        { "question": "She is coming. → negative question:", "options": ["Doesn't she coming?", "Isn't she coming?", "Isn't she come?", "Not she is coming?"], "answer": 1, "explanation": { "tr": "Isn't + she + -ing.", "tk": "Isn't + she + -ing.", "ru": "Isn't + she + -ing." } },
+        { "question": "They went home. → negative question:", "options": ["Didn't they go home?", "Didn't they went home?", "Weren't they go home?", "Don't they went home?"], "answer": 0, "explanation": { "tr": "Didn't + they + go.", "tk": "Didn't + they + go.", "ru": "Didn't + they + go." } },
+        { "question": "He has eaten. → negative question:", "options": ["Hasn't he eaten?", "Haven't he eaten?", "Didn't he eaten?", "Hasn't he eat?"], "answer": 0, "explanation": { "tr": "Hasn't + he + V3.", "tk": "Hasn't + he + V3.", "ru": "Hasn't + he + V3." } },
+        { "question": "I am right. → negative question:", "options": ["Amn't I right?", "Aren't I right?", "Isn't I right?", "Don't I right?"], "answer": 1, "explanation": { "tr": "I ile: Aren't I?", "tk": "I bilen: Aren't I?", "ru": "С I: Aren't I?" } },
+        { "question": "You can swim. → negative question:", "options": ["Don't you can swim?", "Can't you swim?", "Can you not to swim?", "Can't you to swim?"], "answer": 1, "explanation": { "tr": "Can't + you + fiil.", "tk": "Can't + you + işlik.", "ru": "Can't + you + глагол." } },
+        { "question": "\"Didn't you see the film?\" – \"Yes, I ___.\" (I saw it.)", "options": ["didn't", "did", "saw", "do"], "answer": 1, "explanation": { "tr": "Gördüm → Yes, I did.", "tk": "Gördüm → Yes, I did.", "ru": "Видел → Yes, I did." } },
+        { "question": "\"Aren't you tired?\" – \"No, I ___.\" (I'm not tired.)", "options": ["am", "'m not", "aren't", "don't"], "answer": 1, "explanation": { "tr": "Yorgun değilim → No, I'm not.", "tk": "Ýadaw däl → No, I'm not.", "ru": "Не устал → No, I'm not." } },
+        { "question": "It will rain. → negative question:", "options": ["Won't it rain?", "Willn't it rain?", "Doesn't it will rain?", "Won't it to rain?"], "answer": 0, "explanation": { "tr": "Won't + it + fiil.", "tk": "Won't + it + işlik.", "ru": "Won't + it + глагол." } },
+        { "question": "Which is the formal long form of \"Don't you know?\"", "options": ["Do not you know?", "Do you not know?", "You do not know?", "Not do you know?"], "answer": 1, "explanation": { "tr": "Do + you + not + fiil.", "tk": "Do + you + not + işlik.", "ru": "Do + you + not + глагол." } }
+      ]
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Adjectives/Adverbs",
+    "title": "Adjectives and Adverbs: B1 Review",
+    "body": {
+      "explanation": {
+        "tr": "• Sıfat (adjective) ismi niteler: a careful driver, The soup is hot.\n• Zarf (adverb) fiili, sıfatı veya başka zarfı niteler: He drives carefully. It's extremely hot.\n• Çoğu zarf: sıfat + -ly → quick → quickly, happy → happily, terrible → terribly\n• Düzensiz: good → well, fast → fast, hard → hard (hardly = neredeyse hiç!), late → late (lately = son zamanlarda)\n• Bağlama fiillerinden sonra sıfat: be, look, seem, feel, smell, taste, sound → She looks happy. It tastes good.\n• Karşılaştırma: tall → taller → the tallest; beautiful → more beautiful → the most beautiful; good → better → the best; bad → worse → the worst\n• Zarflarda: carefully → more carefully; well → better",
+        "tk": "• Sypat (adjective) ady häsiýetlendirýär: a careful driver, The soup is hot.\n• Hal (adverb) işligi, sypaty ýa-da başga haly häsiýetlendirýär: He drives carefully. It's extremely hot.\n• Köp hallar: sypat + -ly → quick → quickly, happy → happily, terrible → terribly\n• Nädogry: good → well, fast → fast, hard → hard (hardly = has hiç diýen ýaly!), late → late (lately = soňky wagtlar)\n• Baglaýjy işliklerden soň sypat: be, look, seem, feel, smell, taste, sound → She looks happy. It tastes good.\n• Deňeşdirme: tall → taller → the tallest; beautiful → more beautiful → the most beautiful; good → better → the best; bad → worse → the worst\n• Hallarda: carefully → more carefully; well → better",
+        "ru": "• Прилагательное описывает существительное: a careful driver, The soup is hot.\n• Наречие описывает глагол, прилагательное или другое наречие: He drives carefully. It's extremely hot.\n• Большинство наречий: прилагательное + -ly → quick → quickly, happy → happily, terrible → terribly\n• Исключения: good → well, fast → fast, hard → hard (hardly = едва ли!), late → late (lately = в последнее время)\n• После глаголов-связок — прилагательное: be, look, seem, feel, smell, taste, sound → She looks happy. It tastes good.\n• Степени сравнения: tall → taller → the tallest; beautiful → more beautiful → the most beautiful; good → better → the best; bad → worse → the worst\n• У наречий: carefully → more carefully; well → better"
+      },
+      "examples": [
+        { "en": "She is a careful driver. She drives carefully.", "tr": "Dikkatli bir sürücüdür. Dikkatli sürer.", "tk": "Ol seresaply sürüji. Ol seresaply sürýär.", "ru": "Она аккуратный водитель. Она водит аккуратно." },
+        { "en": "He speaks English very well.", "tr": "İngilizceyi çok iyi konuşur.", "tk": "Ol iňlisçe örän gowy gürleýär.", "ru": "Он очень хорошо говорит по-английски." },
+        { "en": "This cake tastes delicious.", "tr": "Bu pastanın tadı nefis.", "tk": "Bu tort örän tagamly.", "ru": "Этот торт очень вкусный." },
+        { "en": "I can hardly hear you.", "tr": "Seni neredeyse hiç duyamıyorum.", "tk": "Men seni zordan eşidýärin.", "ru": "Я тебя почти не слышу." },
+        { "en": "Today is colder than yesterday.", "tr": "Bugün dünden daha soğuk.", "tk": "Şu gün düýnkiden sowuk.", "ru": "Сегодня холоднее, чем вчера." },
+        { "en": "It was the worst day of my life.", "tr": "Hayatımın en kötü günüydü.", "tk": "Bu meniň durmuşymyň iň erbet güni boldy.", "ru": "Это был худший день в моей жизни." }
+      ],
+      "exercises": [
+        { "question": "She sings ___.", "options": ["beautiful", "beautifully", "beauty", "more beautiful"], "answer": 1, "explanation": { "tr": "Fiil (sings) → zarf.", "tk": "Işlik (sings) → hal.", "ru": "Глагол (sings) → наречие." } },
+        { "question": "You look ___ today. Are you ill?", "options": ["tired", "tiredly", "tire", "tiring"], "answer": 0, "explanation": { "tr": "look + sıfat.", "tk": "look + sypat.", "ru": "look + прилагательное." } },
+        { "question": "He did the test ___.", "options": ["good", "well", "goodly", "best"], "answer": 1, "explanation": { "tr": "good → well.", "tk": "good → well.", "ru": "good → well." } },
+        { "question": "She works very ___. She never stops.", "options": ["hardly", "hard", "harder", "hards"], "answer": 1, "explanation": { "tr": "hard = sıkı; hardly = neredeyse hiç.", "tk": "hard = gaty; hardly = hiç diýen ýaly.", "ru": "hard = усердно; hardly = едва." } },
+        { "question": "This is ___ film I've ever seen.", "options": ["the most interesting", "the more interesting", "most interesting", "the interestingest"], "answer": 0, "explanation": { "tr": "Uzun sıfat → the most.", "tk": "Uzyn sypat → the most.", "ru": "Длинное прилагательное → the most." } },
+        { "question": "My brother is ___ than me.", "options": ["tall", "taller", "more tall", "tallest"], "answer": 1, "explanation": { "tr": "Kısa sıfat → -er.", "tk": "Gysga sypat → -er.", "ru": "Короткое → -er." } },
+        { "question": "The weather was ___ yesterday than today.", "options": ["bad", "worse", "badder", "worst"], "answer": 1, "explanation": { "tr": "bad → worse.", "tk": "bad → worse.", "ru": "bad → worse." } },
+        { "question": "Could you speak more ___, please?", "options": ["slow", "slowly", "slower", "slowest"], "answer": 1, "explanation": { "tr": "more + zarf: more slowly.", "tk": "more + hal: more slowly.", "ru": "more + наречие: more slowly." } },
+        { "question": "The music is ___ loud.", "options": ["terrible", "terribly", "terribler", "terriblely"], "answer": 1, "explanation": { "tr": "Sıfatı niteleyen zarf.", "tk": "Sypaty häsiýetlendirýän hal.", "ru": "Наречие перед прилагательным." } },
+        { "question": "I haven't seen him ___. Is he OK?", "options": ["late", "lately", "later", "latest"], "answer": 1, "explanation": { "tr": "lately = son zamanlarda.", "tk": "lately = soňky wagtlar.", "ru": "lately = в последнее время." } },
+        { "question": "The flowers smell ___.", "options": ["sweet", "sweetly", "sweeter than", "sweetness"], "answer": 0, "explanation": { "tr": "smell + sıfat.", "tk": "smell + sypat.", "ru": "smell + прилагательное." } },
+        { "question": "Find the mistake: \"He runs very quick.\"", "options": ["He", "runs", "very", "quick"], "answer": 3, "explanation": { "tr": "quick → quickly.", "tk": "quick → quickly.", "ru": "quick → quickly." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Articles",
+    "title": "Articles a/an, the, zero: B1 Review",
+    "body": {
+      "explanation": {
+        "tr": "• a / an: tekil, sayılabilen, ilk kez söz edilen veya 'herhangi bir' → a book, an apple, an hour (h okunmaz), a university (/ju/ sesi)\n• the: bilinen, daha önce söz edilen, tek olan → I bought a book. The book is great. The sun, the Moon, the Internet\n• the ile: nehirler, denizler, sıradağlar, çoğul ülkeler: the Nile, the Caspian Sea, the Alps, the USA, the Netherlands\n• the yok (zero article): genel çoğul/sayılamayan isimler (I like cats. Water is important.), çoğu ülke/şehir (Turkmenistan, Ashgabat), öğünler (have breakfast), diller, sporlar\n• Kalıplar: go to school/bed/work (amaç), by bus, at home; ama the cinema, the theatre",
+        "tk": "• a / an: birlikdäki, sanalýan, ilkinji gezek agzalýan ýa-da 'islendik' → a book, an apple, an hour (h okalmaýar), a university (/ju/ sesi)\n• the: belli, öň agzalan, ýeke-täk → I bought a book. The book is great. The sun, the Moon, the Internet\n• the bilen: derýalar, deňizler, dag gerşleri, köplük görnüşli ýurtlar: the Nile, the Caspian Sea, the Alps, the USA, the Netherlands\n• the ýok (zero article): umumy köplük/sanalmaýan atlar (I like cats. Water is important.), köp ýurtlar/şäherler (Turkmenistan, Ashgabat), nahar wagtlary (have breakfast), diller, sport görnüşleri\n• Aňlatmalar: go to school/bed/work (maksat), by bus, at home; emma the cinema, the theatre",
+        "ru": "• a / an: ед. ч., исчисляемое, упоминается впервые или «какой-нибудь» → a book, an apple, an hour (h не читается), a university (звук /ju/)\n• the: известное, уже упомянутое, единственное → I bought a book. The book is great. The sun, the Moon, the Internet\n• the с: реками, морями, горными цепями, странами во мн. ч.: the Nile, the Caspian Sea, the Alps, the USA, the Netherlands\n• Без артикля: общие мн. ч./неисчисляемые (I like cats. Water is important.), большинство стран/городов (Turkmenistan, Ashgabat), приёмы пищи (have breakfast), языки, виды спорта\n• Устойчивые: go to school/bed/work (по назначению), by bus, at home; но the cinema, the theatre"
+      },
+      "examples": [
+        { "en": "I saw a film last night. The film was about space.", "tr": "Dün gece bir film izledim. Film uzay hakkındaydı.", "tk": "Düýn agşam film gördüm. Film kosmos barada.", "ru": "Вчера я посмотрел фильм. Фильм был о космосе." },
+        { "en": "She is an engineer.", "tr": "O bir mühendis.", "tk": "Ol inžener.", "ru": "Она инженер." },
+        { "en": "The Amu Darya is a long river.", "tr": "Amu Derya uzun bir nehirdir.", "tk": "Amyderýa uzyn derýa.", "ru": "Амударья — длинная река." },
+        { "en": "Cats like fish.", "tr": "Kediler balığı sever.", "tk": "Pişikler balygy halaýar.", "ru": "Кошки любят рыбу." },
+        { "en": "We have dinner at 7.", "tr": "Saat 7'de akşam yemeği yeriz.", "tk": "Biz sagat 7-de agşamlyk edýäris.", "ru": "Мы ужинаем в 7." },
+        { "en": "He goes to work by bus.", "tr": "İşe otobüsle gider.", "tk": "Ol işe awtobus bilen gidýär.", "ru": "Он ездит на работу на автобусе." }
+      ],
+      "exercises": [
+        { "question": "I need ___ umbrella.", "options": ["a", "an", "the", "–"], "answer": 1, "explanation": { "tr": "Ünlü sesle başlıyor → an.", "tk": "Çekimli ses bilen başlanýar → an.", "ru": "Гласный звук → an." } },
+        { "question": "She studies at ___ university in Ashgabat.", "options": ["an", "a", "the", "–"], "answer": 1, "explanation": { "tr": "university /ju/ → a.", "tk": "university /ju/ → a.", "ru": "university /ju/ → a." } },
+        { "question": "I'll be there in ___ hour.", "options": ["a", "an", "the", "–"], "answer": 1, "explanation": { "tr": "hour: h okunmaz → an.", "tk": "hour: h okalmaýar → an.", "ru": "hour: h не читается → an." } },
+        { "question": "___ Moon goes around the Earth.", "options": ["A", "An", "The", "–"], "answer": 2, "explanation": { "tr": "Tek olan → the.", "tk": "Ýeke-täk → the.", "ru": "Единственный → the." } },
+        { "question": "I love ___ music.", "options": ["a", "the", "–", "an"], "answer": 2, "explanation": { "tr": "Genel sayılamayan → artikel yok.", "tk": "Umumy sanalmaýan → artikl ýok.", "ru": "Неисчисляемое в общем смысле → без артикля." } },
+        { "question": "We visited ___ USA last year.", "options": ["a", "the", "–", "an"], "answer": 1, "explanation": { "tr": "the USA.", "tk": "the USA.", "ru": "the USA." } },
+        { "question": "He lives in ___ Turkmenistan.", "options": ["the", "a", "–", "an"], "answer": 2, "explanation": { "tr": "Ülke adı → artikel yok.", "tk": "Ýurt ady → artikl ýok.", "ru": "Название страны → без артикля." } },
+        { "question": "I bought a dress and a hat. ___ dress is blue.", "options": ["A", "The", "An", "–"], "answer": 1, "explanation": { "tr": "İkinci kez → the.", "tk": "Ikinji gezek → the.", "ru": "Второе упоминание → the." } },
+        { "question": "What time do you have ___ breakfast?", "options": ["a", "the", "–", "an"], "answer": 2, "explanation": { "tr": "Öğünler → artikel yok.", "tk": "Nahar wagtlary → artikl ýok.", "ru": "Приёмы пищи → без артикля." } },
+        { "question": "Let's go to ___ cinema tonight.", "options": ["a", "the", "–", "an"], "answer": 1, "explanation": { "tr": "go to the cinema.", "tk": "go to the cinema.", "ru": "go to the cinema." } },
+        { "question": "My father is ___ doctor.", "options": ["a", "the", "–", "an"], "answer": 0, "explanation": { "tr": "Meslek → a.", "tk": "Hünär → a.", "ru": "Профессия → a." } },
+        { "question": "Find the mistake: \"The life is beautiful.\"", "options": ["The life", "is", "beautiful", "There is no mistake"], "answer": 0, "explanation": { "tr": "Genel anlam → Life is beautiful.", "tk": "Umumy many → Life is beautiful.", "ru": "Общий смысл → Life is beautiful." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Conditional sentences - if",
+    "title": "If-Clauses: Types 0, 1, 2 and 3",
+    "body": {
+      "explanation": {
+        "tr": "Koşul cümlelerinin dört tipi:\n• Tip 0 (genel gerçek): If + present, present → If you heat ice, it melts.\n• Tip 1 (gerçek gelecek): If + present, will → If it rains, I'll stay home.\n• Tip 2 (hayali şimdi/gelecek): If + past, would → If I had wings, I would fly.\n• Tip 3 (hayali geçmiş): If + had V3, would have V3 → If I had studied, I would have passed.\nunless = if not: Unless you hurry, you'll be late.\nif kısmında will/would kullanılmaz.",
+        "tk": "Şert sözlemleriniň dört görnüşi:\n• 0-njy görnüş (umumy hakykat): If + present, present → If you heat ice, it melts.\n• 1-nji görnüş (hakyky geljek): If + present, will → If it rains, I'll stay home.\n• 2-nji görnüş (hyýaly häzir/geljek): If + past, would → If I had wings, I would fly.\n• 3-nji görnüş (hyýaly geçmiş): If + had V3, would have V3 → If I had studied, I would have passed.\nunless = if not: Unless you hurry, you'll be late.\nif böleginde will/would ulanylmaýar.",
+        "ru": "Четыре типа условных предложений:\n• Тип 0 (общая истина): If + present, present → If you heat ice, it melts.\n• Тип 1 (реальное будущее): If + present, will → If it rains, I'll stay home.\n• Тип 2 (нереальное настоящее/будущее): If + past, would → If I had wings, I would fly.\n• Тип 3 (нереальное прошлое): If + had V3, would have V3 → If I had studied, I would have passed.\nunless = if not: Unless you hurry, you'll be late.\nВ части с if не используется will/would."
+      },
+      "examples": [
+        { "en": "If you heat ice, it melts.", "tr": "Buzu ısıtırsan erir.", "tk": "Buzy gyzdyrsaň, ol ereýär.", "ru": "Если нагреть лёд, он тает." },
+        { "en": "If it rains tomorrow, I'll stay home.", "tr": "Yarın yağmur yağarsa evde kalırım.", "tk": "Ertir ýagyş ýagsa, öýde galaryn.", "ru": "Если завтра пойдёт дождь, я останусь дома." },
+        { "en": "If I had more time, I would learn to paint.", "tr": "Daha çok vaktim olsaydı resim yapmayı öğrenirdim.", "tk": "Köpräk wagtym bolsady, surat çekmegi öwrenerdim.", "ru": "Если бы у меня было больше времени, я бы научился рисовать." },
+        { "en": "If she had taken the bus, she wouldn't have been late.", "tr": "Otobüse binseydi geç kalmazdı.", "tk": "Ol awtobusa münen bolsa, gijä galmazdy.", "ru": "Если бы она поехала на автобусе, она бы не опоздала." },
+        { "en": "Unless you study, you won't pass.", "tr": "Çalışmazsan geçemezsin.", "tk": "Okamasaň, geçip bilmersiň.", "ru": "Если не будешь учиться, не сдашь." },
+        { "en": "What would you do if you won a million?", "tr": "Bir milyon kazansan ne yapardın?", "tk": "Million utsaň, näme ederdiň?", "ru": "Что бы ты сделал, если бы выиграл миллион?" }
+      ],
+      "exercises": [
+        { "question": "If you mix red and yellow, you ___ orange.", "options": ["get", "will got", "would get", "got"], "answer": 0, "explanation": { "tr": "Tip 0 → present.", "tk": "0-njy görnüş → present.", "ru": "Тип 0 → present." } },
+        { "question": "If it ___ sunny tomorrow, we'll go to the beach.", "options": ["will be", "is", "was", "would be"], "answer": 1, "explanation": { "tr": "Tip 1: if + present.", "tk": "1-nji görnüş: if + present.", "ru": "Тип 1: if + present." } },
+        { "question": "If I ___ rich, I would travel the world.", "options": ["am", "were", "will be", "had been"], "answer": 1, "explanation": { "tr": "Tip 2: were.", "tk": "2-nji görnüş: were.", "ru": "Тип 2: were." } },
+        { "question": "If we had left earlier, we ___ the train.", "options": ["would catch", "will catch", "would have caught", "caught"], "answer": 2, "explanation": { "tr": "Tip 3: would have V3.", "tk": "3-nji görnüş: would have V3.", "ru": "Тип 3: would have V3." } },
+        { "question": "___ you hurry, you'll miss the bus.", "options": ["If", "Unless", "When", "Because"], "answer": 1, "explanation": { "tr": "unless = if not.", "tk": "unless = if not.", "ru": "unless = if not." } },
+        { "question": "If I ___ you, I'd apologise.", "options": ["am", "was being", "were", "will be"], "answer": 2, "explanation": { "tr": "If I were you.", "tk": "If I were you.", "ru": "If I were you." } },
+        { "question": "She ___ angry if you tell her.", "options": ["will be", "would be", "is", "would have been"], "answer": 0, "explanation": { "tr": "Tip 1 → will.", "tk": "1-nji görnüş → will.", "ru": "Тип 1 → will." } },
+        { "question": "If he ___ harder, he would have passed.", "options": ["studied", "had studied", "would study", "studies"], "answer": 1, "explanation": { "tr": "Tip 3: had V3.", "tk": "3-nji görnüş: had V3.", "ru": "Тип 3: had V3." } },
+        { "question": "What ___ you do if you saw a ghost?", "options": ["will", "would", "do", "did"], "answer": 1, "explanation": { "tr": "Tip 2 → would.", "tk": "2-nji görnüş → would.", "ru": "Тип 2 → would." } },
+        { "question": "If plants don't get light, they ___.", "options": ["die", "would die", "will died", "died"], "answer": 0, "explanation": { "tr": "Tip 0 → die.", "tk": "0-njy görnüş → die.", "ru": "Тип 0 → die." } },
+        { "question": "Which type is this? \"If I had known, I would have helped.\"", "options": ["Type 0", "Type 1", "Type 2", "Type 3"], "answer": 3, "explanation": { "tr": "had V3 + would have V3 → Tip 3.", "tk": "had V3 + would have V3 → 3-nji görnüş.", "ru": "had V3 + would have V3 → тип 3." } },
+        { "question": "Find the mistake: \"If I will see her, I'll tell her.\"", "options": ["If I will see", "her", "I'll tell", "There is no mistake"], "answer": 0, "explanation": { "tr": "If I see.", "tk": "If I see.", "ru": "If I see." } }
+      ]
+    }
+  }
+]

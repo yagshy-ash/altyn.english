@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – will-future: will-future – Statements",
+    "title": "will-future: Positive Statements",
+    "body": {
+      "explanation": {
+        "tr": "will-future gelecekle ilgili şu durumlarda kullanılır:\n• Tahminler: It will rain tomorrow. I think she will win.\n• Anlık kararlar: \"The phone is ringing.\" – \"I'll answer it.\"\n• Sözler ve teklifler: I'll help you. I will call you later.\n• Yapı: will + yalın fiil (tüm öznelerde aynı)\n• Kısaltma: I'll, you'll, he'll, she'll, we'll, they'll\n• Tahminle sık kullanılanlar: I think, probably, maybe, I'm sure.",
+        "tk": "will-future geljek bilen bagly şu ýagdaýlarda ulanylýar:\n• Çaklamalar: It will rain tomorrow. I think she will win.\n• Şol pursatdaky kararlar: \"The phone is ringing.\" – \"I'll answer it.\"\n• Wadalar we teklipler: I'll help you. I will call you later.\n• Gurluşy: will + esasy işlik (ähli eýelerde birmeňzeş)\n• Gysgaltma: I'll, you'll, he'll, she'll, we'll, they'll\n• Çaklama bilen köp ulanylýanlar: I think, probably, maybe, I'm sure.",
+        "ru": "will-future используется для будущего в таких случаях:\n• Прогнозы: It will rain tomorrow. I think she will win.\n• Спонтанные решения: \"The phone is ringing.\" – \"I'll answer it.\"\n• Обещания и предложения: I'll help you. I will call you later.\n• Схема: will + глагол (одинаково для всех лиц)\n• Сокращения: I'll, you'll, he'll, she'll, we'll, they'll\n• С прогнозами часто: I think, probably, maybe, I'm sure."
+      },
+      "examples": [
+        { "en": "I think it will be sunny tomorrow.", "tr": "Bence yarın hava güneşli olacak.", "tk": "Meniň pikirimçe, ertir howa güneşli bolar.", "ru": "Думаю, завтра будет солнечно." },
+        { "en": "I'll carry your bag for you.", "tr": "Çantanı senin için taşırım.", "tk": "Sumkaňy men göterip bereýin.", "ru": "Я понесу твою сумку." },
+        { "en": "She will probably be late.", "tr": "Muhtemelen geç kalacak.", "tk": "Ol belki gijä galar.", "ru": "Она, наверное, опоздает." },
+        { "en": "I promise I'll write to you.", "tr": "Sana yazacağıma söz veriyorum.", "tk": "Saňa ýazjakdygyma söz berýärin.", "ru": "Обещаю, что напишу тебе." },
+        { "en": "People will live on Mars one day.", "tr": "İnsanlar bir gün Mars'ta yaşayacak.", "tk": "Adamlar bir gün Marsda ýaşarlar.", "ru": "Когда-нибудь люди будут жить на Марсе." },
+        { "en": "Wait, I'll open the door.", "tr": "Bekle, kapıyı açayım.", "tk": "Garaş, gapyny açaýyn.", "ru": "Подожди, я открою дверь." }
+      ],
+      "exercises": [
+        { "question": "I think it ___ tomorrow.", "options": ["rains", "will rain", "will rains", "is rain"], "answer": 1, "explanation": { "tr": "Tahmin: will + yalın fiil.", "tk": "Çaklama: will + esasy işlik.", "ru": "Прогноз: will + глагол." } },
+        { "question": "\"I'm thirsty.\" – \"I ___ you some water.\"", "options": ["get", "will get", "am getting", "got"], "answer": 1, "explanation": { "tr": "Anlık karar: I'll get.", "tk": "Pursatdaky karar: I'll get.", "ru": "Спонтанное решение: I'll get." } },
+        { "question": "She ___ a great doctor one day.", "options": ["will be", "will is", "be will", "wills be"], "answer": 0, "explanation": { "tr": "will + be.", "tk": "will + be.", "ru": "will + be." } },
+        { "question": "Don't worry, I ___ tell anyone.", "options": ["won't", "don't", "willn't", "am not"], "answer": 0, "explanation": { "tr": "Söz (olumsuz): won't.", "tk": "Wada (ýokluk): won't.", "ru": "Обещание (отрицание): won't." } },
+        { "question": "They ___ probably win the match.", "options": ["will", "are", "do", "would to"], "answer": 0, "explanation": { "tr": "will probably + fiil.", "tk": "will probably + işlik.", "ru": "will probably + глагол." } },
+        { "question": "Which is the correct short form of \"we will\"?", "options": ["we'il", "we'll", "wel'l", "we'ill"], "answer": 1, "explanation": { "tr": "we will → we'll.", "tk": "we will → we'll.", "ru": "we will → we'll." } },
+        { "question": "Maybe he ___ us tonight.", "options": ["will call", "calls will", "will calls", "call will"], "answer": 0, "explanation": { "tr": "will + yalın fiil.", "tk": "will + esasy işlik.", "ru": "will + глагол." } },
+        { "question": "In 2050, cars ___ without drivers.", "options": ["drive", "will drive", "are drive", "drove"], "answer": 1, "explanation": { "tr": "Gelecek tahmini: will drive.", "tk": "Geljek çaklamasy: will drive.", "ru": "Прогноз: will drive." } },
+        { "question": "Choose the correct sentence.", "options": ["I will to help you.", "I will helping you.", "I will help you.", "I wills help you."], "answer": 2, "explanation": { "tr": "will + yalın fiil (to yok).", "tk": "will + esasy işlik (to ýok).", "ru": "will + глагол без to." } },
+        { "question": "Find the mistake: \"She wills be here at 5.\"", "options": ["She", "wills", "be here", "at 5"], "answer": 1, "explanation": { "tr": "will -s almaz.", "tk": "will -s almaýar.", "ru": "will не принимает -s." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – will-future: Negations in the will-future",
+    "title": "will-future: Negative Sentences",
+    "body": {
+      "explanation": {
+        "tr": "will-future olumsuz: won't (will not) + yalın fiil.\n• I won't be late. She won't come. It won't rain.\n• Reddetme: The door won't open. (Kapı açılmıyor.) My son won't eat vegetables.\n• Söz: I won't forget your birthday.\n• Tahmin: I don't think he will come. (Daha doğal: I think he won't come yerine.)\n• won't tüm öznelerle aynıdır.",
+        "tk": "will-future ýokluk: won't (will not) + esasy işlik.\n• I won't be late. She won't come. It won't rain.\n• Ret etmek: The door won't open. (Gapy açylanok.) My son won't eat vegetables.\n• Wada: I won't forget your birthday.\n• Çaklama: I don't think he will come. (I think he won't come-dan has tebigy.)\n• won't ähli eýeler bilen birmeňzeş.",
+        "ru": "Отрицание в will-future: won't (will not) + глагол.\n• I won't be late. She won't come. It won't rain.\n• Отказ: The door won't open. (Дверь не открывается.) My son won't eat vegetables.\n• Обещание: I won't forget your birthday.\n• Прогноз: I don't think he will come. (Естественнее, чем I think he won't come.)\n• won't одинаково для всех лиц."
+      },
+      "examples": [
+        { "en": "I won't be at home tomorrow.", "tr": "Yarın evde olmayacağım.", "tk": "Ertir öýde bolmaryn.", "ru": "Завтра меня не будет дома." },
+        { "en": "Don't worry, it won't hurt.", "tr": "Merak etme, acıtmayacak.", "tk": "Alada etme, agyrtmaz.", "ru": "Не волнуйся, больно не будет." },
+        { "en": "The car won't start.", "tr": "Araba çalışmıyor.", "tk": "Maşyn otlananok.", "ru": "Машина не заводится." },
+        { "en": "I don't think they will win.", "tr": "Kazanacaklarını sanmıyorum.", "tk": "Olaryň ýeňjegine ynanamok.", "ru": "Не думаю, что они выиграют." },
+        { "en": "She won't tell anyone your secret.", "tr": "Sırrını kimseye söylemeyecek.", "tk": "Ol syryňy hiç kime aýtmaz.", "ru": "Она никому не расскажет твой секрет." },
+        { "en": "We won't have time for lunch.", "tr": "Öğle yemeğine vaktimiz olmayacak.", "tk": "Günortanlyk üçin wagtymyz bolmaz.", "ru": "У нас не будет времени на обед." }
+      ],
+      "exercises": [
+        { "question": "I will go. → Negative: I ___ go.", "options": ["willn't", "won't", "don't will", "not will"], "answer": 1, "explanation": { "tr": "will not → won't.", "tk": "will not → won't.", "ru": "will not → won't." } },
+        { "question": "She ___ come to the party because she is ill.", "options": ["won't", "doesn't will", "isn't", "not will"], "answer": 0, "explanation": { "tr": "won't + yalın fiil.", "tk": "won't + esasy işlik.", "ru": "won't + глагол." } },
+        { "question": "I ___ think it will snow.", "options": ["won't", "don't", "am not", "willn't"], "answer": 1, "explanation": { "tr": "Doğal biçim: I don't think ...", "tk": "Tebigy görnüş: I don't think ...", "ru": "Естественно: I don't think ..." } },
+        { "question": "The window ___ close. It's broken.", "options": ["won't", "isn't", "don't", "wasn't"], "answer": 0, "explanation": { "tr": "Çalışmama/reddetme: won't.", "tk": "Işlemezlik: won't.", "ru": "Не срабатывает: won't." } },
+        { "question": "They won't ___ on time.", "options": ["arrives", "arriving", "arrive", "to arrive"], "answer": 2, "explanation": { "tr": "won't + yalın fiil.", "tk": "won't + esasy işlik.", "ru": "won't + глагол." } },
+        { "question": "I promise I ___ forget.", "options": ["don't", "won't", "am not", "not"], "answer": 1, "explanation": { "tr": "Söz → won't.", "tk": "Wada → won't.", "ru": "Обещание → won't." } },
+        { "question": "It ___ be cold tomorrow, so leave your coat.", "options": ["won't", "isn't", "doesn't", "not"], "answer": 0, "explanation": { "tr": "Gelecek tahmini olumsuz: won't.", "tk": "Geljek çaklamasy ýokluk: won't.", "ru": "Отрицательный прогноз: won't." } },
+        { "question": "Choose the correct sentence.", "options": ["He won't to help us.", "He won't helps us.", "He won't help us.", "He don't will help us."], "answer": 2, "explanation": { "tr": "won't + yalın fiil.", "tk": "won't + esasy işlik.", "ru": "won't + глагол." } },
+        { "question": "We ___ need umbrellas. The sky is clear.", "options": ["won't", "don't will", "aren't", "willn't"], "answer": 0, "explanation": { "tr": "won't need.", "tk": "won't need.", "ru": "won't need." } },
+        { "question": "Find the mistake: \"I willn't be late.\"", "options": ["I", "willn't", "be", "late"], "answer": 1, "explanation": { "tr": "Doğru kısaltma: won't.", "tk": "Dogry gysgaltma: won't.", "ru": "Правильно: won't." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – will-future: Questions and short answers in the will-future",
+    "title": "will-future: Questions and Short Answers",
+    "body": {
+      "explanation": {
+        "tr": "will-future soru: Will + özne + yalın fiil?\n• Will you come to my party? Will it rain?\n• Kısa cevap: Yes, I will. / No, I won't.\n• Rica/istek: Will you help me, please? (Bana yardım eder misin?)\n• Teklif/öneri için Shall I/we kullanılır: Shall I open the window? Shall we go?\nKısa cevapta kısaltma yapılmaz: Yes, I will. (✓) – Yes, I'll. (✗)",
+        "tk": "will-future sorag: Will + eýe + esasy işlik?\n• Will you come to my party? Will it rain?\n• Gysga jogap: Yes, I will. / No, I won't.\n• Haýyş: Will you help me, please? (Maňa kömek ederňmi?)\n• Teklip üçin Shall I/we ulanylýar: Shall I open the window? Shall we go?\nGysga jogapda gysgaltma ulanylmaýar: Yes, I will. (✓) – Yes, I'll. (✗)",
+        "ru": "Вопрос в will-future: Will + подлежащее + глагол?\n• Will you come to my party? Will it rain?\n• Краткий ответ: Yes, I will. / No, I won't.\n• Просьба: Will you help me, please? (Поможешь мне?)\n• Для предложения используют Shall I/we: Shall I open the window? Shall we go?\nВ кратком ответе нельзя сокращать: Yes, I will. (✓) – Yes, I'll. (✗)"
+      },
+      "examples": [
+        { "en": "Will you be at home tonight? – Yes, I will.", "tr": "Bu akşam evde olacak mısın? – Evet.", "tk": "Şu agşam öýde bolarsyňmy? – Hawa.", "ru": "Ты будешь дома вечером? – Да." },
+        { "en": "Will it be cold tomorrow? – No, it won't.", "tr": "Yarın soğuk olacak mı? – Hayır.", "tk": "Ertir sowuk bolarmy? – Ýok.", "ru": "Завтра будет холодно? – Нет." },
+        { "en": "Will you pass me the salt, please?", "tr": "Tuzu uzatır mısın lütfen?", "tk": "Duzy uzadaýsaň?", "ru": "Передай, пожалуйста, соль." },
+        { "en": "Shall I close the door?", "tr": "Kapıyı kapatayım mı?", "tk": "Gapyny ýapaýynmy?", "ru": "Закрыть дверь?" },
+        { "en": "Will your parents come? – Yes, they will.", "tr": "Ailen gelecek mi? – Evet.", "tk": "Ene-ataň gelermi? – Hawa.", "ru": "Твои родители придут? – Да." },
+        { "en": "Shall we start?", "tr": "Başlayalım mı?", "tk": "Başlalymy?", "ru": "Начнём?" }
+      ],
+      "exercises": [
+        { "question": "___ you help me with this box?", "options": ["Do", "Will", "Are", "Did"], "answer": 1, "explanation": { "tr": "Gelecek/rica: Will.", "tk": "Geljek/haýyş: Will.", "ru": "Будущее/просьба: Will." } },
+        { "question": "\"Will you come?\" – \"Yes, I ___.\"", "options": ["'ll", "will", "come", "do"], "answer": 1, "explanation": { "tr": "Kısa cevapta kısaltma yok: Yes, I will.", "tk": "Gysga jogapda gysgaltma ýok: Yes, I will.", "ru": "Без сокращения: Yes, I will." } },
+        { "question": "\"Will they win?\" – \"No, they ___.\"", "options": ["don't", "won't", "willn't", "aren't"], "answer": 1, "explanation": { "tr": "No, they won't.", "tk": "No, they won't.", "ru": "No, they won't." } },
+        { "question": "___ I make some tea?", "options": ["Will", "Shall", "Do", "Am"], "answer": 1, "explanation": { "tr": "Teklif: Shall I ...?", "tk": "Teklip: Shall I ...?", "ru": "Предложение: Shall I ...?" } },
+        { "question": "Will she ___ the exam?", "options": ["passes", "pass", "passing", "to pass"], "answer": 1, "explanation": { "tr": "Will + yalın fiil.", "tk": "Will + esasy işlik.", "ru": "Will + глагол." } },
+        { "question": "\"Will it rain today?\" – \"No, it ___.\"", "options": ["won't", "doesn't", "isn't", "will"], "answer": 0, "explanation": { "tr": "No, it won't.", "tk": "No, it won't.", "ru": "No, it won't." } },
+        { "question": "___ we meet at 6?", "options": ["Shall", "Do", "Are", "Did"], "answer": 0, "explanation": { "tr": "Öneri: Shall we ...?", "tk": "Teklip: Shall we ...?", "ru": "Предложение: Shall we ...?" } },
+        { "question": "Choose the correct question.", "options": ["Will you to call me?", "Will you call me?", "Will you calling me?", "You will call me?"], "answer": 1, "explanation": { "tr": "Will + özne + yalın fiil.", "tk": "Will + eýe + esasy işlik.", "ru": "Will + подлежащее + глагол." } },
+        { "question": "\"Will your brother be there?\" – \"Yes, he ___.\"", "options": ["is", "will", "does", "'ll be"], "answer": 1, "explanation": { "tr": "Yes, he will.", "tk": "Yes, he will.", "ru": "Yes, he will." } },
+        { "question": "Find the mistake: \"Will she comes tomorrow?\"", "options": ["Will", "she", "comes", "tomorrow"], "answer": 2, "explanation": { "tr": "comes → come.", "tk": "comes → come.", "ru": "comes → come." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – will-future: Questions in the will-future",
+    "title": "will-future: Wh-Questions",
+    "body": {
+      "explanation": {
+        "tr": "Soru kelimeli will-future soruları:\n• Soru kelimesi + will + özne + yalın fiil?\n  What will you do tomorrow? Where will they stay? When will the bus come?\n• Özne sorusu: Who will help me? What will happen?\n• How long will ...? / How much will it cost?\n• Kısa olarak: What'll you do? (konuşma dilinde)",
+        "tk": "Sorag sözli will-future soraglary:\n• Sorag sözi + will + eýe + esasy işlik?\n  What will you do tomorrow? Where will they stay? When will the bus come?\n• Eýe soragy: Who will help me? What will happen?\n• How long will ...? / How much will it cost?\n• Gysgaça: What'll you do? (gürleşik dilinde)",
+        "ru": "Специальные вопросы в will-future:\n• Вопросительное слово + will + подлежащее + глагол?\n  What will you do tomorrow? Where will they stay? When will the bus come?\n• Вопрос к подлежащему: Who will help me? What will happen?\n• How long will ...? / How much will it cost?\n• Разговорное: What'll you do?"
+      },
+      "examples": [
+        { "en": "What will you do after school?", "tr": "Okuldan sonra ne yapacaksın?", "tk": "Mekdepden soň näme etjek?", "ru": "Что ты будешь делать после школы?" },
+        { "en": "Where will we meet?", "tr": "Nerede buluşacağız?", "tk": "Nirede duşuşarys?", "ru": "Где мы встретимся?" },
+        { "en": "When will the results come out?", "tr": "Sonuçlar ne zaman çıkacak?", "tk": "Netijeler haçan çykar?", "ru": "Когда будут результаты?" },
+        { "en": "Who will win the election?", "tr": "Seçimi kim kazanacak?", "tk": "Saýlawda kim ýeňer?", "ru": "Кто победит на выборах?" },
+        { "en": "How much will the trip cost?", "tr": "Gezi ne kadara mal olacak?", "tk": "Syýahat näçä düşer?", "ru": "Сколько будет стоить поездка?" },
+        { "en": "How long will you stay in Mary?", "tr": "Mary'de ne kadar kalacaksın?", "tk": "Maryda näçe wagt galarsyň?", "ru": "Как долго ты пробудешь в Мары?" }
+      ],
+      "exercises": [
+        { "question": "What ___ you wear to the party?", "options": ["will", "do", "are", "did"], "answer": 0, "explanation": { "tr": "Gelecek: What will ...?", "tk": "Geljek: What will ...?", "ru": "Будущее: What will ...?" } },
+        { "question": "Where will they ___?", "options": ["stays", "stay", "staying", "to stay"], "answer": 1, "explanation": { "tr": "will + yalın fiil.", "tk": "will + esasy işlik.", "ru": "will + глагол." } },
+        { "question": "Who ___ the dishes tonight?", "options": ["will wash", "will washes", "washes will", "will to wash"], "answer": 0, "explanation": { "tr": "Özne sorusu: Who will wash?", "tk": "Eýe soragy: Who will wash?", "ru": "Вопрос к подлежащему: Who will wash?" } },
+        { "question": "When ___ the train arrive?", "options": ["does will", "will", "is", "do"], "answer": 1, "explanation": { "tr": "When + will + özne + fiil.", "tk": "When + will + eýe + işlik.", "ru": "When + will + подлежащее + глагол." } },
+        { "question": "How much ___ the new phone cost?", "options": ["will", "is", "are", "do"], "answer": 0, "explanation": { "tr": "How much will ... cost?", "tk": "How much will ... cost?", "ru": "How much will ... cost?" } },
+        { "question": "Put in order: (will / what / happen / next)", "options": ["What will happen next?", "What happen will next?", "Will what happen next?", "What next will happen?"], "answer": 0, "explanation": { "tr": "What + will + fiil.", "tk": "What + will + işlik.", "ru": "What + will + глагол." } },
+        { "question": "How long ___ the meeting last?", "options": ["will", "does will", "is", "are"], "answer": 0, "explanation": { "tr": "How long will ...?", "tk": "How long will ...?", "ru": "How long will ...?" } },
+        { "question": "Choose the correct question.", "options": ["Where you will go?", "Where will you go?", "Where will you going?", "Where you go will?"], "answer": 1, "explanation": { "tr": "Wh + will + özne + fiil.", "tk": "Wh + will + eýe + işlik.", "ru": "Wh + will + подлежащее + глагол." } },
+        { "question": "Why ___ she be angry?", "options": ["will", "is will", "does", "do"], "answer": 0, "explanation": { "tr": "Why will she be ...?", "tk": "Why will she be ...?", "ru": "Why will she be ...?" } },
+        { "question": "Find the mistake: \"What time will you to arrive?\"", "options": ["What time", "will you", "to arrive", "There is no mistake"], "answer": 2, "explanation": { "tr": "will + arrive (to yok).", "tk": "will + arrive (to ýok).", "ru": "will + arrive (без to)." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – will-future: Sentences and questions in the will-future",
+    "title": "will-future: Statements and Questions Practice",
+    "body": {
+      "explanation": {
+        "tr": "will-future'da cümle, olumsuz ve soru biçimlerini birlikte çalış:\n• Olumlu: You will love this book.\n• Olumsuz: You won't love this book.\n• Soru: Will you love this book?\n• Wh-soru: Which book will you read?\nHatırla: will'den sonra fiil hep yalın hâldedir ve 'to' almaz. will her özneyle aynıdır.",
+        "tk": "will-future-de tassyklaýjy, ýokluk we sorag görnüşlerini bilelikde türgenleş:\n• Tassyklaýjy: You will love this book.\n• Ýokluk: You won't love this book.\n• Sorag: Will you love this book?\n• Wh-sorag: Which book will you read?\nÝatda sakla: will-den soň işlik hemişe esasy görnüşde we 'to' almaýar. will ähli eýeler bilen birmeňzeş.",
+        "ru": "Тренируй утверждение, отрицание и вопрос в will-future вместе:\n• Утверждение: You will love this book.\n• Отрицание: You won't love this book.\n• Вопрос: Will you love this book?\n• Специальный: Which book will you read?\nПомни: после will глагол всегда в начальной форме и без 'to'. will одинаков для всех лиц."
+      },
+      "examples": [
+        { "en": "The shop will open at nine.", "tr": "Dükkân dokuzda açılacak.", "tk": "Dükan dokuzda açylar.", "ru": "Магазин откроется в девять." },
+        { "en": "Will the shop open at nine?", "tr": "Dükkân dokuzda açılacak mı?", "tk": "Dükan dokuzda açylarmy?", "ru": "Магазин откроется в девять?" },
+        { "en": "The shop won't open on Sunday.", "tr": "Dükkân pazar günü açılmayacak.", "tk": "Dükan ýekşenbe güni açylmaz.", "ru": "В воскресенье магазин не откроется." },
+        { "en": "What time will the shop open?", "tr": "Dükkân saat kaçta açılacak?", "tk": "Dükan sagat näçede açylar?", "ru": "Во сколько откроется магазин?" },
+        { "en": "I'm sure you will enjoy the trip.", "tr": "Eminim geziden keyif alacaksın.", "tk": "Syýahatdan lezzet aljagyňa ynanýaryn.", "ru": "Уверен, тебе понравится поездка." },
+        { "en": "Will you remember me?", "tr": "Beni hatırlayacak mısın?", "tk": "Meni ýatlarsyňmy?", "ru": "Ты будешь меня помнить?" }
+      ],
+      "exercises": [
+        { "question": "They ___ (arrive) at 8.", "options": ["will arrive", "will arrives", "arrive will", "will to arrive"], "answer": 0, "explanation": { "tr": "will + yalın fiil.", "tk": "will + esasy işlik.", "ru": "will + глагол." } },
+        { "question": "Make a question: \"She will call you.\"", "options": ["Will she call you?", "She will call you?", "Will she calls you?", "Does she will call you?"], "answer": 0, "explanation": { "tr": "Will + özne + fiil.", "tk": "Will + eýe + işlik.", "ru": "Will + подлежащее + глагол." } },
+        { "question": "Make it negative: \"We will be there.\"", "options": ["We don't will be there.", "We won't be there.", "We willn't be there.", "We will not being there."], "answer": 1, "explanation": { "tr": "won't + be.", "tk": "won't + be.", "ru": "won't + be." } },
+        { "question": "Which film ___ we watch tonight?", "options": ["do", "will", "are", "does"], "answer": 1, "explanation": { "tr": "Which film will ...?", "tk": "Which film will ...?", "ru": "Which film will ...?" } },
+        { "question": "\"Will he be angry?\" – \"No, he ___.\"", "options": ["won't", "doesn't", "isn't", "will"], "answer": 0, "explanation": { "tr": "No, he won't.", "tk": "No, he won't.", "ru": "No, he won't." } },
+        { "question": "I'm sure you ___ the exam.", "options": ["pass", "will pass", "will passing", "passed will"], "answer": 1, "explanation": { "tr": "Tahmin: will pass.", "tk": "Çaklama: will pass.", "ru": "Прогноз: will pass." } },
+        { "question": "Where ___ you ___ next summer? (go)", "options": ["will / go", "will / goes", "do / will go", "are / go"], "answer": 0, "explanation": { "tr": "Where will you go?", "tk": "Where will you go?", "ru": "Where will you go?" } },
+        { "question": "It ___ (not / take) long.", "options": ["won't take", "doesn't will take", "won't takes", "not will take"], "answer": 0, "explanation": { "tr": "won't + take.", "tk": "won't + take.", "ru": "won't + take." } },
+        { "question": "Choose the correct sentence.", "options": ["My sister will be 18 next month.", "My sister will is 18 next month.", "My sister wills be 18 next month.", "My sister be will 18 next month."], "answer": 0, "explanation": { "tr": "will + be.", "tk": "will + be.", "ru": "will + be." } },
+        { "question": "Find the mistake: \"Will you going to the cinema?\"", "options": ["Will", "you", "going", "to the cinema"], "answer": 2, "explanation": { "tr": "going → go.", "tk": "going → go.", "ru": "going → go." } }
+      ]
+    }
+  }
+]

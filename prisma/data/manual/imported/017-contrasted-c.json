@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Contrasted: Simple Present or Simple Past – questions",
+    "title": "Questions: do/does or did?",
+    "body": {
+      "explanation": {
+        "tr": "Soru kurarken yardımcı fiil zamanı belirler:\n• Simple Present: Do/Does + özne + yalın fiil?\n  Do you live here? Does she like music?\n• Simple Past: Did + özne + yalın fiil? (tüm öznelerde)\n  Did you live here before? Did she like the concert?\n• be fiili: Is/Are ↔ Was/Were\n  Are you tired? Were you tired yesterday?\n• Wh-sorular: Where do you work? Where did you work before?",
+        "tk": "Sorag düzülende kömekçi işlik zamany kesgitleýär:\n• Simple Present: Do/Does + eýe + esasy işlik?\n  Do you live here? Does she like music?\n• Simple Past: Did + eýe + esasy işlik? (ähli eýelerde)\n  Did you live here before? Did she like the concert?\n• be işligi: Is/Are ↔ Was/Were\n  Are you tired? Were you tired yesterday?\n• Wh-soraglar: Where do you work? Where did you work before?",
+        "ru": "В вопросе время определяет вспомогательный глагол:\n• Simple Present: Do/Does + подлежащее + начальная форма?\n  Do you live here? Does she like music?\n• Simple Past: Did + подлежащее + начальная форма? (для всех лиц)\n  Did you live here before? Did she like the concert?\n• Глагол be: Is/Are ↔ Was/Were\n  Are you tired? Were you tired yesterday?\n• Специальные вопросы: Where do you work? Where did you work before?"
+      },
+      "examples": [
+        { "en": "Do you play tennis? – Yes, every week.", "tr": "Tenis oynar mısın? – Evet, her hafta.", "tk": "Tennis oýnaýarsyňmy? – Hawa, her hepde.", "ru": "Ты играешь в теннис? – Да, каждую неделю." },
+        { "en": "Did you play tennis yesterday?", "tr": "Dün tenis oynadın mı?", "tk": "Düýn tennis oýnadyňmy?", "ru": "Ты вчера играл в теннис?" },
+        { "en": "Does your brother work here?", "tr": "Kardeşin burada mı çalışıyor?", "tk": "Doganyň şu ýerde işleýärmi?", "ru": "Твой брат здесь работает?" },
+        { "en": "Was the exam difficult?", "tr": "Sınav zor muydu?", "tk": "Synag kyn boldumy?", "ru": "Экзамен был трудным?" },
+        { "en": "Where did you buy that jacket?", "tr": "O ceketi nereden aldın?", "tk": "Ol kurtkany nireden satyn aldyň?", "ru": "Где ты купил эту куртку?" },
+        { "en": "What time does the shop close?", "tr": "Dükkân saat kaçta kapanıyor?", "tk": "Dükan sagat näçede ýapylýar?", "ru": "Во сколько закрывается магазин?" }
+      ],
+      "exercises": [
+        { "question": "___ you like spicy food?", "options": ["Do", "Did", "Does", "Are"], "answer": 0, "explanation": { "tr": "Genel tercih → Do.", "tk": "Umumy saýlaw → Do.", "ru": "Общее предпочтение → Do." } },
+        { "question": "___ you enjoy the trip last week?", "options": ["Do", "Did", "Does", "Were"], "answer": 1, "explanation": { "tr": "last week → Did.", "tk": "last week → Did.", "ru": "last week → Did." } },
+        { "question": "___ she speak Russian?", "options": ["Do", "Did", "Does", "Is"], "answer": 2, "explanation": { "tr": "Genel, she → Does.", "tk": "Umumy, she → Does.", "ru": "В целом, she → Does." } },
+        { "question": "___ they at home last night?", "options": ["Are", "Were", "Did", "Do"], "answer": 1, "explanation": { "tr": "be + geçmiş + they → Were.", "tk": "be + geçmiş + they → Were.", "ru": "be + прошлое + they → Were." } },
+        { "question": "Where ___ you go on holiday last year?", "options": ["do", "did", "does", "were"], "answer": 1, "explanation": { "tr": "last year → did.", "tk": "last year → did.", "ru": "last year → did." } },
+        { "question": "What time ___ you usually get up?", "options": ["do", "did", "does", "are"], "answer": 0, "explanation": { "tr": "usually → do.", "tk": "usually → do.", "ru": "usually → do." } },
+        { "question": "Did he ___ his homework?", "options": ["does", "did", "do", "done"], "answer": 2, "explanation": { "tr": "Did + do.", "tk": "Did + do.", "ru": "Did + do." } },
+        { "question": "___ it cold yesterday?", "options": ["Is", "Was", "Did", "Does"], "answer": 1, "explanation": { "tr": "yesterday + be → Was.", "tk": "yesterday + be → Was.", "ru": "yesterday + be → Was." } },
+        { "question": "Choose the correct question.", "options": ["Does she went to school?", "Did she go to school yesterday?", "Did she goes to school?", "Do she go to school?"], "answer": 1, "explanation": { "tr": "Did + go.", "tk": "Did + go.", "ru": "Did + go." } },
+        { "question": "Find the mistake: \"Did your parents liked the film?\"", "options": ["Did", "your parents", "liked", "the film"], "answer": 2, "explanation": { "tr": "Did + like.", "tk": "Did + like.", "ru": "Did + like." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Tenses – Contrasted: Simple Present or will-future",
+    "title": "Simple Present or will-future?",
+    "body": {
+      "explanation": {
+        "tr": "Gelecekten bahsederken iki önemli kural:\n1. Zaman ve koşul cümlelerinde (when, if, before, after, as soon as, until) gelecek anlamına rağmen Simple Present kullanılır; ana cümlede will gelir:\n   When I finish, I'll call you. If it rains, we'll stay home.\n2. Tarifeler ve resmî programlar Simple Present'tir: The train leaves at 6. The course starts on Monday.\nDiğer tahminler, sözler, anlık kararlar will ile: I think he'll come. I'll help you.",
+        "tk": "Geljek barada gürlänimizde iki möhüm düzgün:\n1. Wagt we şert sözlemlerinde (when, if, before, after, as soon as, until) geljek manysyna garamazdan Simple Present ulanylýar; esasy bölekde will gelýär:\n   When I finish, I'll call you. If it rains, we'll stay home.\n2. Tertipnamalar we resmi maksatnamalar Simple Present: The train leaves at 6. The course starts on Monday.\nBeýleki çaklamalar, wadalar, pursatdaky kararlar will bilen: I think he'll come. I'll help you.",
+        "ru": "Два важных правила, когда речь о будущем:\n1. В придаточных времени и условия (when, if, before, after, as soon as, until) используется Simple Present, хотя смысл будущий; в главной части — will:\n   When I finish, I'll call you. If it rains, we'll stay home.\n2. Расписания и официальные программы — Simple Present: The train leaves at 6. The course starts on Monday.\nПрочие прогнозы, обещания, спонтанные решения — с will: I think he'll come. I'll help you."
+      },
+      "examples": [
+        { "en": "When I finish work, I'll call you.", "tr": "İşi bitirince seni arayacağım.", "tk": "Işimi gutaranymda saňa jaň ederin.", "ru": "Когда закончу работу, позвоню тебе." },
+        { "en": "If it rains, we'll stay home.", "tr": "Yağmur yağarsa evde kalacağız.", "tk": "Ýagyş ýagsa, öýde galarys.", "ru": "Если пойдёт дождь, мы останемся дома." },
+        { "en": "The train leaves at 6 tomorrow.", "tr": "Tren yarın 6'da kalkıyor.", "tk": "Otly ertir 6-da ugraýar.", "ru": "Поезд отправляется завтра в 6." },
+        { "en": "I'll wait here until you come back.", "tr": "Sen dönene kadar burada bekleyeceğim.", "tk": "Sen gaýdyp gelýänçäň men şu ýerde garaşaryn.", "ru": "Я подожду здесь, пока ты не вернёшься." },
+        { "en": "As soon as she arrives, we'll start.", "tr": "O gelir gelmez başlayacağız.", "tk": "Ol gelen badyna başlarys.", "ru": "Как только она приедет, мы начнём." },
+        { "en": "The new course starts on 1 September.", "tr": "Yeni kurs 1 Eylül'de başlıyor.", "tk": "Täze kurs 1-nji sentýabrda başlanýar.", "ru": "Новый курс начинается 1 сентября." }
+      ],
+      "exercises": [
+        { "question": "When I ___ home, I'll have a shower.", "options": ["get", "will get", "got", "am getting"], "answer": 0, "explanation": { "tr": "when + Simple Present.", "tk": "when + Simple Present.", "ru": "when + Simple Present." } },
+        { "question": "If you study hard, you ___ the test.", "options": ["pass", "will pass", "passed", "are passing"], "answer": 1, "explanation": { "tr": "Ana cümle → will.", "tk": "Esasy bölek → will.", "ru": "Главная часть → will." } },
+        { "question": "The film ___ at 8:30 tonight.", "options": ["starts", "will start", "is going start", "started"], "answer": 0, "explanation": { "tr": "Program → starts.", "tk": "Maksatnama → starts.", "ru": "Программа → starts." } },
+        { "question": "I ___ you as soon as I hear any news.", "options": ["tell", "will tell", "told", "am telling"], "answer": 1, "explanation": { "tr": "Ana cümle → will tell.", "tk": "Esasy bölek → will tell.", "ru": "Главная часть → will tell." } },
+        { "question": "We'll wait until the rain ___.", "options": ["stops", "will stop", "stopped", "is stopping"], "answer": 0, "explanation": { "tr": "until + Simple Present.", "tk": "until + Simple Present.", "ru": "until + Simple Present." } },
+        { "question": "Before you ___, turn off the lights.", "options": ["leave", "will leave", "left", "are leaving"], "answer": 0, "explanation": { "tr": "before + Simple Present.", "tk": "before + Simple Present.", "ru": "before + Simple Present." } },
+        { "question": "I think it ___ a hot summer.", "options": ["is", "will be", "was", "being"], "answer": 1, "explanation": { "tr": "Tahmin → will be.", "tk": "Çaklama → will be.", "ru": "Прогноз → will be." } },
+        { "question": "Our plane ___ at 10:15 tomorrow morning.", "options": ["lands", "will land", "landed", "is land"], "answer": 0, "explanation": { "tr": "Tarife → lands.", "tk": "Tertipnama → lands.", "ru": "Расписание → lands." } },
+        { "question": "If she ___ late, we'll start without her.", "options": ["is", "will be", "was", "be"], "answer": 0, "explanation": { "tr": "if + Simple Present.", "tk": "if + Simple Present.", "ru": "if + Simple Present." } },
+        { "question": "Find the mistake: \"I'll call you when I will arrive.\"", "options": ["I'll call", "you", "when", "I will arrive"], "answer": 3, "explanation": { "tr": "when I arrive.", "tk": "when I arrive.", "ru": "when I arrive." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Contrasted: Tenses in English, Statements",
+    "title": "Choosing the Right Tense: Statements",
+    "body": {
+      "explanation": {
+        "tr": "Doğru zamanı seçmek için cümledeki ipuçlarına bak:\n• every day, usually, always → Simple Present (She walks to work.)\n• now, at the moment, Look! → Present Progressive (She is walking now.)\n• yesterday, last…, ago → Simple Past (She walked yesterday.)\n• at 8 yesterday, while, when + uzun eylem → Past Progressive (She was walking when…)\n• just, already, yet, ever, since, for → Present Perfect (She has just arrived.)\n• tomorrow, next…, I think → will / going to (She will walk. She is going to walk.)",
+        "tk": "Dogry zamany saýlamak üçin sözlemdäki alamatlara seret:\n• every day, usually, always → Simple Present (She walks to work.)\n• now, at the moment, Look! → Present Progressive (She is walking now.)\n• yesterday, last…, ago → Simple Past (She walked yesterday.)\n• at 8 yesterday, while, when + uzak hereket → Past Progressive (She was walking when…)\n• just, already, yet, ever, since, for → Present Perfect (She has just arrived.)\n• tomorrow, next…, I think → will / going to (She will walk. She is going to walk.)",
+        "ru": "Чтобы выбрать время, смотри на подсказки в предложении:\n• every day, usually, always → Simple Present (She walks to work.)\n• now, at the moment, Look! → Present Progressive (She is walking now.)\n• yesterday, last…, ago → Simple Past (She walked yesterday.)\n• at 8 yesterday, while, when + длительное → Past Progressive (She was walking when…)\n• just, already, yet, ever, since, for → Present Perfect (She has just arrived.)\n• tomorrow, next…, I think → will / going to (She will walk. She is going to walk.)"
+      },
+      "examples": [
+        { "en": "She usually walks to work.", "tr": "Genelde işe yürüyerek gider.", "tk": "Ol adatça işe pyýada gidýär.", "ru": "Обычно она ходит на работу пешком." },
+        { "en": "Look! She is walking with her dog.", "tr": "Bak! Köpeğiyle yürüyor.", "tk": "Seret! Ol iti bilen gezýär.", "ru": "Смотри! Она гуляет с собакой." },
+        { "en": "She walked 10 km yesterday.", "tr": "Dün 10 km yürüdü.", "tk": "Ol düýn 10 km ýöredi.", "ru": "Вчера она прошла 10 км." },
+        { "en": "She was walking home when it started to snow.", "tr": "Kar başladığında eve yürüyordu.", "tk": "Gar ýagyp başlanda ol öýe pyýada barýardy.", "ru": "Она шла домой, когда пошёл снег." },
+        { "en": "She has just come back from her walk.", "tr": "Yürüyüşünden az önce döndü.", "tk": "Ol gezelençden ýaňy gaýdyp geldi.", "ru": "Она только что вернулась с прогулки." },
+        { "en": "Tomorrow she is going to walk in the mountains.", "tr": "Yarın dağlarda yürüyüş yapacak.", "tk": "Ertir ol daglarda gezjek.", "ru": "Завтра она пойдёт гулять в горы." }
+      ],
+      "exercises": [
+        { "question": "My brother ___ in a bank. He likes his job.", "options": ["works", "is working", "worked", "has worked"], "answer": 0, "explanation": { "tr": "Genel durum → works.", "tk": "Umumy ýagdaý → works.", "ru": "Постоянное → works." } },
+        { "question": "Be quiet! The baby ___.", "options": ["sleeps", "is sleeping", "slept", "has slept"], "answer": 1, "explanation": { "tr": "Şu an → is sleeping.", "tk": "Häzir → is sleeping.", "ru": "Сейчас → is sleeping." } },
+        { "question": "We ___ to Turkey two years ago.", "options": ["go", "have gone", "went", "were going"], "answer": 2, "explanation": { "tr": "ago → went.", "tk": "ago → went.", "ru": "ago → went." } },
+        { "question": "I ___ never ___ sushi.", "options": ["have / eaten", "did / eat", "was / eating", "am / eating"], "answer": 0, "explanation": { "tr": "never → Present Perfect.", "tk": "never → Present Perfect.", "ru": "never → Present Perfect." } },
+        { "question": "At 9 pm yesterday we ___ dinner.", "options": ["had", "were having", "have", "have had"], "answer": 1, "explanation": { "tr": "Belli anda devam → were having.", "tk": "Belli pursatda dowam → were having.", "ru": "В процессе → were having." } },
+        { "question": "I think it ___ tomorrow.", "options": ["rains", "rained", "will rain", "is raining"], "answer": 2, "explanation": { "tr": "I think + gelecek → will.", "tk": "I think + geljek → will.", "ru": "I think + будущее → will." } },
+        { "question": "She ___ already ___ her homework.", "options": ["has / done", "did / do", "is / doing", "was / doing"], "answer": 0, "explanation": { "tr": "already → Present Perfect.", "tk": "already → Present Perfect.", "ru": "already → Present Perfect." } },
+        { "question": "They ___ football every Saturday.", "options": ["play", "are playing", "played", "have played"], "answer": 0, "explanation": { "tr": "every Saturday → play.", "tk": "every Saturday → play.", "ru": "every Saturday → play." } },
+        { "question": "Look at the sky! It ___ rain.", "options": ["will", "is going to", "rains", "rained"], "answer": 1, "explanation": { "tr": "Görünen işaret → going to.", "tk": "Görünýän alamat → going to.", "ru": "Видимый признак → going to." } },
+        { "question": "Find the mistake: \"I have seen him last Monday.\"", "options": ["I have seen", "him", "last", "Monday"], "answer": 0, "explanation": { "tr": "last Monday → I saw.", "tk": "last Monday → I saw.", "ru": "last Monday → I saw." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Contrasted: Tenses in English – Statements and questions",
+    "title": "Choosing the Right Tense: Statements and Questions",
+    "body": {
+      "explanation": {
+        "tr": "Her zamanın soru biçimini karşılaştır:\n• Simple Present: Do/Does + özne + fiil? → Does he work?\n• Present Progressive: Am/Is/Are + özne + -ing? → Is he working?\n• Simple Past: Did + özne + fiil? → Did he work?\n• Past Progressive: Was/Were + özne + -ing? → Was he working?\n• Present Perfect: Have/Has + özne + V3? → Has he worked?\n• will-future: Will + özne + fiil? → Will he work?\n• going to: Am/Is/Are + özne + going to + fiil? → Is he going to work?",
+        "tk": "Her zamanyň sorag görnüşini deňeşdir:\n• Simple Present: Do/Does + eýe + işlik? → Does he work?\n• Present Progressive: Am/Is/Are + eýe + -ing? → Is he working?\n• Simple Past: Did + eýe + işlik? → Did he work?\n• Past Progressive: Was/Were + eýe + -ing? → Was he working?\n• Present Perfect: Have/Has + eýe + V3? → Has he worked?\n• will-future: Will + eýe + işlik? → Will he work?\n• going to: Am/Is/Are + eýe + going to + işlik? → Is he going to work?",
+        "ru": "Сравни вопросительные формы разных времён:\n• Simple Present: Do/Does + подлежащее + глагол? → Does he work?\n• Present Progressive: Am/Is/Are + подлежащее + -ing? → Is he working?\n• Simple Past: Did + подлежащее + глагол? → Did he work?\n• Past Progressive: Was/Were + подлежащее + -ing? → Was he working?\n• Present Perfect: Have/Has + подлежащее + V3? → Has he worked?\n• will-future: Will + подлежащее + глагол? → Will he work?\n• going to: Am/Is/Are + подлежащее + going to + глагол? → Is he going to work?"
+      },
+      "examples": [
+        { "en": "Does he work on Saturdays?", "tr": "Cumartesi günleri çalışır mı?", "tk": "Ol şenbe günleri işleýärmi?", "ru": "Он работает по субботам?" },
+        { "en": "Is he working now?", "tr": "Şu an çalışıyor mu?", "tk": "Ol häzir işleýärmi?", "ru": "Он сейчас работает?" },
+        { "en": "Did he work yesterday?", "tr": "Dün çalıştı mı?", "tk": "Ol düýn işledimi?", "ru": "Он вчера работал?" },
+        { "en": "Has he ever worked abroad?", "tr": "Hiç yurt dışında çalıştı mı?", "tk": "Ol hiç daşary ýurtda işledimi?", "ru": "Он когда-нибудь работал за границей?" },
+        { "en": "Will he work tomorrow?", "tr": "Yarın çalışacak mı?", "tk": "Ol ertir işlärmi?", "ru": "Он будет работать завтра?" },
+        { "en": "Was he working when you called?", "tr": "Aradığında çalışıyor muydu?", "tk": "Sen jaň edeniňde ol işleýärmidi?", "ru": "Он работал, когда ты позвонил?" }
+      ],
+      "exercises": [
+        { "question": "___ you ever ___ to London?", "options": ["Have / been", "Did / be", "Are / being", "Were / been"], "answer": 0, "explanation": { "tr": "ever → Present Perfect.", "tk": "ever → Present Perfect.", "ru": "ever → Present Perfect." } },
+        { "question": "What ___ you doing at the moment?", "options": ["do", "are", "did", "have"], "answer": 1, "explanation": { "tr": "at the moment → are + -ing.", "tk": "at the moment → are + -ing.", "ru": "at the moment → are + -ing." } },
+        { "question": "___ she call you yesterday?", "options": ["Does", "Did", "Has", "Is"], "answer": 1, "explanation": { "tr": "yesterday → Did.", "tk": "yesterday → Did.", "ru": "yesterday → Did." } },
+        { "question": "How often ___ you go to the gym?", "options": ["do", "are", "did", "have"], "answer": 0, "explanation": { "tr": "How often → Simple Present.", "tk": "How often → Simple Present.", "ru": "How often → Simple Present." } },
+        { "question": "___ it raining when you left?", "options": ["Is", "Was", "Did", "Has"], "answer": 1, "explanation": { "tr": "Geçmişte devam → Was + -ing.", "tk": "Geçmişde dowam → Was + -ing.", "ru": "Длилось в прошлом → Was + -ing." } },
+        { "question": "___ you help me tomorrow?", "options": ["Do", "Will", "Did", "Have"], "answer": 1, "explanation": { "tr": "tomorrow + rica → Will.", "tk": "tomorrow + haýyş → Will.", "ru": "tomorrow + просьба → Will." } },
+        { "question": "What ___ you going to do this weekend?", "options": ["do", "are", "will", "did"], "answer": 1, "explanation": { "tr": "going to → are.", "tk": "going to → are.", "ru": "going to → are." } },
+        { "question": "___ your sister finished school yet?", "options": ["Did", "Has", "Is", "Does"], "answer": 1, "explanation": { "tr": "yet → Has + V3.", "tk": "yet → Has + V3.", "ru": "yet → Has + V3." } },
+        { "question": "Choose the correct question.", "options": ["Where you went last summer?", "Where did you go last summer?", "Where have you gone last summer?", "Where do you went last summer?"], "answer": 1, "explanation": { "tr": "last summer → did + go.", "tk": "last summer → did + go.", "ru": "last summer → did + go." } },
+        { "question": "Find the mistake: \"Are you liking chocolate?\"", "options": ["Are you", "liking", "chocolate", "There is no mistake"], "answer": 1, "explanation": { "tr": "like durum fiili → Do you like?", "tk": "like ýagdaý işligi → Do you like?", "ru": "like — глагол состояния → Do you like?" } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Contrasted: will or going to-future",
+    "title": "will or going to?",
+    "body": {
+      "explanation": {
+        "tr": "• will:\n  - Konuşma anında verilen karar: \"I'm cold.\" – \"I'll close the window.\"\n  - Görüş/tahmin (I think, probably): I think you'll like it.\n  - Söz, teklif, rica: I'll help you. Will you open the door?\n• going to:\n  - Önceden verilmiş karar/plan: I'm going to paint my room this weekend. (Boyayı aldım bile.)\n  - Şimdiki işaretten tahmin: Look at the clouds. It's going to rain.\nİpucu: 'zaten karar verildi mi?' Evet → going to; Şimdi karar veriliyor → will.",
+        "tk": "• will:\n  - Gürleşip durkaň berlen karar: \"I'm cold.\" – \"I'll close the window.\"\n  - Pikir/çaklama (I think, probably): I think you'll like it.\n  - Wada, teklip, haýyş: I'll help you. Will you open the door?\n• going to:\n  - Öňünden berlen karar/meýilnama: I'm going to paint my room this weekend. (Reňki eýýäm satyn aldym.)\n  - Häzirki alamatdan çaklama: Look at the clouds. It's going to rain.\nMaslahat: 'karar eýýäm berildimi?' Hawa → going to; häzir berilýär → will.",
+        "ru": "• will:\n  - Решение в момент речи: \"I'm cold.\" – \"I'll close the window.\"\n  - Мнение/прогноз (I think, probably): I think you'll like it.\n  - Обещание, предложение, просьба: I'll help you. Will you open the door?\n• going to:\n  - Решение/план, принятые заранее: I'm going to paint my room this weekend. (Краску уже купил.)\n  - Прогноз по признакам: Look at the clouds. It's going to rain.\nПодсказка: решение уже принято? Да → going to; принимается сейчас → will."
+      },
+      "examples": [
+        { "en": "\"I'm cold.\" – \"I'll close the window.\"", "tr": "\"Üşüyorum.\" – \"Pencereyi kapatayım.\"", "tk": "\"Üşeýärin.\" – \"Penjiräni ýapaýyn.\"", "ru": "\"Мне холодно.\" – \"Я закрою окно.\"" },
+        { "en": "I'm going to paint my room this weekend.", "tr": "Bu hafta sonu odamı boyayacağım.", "tk": "Bu dynç günleri otagymy reňklejek.", "ru": "В эти выходные я собираюсь покрасить комнату." },
+        { "en": "I think you'll like this book.", "tr": "Bence bu kitabı seveceksin.", "tk": "Meniň pikirimçe, bu kitap saňa ýarar.", "ru": "Думаю, тебе понравится эта книга." },
+        { "en": "Look at the clouds. It's going to rain.", "tr": "Bulutlara bak. Yağmur yağacak.", "tk": "Bulutlara seret. Ýagyş ýagjak.", "ru": "Посмотри на тучи. Будет дождь." },
+        { "en": "Don't worry. I'll help you with your homework.", "tr": "Merak etme. Ödevine yardım edeceğim.", "tk": "Alada etme. Öý işiňe kömek ederin.", "ru": "Не волнуйся. Я помогу тебе с домашним заданием." },
+        { "en": "We're going to get married next year.", "tr": "Seneye evleneceğiz.", "tk": "Biz indiki ýyl öýlenjek.", "ru": "В следующем году мы поженимся." }
+      ],
+      "exercises": [
+        { "question": "\"There's no milk.\" – \"OK, I ___ some.\"", "options": ["'ll buy", "'m going to buy", "buy", "bought"], "answer": 0, "explanation": { "tr": "Anlık karar → will.", "tk": "Pursatdaky karar → will.", "ru": "Спонтанно → will." } },
+        { "question": "I've bought a ticket. I ___ see the concert.", "options": ["will", "'m going to", "see", "saw"], "answer": 1, "explanation": { "tr": "Plan hazır → going to.", "tk": "Meýilnama taýýar → going to.", "ru": "План готов → going to." } },
+        { "question": "Watch out! You ___ fall!", "options": ["will", "'re going to", "fall", "fell"], "answer": 1, "explanation": { "tr": "Görünen işaret → going to.", "tk": "Görünýän alamat → going to.", "ru": "Видимый признак → going to." } },
+        { "question": "I think the team ___ the match.", "options": ["will win", "is going win", "wins", "won"], "answer": 0, "explanation": { "tr": "I think → will.", "tk": "I think → will.", "ru": "I think → will." } },
+        { "question": "\"The phone's ringing.\" – \"I ___ it.\"", "options": ["'m going to answer", "'ll answer", "answer", "answered"], "answer": 1, "explanation": { "tr": "Anlık karar → will.", "tk": "Pursatdaky karar → will.", "ru": "Спонтанно → will." } },
+        { "question": "She has decided. She ___ study medicine.", "options": ["will", "is going to", "studies", "studied"], "answer": 1, "explanation": { "tr": "Önceden karar → going to.", "tk": "Öňünden karar → going to.", "ru": "Решено заранее → going to." } },
+        { "question": "I promise I ___ forget your birthday.", "options": ["won't", "'m not going to", "don't", "didn't"], "answer": 0, "explanation": { "tr": "Söz → won't.", "tk": "Wada → won't.", "ru": "Обещание → won't." } },
+        { "question": "The car is very old. It ___ break down soon.", "options": ["will", "is going to", "breaks", "broke"], "answer": 1, "explanation": { "tr": "Şimdiki kanıt → going to.", "tk": "Häzirki subutnama → going to.", "ru": "Есть признаки → going to." } },
+        { "question": "\"I can't open this jar.\" – \"Give it to me. I ___ it.\"", "options": ["'ll open", "'m going to open", "open", "opened"], "answer": 0, "explanation": { "tr": "Teklif → will.", "tk": "Teklip → will.", "ru": "Предложение → will." } },
+        { "question": "Find the mistake: \"Look! That glass will fall off the table!\"", "options": ["Look!", "That glass", "will fall", "off the table"], "answer": 2, "explanation": { "tr": "Görünen işaret → is going to fall.", "tk": "Görünýän alamat → is going to fall.", "ru": "Видимый признак → is going to fall." } }
+      ]
+    }
+  }
+]

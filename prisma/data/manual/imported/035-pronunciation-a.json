@@ -1,0 +1,1220 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Pronunciation: Phonetic Transcription – Animals",
+    "title": "Phonetic Symbols: Animals",
+    "body": {
+      "explanation": {
+        "tr": "Sözlüklerde kelimelerin okunuşu fonetik sembollerle (IPA) yazılır, / / arasında gösterilir. Önemli semboller:\n• /æ/ cat'teki a (ağzı geniş a-e arası): /kæt/ cat\n• /ɒ/ dog'daki o: /dɒɡ/ dog\n• /ɔː/ uzun o: /hɔːs/ horse\n• /iː/ uzun i: /ʃiːp/ sheep\n• /ʃ/ Türkçe ş: sheep, fish /fɪʃ/\n• /ɪ/ kısa i: /fɪʃ/ fish\n• /aʊ/ ao: /maʊs/ mouse, /kaʊ/ cow\n• /ˈ/ vurgu işareti, vurgulu heceden önce: /ˈræbɪt/ rabbit",
+        "tk": "Sözlüklerde sözleriň aýdylyşy fonetik belgiler (IPA) bilen ýazylýar, / / arasynda görkezilýär. Möhüm belgiler:\n• /æ/ cat-daky a (ä sesine ýakyn): /kæt/ cat\n• /ɒ/ dog-daky o: /dɒɡ/ dog\n• /ɔː/ uzyn o: /hɔːs/ horse\n• /iː/ uzyn i: /ʃiːp/ sheep\n• /ʃ/ türkmen ş: sheep, fish /fɪʃ/\n• /ɪ/ gysga i: /fɪʃ/ fish\n• /aʊ/ ao: /maʊs/ mouse, /kaʊ/ cow\n• /ˈ/ basym belgisi, basymly bogundan öň: /ˈræbɪt/ rabbit",
+        "ru": "В словарях произношение записывается фонетическими символами (IPA) между / /. Важные символы:\n• /æ/ как a в cat (между а и э): /kæt/ cat\n• /ɒ/ как o в dog: /dɒɡ/ dog\n• /ɔː/ долгое о: /hɔːs/ horse\n• /iː/ долгое и: /ʃiːp/ sheep\n• /ʃ/ русское ш: sheep, fish /fɪʃ/\n• /ɪ/ краткое и: /fɪʃ/ fish\n• /aʊ/ ау: /maʊs/ mouse, /kaʊ/ cow\n• /ˈ/ знак ударения перед ударным слогом: /ˈræbɪt/ rabbit"
+      },
+      "examples": [
+        {
+          "en": "cat /kæt/",
+          "tr": "kedi",
+          "tk": "pişik",
+          "ru": "кошка"
+        },
+        {
+          "en": "dog /dɒɡ/",
+          "tr": "köpek",
+          "tk": "it",
+          "ru": "собака"
+        },
+        {
+          "en": "horse /hɔːs/",
+          "tr": "at",
+          "tk": "at",
+          "ru": "лошадь"
+        },
+        {
+          "en": "sheep /ʃiːp/",
+          "tr": "koyun",
+          "tk": "goýun",
+          "ru": "овца"
+        },
+        {
+          "en": "mouse /maʊs/",
+          "tr": "fare",
+          "tk": "syçan",
+          "ru": "мышь"
+        },
+        {
+          "en": "camel /ˈkæməl/",
+          "tr": "deve",
+          "tk": "düýe",
+          "ru": "верблюд"
+        }
+      ],
+      "exercises": [
+        {
+          "question": "/kæt/ is:",
+          "options": [
+            "cut",
+            "cat",
+            "coat",
+            "kite"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/æ/ → cat.",
+            "tk": "/æ/ → cat.",
+            "ru": "/æ/ → cat."
+          }
+        },
+        {
+          "question": "/dɒɡ/ is:",
+          "options": [
+            "dog",
+            "duck",
+            "dig",
+            "doge"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "dog.",
+            "tk": "dog.",
+            "ru": "dog."
+          }
+        },
+        {
+          "question": "/ʃiːp/ is:",
+          "options": [
+            "ship",
+            "sheep",
+            "shop",
+            "sip"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "Uzun /iː/ → sheep (ship kısa /ɪ/).",
+            "tk": "Uzyn /iː/ → sheep (ship gysga /ɪ/).",
+            "ru": "Долгое /iː/ → sheep (ship — краткое /ɪ/)."
+          }
+        },
+        {
+          "question": "/fɪʃ/ is:",
+          "options": [
+            "fish",
+            "fix",
+            "feet",
+            "fist"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/ʃ/ = sh → fish.",
+            "tk": "/ʃ/ = sh → fish.",
+            "ru": "/ʃ/ = sh → fish."
+          }
+        },
+        {
+          "question": "/hɔːs/ is:",
+          "options": [
+            "house",
+            "horse",
+            "hose",
+            "hers"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/ɔː/ → horse.",
+            "tk": "/ɔː/ → horse.",
+            "ru": "/ɔː/ → horse."
+          }
+        },
+        {
+          "question": "/kaʊ/ is:",
+          "options": [
+            "cow",
+            "car",
+            "coy",
+            "key"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/aʊ/ → cow.",
+            "tk": "/aʊ/ → cow.",
+            "ru": "/aʊ/ → cow."
+          }
+        },
+        {
+          "question": "/ˈræbɪt/ is:",
+          "options": [
+            "robot",
+            "rabbit",
+            "ribbon",
+            "rubber"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "rabbit = tavşan.",
+            "tk": "rabbit = towşan.",
+            "ru": "rabbit = кролик."
+          }
+        },
+        {
+          "question": "/bɜːd/ is:",
+          "options": [
+            "bird",
+            "bed",
+            "bad",
+            "bread"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/ɜː/ → bird.",
+            "tk": "/ɜː/ → bird.",
+            "ru": "/ɜː/ → bird."
+          }
+        },
+        {
+          "question": "/ˈmʌŋki/ is:",
+          "options": [
+            "money",
+            "monkey",
+            "monday",
+            "mango"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "monkey = maymun.",
+            "tk": "monkey = maýmyn.",
+            "ru": "monkey = обезьяна."
+          }
+        },
+        {
+          "question": "/ˈtaɪɡə/ is:",
+          "options": [
+            "tiger",
+            "tickle",
+            "toggle",
+            "teacher"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/aɪ/ → tiger.",
+            "tk": "/aɪ/ → tiger.",
+            "ru": "/aɪ/ → tiger."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Pronunciation: Phonetic Transcription – Character",
+    "title": "Phonetic Symbols: Character Adjectives",
+    "body": {
+      "explanation": {
+        "tr": "Karakter sıfatlarının okunuşu. Yeni semboller:\n• /ə/ schwa: vurgusuz, çok kısa, belirsiz ses — İngilizcenin en sık sesi: /ˈklevə/ clever\n• /ʌ/ kısa a: /ˈfʌni/ funny\n• /eɪ/ ey: /ˈleɪzi/ lazy, /breɪv/ brave\n• /aɪ/ ay: /ʃaɪ/ shy, /kaɪnd/ kind\n• honest /ˈɒnɪst/ (h okunmaz!)\n• /dʒ/ c sesi: /ˈdʒenərəs/ generous",
+        "tk": "Häsiýet sypatlarynyň aýdylyşy. Täze belgiler:\n• /ə/ schwa: basymsyz, örän gysga, anyk däl ses — iňlis diliniň iň köp ulanylýan sesi: /ˈklevə/ clever\n• /ʌ/ gysga a: /ˈfʌni/ funny\n• /eɪ/ eý: /ˈleɪzi/ lazy, /breɪv/ brave\n• /aɪ/ aý: /ʃaɪ/ shy, /kaɪnd/ kind\n• honest /ˈɒnɪst/ (h okalmaýar!)\n• /dʒ/ j sesi: /ˈdʒenərəs/ generous",
+        "ru": "Произношение прилагательных характера. Новые символы:\n• /ə/ шва: безударный очень краткий неясный звук — самый частый в английском: /ˈklevə/ clever\n• /ʌ/ краткое а: /ˈfʌni/ funny\n• /eɪ/ эй: /ˈleɪzi/ lazy, /breɪv/ brave\n• /aɪ/ ай: /ʃaɪ/ shy, /kaɪnd/ kind\n• honest /ˈɒnɪst/ (h не читается!)\n• /dʒ/ дж: /ˈdʒenərəs/ generous"
+      },
+      "examples": [
+        {
+          "en": "funny /ˈfʌni/",
+          "tr": "komik",
+          "tk": "gülkünç",
+          "ru": "смешной"
+        },
+        {
+          "en": "lazy /ˈleɪzi/",
+          "tr": "tembel",
+          "tk": "ýalta",
+          "ru": "ленивый"
+        },
+        {
+          "en": "shy /ʃaɪ/",
+          "tr": "utangaç",
+          "tk": "utanjaň",
+          "ru": "застенчивый"
+        },
+        {
+          "en": "clever /ˈklevə/",
+          "tr": "zeki",
+          "tk": "akylly",
+          "ru": "умный"
+        },
+        {
+          "en": "honest /ˈɒnɪst/",
+          "tr": "dürüst",
+          "tk": "dogruçyl",
+          "ru": "честный"
+        },
+        {
+          "en": "generous /ˈdʒenərəs/",
+          "tr": "cömert",
+          "tk": "sahy",
+          "ru": "щедрый"
+        }
+      ],
+      "exercises": [
+        {
+          "question": "/ˈfʌni/ is:",
+          "options": [
+            "funny",
+            "fanny",
+            "phone",
+            "fine"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/ʌ/ → funny.",
+            "tk": "/ʌ/ → funny.",
+            "ru": "/ʌ/ → funny."
+          }
+        },
+        {
+          "question": "/ˈleɪzi/ is:",
+          "options": [
+            "lucky",
+            "lazy",
+            "lousy",
+            "leafy"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/eɪ/ → lazy.",
+            "tk": "/eɪ/ → lazy.",
+            "ru": "/eɪ/ → lazy."
+          }
+        },
+        {
+          "question": "/ʃaɪ/ is:",
+          "options": [
+            "she",
+            "shy",
+            "show",
+            "shoe"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/aɪ/ → shy.",
+            "tk": "/aɪ/ → shy.",
+            "ru": "/aɪ/ → shy."
+          }
+        },
+        {
+          "question": "/kaɪnd/ is:",
+          "options": [
+            "kind",
+            "kid",
+            "cant",
+            "count"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/aɪ/ → kind.",
+            "tk": "/aɪ/ → kind.",
+            "ru": "/aɪ/ → kind."
+          }
+        },
+        {
+          "question": "/ˈɒnɪst/ is:",
+          "options": [
+            "honest",
+            "only",
+            "earnest",
+            "onion"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "honest — h okunmaz.",
+            "tk": "honest — h okalmaýar.",
+            "ru": "honest — h не читается."
+          }
+        },
+        {
+          "question": "/breɪv/ is:",
+          "options": [
+            "brave",
+            "brief",
+            "bravo",
+            "brow"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "brave = cesur.",
+            "tk": "brave = batyr.",
+            "ru": "brave = храбрый."
+          }
+        },
+        {
+          "question": "/ˈklevə/ is:",
+          "options": [
+            "clover",
+            "clever",
+            "cleaver",
+            "colour"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "clever = zeki.",
+            "tk": "clever = akylly.",
+            "ru": "clever = умный."
+          }
+        },
+        {
+          "question": "/ˈfrendli/ is:",
+          "options": [
+            "friendly",
+            "frankly",
+            "freely",
+            "friend"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "friendly = dost canlısı.",
+            "tk": "friendly = mylakatly.",
+            "ru": "friendly = дружелюбный."
+          }
+        },
+        {
+          "question": "/ˈdʒenərəs/ is:",
+          "options": [
+            "dangerous",
+            "generous",
+            "general",
+            "genius"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/dʒ/ → generous.",
+            "tk": "/dʒ/ → generous.",
+            "ru": "/dʒ/ → generous."
+          }
+        },
+        {
+          "question": "In \"honest\", which letter is silent?",
+          "options": [
+            "h",
+            "o",
+            "n",
+            "t"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "h okunmaz.",
+            "tk": "h okalmaýar.",
+            "ru": "h не читается."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Pronunciation: Phonetic Transcription – Clothes",
+    "title": "Phonetic Symbols: Clothes",
+    "body": {
+      "explanation": {
+        "tr": "Giysi kelimelerinin okunuşu:\n• /ɜː/ uzun ö-e arası: /ʃɜːt/ shirt, /skɜːt/ skirt\n• /uː/ uzun u: /ʃuː/ shoe, /buːts/ boots\n• /əʊ/ ou: /kəʊt/ coat\n• /ʌ/ kısa a: /ɡlʌvz/ gloves\n• /ɑː/ uzun a: /ʃɑːf/ değil — scarf /skɑːf/\n• /tʃ/ ç: /ˈdʒækɪt/ jacket'te /dʒ/ = c\n• /ð/ dilin dişlere değdiği yumuşak 'z/d': /ˈkləʊðz/ clothes",
+        "tk": "Eşik sözleriniň aýdylyşy:\n• /ɜː/ uzyn ö-e arasy: /ʃɜːt/ shirt, /skɜːt/ skirt\n• /uː/ uzyn u: /ʃuː/ shoe, /buːts/ boots\n• /əʊ/ ou: /kəʊt/ coat\n• /ʌ/ gysga a: /ɡlʌvz/ gloves\n• /ɑː/ uzyn a: scarf /skɑːf/\n• /dʒ/ j: /ˈdʒækɪt/ jacket\n• /ð/ dil dişlere degýän ýumşak 'z/d': /kləʊðz/ clothes",
+        "ru": "Произношение слов «одежда»:\n• /ɜː/ долгий звук между ё и э: /ʃɜːt/ shirt, /skɜːt/ skirt\n• /uː/ долгое у: /ʃuː/ shoe, /buːts/ boots\n• /əʊ/ оу: /kəʊt/ coat\n• /ʌ/ краткое а: /ɡlʌvz/ gloves\n• /ɑː/ долгое а: scarf /skɑːf/\n• /dʒ/ дж: /ˈdʒækɪt/ jacket\n• /ð/ мягкий межзубный звук: /kləʊðz/ clothes"
+      },
+      "examples": [
+        {
+          "en": "shirt /ʃɜːt/",
+          "tr": "gömlek",
+          "tk": "köýnek",
+          "ru": "рубашка"
+        },
+        {
+          "en": "coat /kəʊt/",
+          "tr": "palto",
+          "tk": "palto",
+          "ru": "пальто"
+        },
+        {
+          "en": "shoes /ʃuːz/",
+          "tr": "ayakkabılar",
+          "tk": "aýakgaplar",
+          "ru": "туфли"
+        },
+        {
+          "en": "gloves /ɡlʌvz/",
+          "tr": "eldivenler",
+          "tk": "ellikler",
+          "ru": "перчатки"
+        },
+        {
+          "en": "scarf /skɑːf/",
+          "tr": "atkı",
+          "tk": "şarf",
+          "ru": "шарф"
+        },
+        {
+          "en": "jacket /ˈdʒækɪt/",
+          "tr": "ceket",
+          "tk": "kurtka",
+          "ru": "куртка"
+        }
+      ],
+      "exercises": [
+        {
+          "question": "/ʃɜːt/ is:",
+          "options": [
+            "shirt",
+            "short",
+            "sheet",
+            "shut"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/ɜː/ → shirt.",
+            "tk": "/ɜː/ → shirt.",
+            "ru": "/ɜː/ → shirt."
+          }
+        },
+        {
+          "question": "/kəʊt/ is:",
+          "options": [
+            "cat",
+            "coat",
+            "cot",
+            "court"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/əʊ/ → coat.",
+            "tk": "/əʊ/ → coat.",
+            "ru": "/əʊ/ → coat."
+          }
+        },
+        {
+          "question": "/ʃuːz/ is:",
+          "options": [
+            "shoes",
+            "shows",
+            "shoots",
+            "sheds"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/uː/ → shoes.",
+            "tk": "/uː/ → shoes.",
+            "ru": "/uː/ → shoes."
+          }
+        },
+        {
+          "question": "/skɜːt/ is:",
+          "options": [
+            "skirt",
+            "skate",
+            "scarf",
+            "sport"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "skirt = etek.",
+            "tk": "skirt = ýubka.",
+            "ru": "skirt = юбка."
+          }
+        },
+        {
+          "question": "/ɡlʌvz/ is:",
+          "options": [
+            "gloves",
+            "globes",
+            "glass",
+            "clubs"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/ʌ/ → gloves.",
+            "tk": "/ʌ/ → gloves.",
+            "ru": "/ʌ/ → gloves."
+          }
+        },
+        {
+          "question": "/skɑːf/ is:",
+          "options": [
+            "scarf",
+            "scar",
+            "skirt",
+            "scruff"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/ɑː/ → scarf.",
+            "tk": "/ɑː/ → scarf.",
+            "ru": "/ɑː/ → scarf."
+          }
+        },
+        {
+          "question": "/ˈdʒækɪt/ is:",
+          "options": [
+            "jacket",
+            "jackal",
+            "chicken",
+            "jockey"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "jacket.",
+            "tk": "jacket.",
+            "ru": "jacket."
+          }
+        },
+        {
+          "question": "/ˈtraʊzəz/ is:",
+          "options": [
+            "trousers",
+            "treasures",
+            "towers",
+            "trainers"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "trousers = pantolon.",
+            "tk": "trousers = balak.",
+            "ru": "trousers = брюки."
+          }
+        },
+        {
+          "question": "/buːts/ is:",
+          "options": [
+            "boats",
+            "boots",
+            "bats",
+            "beets"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/uː/ → boots.",
+            "tk": "/uː/ → boots.",
+            "ru": "/uː/ → boots."
+          }
+        },
+        {
+          "question": "/hæt/ is:",
+          "options": [
+            "hot",
+            "hat",
+            "hut",
+            "heat"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/æ/ → hat.",
+            "tk": "/æ/ → hat.",
+            "ru": "/æ/ → hat."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Pronunciation: Phonetic Transcription – Colours",
+    "title": "Phonetic Symbols: Colours",
+    "body": {
+      "explanation": {
+        "tr": "Renklerin okunuşu:\n• /e/ kısa e: /red/ red, /ˈjeləʊ/ yellow\n• /uː/ uzun u: /bluː/ blue\n• /iː/ uzun i: /ɡriːn/ green\n• /aɪ/ ay: /waɪt/ white\n• /aʊ/ ao: brown /braʊn/; /ɜː/: purple /ˈpɜːpl/\n• /ɪ/ kısa i: /pɪŋk/ pink\n• /ɒ/ kısa o: orange /ˈɒrɪndʒ/\n• /ɡ/ her zaman 'g': /ɡreɪ/ grey",
+        "tk": "Reňkleriň aýdylyşy:\n• /e/ gysga e: /red/ red, /ˈjeləʊ/ yellow\n• /uː/ uzyn u: /bluː/ blue\n• /iː/ uzyn i: /ɡriːn/ green\n• /aɪ/ aý: /waɪt/ white\n• /aʊ/ ao: brown /braʊn/; /ɜː/: purple /ˈpɜːpl/\n• /ɪ/ gysga i: /pɪŋk/ pink\n• /ɒ/ gysga o: orange /ˈɒrɪndʒ/\n• /ɡ/ elmydama 'g': /ɡreɪ/ grey",
+        "ru": "Произношение цветов:\n• /e/ краткое э: /red/ red, /ˈjeləʊ/ yellow\n• /uː/ долгое у: /bluː/ blue\n• /iː/ долгое и: /ɡriːn/ green\n• /aɪ/ ай: /waɪt/ white\n• /aʊ/ ау: brown /braʊn/; /ɜː/: purple /ˈpɜːpl/\n• /ɪ/ краткое и: /pɪŋk/ pink\n• /ɒ/ краткое о: orange /ˈɒrɪndʒ/\n• /ɡ/ всегда г: /ɡreɪ/ grey"
+      },
+      "examples": [
+        {
+          "en": "red /red/",
+          "tr": "kırmızı",
+          "tk": "gyzyl",
+          "ru": "красный"
+        },
+        {
+          "en": "blue /bluː/",
+          "tr": "mavi",
+          "tk": "gök",
+          "ru": "синий"
+        },
+        {
+          "en": "green /ɡriːn/",
+          "tr": "yeşil",
+          "tk": "ýaşyl",
+          "ru": "зелёный"
+        },
+        {
+          "en": "white /waɪt/",
+          "tr": "beyaz",
+          "tk": "ak",
+          "ru": "белый"
+        },
+        {
+          "en": "brown /braʊn/",
+          "tr": "kahverengi",
+          "tk": "goňur",
+          "ru": "коричневый"
+        },
+        {
+          "en": "orange /ˈɒrɪndʒ/",
+          "tr": "turuncu",
+          "tk": "mämişi",
+          "ru": "оранжевый"
+        }
+      ],
+      "exercises": [
+        {
+          "question": "/red/ is:",
+          "options": [
+            "read",
+            "red",
+            "ride",
+            "rod"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "red.",
+            "tk": "red.",
+            "ru": "red."
+          }
+        },
+        {
+          "question": "/bluː/ is:",
+          "options": [
+            "blow",
+            "blue",
+            "black",
+            "blew"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "Renk: blue (blew da aynı okunur!).",
+            "tk": "Reňk: blue (blew hem şeýle okalýar!).",
+            "ru": "Цвет: blue (blew звучит так же!)."
+          }
+        },
+        {
+          "question": "/ɡriːn/ is:",
+          "options": [
+            "grin",
+            "green",
+            "grain",
+            "grown"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/iː/ → green.",
+            "tk": "/iː/ → green.",
+            "ru": "/iː/ → green."
+          }
+        },
+        {
+          "question": "/waɪt/ is:",
+          "options": [
+            "wait",
+            "white",
+            "what",
+            "wet"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/aɪ/ → white.",
+            "tk": "/aɪ/ → white.",
+            "ru": "/aɪ/ → white."
+          }
+        },
+        {
+          "question": "/braʊn/ is:",
+          "options": [
+            "brown",
+            "brain",
+            "bran",
+            "brawn"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/aʊ/ → brown.",
+            "tk": "/aʊ/ → brown.",
+            "ru": "/aʊ/ → brown."
+          }
+        },
+        {
+          "question": "/pɪŋk/ is:",
+          "options": [
+            "pink",
+            "punk",
+            "pinch",
+            "peak"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "pink.",
+            "tk": "pink.",
+            "ru": "pink."
+          }
+        },
+        {
+          "question": "/ˈjeləʊ/ is:",
+          "options": [
+            "yellow",
+            "yell",
+            "yolk",
+            "jelly"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "yellow = sarı.",
+            "tk": "yellow = sary.",
+            "ru": "yellow = жёлтый."
+          }
+        },
+        {
+          "question": "/blæk/ is:",
+          "options": [
+            "block",
+            "black",
+            "blank",
+            "blake"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/æ/ → black.",
+            "tk": "/æ/ → black.",
+            "ru": "/æ/ → black."
+          }
+        },
+        {
+          "question": "/ɡreɪ/ is:",
+          "options": [
+            "grey",
+            "grow",
+            "gray area",
+            "great"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/eɪ/ → grey.",
+            "tk": "/eɪ/ → grey.",
+            "ru": "/eɪ/ → grey."
+          }
+        },
+        {
+          "question": "/ˈpɜːpl/ is:",
+          "options": [
+            "people",
+            "purple",
+            "paper",
+            "pupil"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "purple = mor.",
+            "tk": "purple = gyrmyzy-gök.",
+            "ru": "purple = фиолетовый."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Pronunciation: Phonetic Transcription – Family",
+    "title": "Phonetic Symbols: Family",
+    "body": {
+      "explanation": {
+        "tr": "Aile kelimelerinin okunuşu:\n• /ʌ/ kısa a: /ˈmʌðə/ mother, /ˈbrʌðə/ brother, /sʌn/ son\n• /ð/ th (yumuşak): mother, father, brother\n• /ɑː/ uzun a: /ˈfɑːðə/ father, /ɑːnt/ aunt\n• /ɪ/ kısa i: /ˈsɪstə/ sister\n• /ɔː/ uzun o: /ˈdɔːtə/ daughter (gh okunmaz!)\n• /ʌ/: /ˈʌŋkl/ uncle, /ˈkʌzn/ cousin\nNot: son ve sun aynı okunur: /sʌn/.",
+        "tk": "Maşgala sözleriniň aýdylyşy:\n• /ʌ/ gysga a: /ˈmʌðə/ mother, /ˈbrʌðə/ brother, /sʌn/ son\n• /ð/ th (ýumşak): mother, father, brother\n• /ɑː/ uzyn a: /ˈfɑːðə/ father, /ɑːnt/ aunt\n• /ɪ/ gysga i: /ˈsɪstə/ sister\n• /ɔː/ uzyn o: /ˈdɔːtə/ daughter (gh okalmaýar!)\n• /ʌ/: /ˈʌŋkl/ uncle, /ˈkʌzn/ cousin\nBellik: son we sun birmeňzeş okalýar: /sʌn/.",
+        "ru": "Произношение слов «семья»:\n• /ʌ/ краткое а: /ˈmʌðə/ mother, /ˈbrʌðə/ brother, /sʌn/ son\n• /ð/ мягкое th: mother, father, brother\n• /ɑː/ долгое а: /ˈfɑːðə/ father, /ɑːnt/ aunt\n• /ɪ/ краткое и: /ˈsɪstə/ sister\n• /ɔː/ долгое о: /ˈdɔːtə/ daughter (gh не читается!)\n• /ʌ/: /ˈʌŋkl/ uncle, /ˈkʌzn/ cousin\nЗаметь: son и sun звучат одинаково: /sʌn/."
+      },
+      "examples": [
+        {
+          "en": "mother /ˈmʌðə/",
+          "tr": "anne",
+          "tk": "eje",
+          "ru": "мама"
+        },
+        {
+          "en": "father /ˈfɑːðə/",
+          "tr": "baba",
+          "tk": "kaka",
+          "ru": "папа"
+        },
+        {
+          "en": "brother /ˈbrʌðə/",
+          "tr": "erkek kardeş",
+          "tk": "dogan (erkek)",
+          "ru": "брат"
+        },
+        {
+          "en": "daughter /ˈdɔːtə/",
+          "tr": "kız evlat",
+          "tk": "gyz (perzent)",
+          "ru": "дочь"
+        },
+        {
+          "en": "uncle /ˈʌŋkl/",
+          "tr": "amca/dayı",
+          "tk": "daýy/kakasynyň dogany",
+          "ru": "дядя"
+        },
+        {
+          "en": "cousin /ˈkʌzn/",
+          "tr": "kuzen",
+          "tk": "doganoglan",
+          "ru": "двоюродный брат/сестра"
+        }
+      ],
+      "exercises": [
+        {
+          "question": "/ˈmʌðə/ is:",
+          "options": [
+            "mother",
+            "matter",
+            "moth",
+            "mouth"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "mother.",
+            "tk": "mother.",
+            "ru": "mother."
+          }
+        },
+        {
+          "question": "/ˈfɑːðə/ is:",
+          "options": [
+            "feather",
+            "father",
+            "further",
+            "fatter"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/ɑː/ → father.",
+            "tk": "/ɑː/ → father.",
+            "ru": "/ɑː/ → father."
+          }
+        },
+        {
+          "question": "/ˈsɪstə/ is:",
+          "options": [
+            "sister",
+            "system",
+            "sitter",
+            "sixty"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "sister.",
+            "tk": "sister.",
+            "ru": "sister."
+          }
+        },
+        {
+          "question": "/ˈdɔːtə/ is:",
+          "options": [
+            "doctor",
+            "daughter",
+            "dotter",
+            "door"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "daughter — gh okunmaz.",
+            "tk": "daughter — gh okalmaýar.",
+            "ru": "daughter — gh не читается."
+          }
+        },
+        {
+          "question": "/sʌn/ can be:",
+          "options": [
+            "son or sun",
+            "soon",
+            "sin",
+            "song"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "son = sun (sesteş).",
+            "tk": "son = sun (sesdeş).",
+            "ru": "son = sun (омофоны)."
+          }
+        },
+        {
+          "question": "/ɑːnt/ is:",
+          "options": [
+            "ant",
+            "aunt",
+            "and",
+            "end"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "İngiliz okunuşu: aunt /ɑːnt/.",
+            "tk": "Britan aýdylyşy: aunt /ɑːnt/.",
+            "ru": "Британское: aunt /ɑːnt/."
+          }
+        },
+        {
+          "question": "/ˈʌŋkl/ is:",
+          "options": [
+            "ankle",
+            "uncle",
+            "angle",
+            "oncle"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/ʌ/ → uncle.",
+            "tk": "/ʌ/ → uncle.",
+            "ru": "/ʌ/ → uncle."
+          }
+        },
+        {
+          "question": "/ˈkʌzn/ is:",
+          "options": [
+            "cousin",
+            "cushion",
+            "casino",
+            "kitchen"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "cousin.",
+            "tk": "cousin.",
+            "ru": "cousin."
+          }
+        },
+        {
+          "question": "/ˈbrʌðə/ is:",
+          "options": [
+            "bother",
+            "brother",
+            "breather",
+            "broader"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "brother.",
+            "tk": "brother.",
+            "ru": "brother."
+          }
+        },
+        {
+          "question": "/ˈɡrænpɑː/ is:",
+          "options": [
+            "grandpa",
+            "grandma",
+            "granny",
+            "grapes"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "grandpa = dede.",
+            "tk": "grandpa = ata.",
+            "ru": "grandpa = дедушка."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Pronunciation: Phonetic Transcription – Fruit",
+    "title": "Phonetic Symbols: Fruit",
+    "body": {
+      "explanation": {
+        "tr": "Meyvelerin okunuşu:\n• /æ/: /ˈæpl/ apple\n• /ə/ (schwa): /bəˈnɑːnə/ banana — ilk ve son a çok kısa\n• /eɪ/: /ɡreɪp/ grape\n• /iː/: /piːtʃ/ peach\n• /tʃ/ ç: peach, cherry /ˈtʃeri/\n• /eə/: /peə/ pear\n• /e/: /ˈmelən/ melon, /ˈlemən/ lemon\n• /uː/: /fruːt/ fruit (i okunmaz)\nVurgu önemli: baNAna, waterMElon değil — /ˈwɔːtəmelən/ WAtermelon.",
+        "tk": "Miweleriň aýdylyşy:\n• /æ/: /ˈæpl/ apple\n• /ə/ (schwa): /bəˈnɑːnə/ banana — birinji we soňky a örän gysga\n• /eɪ/: /ɡreɪp/ grape\n• /iː/: /piːtʃ/ peach\n• /tʃ/ ç: peach, cherry /ˈtʃeri/\n• /eə/: /peə/ pear\n• /e/: /ˈmelən/ melon, /ˈlemən/ lemon\n• /uː/: /fruːt/ fruit (i okalmaýar)\nBasym möhüm: baNAna; watermelon /ˈwɔːtəmelən/ — WAtermelon.",
+        "ru": "Произношение фруктов:\n• /æ/: /ˈæpl/ apple\n• /ə/ (шва): /bəˈnɑːnə/ banana — первая и последняя a очень краткие\n• /eɪ/: /ɡreɪp/ grape\n• /iː/: /piːtʃ/ peach\n• /tʃ/ ч: peach, cherry /ˈtʃeri/\n• /eə/: /peə/ pear\n• /e/: /ˈmelən/ melon, /ˈlemən/ lemon\n• /uː/: /fruːt/ fruit (i не читается)\nУдарение важно: baNAna; watermelon /ˈwɔːtəmelən/ — WAtermelon."
+      },
+      "examples": [
+        {
+          "en": "apple /ˈæpl/",
+          "tr": "elma",
+          "tk": "alma",
+          "ru": "яблоко"
+        },
+        {
+          "en": "banana /bəˈnɑːnə/",
+          "tr": "muz",
+          "tk": "banan",
+          "ru": "банан"
+        },
+        {
+          "en": "grape /ɡreɪp/",
+          "tr": "üzüm",
+          "tk": "üzüm",
+          "ru": "виноград"
+        },
+        {
+          "en": "peach /piːtʃ/",
+          "tr": "şeftali",
+          "tk": "şetdaly",
+          "ru": "персик"
+        },
+        {
+          "en": "pear /peə/",
+          "tr": "armut",
+          "tk": "armyt",
+          "ru": "груша"
+        },
+        {
+          "en": "melon /ˈmelən/",
+          "tr": "kavun",
+          "tk": "gawun",
+          "ru": "дыня"
+        }
+      ],
+      "exercises": [
+        {
+          "question": "/ˈæpl/ is:",
+          "options": [
+            "apple",
+            "april",
+            "able",
+            "ample"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "apple.",
+            "tk": "apple.",
+            "ru": "apple."
+          }
+        },
+        {
+          "question": "/bəˈnɑːnə/ is:",
+          "options": [
+            "banner",
+            "banana",
+            "bandana",
+            "bonanza"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "banana — vurgu ortada.",
+            "tk": "banana — basym ortada.",
+            "ru": "banana — ударение в середине."
+          }
+        },
+        {
+          "question": "/ɡreɪp/ is:",
+          "options": [
+            "grip",
+            "grape",
+            "group",
+            "grab"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/eɪ/ → grape.",
+            "tk": "/eɪ/ → grape.",
+            "ru": "/eɪ/ → grape."
+          }
+        },
+        {
+          "question": "/piːtʃ/ is:",
+          "options": [
+            "pitch",
+            "peach",
+            "patch",
+            "pouch"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/iː/ → peach.",
+            "tk": "/iː/ → peach.",
+            "ru": "/iː/ → peach."
+          }
+        },
+        {
+          "question": "/peə/ is:",
+          "options": [
+            "pear",
+            "peer",
+            "pure",
+            "pour"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/eə/ → pear.",
+            "tk": "/eə/ → pear.",
+            "ru": "/eə/ → pear."
+          }
+        },
+        {
+          "question": "/ˈtʃeri/ is:",
+          "options": [
+            "cherry",
+            "sherry",
+            "carry",
+            "cheery"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/tʃ/ → cherry.",
+            "tk": "/tʃ/ → cherry.",
+            "ru": "/tʃ/ → cherry."
+          }
+        },
+        {
+          "question": "/ˈlemən/ is:",
+          "options": [
+            "lemon",
+            "lemur",
+            "layman",
+            "linen"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "lemon = limon.",
+            "tk": "lemon = limon.",
+            "ru": "lemon = лимон."
+          }
+        },
+        {
+          "question": "/fruːt/ is:",
+          "options": [
+            "fruit",
+            "front",
+            "fruity",
+            "foot"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "fruit — i okunmaz.",
+            "tk": "fruit — i okalmaýar.",
+            "ru": "fruit — i не читается."
+          }
+        },
+        {
+          "question": "/ˈɒrɪndʒ/ is:",
+          "options": [
+            "orange",
+            "origin",
+            "arrange",
+            "organ"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "orange = portakal.",
+            "tk": "orange = apelsin.",
+            "ru": "orange = апельсин."
+          }
+        },
+        {
+          "question": "/ˈwɔːtəmelən/ is:",
+          "options": [
+            "watermelon",
+            "water lemon",
+            "melon water",
+            "water mill"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "watermelon = karpuz.",
+            "tk": "watermelon = garpyz.",
+            "ru": "watermelon = арбуз."
+          }
+        }
+      ]
+    }
+  }
+]

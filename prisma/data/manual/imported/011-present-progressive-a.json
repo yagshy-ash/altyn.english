@@ -1,0 +1,233 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Present Progressive: Present Progressive (Auxiliaries and verbs)",
+    "title": "Present Progressive: am / is / are + -ing",
+    "body": {
+      "explanation": {
+        "tr": "Present Progressive şu an olan eylemleri anlatır.\n• Yapı: am / is / are + fiil-ing\n• I am reading. (Okuyorum.)\n• He / She / It is eating.\n• You / We / They are playing.\nYardımcı fiil (am/is/are) özneye göre seçilir; ana fiile -ing eklenir.",
+        "tk": "Present Progressive häzir bolup geçýän hereketleri aňladýar.\n• Gurluşy: am / is / are + işlik-ing\n• I am reading. (Men okaýaryn.)\n• He / She / It is eating.\n• You / We / They are playing.\nKömekçi işlik (am/is/are) eýä görä saýlanýar; esasy işlige -ing goşulýar.",
+        "ru": "Present Progressive описывает действия, происходящие сейчас.\n• Схема: am / is / are + глагол-ing\n• I am reading. (Я читаю.)\n• He / She / It is eating.\n• You / We / They are playing.\nВспомогательный глагол (am/is/are) зависит от подлежащего; к смысловому глаголу добавляется -ing."
+      },
+      "examples": [
+        { "en": "I am drinking tea.", "tr": "Çay içiyorum.", "tk": "Men çaý içýärin.", "ru": "Я пью чай." },
+        { "en": "She is sleeping.", "tr": "Uyuyor.", "tk": "Ol ýatyr.", "ru": "Она спит." },
+        { "en": "We are watching a film.", "tr": "Film izliyoruz.", "tk": "Biz film görýäris.", "ru": "Мы смотрим фильм." },
+        { "en": "The dog is running.", "tr": "Köpek koşuyor.", "tk": "It ylgaýar.", "ru": "Собака бежит." },
+        { "en": "They are singing.", "tr": "Şarkı söylüyorlar.", "tk": "Olar aýdym aýdýarlar.", "ru": "Они поют." },
+        { "en": "You are working hard.", "tr": "Çok çalışıyorsun.", "tk": "Sen köp işleýärsiň.", "ru": "Ты много работаешь." }
+      ],
+      "exercises": [
+        { "question": "I ___ writing a letter.", "options": ["am", "is", "are", "be"], "answer": 0, "explanation": { "tr": "I → am.", "tk": "I → am.", "ru": "I → am." } },
+        { "question": "She ___ cooking.", "options": ["am", "is", "are", "be"], "answer": 1, "explanation": { "tr": "she → is.", "tk": "she → is.", "ru": "she → is." } },
+        { "question": "They ___ playing football.", "options": ["is", "am", "are", "be"], "answer": 2, "explanation": { "tr": "they → are.", "tk": "they → are.", "ru": "they → are." } },
+        { "question": "He is ___ a book.", "options": ["read", "reads", "reading", "to read"], "answer": 2, "explanation": { "tr": "is + reading.", "tk": "is + reading.", "ru": "is + reading." } },
+        { "question": "We ___ learning English.", "options": ["are", "is", "am", "be"], "answer": 0, "explanation": { "tr": "we → are.", "tk": "we → are.", "ru": "we → are." } },
+        { "question": "The cat ___ sleeping on the sofa.", "options": ["are", "is", "am", "be"], "answer": 1, "explanation": { "tr": "the cat → is.", "tk": "the cat → is.", "ru": "the cat → is." } },
+        { "question": "You are ___ a nice picture.", "options": ["draw", "drawing", "draws", "drawed"], "answer": 1, "explanation": { "tr": "are + drawing.", "tk": "are + drawing.", "ru": "are + drawing." } },
+        { "question": "My parents ___ talking.", "options": ["is", "are", "am", "be"], "answer": 1, "explanation": { "tr": "parents → are.", "tk": "parents → are.", "ru": "parents → are." } },
+        { "question": "Choose the correct sentence.", "options": ["I am eat.", "I eating.", "I am eating.", "I is eating."], "answer": 2, "explanation": { "tr": "am + eating.", "tk": "am + eating.", "ru": "am + eating." } },
+        { "question": "Find the mistake: \"She are dancing.\"", "options": ["She", "are", "dancing", "There is no mistake"], "answer": 1, "explanation": { "tr": "she → is.", "tk": "she → is.", "ru": "she → is." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Present Progressive: Present Progressive – MIXed Exercise 1",
+    "title": "Present Progressive: Mixed Practice 1",
+    "body": {
+      "explanation": {
+        "tr": "Present Progressive'in olumlu, olumsuz ve soru biçimleri:\n• Olumlu: She is reading.\n• Olumsuz: She isn't reading. (is not)\n• Soru: Is she reading? – Yes, she is. / No, she isn't.\n• I ile: I'm not ... / Am I ...?\n• they/we/you ile: They aren't ... / Are they ...?",
+        "tk": "Present Progressive-iň tassyklaýjy, ýokluk we sorag görnüşleri:\n• Tassyklaýjy: She is reading.\n• Ýokluk: She isn't reading. (is not)\n• Sorag: Is she reading? – Yes, she is. / No, she isn't.\n• I bilen: I'm not ... / Am I ...?\n• they/we/you bilen: They aren't ... / Are they ...?",
+        "ru": "Утвердительная, отрицательная и вопросительная формы Present Progressive:\n• Утверждение: She is reading.\n• Отрицание: She isn't reading. (is not)\n• Вопрос: Is she reading? – Yes, she is. / No, she isn't.\n• С I: I'm not ... / Am I ...?\n• С they/we/you: They aren't ... / Are they ...?"
+      },
+      "examples": [
+        { "en": "The baby is crying.", "tr": "Bebek ağlıyor.", "tk": "Çaga aglaýar.", "ru": "Малыш плачет." },
+        { "en": "I'm not watching TV.", "tr": "Televizyon izlemiyorum.", "tk": "Men telewizor görýän däl.", "ru": "Я не смотрю телевизор." },
+        { "en": "Are you listening?", "tr": "Dinliyor musun?", "tk": "Diňleýärsiňmi?", "ru": "Ты слушаешь?" },
+        { "en": "They aren't working today.", "tr": "Bugün çalışmıyorlar.", "tk": "Olar şu gün işlänoklar.", "ru": "Сегодня они не работают." },
+        { "en": "Is it raining? – Yes, it is.", "tr": "Yağmur yağıyor mu? – Evet.", "tk": "Ýagyş ýagýarmy? – Hawa.", "ru": "Идёт дождь? – Да." },
+        { "en": "He is wearing a blue shirt.", "tr": "Mavi bir gömlek giyiyor.", "tk": "Ol gök köýnek geýipdir.", "ru": "На нём синяя рубашка." }
+      ],
+      "exercises": [
+        { "question": "Look! The children ___ in the garden.", "options": ["play", "are playing", "is playing", "plays"], "answer": 1, "explanation": { "tr": "Şu an → are playing.", "tk": "Häzir → are playing.", "ru": "Сейчас → are playing." } },
+        { "question": "I ___ my homework now.", "options": ["am doing", "is doing", "do", "are doing"], "answer": 0, "explanation": { "tr": "I → am doing.", "tk": "I → am doing.", "ru": "I → am doing." } },
+        { "question": "She ___ TV at the moment.", "options": ["isn't watching", "aren't watching", "not watching", "don't watching"], "answer": 0, "explanation": { "tr": "she → isn't + -ing.", "tk": "she → isn't + -ing.", "ru": "she → isn't + -ing." } },
+        { "question": "___ you listening to me?", "options": ["Is", "Are", "Am", "Do"], "answer": 1, "explanation": { "tr": "you → Are.", "tk": "you → Are.", "ru": "you → Are." } },
+        { "question": "\"Is he sleeping?\" – \"No, he ___.\"", "options": ["isn't", "doesn't", "aren't", "not"], "answer": 0, "explanation": { "tr": "No, he isn't.", "tk": "No, he isn't.", "ru": "No, he isn't." } },
+        { "question": "We ___ to music.", "options": ["are listening", "is listening", "listening", "am listening"], "answer": 0, "explanation": { "tr": "we → are + -ing.", "tk": "we → are + -ing.", "ru": "we → are + -ing." } },
+        { "question": "It ___ now. Take an umbrella.", "options": ["rains", "is raining", "are raining", "raining"], "answer": 1, "explanation": { "tr": "Şu an → is raining.", "tk": "Häzir → is raining.", "ru": "Сейчас → is raining." } },
+        { "question": "My friends ___ waiting for me.", "options": ["aren't", "isn't", "am not", "don't"], "answer": 0, "explanation": { "tr": "friends → aren't.", "tk": "friends → aren't.", "ru": "friends → aren't." } },
+        { "question": "\"Are they eating?\" – \"Yes, they ___.\"", "options": ["is", "are", "do", "eat"], "answer": 1, "explanation": { "tr": "Yes, they are.", "tk": "Yes, they are.", "ru": "Yes, they are." } },
+        { "question": "Find the mistake: \"Is you reading?\"", "options": ["Is", "you", "reading", "There is no mistake"], "answer": 0, "explanation": { "tr": "you → Are.", "tk": "you → Are.", "ru": "you → Are." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Present Progressive: Present Progressive – MIXed Exercise 2",
+    "title": "Present Progressive: Mixed Practice 2",
+    "body": {
+      "explanation": {
+        "tr": "Present Progressive ile ilgili her şeyi tekrar edelim:\n• am/is/are + fiil-ing\n• Yazım: write → writing (e düşer), run → running (ünsüz ikilenir), lie → lying\n• Olumsuz: I'm not, he isn't, they aren't\n• Soru: Am I...? Is she...? Are we...?\n• Wh-soru: What are you doing? Where is he going?\n• Sinyal kelimeler: now, right now, at the moment, Look!, Listen!",
+        "tk": "Present Progressive barada ähli zady gaýtalalyň:\n• am/is/are + işlik-ing\n• Ýazylyşy: write → writing (e düşýär), run → running (çekimsiz iki esse), lie → lying\n• Ýokluk: I'm not, he isn't, they aren't\n• Sorag: Am I...? Is she...? Are we...?\n• Wh-sorag: What are you doing? Where is he going?\n• Alamat sözler: now, right now, at the moment, Look!, Listen!",
+        "ru": "Повторим всё о Present Progressive:\n• am/is/are + глагол-ing\n• Орфография: write → writing (e выпадает), run → running (удвоение), lie → lying\n• Отрицание: I'm not, he isn't, they aren't\n• Вопрос: Am I...? Is she...? Are we...?\n• Специальный вопрос: What are you doing? Where is he going?\n• Маркеры: now, right now, at the moment, Look!, Listen!"
+      },
+      "examples": [
+        { "en": "What are you doing? – I'm writing an email.", "tr": "Ne yapıyorsun? – E-posta yazıyorum.", "tk": "Näme edýärsiň? – E-poçta ýazýaryn.", "ru": "Что ты делаешь? – Пишу письмо." },
+        { "en": "Listen! Someone is knocking.", "tr": "Dinle! Biri kapıyı çalıyor.", "tk": "Diňle! Kimdir biri gapyny kakýar.", "ru": "Слушай! Кто-то стучит." },
+        { "en": "Where is she going?", "tr": "Nereye gidiyor?", "tk": "Ol nirä barýar?", "ru": "Куда она идёт?" },
+        { "en": "The boys are swimming in the river.", "tr": "Çocuklar nehirde yüzüyor.", "tk": "Oglanlar derýada ýüzýärler.", "ru": "Мальчики плавают в реке." },
+        { "en": "I'm not lying!", "tr": "Yalan söylemiyorum!", "tk": "Men ýalan sözlemok!", "ru": "Я не вру!" },
+        { "en": "Right now, we are having lunch.", "tr": "Şu anda öğle yemeği yiyoruz.", "tk": "Häzir biz günortanlyk edýäris.", "ru": "Сейчас мы обедаем." }
+      ],
+      "exercises": [
+        { "question": "What ___ you doing?", "options": ["is", "are", "am", "do"], "answer": 1, "explanation": { "tr": "you → are.", "tk": "you → are.", "ru": "you → are." } },
+        { "question": "She is ___ a story.", "options": ["writeing", "writing", "writting", "write"], "answer": 1, "explanation": { "tr": "write → writing (e düşer).", "tk": "write → writing (e düşýär).", "ru": "write → writing (e выпадает)." } },
+        { "question": "The boys are ___ in the park.", "options": ["runing", "running", "runnning", "run"], "answer": 1, "explanation": { "tr": "run → running.", "tk": "run → running.", "ru": "run → running." } },
+        { "question": "Listen! The bird ___.", "options": ["sings", "is singing", "are singing", "sing"], "answer": 1, "explanation": { "tr": "Listen! → şu an: is singing.", "tk": "Listen! → häzir: is singing.", "ru": "Listen! → сейчас: is singing." } },
+        { "question": "Where ___ he going?", "options": ["are", "is", "am", "does"], "answer": 1, "explanation": { "tr": "he → is.", "tk": "he → is.", "ru": "he → is." } },
+        { "question": "I ___ lying. It's true!", "options": ["am not", "isn't", "aren't", "don't"], "answer": 0, "explanation": { "tr": "I → am not.", "tk": "I → am not.", "ru": "I → am not." } },
+        { "question": "The man is ___ on the bed.", "options": ["lieing", "lying", "lyeing", "lie"], "answer": 1, "explanation": { "tr": "lie → lying.", "tk": "lie → lying.", "ru": "lie → lying." } },
+        { "question": "___ they having dinner right now?", "options": ["Is", "Are", "Do", "Am"], "answer": 1, "explanation": { "tr": "they → Are.", "tk": "they → Are.", "ru": "they → Are." } },
+        { "question": "Choose the correct sentence.", "options": ["He is sit on a chair.", "He is sitting on a chair.", "He sitting on a chair.", "He are sitting on a chair."], "answer": 1, "explanation": { "tr": "is + sitting.", "tk": "is + sitting.", "ru": "is + sitting." } },
+        { "question": "Find the mistake: \"We are swiming in the sea.\"", "options": ["We", "are", "swiming", "in the sea"], "answer": 2, "explanation": { "tr": "swim → swimming.", "tk": "swim → swimming.", "ru": "swim → swimming." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Present Progressive: Present Progressive – Negations – Long forms",
+    "title": "Present Progressive: Negatives (Long Forms)",
+    "body": {
+      "explanation": {
+        "tr": "Present Progressive'de olumsuz uzun biçim:\n• I am not + fiil-ing → I am not sleeping.\n• He / She / It is not + fiil-ing → She is not working.\n• You / We / They are not + fiil-ing → They are not playing.\nUzun biçim daha resmîdir veya vurgu için kullanılır. 'not' her zaman am/is/are'dan sonra gelir.",
+        "tk": "Present Progressive-de ýokluguň uzyn görnüşi:\n• I am not + işlik-ing → I am not sleeping.\n• He / She / It is not + işlik-ing → She is not working.\n• You / We / They are not + işlik-ing → They are not playing.\nUzyn görnüş has resmi ýa-da nygtamak üçin ulanylýar. 'not' elmydama am/is/are-dan soň gelýär.",
+        "ru": "Полная отрицательная форма Present Progressive:\n• I am not + глагол-ing → I am not sleeping.\n• He / She / It is not + глагол-ing → She is not working.\n• You / We / They are not + глагол-ing → They are not playing.\nПолная форма звучит официальнее или используется для акцента. 'not' всегда после am/is/are."
+      },
+      "examples": [
+        { "en": "I am not sleeping. I am reading.", "tr": "Uyumuyorum. Okuyorum.", "tk": "Men ýatamok. Men okaýaryn.", "ru": "Я не сплю. Я читаю." },
+        { "en": "He is not listening to the teacher.", "tr": "Öğretmeni dinlemiyor.", "tk": "Ol mugallymy diňlänok.", "ru": "Он не слушает учителя." },
+        { "en": "We are not going to the park today.", "tr": "Bugün parka gitmiyoruz.", "tk": "Biz şu gün seýilgähe gitmeýäris.", "ru": "Сегодня мы не идём в парк." },
+        { "en": "It is not snowing.", "tr": "Kar yağmıyor.", "tk": "Gar ýagmaýar.", "ru": "Снег не идёт." },
+        { "en": "They are not wearing jackets.", "tr": "Ceket giymiyorlar.", "tk": "Olar kurtka geýmänler.", "ru": "Они не в куртках." },
+        { "en": "You are not helping me!", "tr": "Bana yardım etmiyorsun!", "tk": "Sen maňa kömek etmeýärsiň!", "ru": "Ты мне не помогаешь!" }
+      ],
+      "exercises": [
+        { "question": "I ___ working today.", "options": ["am not", "is not", "are not", "not am"], "answer": 0, "explanation": { "tr": "I → am not.", "tk": "I → am not.", "ru": "I → am not." } },
+        { "question": "She ___ eating meat.", "options": ["are not", "is not", "am not", "not is"], "answer": 1, "explanation": { "tr": "she → is not.", "tk": "she → is not.", "ru": "she → is not." } },
+        { "question": "They ___ playing computer games.", "options": ["is not", "am not", "are not", "not are"], "answer": 2, "explanation": { "tr": "they → are not.", "tk": "they → are not.", "ru": "they → are not." } },
+        { "question": "The dog is not ___.", "options": ["bark", "barks", "barking", "barked"], "answer": 2, "explanation": { "tr": "is not + barking.", "tk": "is not + barking.", "ru": "is not + barking." } },
+        { "question": "We ___ watching the news.", "options": ["are not", "is not", "am not", "do not"], "answer": 0, "explanation": { "tr": "we → are not.", "tk": "we → are not.", "ru": "we → are not." } },
+        { "question": "It ___ raining now.", "options": ["are not", "is not", "am not", "not"], "answer": 1, "explanation": { "tr": "it → is not.", "tk": "it → is not.", "ru": "it → is not." } },
+        { "question": "Make it negative: \"You are running.\"", "options": ["You not are running.", "You are not running.", "You is not running.", "You are running not."], "answer": 1, "explanation": { "tr": "are + not + -ing.", "tk": "are + not + -ing.", "ru": "are + not + -ing." } },
+        { "question": "Make it negative: \"My mum is cooking.\"", "options": ["My mum is not cooking.", "My mum not is cooking.", "My mum are not cooking.", "My mum is cooking not."], "answer": 0, "explanation": { "tr": "is + not + -ing.", "tk": "is + not + -ing.", "ru": "is + not + -ing." } },
+        { "question": "The students ___ talking.", "options": ["is not", "are not", "am not", "does not"], "answer": 1, "explanation": { "tr": "students → are not.", "tk": "students → are not.", "ru": "students → are not." } },
+        { "question": "Find the mistake: \"He not is sleeping.\"", "options": ["He", "not is", "sleeping", "There is no mistake"], "answer": 1, "explanation": { "tr": "is not olmalı.", "tk": "is not bolmaly.", "ru": "Должно быть: is not." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Present Progressive: Present Progressive – Negations – Short/contracted forms",
+    "title": "Present Progressive: Negatives (Short Forms)",
+    "body": {
+      "explanation": {
+        "tr": "Konuşmada olumsuz cümlelerde kısaltma kullanırız:\n• I am not → I'm not\n• he is not → he isn't / he's not\n• she is not → she isn't / she's not\n• it is not → it isn't / it's not\n• you/we/they are not → aren't / you're not, we're not, they're not\n'amn't' yoktur: I'm not (✓).",
+        "tk": "Gürleşikde ýokluk sözlemlerde gysgaltma ulanýarys:\n• I am not → I'm not\n• he is not → he isn't / he's not\n• she is not → she isn't / she's not\n• it is not → it isn't / it's not\n• you/we/they are not → aren't / you're not, we're not, they're not\n'amn't' ýok: I'm not (✓).",
+        "ru": "В разговоре в отрицаниях используют сокращения:\n• I am not → I'm not\n• he is not → he isn't / he's not\n• she is not → she isn't / she's not\n• it is not → it isn't / it's not\n• you/we/they are not → aren't / you're not, we're not, they're not\nФормы 'amn't' нет: I'm not (✓)."
+      },
+      "examples": [
+        { "en": "I'm not watching TV.", "tr": "Televizyon izlemiyorum.", "tk": "Men telewizor görýän däl.", "ru": "Я не смотрю телевизор." },
+        { "en": "She isn't working today.", "tr": "Bugün çalışmıyor.", "tk": "Ol şu gün işlänok.", "ru": "Сегодня она не работает." },
+        { "en": "They aren't listening.", "tr": "Dinlemiyorlar.", "tk": "Olar diňlänok.", "ru": "Они не слушают." },
+        { "en": "It's not raining any more.", "tr": "Artık yağmur yağmıyor.", "tk": "Indi ýagyş ýagmaýar.", "ru": "Дождь уже не идёт." },
+        { "en": "We aren't playing outside.", "tr": "Dışarıda oynamıyoruz.", "tk": "Biz daşarda oýnamaýarys.", "ru": "Мы не играем на улице." },
+        { "en": "He's not wearing his glasses.", "tr": "Gözlüğünü takmıyor.", "tk": "Ol äýnegini dakynmandyr.", "ru": "Он не в очках." }
+      ],
+      "exercises": [
+        { "question": "I ___ sleeping. (am not)", "options": ["amn't", "'m not", "isn't", "aren't"], "answer": 1, "explanation": { "tr": "I am not → I'm not.", "tk": "I am not → I'm not.", "ru": "I am not → I'm not." } },
+        { "question": "She ___ cooking. (is not)", "options": ["isn't", "aren't", "'m not", "don't"], "answer": 0, "explanation": { "tr": "is not → isn't.", "tk": "is not → isn't.", "ru": "is not → isn't." } },
+        { "question": "We ___ studying. (are not)", "options": ["isn't", "aren't", "amn't", "don't"], "answer": 1, "explanation": { "tr": "are not → aren't.", "tk": "are not → aren't.", "ru": "are not → aren't." } },
+        { "question": "Which short form is correct for \"it is not\"?", "options": ["it isn't", "it aren't", "it'm not", "its not"], "answer": 0, "explanation": { "tr": "it isn't / it's not.", "tk": "it isn't / it's not.", "ru": "it isn't / it's not." } },
+        { "question": "The children ___ sleeping yet.", "options": ["isn't", "aren't", "'m not", "not"], "answer": 1, "explanation": { "tr": "children → aren't.", "tk": "children → aren't.", "ru": "children → aren't." } },
+        { "question": "He ___ not helping. (he is)", "options": ["'s", "'re", "'m", "is'"], "answer": 0, "explanation": { "tr": "he is → he's not.", "tk": "he is → he's not.", "ru": "he is → he's not." } },
+        { "question": "They ___ not coming. (they are)", "options": ["'s", "'re", "'m", "are'"], "answer": 1, "explanation": { "tr": "they are → they're not.", "tk": "they are → they're not.", "ru": "they are → they're not." } },
+        { "question": "Choose the correct sentence.", "options": ["I amn't going.", "I'm not going.", "I isn't going.", "I not going."], "answer": 1, "explanation": { "tr": "I'm not going.", "tk": "I'm not going.", "ru": "I'm not going." } },
+        { "question": "My brother ___ playing football now.", "options": ["isn't", "aren't", "'m not", "don't"], "answer": 0, "explanation": { "tr": "brother → isn't.", "tk": "brother → isn't.", "ru": "brother → isn't." } },
+        { "question": "Find the mistake: \"You isn't listening.\"", "options": ["You", "isn't", "listening", "There is no mistake"], "answer": 1, "explanation": { "tr": "you → aren't.", "tk": "you → aren't.", "ru": "you → aren't." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Present Progressive: Present Progressive – Sentences – Easy verbs",
+    "title": "Present Progressive: Sentences with Easy Verbs",
+    "body": {
+      "explanation": {
+        "tr": "Kolay fiillerle Present Progressive cümleleri kuralım. Bu fiillere sadece -ing eklenir:\n• read → reading, play → playing, eat → eating, drink → drinking, sing → singing, walk → walking, look → looking, cook → cooking\n• Cümle: Özne + am/is/are + fiil-ing (+ diğerleri)\n  My sister is reading a magazine.\n  The boys are playing basketball.",
+        "tk": "Aňsat işlikler bilen Present Progressive sözlemlerini düzeliň. Bu işliklere diňe -ing goşulýar:\n• read → reading, play → playing, eat → eating, drink → drinking, sing → singing, walk → walking, look → looking, cook → cooking\n• Sözlem: Eýe + am/is/are + işlik-ing (+ beýlekiler)\n  My sister is reading a magazine.\n  The boys are playing basketball.",
+        "ru": "Составим предложения в Present Progressive с простыми глаголами. К ним просто добавляется -ing:\n• read → reading, play → playing, eat → eating, drink → drinking, sing → singing, walk → walking, look → looking, cook → cooking\n• Предложение: подлежащее + am/is/are + глагол-ing (+ остальное)\n  My sister is reading a magazine.\n  The boys are playing basketball."
+      },
+      "examples": [
+        { "en": "My sister is reading a magazine.", "tr": "Kız kardeşim dergi okuyor.", "tk": "Uýam žurnal okaýar.", "ru": "Моя сестра читает журнал." },
+        { "en": "The boys are playing basketball.", "tr": "Çocuklar basketbol oynuyor.", "tk": "Oglanlar basketbol oýnaýarlar.", "ru": "Мальчики играют в баскетбол." },
+        { "en": "I am drinking orange juice.", "tr": "Portakal suyu içiyorum.", "tk": "Men apelsin suwuny içýärin.", "ru": "Я пью апельсиновый сок." },
+        { "en": "Dad is cooking dinner.", "tr": "Babam akşam yemeği pişiriyor.", "tk": "Kakam agşamlyk naharyny bişirýär.", "ru": "Папа готовит ужин." },
+        { "en": "We are walking to school.", "tr": "Okula yürüyoruz.", "tk": "Biz mekdebe pyýada barýarys.", "ru": "Мы идём в школу пешком." },
+        { "en": "She is looking at the stars.", "tr": "Yıldızlara bakıyor.", "tk": "Ol ýyldyzlara seredýär.", "ru": "Она смотрит на звёзды." }
+      ],
+      "exercises": [
+        { "question": "Mum ___ (cook) in the kitchen.", "options": ["is cooking", "are cooking", "cooking", "is cook"], "answer": 0, "explanation": { "tr": "Mum → is + cooking.", "tk": "Mum → is + cooking.", "ru": "Mum → is + cooking." } },
+        { "question": "The girls ___ (sing) a song.", "options": ["is singing", "are singing", "sings", "are sing"], "answer": 1, "explanation": { "tr": "girls → are + singing.", "tk": "girls → are + singing.", "ru": "girls → are + singing." } },
+        { "question": "I ___ (eat) an apple.", "options": ["am eating", "is eating", "eating", "am eat"], "answer": 0, "explanation": { "tr": "I → am + eating.", "tk": "I → am + eating.", "ru": "I → am + eating." } },
+        { "question": "He ___ (drink) water.", "options": ["is drinking", "are drinking", "drinking", "is drink"], "answer": 0, "explanation": { "tr": "he → is + drinking.", "tk": "he → is + drinking.", "ru": "he → is + drinking." } },
+        { "question": "We ___ (look) for our cat.", "options": ["is looking", "are looking", "am looking", "looking"], "answer": 1, "explanation": { "tr": "we → are + looking.", "tk": "we → are + looking.", "ru": "we → are + looking." } },
+        { "question": "My friends ___ (play) chess.", "options": ["are playing", "is playing", "playing", "are play"], "answer": 0, "explanation": { "tr": "friends → are + playing.", "tk": "friends → are + playing.", "ru": "friends → are + playing." } },
+        { "question": "The teacher ___ (talk) to a student.", "options": ["is talking", "are talking", "talking", "is talk"], "answer": 0, "explanation": { "tr": "teacher → is + talking.", "tk": "teacher → is + talking.", "ru": "teacher → is + talking." } },
+        { "question": "You ___ (read) my book!", "options": ["is reading", "are reading", "reading", "am reading"], "answer": 1, "explanation": { "tr": "you → are + reading.", "tk": "you → are + reading.", "ru": "you → are + reading." } },
+        { "question": "Choose the correct sentence.", "options": ["The man is walk his dog.", "The man walking his dog.", "The man is walking his dog.", "The man are walking his dog."], "answer": 2, "explanation": { "tr": "is + walking.", "tk": "is + walking.", "ru": "is + walking." } },
+        { "question": "Find the mistake: \"They are play in the park.\"", "options": ["They", "are", "play", "in the park"], "answer": 2, "explanation": { "tr": "play → playing.", "tk": "play → playing.", "ru": "play → playing." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Tenses – Present Progressive: Present Progressive – Sentences – Spelling of verbs",
+    "title": "Present Progressive: Spelling of -ing Forms",
+    "body": {
+      "explanation": {
+        "tr": "-ing eklerken yazım kuralları:\n1. Çoğu fiil: + ing → read → reading, go → going\n2. Sessiz -e ile biten: e düşer → make → making, write → writing, dance → dancing\n   (Ama: see → seeing, be → being)\n3. Kısa ünlü + tek ünsüz: ünsüz ikilenir → sit → sitting, swim → swimming, get → getting, stop → stopping\n4. -ie ile biten: ie → y → lie → lying, die → dying, tie → tying\n5. -w, -x, -y ile bitenler ikilenmez: snow → snowing, fix → fixing, play → playing",
+        "tk": "-ing goşulanda ýazylyş düzgünleri:\n1. Köp işlikler: + ing → read → reading, go → going\n2. Okalmaýan -e bilen gutarýan: e düşýär → make → making, write → writing, dance → dancing\n   (Emma: see → seeing, be → being)\n3. Gysga çekimli + bir çekimsiz: çekimsiz iki esse ýazylýar → sit → sitting, swim → swimming, get → getting, stop → stopping\n4. -ie bilen gutarýan: ie → y → lie → lying, die → dying, tie → tying\n5. -w, -x, -y bilen gutarýanlar iki esse ýazylmaýar: snow → snowing, fix → fixing, play → playing",
+        "ru": "Правила написания при добавлении -ing:\n1. Большинство глаголов: + ing → read → reading, go → going\n2. На немое -e: e выпадает → make → making, write → writing, dance → dancing\n   (Но: see → seeing, be → being)\n3. Краткая гласная + одна согласная: согласная удваивается → sit → sitting, swim → swimming, get → getting, stop → stopping\n4. На -ie: ie → y → lie → lying, die → dying, tie → tying\n5. -w, -x, -y не удваиваются: snow → snowing, fix → fixing, play → playing"
+      },
+      "examples": [
+        { "en": "She is making a cake.", "tr": "Pasta yapıyor.", "tk": "Ol tort bişirýär.", "ru": "Она печёт торт." },
+        { "en": "The kids are swimming.", "tr": "Çocuklar yüzüyor.", "tk": "Çagalar ýüzýärler.", "ru": "Дети плавают." },
+        { "en": "He is sitting next to me.", "tr": "Yanımda oturuyor.", "tk": "Ol meniň ýanymda otyr.", "ru": "Он сидит рядом со мной." },
+        { "en": "The old man is lying on the grass.", "tr": "Yaşlı adam çimlerin üzerinde uzanıyor.", "tk": "Garry adam otuň üstünde ýatyr.", "ru": "Старик лежит на траве." },
+        { "en": "It is snowing.", "tr": "Kar yağıyor.", "tk": "Gar ýagýar.", "ru": "Идёт снег." },
+        { "en": "We are dancing at the wedding.", "tr": "Düğünde dans ediyoruz.", "tk": "Biz toýda tans edýäris.", "ru": "Мы танцуем на свадьбе." }
+      ],
+      "exercises": [
+        { "question": "make → ?", "options": ["makeing", "making", "makking", "maked"], "answer": 1, "explanation": { "tr": "e düşer: making.", "tk": "e düşýär: making.", "ru": "e выпадает: making." } },
+        { "question": "swim → ?", "options": ["swiming", "swimming", "swimeing", "swimmming"], "answer": 1, "explanation": { "tr": "Ünsüz ikilenir: swimming.", "tk": "Çekimsiz iki esse: swimming.", "ru": "Удвоение: swimming." } },
+        { "question": "lie → ?", "options": ["lieing", "liing", "lying", "lyeing"], "answer": 2, "explanation": { "tr": "ie → y: lying.", "tk": "ie → y: lying.", "ru": "ie → y: lying." } },
+        { "question": "play → ?", "options": ["plaing", "playing", "playying", "plaiing"], "answer": 1, "explanation": { "tr": "-y kalır: playing.", "tk": "-y galýar: playing.", "ru": "-y сохраняется: playing." } },
+        { "question": "get → ?", "options": ["geting", "getting", "gettting", "geteing"], "answer": 1, "explanation": { "tr": "Ünsüz ikilenir: getting.", "tk": "Çekimsiz iki esse: getting.", "ru": "Удвоение: getting." } },
+        { "question": "see → ?", "options": ["seing", "seeing", "seeeing", "sing"], "answer": 1, "explanation": { "tr": "İstisna: seeing.", "tk": "Kadadan çykma: seeing.", "ru": "Исключение: seeing." } },
+        { "question": "fix → ?", "options": ["fixxing", "fixing", "fixeing", "fiing"], "answer": 1, "explanation": { "tr": "-x ikilenmez: fixing.", "tk": "-x iki esse ýazylmaýar: fixing.", "ru": "-x не удваивается: fixing." } },
+        { "question": "She is ___ a letter. (write)", "options": ["writeing", "writting", "writing", "writtin"], "answer": 2, "explanation": { "tr": "write → writing.", "tk": "write → writing.", "ru": "write → writing." } },
+        { "question": "The bus is ___ at the corner. (stop)", "options": ["stoping", "stopping", "stopeing", "stopp"], "answer": 1, "explanation": { "tr": "stop → stopping.", "tk": "stop → stopping.", "ru": "stop → stopping." } },
+        { "question": "Find the wrong spelling.", "options": ["dancing", "coming", "runing", "taking"], "answer": 2, "explanation": { "tr": "Doğrusu: running.", "tk": "Dogrusy: running.", "ru": "Правильно: running." } }
+      ]
+    }
+  }
+]

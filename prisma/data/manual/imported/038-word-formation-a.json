@@ -1,0 +1,200 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Word Formation: Compounds in English",
+    "title": "Compound Nouns",
+    "body": {
+      "explanation": {
+        "tr": "Bileşik isim (compound noun), iki kelimenin birleşmesiyle oluşur. Asıl anlam İKİNCİ kelimededir, birincisi onu tanımlar: a bookshop = kitap satan dükkân.\nÜç yazım şekli vardır:\n• Bitişik: football, bedroom, toothbrush, sunglasses\n• Ayrı: bus stop, swimming pool, post office\n• Tireli: mother-in-law, check-in\nÇoğul genelde ikinci kelimeye eklenir: bus stops, toothbrushes (ama: passers-by).",
+        "tk": "Goşma at (compound noun) iki sözüň birleşmeginden emele gelýär. Esasy many IKINJI sözde, birinjisi ony häsiýetlendirýär: a bookshop = kitap satylýan dükan.\nÜç ýazylyş görnüşi bar:\n• Bitişik: football, bedroom, toothbrush, sunglasses\n• Aýry: bus stop, swimming pool, post office\n• Defisli: mother-in-law, check-in\nKöplük adatça ikinji söze goşulýar: bus stops, toothbrushes (emma: passers-by).",
+        "ru": "Сложное существительное (compound noun) состоит из двух слов. Главное значение — во ВТОРОМ слове, первое его описывает: a bookshop = магазин, где продают книги.\nТри способа написания:\n• Слитно: football, bedroom, toothbrush, sunglasses\n• Раздельно: bus stop, swimming pool, post office\n• Через дефис: mother-in-law, check-in\nМн. ч. обычно у второго слова: bus stops, toothbrushes (но: passers-by)."
+      },
+      "examples": [
+        { "en": "My bedroom is next to the bathroom.", "tr": "Yatak odam banyonun yanında.", "tk": "Meniň ýatylýan otagym hammanyň ýanynda.", "ru": "Моя спальня рядом с ванной." },
+        { "en": "Wait for me at the bus stop.", "tr": "Beni otobüs durağında bekle.", "tk": "Meni awtobus duralgasynda garaş.", "ru": "Жди меня на автобусной остановке." },
+        { "en": "I need a new toothbrush.", "tr": "Yeni bir diş fırçasına ihtiyacım var.", "tk": "Maňa täze diş çotgasy gerek.", "ru": "Мне нужна новая зубная щётка." },
+        { "en": "Don't forget your sunglasses.", "tr": "Güneş gözlüğünü unutma.", "tk": "Gün äýnegiňi ýatdan çykarma.", "ru": "Не забудь солнечные очки." },
+        { "en": "The swimming pool opens at nine.", "tr": "Yüzme havuzu dokuzda açılıyor.", "tk": "Ýüzüş howzy sagat dokuzda açylýar.", "ru": "Бассейн открывается в девять." },
+        { "en": "My mother-in-law is a teacher.", "tr": "Kayınvalidem öğretmen.", "tk": "Gaýynenem mugallym.", "ru": "Моя свекровь — учительница." }
+      ],
+      "exercises": [
+        { "question": "tooth + ___ = a thing for cleaning teeth", "options": ["brush", "paste", "ache", "pick"], "answer": 0, "explanation": { "tr": "toothbrush = diş fırçası.", "tk": "toothbrush = diş çotgasy.", "ru": "toothbrush = зубная щётка." } },
+        { "question": "A room where you sleep is a ___.", "options": ["sleeproom", "bedroom", "nightroom", "restroom"], "answer": 1, "explanation": { "tr": "bed + room.", "tk": "bed + room.", "ru": "bed + room." } },
+        { "question": "A shop that sells books is a ___.", "options": ["shopbook", "book shop's", "bookshop", "books shop"], "answer": 2, "explanation": { "tr": "Asıl kelime ikinci: shop.", "tk": "Esasy söz ikinji: shop.", "ru": "Главное слово второе: shop." } },
+        { "question": "Plural of \"bus stop\":", "options": ["buses stop", "buses stops", "bus stops", "bus stopes"], "answer": 2, "explanation": { "tr": "Çoğul ikinci kelimede.", "tk": "Köplük ikinji sözde.", "ru": "Мн. ч. у второго слова." } },
+        { "question": "rain + ___ = a coat for wet weather", "options": ["coat", "drop", "bow", "fall"], "answer": 0, "explanation": { "tr": "raincoat = yağmurluk.", "tk": "raincoat = ýagyş palto.", "ru": "raincoat = плащ." } },
+        { "question": "Where do you post letters? At the ___.", "options": ["letter house", "post office", "mail room", "stamp shop"], "answer": 1, "explanation": { "tr": "post office = postane.", "tk": "post office = poçta.", "ru": "post office = почта." } },
+        { "question": "A \"football\" is…", "options": ["a foot", "a ball you kick", "a game shoe", "a sports field"], "answer": 1, "explanation": { "tr": "Asıl anlam: ball.", "tk": "Esasy many: ball.", "ru": "Главное: ball." } },
+        { "question": "sun + ___ = glasses for bright light", "options": ["shine", "glasses", "light", "set"], "answer": 1, "explanation": { "tr": "sunglasses.", "tk": "sunglasses.", "ru": "sunglasses." } },
+        { "question": "Plural of \"passer-by\":", "options": ["passer-bys", "passers-by", "passers-bys", "passer-bies"], "answer": 1, "explanation": { "tr": "İstisna: passers-by.", "tk": "Kadadan çykma: passers-by.", "ru": "Исключение: passers-by." } },
+        { "question": "A \"head\" + \"ache\" is…", "options": ["a hat", "a pain in your head", "a haircut", "a pillow"], "answer": 1, "explanation": { "tr": "headache = baş ağrısı.", "tk": "headache = kelle agyrysy.", "ru": "headache = головная боль." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Word Formation: Find verbs in sentences",
+    "title": "Finding the Verb in a Sentence",
+    "body": {
+      "explanation": {
+        "tr": "Fiil (verb) bir eylemi ya da durumu anlatır: run, eat, be, have, think.\nCümlede fiili bulmanın yolları:\n• Özneden (I, she, the dog…) hemen sonra gelir: She SINGS.\n• Zamanla şekil değiştirir: sing → sang → sung, play → played.\n• 'to' ile mastar olabilir: I want TO GO.\n• Yardımcı fiillerle birlikte gelebilir: She IS READING. They HAVE FINISHED.\nDikkat: aynı kelime isim de olabilir: I drink water (fiil) / a cold drink (isim).",
+        "tk": "Işlik (verb) hereketi ýa-da ýagdaýy aňladýar: run, eat, be, have, think.\nSözlemde işligi tapmagyň ýollary:\n• Eýeden (I, she, the dog…) soň gelýär: She SINGS.\n• Zamana görä görnüşini üýtgedýär: sing → sang → sung, play → played.\n• 'to' bilen nämälim görnüşde bolup biler: I want TO GO.\n• Kömekçi işlikler bilen gelip biler: She IS READING. They HAVE FINISHED.\nÜns beriň: şol bir söz at hem bolup biler: I drink water (işlik) / a cold drink (at).",
+        "ru": "Глагол (verb) обозначает действие или состояние: run, eat, be, have, think.\nКак найти глагол:\n• Стоит после подлежащего (I, she, the dog…): She SINGS.\n• Меняется по временам: sing → sang → sung, play → played.\n• Может быть инфинитивом с 'to': I want TO GO.\n• Может идти с вспомогательным глаголом: She IS READING. They HAVE FINISHED.\nВнимание: одно слово бывает и существительным: I drink water (глагол) / a cold drink (сущ.)."
+      },
+      "examples": [
+        { "en": "The children play in the garden.", "tr": "Çocuklar bahçede oynuyor.", "tk": "Çagalar bagda oýnaýarlar.", "ru": "Дети играют в саду." },
+        { "en": "She wrote a long letter.", "tr": "Uzun bir mektup yazdı.", "tk": "Ol uzyn hat ýazdy.", "ru": "Она написала длинное письмо." },
+        { "en": "We are watching a film.", "tr": "Film izliyoruz.", "tk": "Biz film görýäris.", "ru": "Мы смотрим фильм." },
+        { "en": "I want to learn English.", "tr": "İngilizce öğrenmek istiyorum.", "tk": "Men iňlis dilini öwrenmek isleýärin.", "ru": "Я хочу выучить английский." },
+        { "en": "He has lost his keys.", "tr": "Anahtarlarını kaybetti.", "tk": "Ol açarlaryny ýitirdi.", "ru": "Он потерял ключи." },
+        { "en": "My cat sleeps all day.", "tr": "Kedim bütün gün uyur.", "tk": "Meniň pişigim bütin gün ýatýar.", "ru": "Моя кошка спит весь день." }
+      ],
+      "exercises": [
+        { "question": "Find the verb: \"Tom reads every evening.\"", "options": ["Tom", "reads", "every", "evening"], "answer": 1, "explanation": { "tr": "reads = okur.", "tk": "reads = okaýar.", "ru": "reads = читает." } },
+        { "question": "Find the verb: \"The old man walked slowly.\"", "options": ["old", "man", "walked", "slowly"], "answer": 2, "explanation": { "tr": "walked = yürüdü.", "tk": "walked = ýöredi.", "ru": "walked = шёл." } },
+        { "question": "Find the verb: \"My sister is a doctor.\"", "options": ["My", "sister", "is", "doctor"], "answer": 2, "explanation": { "tr": "be fiili: is.", "tk": "be işligi: is.", "ru": "Глагол be: is." } },
+        { "question": "Find the verb: \"We bought fresh bread.\"", "options": ["We", "bought", "fresh", "bread"], "answer": 1, "explanation": { "tr": "buy → bought.", "tk": "buy → bought.", "ru": "buy → bought." } },
+        { "question": "Which word is a verb here? \"I drink milk.\"", "options": ["I", "drink", "milk", "none"], "answer": 1, "explanation": { "tr": "Burada drink fiil.", "tk": "Bu ýerde drink işlik.", "ru": "Здесь drink — глагол." } },
+        { "question": "Which word is NOT a verb here? \"Can I have a drink?\"", "options": ["Can", "have", "drink", "all are verbs"], "answer": 2, "explanation": { "tr": "a drink = isim.", "tk": "a drink = at.", "ru": "a drink — существительное." } },
+        { "question": "Find the main verb: \"They have finished their homework.\"", "options": ["have", "finished", "their", "homework"], "answer": 1, "explanation": { "tr": "have yardımcı, ana fiil finished.", "tk": "have kömekçi, esasy işlik finished.", "ru": "have — вспомогательный, основной — finished." } },
+        { "question": "Find the verb: \"Birds fly south in winter.\"", "options": ["Birds", "fly", "south", "winter"], "answer": 1, "explanation": { "tr": "fly = uçmak.", "tk": "fly = uçmak.", "ru": "fly = летать." } },
+        { "question": "How many verbs? \"She opened the door and smiled.\"", "options": ["one", "two", "three", "none"], "answer": 1, "explanation": { "tr": "opened, smiled.", "tk": "opened, smiled.", "ru": "opened, smiled." } },
+        { "question": "Find the verb: \"The baby cried loudly.\"", "options": ["baby", "cried", "loudly", "The"], "answer": 1, "explanation": { "tr": "cry → cried.", "tk": "cry → cried.", "ru": "cry → cried." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Word Formation: Opposites of adjectives with prefixes",
+    "title": "Negative Prefixes: un-, in-, im-, il-, ir-, dis-",
+    "body": {
+      "explanation": {
+        "tr": "Sıfatın zıt anlamı çoğu zaman önek (prefix) ile yapılır:\n• un- (en yaygın): happy → unhappy, kind → unkind, friendly → unfriendly, usual → unusual\n• in-: correct → incorrect, visible → invisible, expensive → inexpensive\n• im- (p/m önünde): possible → impossible, polite → impolite, patient → impatient\n• il- (l önünde): legal → illegal, logical → illogical\n• ir- (r önünde): regular → irregular, responsible → irresponsible\n• dis-: honest → dishonest, satisfied → dissatisfied\nHangi önek? Kural kesin değil, kelimeyle birlikte öğren.",
+        "tk": "Sypatyň garşylykly manysy köplenç öňgoşulma (prefix) bilen ýasalýar:\n• un- (iň köp ýaýran): happy → unhappy, kind → unkind, friendly → unfriendly, usual → unusual\n• in-: correct → incorrect, visible → invisible, expensive → inexpensive\n• im- (p/m öňünde): possible → impossible, polite → impolite, patient → impatient\n• il- (l öňünde): legal → illegal, logical → illogical\n• ir- (r öňünde): regular → irregular, responsible → irresponsible\n• dis-: honest → dishonest, satisfied → dissatisfied\nHaýsy öňgoşulma? Düzgün berk däl, söz bilen bilelikde öwreniň.",
+        "ru": "Противоположное прилагательное часто образуется приставкой:\n• un- (самая частая): happy → unhappy, kind → unkind, friendly → unfriendly, usual → unusual\n• in-: correct → incorrect, visible → invisible, expensive → inexpensive\n• im- (перед p/m): possible → impossible, polite → impolite, patient → impatient\n• il- (перед l): legal → illegal, logical → illogical\n• ir- (перед r): regular → irregular, responsible → irresponsible\n• dis-: honest → dishonest, satisfied → dissatisfied\nКакая приставка? Строгого правила нет — учите вместе со словом."
+      },
+      "examples": [
+        { "en": "It's impossible to finish today.", "tr": "Bugün bitirmek imkânsız.", "tk": "Şu gün gutarmak mümkin däl.", "ru": "Сегодня закончить невозможно." },
+        { "en": "Your answer is incorrect.", "tr": "Cevabın yanlış.", "tk": "Seniň jogabyň nädogry.", "ru": "Твой ответ неверный." },
+        { "en": "He looked unhappy.", "tr": "Mutsuz görünüyordu.", "tk": "Ol bagtsyz görünýärdi.", "ru": "Он выглядел несчастным." },
+        { "en": "Parking here is illegal.", "tr": "Buraya park etmek yasak.", "tk": "Bu ýerde awtoulag goýmak bikanun.", "ru": "Парковаться здесь незаконно." },
+        { "en": "'Go' is an irregular verb.", "tr": "'Go' düzensiz bir fiildir.", "tk": "'Go' düzgünsiz işlik.", "ru": "'Go' — неправильный глагол." },
+        { "en": "It was dishonest to lie.", "tr": "Yalan söylemek dürüst değildi.", "tk": "Ýalan sözlemek namartlykdy.", "ru": "Лгать было нечестно." }
+      ],
+      "exercises": [
+        { "question": "Opposite of \"possible\":", "options": ["unpossible", "impossible", "inpossible", "dispossible"], "answer": 1, "explanation": { "tr": "p önünde im-.", "tk": "p öňünde im-.", "ru": "Перед p — im-." } },
+        { "question": "Opposite of \"happy\":", "options": ["unhappy", "inhappy", "dishappy", "imhappy"], "answer": 0, "explanation": { "tr": "un-.", "tk": "un-.", "ru": "un-." } },
+        { "question": "Opposite of \"legal\":", "options": ["unlegal", "inlegal", "illegal", "dislegal"], "answer": 2, "explanation": { "tr": "l önünde il-.", "tk": "l öňünde il-.", "ru": "Перед l — il-." } },
+        { "question": "Opposite of \"regular\":", "options": ["unregular", "irregular", "inregular", "disregular"], "answer": 1, "explanation": { "tr": "r önünde ir-.", "tk": "r öňünde ir-.", "ru": "Перед r — ir-." } },
+        { "question": "Opposite of \"honest\":", "options": ["unhonest", "inhonest", "dishonest", "imhonest"], "answer": 2, "explanation": { "tr": "dis-.", "tk": "dis-.", "ru": "dis-." } },
+        { "question": "Opposite of \"correct\":", "options": ["incorrect", "uncorrect", "discorrect", "imcorrect"], "answer": 0, "explanation": { "tr": "in-.", "tk": "in-.", "ru": "in-." } },
+        { "question": "Opposite of \"polite\":", "options": ["unpolite", "dispolite", "impolite", "inpolite"], "answer": 2, "explanation": { "tr": "p önünde im-.", "tk": "p öňünde im-.", "ru": "Перед p — im-." } },
+        { "question": "Opposite of \"friendly\":", "options": ["disfriendly", "unfriendly", "infriendly", "imfriendly"], "answer": 1, "explanation": { "tr": "un-.", "tk": "un-.", "ru": "un-." } },
+        { "question": "Opposite of \"responsible\":", "options": ["irresponsible", "unresponsible", "inresponsible", "disresponsible"], "answer": 0, "explanation": { "tr": "r önünde ir-.", "tk": "r öňünde ir-.", "ru": "Перед r — ir-." } },
+        { "question": "\"You can't see it. It's ___.\"", "options": ["unvisible", "invisible", "disvisible", "imvisible"], "answer": 1, "explanation": { "tr": "invisible = görünmez.", "tk": "invisible = görünmeýän.", "ru": "invisible = невидимый." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Word Formation: Parts of Speech in English",
+    "title": "The Parts of Speech",
+    "body": {
+      "explanation": {
+        "tr": "İngilizcede kelimeler görevlerine göre sınıflanır:\n• Noun (isim): book, city, happiness\n• Pronoun (zamir): I, she, them, this\n• Verb (fiil): run, be, think\n• Adjective (sıfat): big, red, happy — ismi niteler\n• Adverb (zarf): quickly, often, very — fiili/sıfatı niteler\n• Preposition (edat): in, on, under, with\n• Conjunction (bağlaç): and, but, because\n• Article/determiner (tanımlık): a, an, the\n• Interjection (ünlem): oh, wow, ouch\nİpucu: sonekler türü gösterir: -ness/-tion (isim), -ful/-ous (sıfat), -ly (zarf), -ize/-en (fiil).",
+        "tk": "Iňlis dilinde sözler wezipesine görä toparlara bölünýär:\n• Noun (at): book, city, happiness\n• Pronoun (çalyşma): I, she, them, this\n• Verb (işlik): run, be, think\n• Adjective (sypat): big, red, happy — ady häsiýetlendirýär\n• Adverb (hal): quickly, often, very — işligi/sypaty häsiýetlendirýär\n• Preposition (sözsoňy/predlog): in, on, under, with\n• Conjunction (baglaýjy): and, but, because\n• Article/determiner (artikl): a, an, the\n• Interjection (ümlük): oh, wow, ouch\nMaslahat: goşulmalar görnüşi görkezýär: -ness/-tion (at), -ful/-ous (sypat), -ly (hal), -ize/-en (işlik).",
+        "ru": "Слова в английском делятся на части речи:\n• Noun (существительное): book, city, happiness\n• Pronoun (местоимение): I, she, them, this\n• Verb (глагол): run, be, think\n• Adjective (прилагательное): big, red, happy — описывает существительное\n• Adverb (наречие): quickly, often, very — описывает глагол/прилагательное\n• Preposition (предлог): in, on, under, with\n• Conjunction (союз): and, but, because\n• Article/determiner (артикль): a, an, the\n• Interjection (междометие): oh, wow, ouch\nПодсказка: суффиксы: -ness/-tion (сущ.), -ful/-ous (прил.), -ly (нар.), -ize/-en (глаг.)."
+      },
+      "examples": [
+        { "en": "The (article) cat (noun) sleeps (verb).", "tr": "Kedi uyuyor.", "tk": "Pişik ýatýar.", "ru": "Кошка спит." },
+        { "en": "She (pronoun) is very (adverb) tall (adjective).", "tr": "O çok uzun boylu.", "tk": "Ol örän uzyn boýly.", "ru": "Она очень высокая." },
+        { "en": "The book is on (preposition) the table.", "tr": "Kitap masanın üstünde.", "tk": "Kitap stoluň üstünde.", "ru": "Книга на столе." },
+        { "en": "I like tea, but (conjunction) not coffee.", "tr": "Çay severim ama kahve sevmem.", "tk": "Men çaýy halaýaryn, emma kofäni däl.", "ru": "Я люблю чай, но не кофе." },
+        { "en": "Wow (interjection)! That's beautiful.", "tr": "Vay! Bu çok güzel.", "tk": "Wah! Bu örän owadan.", "ru": "Ух ты! Как красиво." },
+        { "en": "He drives carefully (adverb).", "tr": "Dikkatli sürer.", "tk": "Ol seresaply sürýär.", "ru": "Он водит осторожно." }
+      ],
+      "exercises": [
+        { "question": "\"happiness\" is a…", "options": ["verb", "noun", "adjective", "adverb"], "answer": 1, "explanation": { "tr": "-ness → isim.", "tk": "-ness → at.", "ru": "-ness → сущ." } },
+        { "question": "\"quickly\" is an…", "options": ["adjective", "adverb", "noun", "verb"], "answer": 1, "explanation": { "tr": "-ly → zarf.", "tk": "-ly → hal.", "ru": "-ly → наречие." } },
+        { "question": "\"beautiful\" is an…", "options": ["adjective", "adverb", "noun", "pronoun"], "answer": 0, "explanation": { "tr": "-ful → sıfat.", "tk": "-ful → sypat.", "ru": "-ful → прил." } },
+        { "question": "\"under\" is a…", "options": ["conjunction", "preposition", "verb", "noun"], "answer": 1, "explanation": { "tr": "Edat.", "tk": "Predlog.", "ru": "Предлог." } },
+        { "question": "\"because\" is a…", "options": ["preposition", "adverb", "conjunction", "pronoun"], "answer": 2, "explanation": { "tr": "Bağlaç.", "tk": "Baglaýjy.", "ru": "Союз." } },
+        { "question": "\"them\" is a…", "options": ["pronoun", "noun", "article", "verb"], "answer": 0, "explanation": { "tr": "Zamir.", "tk": "Çalyşma.", "ru": "Местоимение." } },
+        { "question": "\"information\" is a…", "options": ["verb", "adjective", "noun", "adverb"], "answer": 2, "explanation": { "tr": "-tion → isim.", "tk": "-tion → at.", "ru": "-tion → сущ." } },
+        { "question": "\"ouch\" is an…", "options": ["interjection", "adverb", "article", "adjective"], "answer": 0, "explanation": { "tr": "Ünlem.", "tk": "Ümlük.", "ru": "Междометие." } },
+        { "question": "\"dangerous\" is an…", "options": ["adverb", "adjective", "noun", "verb"], "answer": 1, "explanation": { "tr": "-ous → sıfat.", "tk": "-ous → sypat.", "ru": "-ous → прил." } },
+        { "question": "\"organize\" is a…", "options": ["noun", "adjective", "verb", "adverb"], "answer": 2, "explanation": { "tr": "-ize → fiil.", "tk": "-ize → işlik.", "ru": "-ize → глагол." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Word Formation: Parts of Speech in English sentences",
+    "title": "Parts of Speech in Sentences",
+    "body": {
+      "explanation": {
+        "tr": "Bir kelimenin türünü cümledeki GÖREVİ belirler. Aynı kelime farklı türlerde olabilir:\n• fast: a fast car (sıfat) / He runs fast (zarf)\n• work: I work here (fiil) / I have a lot of work (isim)\n• light: Turn on the light (isim) / a light bag (sıfat) / light a candle (fiil)\n• well: I feel well (sıfat) / She sings well (zarf)\nSoru sor: Neyi niteliyor? Kim/ne? Ne yapıyor? İsmin önünde 'a/the' varsa genelde isimdir; özneden sonra gelip eylem bildiriyorsa fiildir.",
+        "tk": "Sözüň görnüşini sözlemdäki WEZIPESI kesgitleýär. Şol bir söz dürli görnüşde bolup biler:\n• fast: a fast car (sypat) / He runs fast (hal)\n• work: I work here (işlik) / I have a lot of work (at)\n• light: Turn on the light (at) / a light bag (sypat) / light a candle (işlik)\n• well: I feel well (sypat) / She sings well (hal)\nSorag beriň: Nämäni häsiýetlendirýär? Kim/näme? Näme edýär? Öňünde 'a/the' bar bolsa, adatça at; eýeden soň gelip hereketi aňladýan bolsa, işlik.",
+        "ru": "Часть речи определяется РОЛЬЮ слова в предложении. Одно слово может быть разными частями речи:\n• fast: a fast car (прил.) / He runs fast (нар.)\n• work: I work here (глагол) / I have a lot of work (сущ.)\n• light: Turn on the light (сущ.) / a light bag (прил.) / light a candle (глагол)\n• well: I feel well (прил.) / She sings well (нар.)\nСпроси себя: что описывает? кто/что? что делает? Если перед словом a/the — обычно существительное; если после подлежащего и обозначает действие — глагол."
+      },
+      "examples": [
+        { "en": "She has a fast car.", "tr": "Hızlı bir arabası var.", "tk": "Onuň çalt ulagy bar.", "ru": "У неё быстрая машина." },
+        { "en": "He runs fast.", "tr": "Hızlı koşar.", "tk": "Ol çalt ylgaýar.", "ru": "Он быстро бегает." },
+        { "en": "I work in a bank.", "tr": "Bir bankada çalışıyorum.", "tk": "Men bankda işleýärin.", "ru": "Я работаю в банке." },
+        { "en": "I have a lot of work today.", "tr": "Bugün çok işim var.", "tk": "Şu gün işim köp.", "ru": "Сегодня у меня много работы." },
+        { "en": "This bag is very light.", "tr": "Bu çanta çok hafif.", "tk": "Bu sumka örän ýeňil.", "ru": "Эта сумка очень лёгкая." },
+        { "en": "Please turn off the light.", "tr": "Lütfen ışığı kapat.", "tk": "Çyrany öçür, haýyş.", "ru": "Выключи, пожалуйста, свет." }
+      ],
+      "exercises": [
+        { "question": "\"He runs FAST.\" — FAST is…", "options": ["an adjective", "an adverb", "a noun", "a verb"], "answer": 1, "explanation": { "tr": "Fiili niteliyor → zarf.", "tk": "Işligi häsiýetlendirýär → hal.", "ru": "Описывает глагол → наречие." } },
+        { "question": "\"a FAST train\" — FAST is…", "options": ["an adjective", "an adverb", "a verb", "a noun"], "answer": 0, "explanation": { "tr": "İsmi niteliyor → sıfat.", "tk": "Ady häsiýetlendirýär → sypat.", "ru": "Описывает сущ. → прил." } },
+        { "question": "\"I have a lot of WORK.\" — WORK is…", "options": ["a verb", "a noun", "an adverb", "an adjective"], "answer": 1, "explanation": { "tr": "İsim.", "tk": "At.", "ru": "Существительное." } },
+        { "question": "\"We WORK every day.\" — WORK is…", "options": ["a noun", "an adjective", "a verb", "a preposition"], "answer": 2, "explanation": { "tr": "Fiil.", "tk": "Işlik.", "ru": "Глагол." } },
+        { "question": "\"LIGHT the candle.\" — LIGHT is…", "options": ["a noun", "an adjective", "a verb", "an adverb"], "answer": 2, "explanation": { "tr": "Emir → fiil.", "tk": "Buýruk → işlik.", "ru": "Повеление → глагол." } },
+        { "question": "\"She sings WELL.\" — WELL is…", "options": ["an adverb", "a noun", "an adjective", "a verb"], "answer": 0, "explanation": { "tr": "Zarf.", "tk": "Hal.", "ru": "Наречие." } },
+        { "question": "\"The book is ON the shelf.\" — ON is…", "options": ["an adverb", "a preposition", "a conjunction", "a verb"], "answer": 1, "explanation": { "tr": "Edat.", "tk": "Predlog.", "ru": "Предлог." } },
+        { "question": "\"It was a HARD test.\" — HARD is…", "options": ["an adverb", "a noun", "an adjective", "a verb"], "answer": 2, "explanation": { "tr": "Sıfat.", "tk": "Sypat.", "ru": "Прилагательное." } },
+        { "question": "\"She works HARD.\" — HARD is…", "options": ["an adjective", "an adverb", "a noun", "a pronoun"], "answer": 1, "explanation": { "tr": "Zarf (hardly değil!).", "tk": "Hal (hardly däl!).", "ru": "Наречие (не hardly!)." } },
+        { "question": "\"Let's have a DRINK.\" — DRINK is…", "options": ["a noun", "a verb", "an adjective", "an adverb"], "answer": 0, "explanation": { "tr": "a + drink → isim.", "tk": "a + drink → at.", "ru": "a + drink → сущ." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Word Formation: Parts of Speech in English sentences and questions",
+    "title": "Parts of Speech in Questions",
+    "body": {
+      "explanation": {
+        "tr": "Sorularda kelime sırası değişir ama türler aynı kalır:\n• Soru kelimesi (Wh-word): what, where, when, who, why, how — çoğu zaman zamir ya da zarf görevi yapar\n• Yardımcı fiil (do, does, did, is, are, can, have) öznenin ÖNÜNE geçer\n• Ana fiil özneden sonra gelir\nÖrnek: Where (zarf) do (yardımcı fiil) you (zamir) live (fiil)?\nWhat (zamir) did (yardımcı fiil) she (zamir) buy (fiil)?\nHow (zarf) old (sıfat) is (fiil) your (belirleyici) brother (isim)?",
+        "tk": "Soraglarda sözleriň tertibi üýtgeýär, emma görnüşleri şol bolup galýar:\n• Sorag sözi (Wh-word): what, where, when, who, why, how — köplenç çalyşma ýa-da hal wezipesini ýerine ýetirýär\n• Kömekçi işlik (do, does, did, is, are, can, have) eýäniň ÖŇÜNE geçýär\n• Esasy işlik eýeden soň gelýär\nMysal: Where (hal) do (kömekçi işlik) you (çalyşma) live (işlik)?\nWhat (çalyşma) did (kömekçi işlik) she (çalyşma) buy (işlik)?\nHow (hal) old (sypat) is (işlik) your (kesgitleýji) brother (at)?",
+        "ru": "В вопросах меняется порядок слов, но части речи те же:\n• Вопросительное слово (Wh-word): what, where, when, who, why, how — обычно местоимение или наречие\n• Вспомогательный глагол (do, does, did, is, are, can, have) ставится ПЕРЕД подлежащим\n• Основной глагол идёт после подлежащего\nПример: Where (нар.) do (вспом. глаг.) you (мест.) live (глаг.)?\nWhat (мест.) did (вспом. глаг.) she (мест.) buy (глаг.)?\nHow (нар.) old (прил.) is (глаг.) your (определитель) brother (сущ.)?"
+      },
+      "examples": [
+        { "en": "Where do you live?", "tr": "Nerede yaşıyorsun?", "tk": "Sen nirede ýaşaýaň?", "ru": "Где ты живёшь?" },
+        { "en": "What did she buy?", "tr": "Ne satın aldı?", "tk": "Ol näme satyn aldy?", "ru": "Что она купила?" },
+        { "en": "How old is your brother?", "tr": "Kardeşin kaç yaşında?", "tk": "Doganyň näçe ýaşynda?", "ru": "Сколько лет твоему брату?" },
+        { "en": "Can you swim well?", "tr": "İyi yüzebilir misin?", "tk": "Sen gowy ýüzüp bilýäňmi?", "ru": "Ты хорошо плаваешь?" },
+        { "en": "Why are they so happy?", "tr": "Neden bu kadar mutlular?", "tk": "Olar näme üçin şeýle bagtly?", "ru": "Почему они такие счастливые?" },
+        { "en": "Who opened the window?", "tr": "Pencereyi kim açtı?", "tk": "Penjiräni kim açdy?", "ru": "Кто открыл окно?" }
+      ],
+      "exercises": [
+        { "question": "\"WHERE do you work?\" — WHERE is…", "options": ["a noun", "a question adverb", "a verb", "an adjective"], "answer": 1, "explanation": { "tr": "Yer soran zarf.", "tk": "Ýer soraýan hal.", "ru": "Вопросительное наречие места." } },
+        { "question": "\"Where DO you work?\" — DO is…", "options": ["an auxiliary verb", "a noun", "a preposition", "a pronoun"], "answer": 0, "explanation": { "tr": "Yardımcı fiil.", "tk": "Kömekçi işlik.", "ru": "Вспомогательный глагол." } },
+        { "question": "\"Where do you WORK?\" — WORK is…", "options": ["a noun", "the main verb", "an adverb", "an adjective"], "answer": 1, "explanation": { "tr": "Ana fiil.", "tk": "Esasy işlik.", "ru": "Основной глагол." } },
+        { "question": "\"How OLD is she?\" — OLD is…", "options": ["an adverb", "an adjective", "a noun", "a verb"], "answer": 1, "explanation": { "tr": "Sıfat.", "tk": "Sypat.", "ru": "Прилагательное." } },
+        { "question": "\"WHO called you?\" — WHO is…", "options": ["a pronoun", "an article", "an adjective", "a conjunction"], "answer": 0, "explanation": { "tr": "Soru zamiri.", "tk": "Sorag çalyşmasy.", "ru": "Вопросительное местоимение." } },
+        { "question": "\"Did you see the NEW film?\" — NEW is…", "options": ["a noun", "an adverb", "an adjective", "a verb"], "answer": 2, "explanation": { "tr": "İsmi niteliyor → sıfat.", "tk": "Ady häsiýetlendirýär → sypat.", "ru": "Описывает сущ. → прил." } },
+        { "question": "Correct word order:", "options": ["Where you do live?", "Where do you live?", "Where live you?", "Do where you live?"], "answer": 1, "explanation": { "tr": "Wh + yardımcı + özne + fiil.", "tk": "Wh + kömekçi + eýe + işlik.", "ru": "Wh + вспом. + подл. + глагол." } },
+        { "question": "\"Can she drive CAREFULLY?\" — CAREFULLY is…", "options": ["an adjective", "an adverb", "a noun", "a verb"], "answer": 1, "explanation": { "tr": "Zarf.", "tk": "Hal.", "ru": "Наречие." } },
+        { "question": "\"What is in the BOX?\" — BOX is…", "options": ["a verb", "a noun", "an adjective", "a preposition"], "answer": 1, "explanation": { "tr": "İsim.", "tk": "At.", "ru": "Существительное." } },
+        { "question": "\"Is your sister AT home?\" — AT is…", "options": ["a preposition", "an adverb", "a conjunction", "an article"], "answer": 0, "explanation": { "tr": "Edat.", "tk": "Predlog.", "ru": "Предлог." } }
+      ]
+    }
+  }
+]

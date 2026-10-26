@@ -1,0 +1,227 @@
+[
+  {
+    "skill": "SPEAKING", "level": "A1", "topic": "Introduce yourself", "title": "Tell Me About Yourself",
+    "body": {
+      "task": { "tr": "Soruyu yüksek sesle yaklaşık 30 saniye yanıtlayın. Adınızı, yaşınızı, nereli olduğunuzu ve ne sevdiğinizi söyleyin.", "tk": "Soraga sesli, takmynan 30 sekunt jogap beriň. Adyňyzy, ýaşyňyzy, nireli bolýandygyňyzy we nämäni halaýandygyňyzy aýdyň.", "ru": "Ответьте вслух примерно за 30 секунд. Назовите имя, возраст, откуда вы и что вам нравится." },
+      "questionEn": "Please introduce yourself. What is your name? How old are you? Where are you from? What do you like?",
+      "targetSeconds": 30,
+      "hints": ["Hello! My name is...", "I am ... years old.", "I am from...", "I like music and football.", "I don't like..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "A1", "topic": "My room", "title": "Describe Your Room",
+    "body": {
+      "task": { "tr": "Odanızı yaklaşık 30 saniye anlatın. Odada neler var, ne renk ve en sevdiğiniz eşya hangisi?", "tk": "Otagyňyzy takmynan 30 sekunt beýan ediň. Otagda näme bar, ol nähili reňkde we iň halaýan zadyňyz haýsy?", "ru": "Опишите свою комнату примерно за 30 секунд. Что в ней есть, какого она цвета и какая ваша любимая вещь?" },
+      "questionEn": "Describe your room. What is in your room? What colour is it? What is your favourite thing in your room?",
+      "targetSeconds": 30,
+      "hints": ["My room is small but nice.", "The walls are blue.", "There is a bed, a desk and a chair.", "There are some books on the shelf.", "My favourite thing is..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "A1", "topic": "My daily routine", "title": "Your Morning",
+    "body": {
+      "task": { "tr": "Sabahlarınızı yaklaşık 30 saniye anlatın: saat kaçta kalkarsınız, ne yersiniz, nasıl okula/işe gidersiniz?", "tk": "Irdenleriňizi takmynan 30 sekunt beýan ediň: sagat näçede turýarsyňyz, näme iýýärsiňiz, mekdebe/işe nähili gidýärsiňiz?", "ru": "Расскажите о своём утре примерно за 30 секунд: во сколько встаёте, что едите, как добираетесь до школы/работы?" },
+      "questionEn": "Tell me about your mornings. What time do you get up? What do you have for breakfast? How do you go to school or work?",
+      "targetSeconds": 30,
+      "hints": ["I get up at seven o'clock.", "I wash my face and get dressed.", "For breakfast I have bread, cheese and tea.", "I go to school by bus.", "I start at eight thirty."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "A1", "topic": "Favourite animal", "title": "Your Favourite Animal",
+    "body": {
+      "task": { "tr": "En sevdiğiniz hayvanı yaklaşık 30 saniye anlatın: nasıl görünür, ne yer, nerede yaşar ve neden seversiniz?", "tk": "Iň halaýan haýwanyňyzy takmynan 30 sekunt beýan ediň: ol nähili görünýär, näme iýýär, nirede ýaşaýar we näme üçin halaýarsyňyz?", "ru": "Расскажите о любимом животном примерно за 30 секунд: как выглядит, что ест, где живёт и почему оно вам нравится?" },
+      "questionEn": "What is your favourite animal? What does it look like? What does it eat? Where does it live? Why do you like it?",
+      "targetSeconds": 30,
+      "hints": ["My favourite animal is the horse.", "It is big and strong.", "It eats grass and apples.", "It lives on a farm.", "I like it because it is beautiful."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "A1", "topic": "At the shop", "title": "Shopping for Food",
+    "body": {
+      "task": { "tr": "Bir markettesiniz. Satıcıyla konuşur gibi yaklaşık 30 saniye konuşun: ne istediğinizi, ne kadar istediğinizi söyleyin ve fiyatını sorun.", "tk": "Siz dükanda. Satyjy bilen gürleşýän ýaly takmynan 30 sekunt gürläň: näme isleýändigiňizi, näçe isleýändigiňizi aýdyň we bahasyny soraň.", "ru": "Вы в магазине. Говорите примерно 30 секунд, как будто с продавцом: скажите, что и сколько хотите, и спросите цену." },
+      "questionEn": "You are in a food shop. Tell the shop assistant what you want to buy and how much, and ask about the price.",
+      "targetSeconds": 30,
+      "hints": ["Hello! Can I have a kilo of apples, please?", "And two bottles of water.", "Do you have fresh bread?", "How much is it?", "Here you are. Thank you!"]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "A1", "topic": "Weather today", "title": "What's the Weather Like?",
+    "body": {
+      "task": { "tr": "Bugünkü havayı ve en sevdiğiniz mevsimi yaklaşık 30 saniye anlatın.", "tk": "Şu günki howany we iň halaýan pasylyňyzy takmynan 30 sekunt beýan ediň.", "ru": "Расскажите о сегодняшней погоде и любимом времени года примерно за 30 секунд." },
+      "questionEn": "What is the weather like today? What is your favourite season and why? What do you do in that season?",
+      "targetSeconds": 30,
+      "hints": ["Today it is sunny and warm.", "It is not windy.", "My favourite season is spring.", "In spring the flowers are beautiful.", "I go to the park with my friends."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "A2", "topic": "Last weekend", "title": "What Did You Do Last Weekend?",
+    "body": {
+      "task": { "tr": "Geçen hafta sonunuzu yaklaşık 45 saniye anlatın. Geçmiş zaman kullanın: nereye gittiniz, kiminle, ne yaptınız, eğlendiniz mi?", "tk": "Geçen dynç günleriňizi takmynan 45 sekunt beýan ediň. Geçen zamany ulanyň: nirä gitdiňiz, kim bilen, näme etdiňiz, gyzykly boldumy?", "ru": "Расскажите о прошлых выходных примерно за 45 секунд. Используйте прошедшее время: куда ходили, с кем, что делали, понравилось ли?" },
+      "questionEn": "What did you do last weekend? Where did you go? Who were you with? Did you enjoy it?",
+      "targetSeconds": 45,
+      "hints": ["Last Saturday I went to... with...", "We had lunch at a small café.", "In the afternoon we watched a film.", "On Sunday I stayed at home and...", "It was a great weekend because..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "A2", "topic": "A place I want to visit", "title": "A Place You Want to Visit",
+    "body": {
+      "task": { "tr": "Gitmek istediğiniz bir yeri yaklaşık 45 saniye anlatın: neresi, orada ne yapmak istersiniz ve neden?", "tk": "Gitmek isleýän ýeriňiz barada takmynan 45 sekunt gürläň: ol nire, ol ýerde näme etmek isleýärsiňiz we näme üçin?", "ru": "Расскажите о месте, которое хотите посетить, примерно за 45 секунд: что это за место, что вы хотите там делать и почему?" },
+      "questionEn": "Which place in the world would you like to visit? What would you like to do there? Why?",
+      "targetSeconds": 45,
+      "hints": ["I would like to visit Japan.", "I want to see the cherry blossoms.", "I'd also like to try real sushi.", "I think the people are very polite.", "I hope I can go there next year."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "A2", "topic": "My favourite hobby", "title": "Talk About Your Hobby",
+    "body": {
+      "task": { "tr": "Hobinizi yaklaşık 45 saniye anlatın: ne zaman başladınız, ne sıklıkla yaparsınız, neye ihtiyacınız var ve neden seviyorsunuz?", "tk": "Gyzyklanmaňyz barada takmynan 45 sekunt gürläň: haçan başladyňyz, näçe ýygy edýärsiňiz, size näme gerek we näme üçin halaýarsyňyz?", "ru": "Расскажите о своём хобби примерно за 45 секунд: когда начали, как часто занимаетесь, что для этого нужно и почему вам нравится?" },
+      "questionEn": "Tell me about your favourite hobby. When did you start it? How often do you do it? What do you need for it? Why do you enjoy it?",
+      "targetSeconds": 45,
+      "hints": ["My favourite hobby is drawing.", "I started when I was ten years old.", "I draw about three times a week.", "I only need paper and pencils.", "It helps me relax after school."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "A2", "topic": "Ordering in a restaurant", "title": "At the Restaurant",
+    "body": {
+      "task": { "tr": "Bir restorandasınız. Garsonla konuşur gibi yaklaşık 45 saniye konuşun: masa isteyin, yemek ve içecek sipariş edin, sonunda hesabı isteyin.", "tk": "Siz restoranda. Ofisiant bilen gürleşýän ýaly takmynan 45 sekunt gürläň: stol soraň, nahar we içgi sargyt ediň, ahyrynda hasaby soraň.", "ru": "Вы в ресторане. Говорите примерно 45 секунд, как с официантом: попросите столик, закажите еду и напиток, в конце попросите счёт." },
+      "questionEn": "You are at a restaurant. Ask for a table, order a starter, a main course and a drink, and then ask for the bill.",
+      "targetSeconds": 45,
+      "hints": ["Good evening! A table for two, please.", "Could I see the menu, please?", "I'd like the soup to start, please.", "For my main course, I'll have the chicken.", "Could we have the bill, please?"]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "A2", "topic": "My childhood", "title": "When You Were a Child",
+    "body": {
+      "task": { "tr": "Çocukluğunuzu yaklaşık 45 saniye anlatın: nerede yaşıyordunuz, ne oynardınız, en iyi arkadaşınız kimdi? (used to / past simple)", "tk": "Çagalygyňyz barada takmynan 45 sekunt gürläň: nirede ýaşaýardyňyz, näme oýnardyňyz, iň ýakyn dostuňyz kimdi? (used to / past simple)", "ru": "Расскажите о детстве примерно за 45 секунд: где вы жили, во что играли, кто был лучшим другом? (used to / past simple)" },
+      "questionEn": "Tell me about your childhood. Where did you live? What games did you use to play? Who was your best friend?",
+      "targetSeconds": 45,
+      "hints": ["When I was a child, I lived in a small village.", "I used to play outside all day.", "My best friend was my cousin...", "We used to climb trees and...", "I miss those days because..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "A2", "topic": "Comparing two cities", "title": "Compare Two Places",
+    "body": {
+      "task": { "tr": "Bildiğiniz iki şehri yaklaşık 45 saniye karşılaştırın. Karşılaştırma sıfatları kullanın (bigger, more beautiful, the best…).", "tk": "Bilýän iki şäheriňizi takmynan 45 sekunt deňeşdiriň. Deňeşdirme sypatlaryny ulanyň (bigger, more beautiful, the best…).", "ru": "Сравните два знакомых вам города примерно за 45 секунд. Используйте сравнительные прилагательные (bigger, more beautiful, the best…)." },
+      "questionEn": "Compare two cities you know. Which one is bigger, more beautiful or more interesting? Which one do you prefer and why?",
+      "targetSeconds": 45,
+      "hints": ["Ashgabat is bigger than Mary.", "Istanbul is more crowded than...", "The weather in... is hotter.", "I think... has the best food.", "I prefer... because it is quieter."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B1", "topic": "A difficult decision", "title": "A Difficult Decision",
+    "body": {
+      "task": { "tr": "Verdiğiniz zor bir kararı yaklaşık 60 saniye anlatın: neydi, neden zordu, ne yaptınız ve şimdi ne düşünüyorsunuz?", "tk": "Kabul eden kyn kararyňyz barada takmynan 60 sekunt gürläň: ol näme, näme üçin kyn boldy, näme etdiňiz we häzir näme pikir edýärsiňiz?", "ru": "Расскажите о трудном решении, которое вы приняли, примерно за 60 секунд: что это было, почему было трудно, что вы сделали и что думаете сейчас?" },
+      "questionEn": "Describe a difficult decision you had to make. What was it? Why was it difficult? What did you decide, and do you think it was the right choice?",
+      "targetSeconds": 60,
+      "hints": ["A couple of years ago I had to decide whether to...", "It was difficult because...", "In the end, I decided to...", "Looking back, I think it was the right decision because...", "If I had chosen differently, I would have..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B1", "topic": "Technology and young people", "title": "Phones and Teenagers",
+    "body": {
+      "task": { "tr": "Soruyu yaklaşık 60 saniye yanıtlayın: Gençler telefonlarına çok mu zaman harcıyor? Görüşünüzü nedenler ve örneklerle açıklayın.", "tk": "Soraga takmynan 60 sekunt jogap beriň: Ýaşlar telefonlaryna köp wagt sarp edýärlermi? Pikiriňizi sebäpler we mysallar bilen düşündiriň.", "ru": "Ответьте на вопрос примерно за 60 секунд: проводят ли подростки слишком много времени в телефонах? Объясните мнение с причинами и примерами." },
+      "questionEn": "Do you think teenagers spend too much time on their phones? Why or why not? What could they do instead?",
+      "targetSeconds": 60,
+      "hints": ["In my opinion, most teenagers spend too much time...", "One reason is that social media apps are designed to...", "For example, my younger brother...", "Instead, they could...", "However, phones can also be useful for..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B1", "topic": "A memorable celebration", "title": "A Celebration You Remember",
+    "body": {
+      "task": { "tr": "Hatırladığınız bir kutlamayı (düğün, bayram, doğum günü) yaklaşık 60 saniye anlatın: ne zaman, nerede, kimler vardı ve neden unutulmazdı?", "tk": "Ýadyňyzda galan bir baýramy (toý, baýram, doglan gün) takmynan 60 sekunt beýan ediň: haçan, nirede, kimler bardy we näme üçin ýatdan çykmaýar?", "ru": "Расскажите о запомнившемся празднике (свадьба, праздник, день рождения) примерно за 60 секунд: когда, где, кто был и почему он незабываем?" },
+      "questionEn": "Describe a celebration you remember well. When and where was it? Who was there? What happened? Why was it special?",
+      "targetSeconds": 60,
+      "hints": ["One celebration I'll never forget is my cousin's wedding.", "It took place last summer in...", "Hundreds of guests were invited, and...", "The best moment was when...", "It was special because the whole family..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B1", "topic": "Healthy lifestyle", "title": "How to Stay Healthy",
+    "body": {
+      "task": { "tr": "Sağlıklı kalmak için ne yapıyorsunuz ve başkalarına ne tavsiye edersiniz? Yaklaşık 60 saniye konuşun (should, it's a good idea to…).", "tk": "Sagdyn bolmak üçin näme edýärsiňiz we başgalara näme maslahat berýärsiňiz? Takmynan 60 sekunt gürläň (should, it's a good idea to…).", "ru": "Что вы делаете, чтобы оставаться здоровым, и что посоветуете другим? Говорите примерно 60 секунд (should, it's a good idea to…)." },
+      "questionEn": "What do you do to stay healthy? What advice would you give to someone who wants a healthier lifestyle?",
+      "targetSeconds": 60,
+      "hints": ["To stay healthy, I try to...", "I've recently started... and I feel...", "I think people should drink more water and...", "It's also a good idea to...", "The most important thing, in my view, is..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B1", "topic": "Learning from mistakes", "title": "A Mistake That Taught You Something",
+    "body": {
+      "task": { "tr": "Size bir şey öğreten bir hatanızı yaklaşık 60 saniye anlatın: ne oldu ve ondan ne öğrendiniz?", "tk": "Size bir zat öwreden ýalňyşlygyňyz barada takmynan 60 sekunt gürläň: näme boldy we ondan näme öwrendiňiz?", "ru": "Расскажите об ошибке, которая вас чему-то научила, примерно за 60 секунд: что произошло и что вы поняли?" },
+      "questionEn": "Tell me about a mistake you made that taught you something important. What happened, and what did you learn?",
+      "targetSeconds": 60,
+      "hints": ["When I was at school, I once...", "I hadn't prepared, so...", "At first I felt embarrassed, but...", "Since then, I always...", "It taught me that..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B1", "topic": "Your dream job", "title": "Your Dream Job",
+    "body": {
+      "task": { "tr": "Hayalinizdeki işi yaklaşık 60 saniye anlatın: ne iş, neden, hangi becerilere ihtiyaç var ve buna nasıl hazırlanıyorsunuz?", "tk": "Arzuwyňyzdaky iş barada takmynan 60 sekunt gürläň: ol näme iş, näme üçin, haýsy başarnyklar gerek we oňa nähili taýýarlanýarsyňyz?", "ru": "Расскажите о работе своей мечты примерно за 60 секунд: что это, почему, какие навыки нужны и как вы готовитесь?" },
+      "questionEn": "What is your dream job? Why would you like to do it? What skills do you need, and what are you doing to prepare for it?",
+      "targetSeconds": 60,
+      "hints": ["My dream job is to become a...", "I've always been interested in...", "To do this job, you need to be...", "At the moment I'm...", "In five years, I hope I will..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B2", "topic": "Fame and social media influencers", "title": "Would You Like to Be Famous?",
+    "body": {
+      "task": { "tr": "Yaklaşık 90 saniye konuşun: Sosyal medya fenomeni olmak isteyen gençler hakkında ne düşünüyorsunuz? Ünlü olmanın avantaj ve dezavantajlarını tartışın ve kendiniz isteyip istemeyeceğinizi söyleyin.", "tk": "Takmynan 90 sekunt gürläň: Sosial mediada meşhur bolmak isleýän ýaşlar barada näme pikir edýärsiňiz? Meşhur bolmagyň artykmaçlyklaryny we kemçiliklerini ara alyp maslahatlaşyň we özüňiz isleýändigiňizi ýa-da däldigini aýdyň.", "ru": "Говорите примерно 90 секунд: что вы думаете о подростках, мечтающих стать блогерами? Обсудите плюсы и минусы славы и скажите, хотели бы вы сами." },
+      "questionEn": "Many young people today dream of becoming social media influencers. What are the advantages and disadvantages of being famous? Would you like to be famous yourself?",
+      "targetSeconds": 90,
+      "hints": ["It's hardly surprising that so many young people...", "On the one hand, fame can bring...", "On the other hand, influencers are under constant pressure to...", "What worries me is that...", "Personally, I'd rather... than..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B2", "topic": "Describe a book or film that influenced you", "title": "A Story That Stayed with You",
+    "body": {
+      "task": { "tr": "Sizi etkileyen bir kitabı ya da filmi yaklaşık 90 saniye anlatın: konusu, neden etkiledi ve bakış açınızı nasıl değiştirdi?", "tk": "Size täsir eden kitap ýa-da film barada takmynan 90 sekunt gürläň: mazmuny, näme üçin täsir etdi we garaýşyňyzy nähili üýtgetdi?", "ru": "Расскажите примерно за 90 секунд о книге или фильме, которые на вас повлияли: о чём они, почему впечатлили и как изменили ваш взгляд?" },
+      "questionEn": "Describe a book or film that had a strong effect on you. What is it about? Why did it affect you, and did it change the way you see anything?",
+      "targetSeconds": 90,
+      "hints": ["A film that really stayed with me is...", "It tells the story of...", "What struck me most was...", "It made me realise that...", "I'd recommend it to anyone who..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B2", "topic": "Should homework be banned", "title": "Should Homework Be Banned?",
+    "body": {
+      "task": { "tr": "Yaklaşık 90 saniye konuşun: Bazı ülkeler ilkokulda ev ödevini kaldırdı. Bu iyi bir fikir mi? İki tarafı da değerlendirip kendi görüşünüzü savunun.", "tk": "Takmynan 90 sekunt gürläň: Käbir ýurtlar başlangyç mekdepde öý işini ýatyrdy. Bu gowy pikirmi? Iki tarapy hem göz öňünde tutup, öz pikiriňizi goraň.", "ru": "Говорите примерно 90 секунд: некоторые страны отменили домашние задания в начальной школе. Хорошая ли это идея? Рассмотрите обе стороны и защитите своё мнение." },
+      "questionEn": "Some countries have stopped giving homework to primary school children. Do you think this is a good idea? Consider both sides and give your opinion.",
+      "targetSeconds": 90,
+      "hints": ["This is quite a controversial issue.", "Supporters of the idea argue that children need time to...", "However, homework can help children develop...", "In my own experience,...", "So, on balance, I think a small amount of homework..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B2", "topic": "Changes in your hometown", "title": "How Your Hometown Has Changed",
+    "body": {
+      "task": { "tr": "Memleketinizin son 10 yılda nasıl değiştiğini yaklaşık 90 saniye anlatın. Present perfect ve used to kullanın, değişimlerin iyi mi kötü mü olduğunu değerlendirin.", "tk": "Dogduk şäheriňiziň soňky 10 ýylda nähili üýtgändigi barada takmynan 90 sekunt gürläň. Present perfect we used to ulanyň, üýtgeşmeleriň gowudygyna ýa-da erbetdigine baha beriň.", "ru": "Расскажите примерно за 90 секунд, как изменился ваш родной город за 10 лет. Используйте present perfect и used to, оцените, к лучшему ли изменения." },
+      "questionEn": "How has your hometown changed over the last ten years? Are the changes positive or negative? What would you still like to change?",
+      "targetSeconds": 90,
+      "hints": ["Over the past decade, my hometown has changed dramatically.", "There used to be..., but now...", "A lot of new... have been built.", "While this has made life more convenient, it has also...", "If I could change one thing, I'd..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B2", "topic": "Advice for a new student", "title": "Advice for a Newcomer",
+    "body": {
+      "task": { "tr": "Okulunuza/şehrinize yeni gelen yabancı bir öğrenciye yaklaşık 90 saniye tavsiye verin: uyum sağlama, arkadaş edinme, yerel kurallar ve kaçınması gerekenler.", "tk": "Mekdebiňize/şäheriňize täze gelen daşary ýurtly talyba takmynan 90 sekunt maslahat beriň: uýgunlaşmak, dost tapmak, ýerli düzgünler we nämeden gaça durmaly.", "ru": "Дайте примерно за 90 секунд советы иностранному студенту, который только приехал в вашу школу/город: адаптация, друзья, местные правила и чего избегать." },
+      "questionEn": "An international student has just arrived at your school or in your city. What advice would you give them about settling in, making friends and local customs?",
+      "targetSeconds": 90,
+      "hints": ["First of all, I'd recommend that you...", "It's worth joining a club because...", "One thing you should be aware of is...", "Try not to... — people might think...", "Above all, don't be afraid to..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B2", "topic": "Describe an achievement", "title": "Something You're Proud Of",
+    "body": {
+      "task": { "tr": "Gurur duyduğunuz bir başarıyı yaklaşık 90 saniye anlatın: ne başardınız, hangi zorluklarla karşılaştınız ve bu size ne öğretti?", "tk": "Buýsanýan üstünligiňiz barada takmynan 90 sekunt gürläň: näme gazandyňyz, haýsy kynçylyklar bilen ýüzbe-ýüz bolduňyz we bu size näme öwretdi?", "ru": "Расскажите о достижении, которым гордитесь, примерно за 90 секунд: чего вы добились, с какими трудностями столкнулись и чему это вас научило?" },
+      "questionEn": "Describe an achievement you are proud of. What did you achieve, what difficulties did you face along the way, and what did it teach you?",
+      "targetSeconds": 90,
+      "hints": ["One thing I'm really proud of is...", "It wasn't easy, because I had to...", "There was a moment when I almost gave up, but...", "Eventually, I managed to...", "It taught me that hard work..."]
+    }
+  },
+  {
+    "skill": "SPEAKING", "level": "B2", "topic": "Fast fashion", "title": "Is Fast Fashion a Problem?",
+    "body": {
+      "task": { "tr": "Yaklaşık 90 saniye konuşun: Ucuz ve hızlı tüketilen moda (fast fashion) çevreye ve işçilere zarar veriyor mu? Tüketiciler ne yapabilir?", "tk": "Takmynan 90 sekunt gürläň: Arzan we çalt sarp edilýän moda (fast fashion) daşky gurşawa we işçilere zyýan ýetirýärmi? Sarp edijiler näme edip biler?", "ru": "Говорите примерно 90 секунд: вредит ли дешёвая «быстрая мода» (fast fashion) природе и работникам? Что могут сделать покупатели?" },
+      "questionEn": "Cheap 'fast fashion' is very popular. Is it harmful to the environment and to workers? What can consumers do about it?",
+      "targetSeconds": 90,
+      "hints": ["Fast fashion has become extremely popular because...", "The problem is that producing so many clothes...", "Workers in some countries are paid...", "As consumers, we could...", "I must admit that I myself..."]
+    }
+  }
+]

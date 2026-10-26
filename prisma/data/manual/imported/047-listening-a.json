@@ -1,0 +1,228 @@
+[
+  {
+    "skill": "LISTENING", "level": "A1", "topic": "At the doctor's", "title": "At the Doctor's",
+    "body": {
+      "script": [
+        "Doctor: Good morning. What's the problem?",
+        "Ali: Good morning, doctor. I have a headache and a sore throat.",
+        "Doctor: How long have you had it?",
+        "Ali: For two days.",
+        "Doctor: Do you have a temperature?",
+        "Ali: Yes, a little. Thirty-eight degrees this morning.",
+        "Doctor: OK. Drink a lot of water and take this medicine three times a day.",
+        "Ali: Can I go to school?",
+        "Doctor: No, stay at home for two days and rest.",
+        "Ali: Thank you, doctor."
+      ],
+      "glossary": [
+        { "word": "headache", "tr": "baş ağrısı", "tk": "kelle agyrysy", "ru": "головная боль" },
+        { "word": "sore throat", "tr": "boğaz ağrısı", "tk": "bokurdak agyrysy", "ru": "боль в горле" },
+        { "word": "temperature", "tr": "ateş", "tk": "gyzgyn", "ru": "температура" },
+        { "word": "medicine", "tr": "ilaç", "tk": "derman", "ru": "лекарство" },
+        { "word": "rest", "tr": "dinlenmek", "tk": "dynç almak", "ru": "отдыхать" },
+        { "word": "three times a day", "tr": "günde üç kez", "tk": "günde üç gezek", "ru": "три раза в день" }
+      ],
+      "questions": [
+        { "question": "What is Ali's problem?", "options": ["A stomach ache", "A headache and a sore throat", "A broken arm", "A toothache"], "answer": 1, "explanation": { "tr": "Başı ve boğazı ağrıyor.", "tk": "Onuň kellesi we bokurdagy agyrýar.", "ru": "У него болят голова и горло." } },
+        { "question": "How long has he been ill?", "options": ["One day", "Two days", "A week", "Three days"], "answer": 1, "explanation": { "tr": "İki gündür.", "tk": "Iki günden bäri.", "ru": "Два дня." } },
+        { "question": "What was his temperature?", "options": ["36 degrees", "37 degrees", "38 degrees", "39 degrees"], "answer": 2, "explanation": { "tr": "Otuz sekiz derece.", "tk": "Otuz sekiz gradus.", "ru": "Тридцать восемь градусов." } },
+        { "question": "How often must he take the medicine?", "options": ["Once a day", "Twice a day", "Three times a day", "Every hour"], "answer": 2, "explanation": { "tr": "Günde üç kez.", "tk": "Günde üç gezek.", "ru": "Три раза в день." } },
+        { "question": "Can Ali go to school?", "options": ["Yes, tomorrow", "No, he must stay at home for two days", "Yes, in the afternoon", "No, for a week"], "answer": 1, "explanation": { "tr": "İki gün evde kalmalı.", "tk": "Iki gün öýde galmaly.", "ru": "Два дня дома." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "A1", "topic": "Asking the way", "title": "Where Is the Post Office?",
+    "body": {
+      "script": [
+        "Woman: Excuse me. Where is the post office, please?",
+        "Man: The post office? Go straight on and turn left at the bank.",
+        "Woman: Turn left at the bank. OK.",
+        "Man: Then walk for two minutes. The post office is on the right, next to a café.",
+        "Woman: Is it far?",
+        "Man: No, it's not far. About five minutes on foot.",
+        "Woman: Is it open now?",
+        "Man: Yes, it opens at nine and closes at five.",
+        "Woman: Thank you very much!",
+        "Man: You're welcome."
+      ],
+      "glossary": [
+        { "word": "post office", "tr": "postane", "tk": "poçta", "ru": "почта" },
+        { "word": "go straight on", "tr": "düz git", "tk": "göni git", "ru": "идите прямо" },
+        { "word": "turn left", "tr": "sola dön", "tk": "çepe öwrül", "ru": "поверните налево" },
+        { "word": "next to", "tr": "yanında", "tk": "ýanynda", "ru": "рядом с" },
+        { "word": "far", "tr": "uzak", "tk": "uzak", "ru": "далеко" },
+        { "word": "on foot", "tr": "yürüyerek", "tk": "pyýada", "ru": "пешком" }
+      ],
+      "questions": [
+        { "question": "Where does the woman want to go?", "options": ["The bank", "The post office", "A café", "The station"], "answer": 1, "explanation": { "tr": "Postaneye.", "tk": "Poçta.", "ru": "На почту." } },
+        { "question": "Where must she turn left?", "options": ["At the café", "At the bank", "At the school", "At the park"], "answer": 1, "explanation": { "tr": "Bankadan sola.", "tk": "Bankdan çepe.", "ru": "У банка налево." } },
+        { "question": "What is next to the post office?", "options": ["A bank", "A shop", "A café", "A hotel"], "answer": 2, "explanation": { "tr": "Bir kafe.", "tk": "Kafe.", "ru": "Кафе." } },
+        { "question": "How long does it take on foot?", "options": ["Two minutes", "Five minutes", "Ten minutes", "Fifteen minutes"], "answer": 1, "explanation": { "tr": "Yaklaşık beş dakika.", "tk": "Takmynan bäş minut.", "ru": "Около пяти минут." } },
+        { "question": "When does the post office close?", "options": ["At four", "At five", "At six", "At nine"], "answer": 1, "explanation": { "tr": "Beşte kapanıyor.", "tk": "Bäşde ýapylýar.", "ru": "Закрывается в пять." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "A1", "topic": "Buying clothes", "title": "In a Clothes Shop",
+    "body": {
+      "script": [
+        "Assistant: Hello. Can I help you?",
+        "Customer: Yes, please. I'm looking for a jacket.",
+        "Assistant: What colour would you like?",
+        "Customer: Black or dark blue.",
+        "Assistant: What size are you?",
+        "Customer: Medium, I think.",
+        "Assistant: Here's a dark blue one in medium. You can try it on over there.",
+        "Customer: Thank you. ... It's very nice. How much is it?",
+        "Assistant: It's forty-five dollars.",
+        "Customer: OK, I'll take it. Can I pay by card?",
+        "Assistant: Yes, of course."
+      ],
+      "glossary": [
+        { "word": "jacket", "tr": "ceket", "tk": "kurtka", "ru": "куртка" },
+        { "word": "colour", "tr": "renk", "tk": "reňk", "ru": "цвет" },
+        { "word": "size", "tr": "beden", "tk": "ölçeg", "ru": "размер" },
+        { "word": "try on", "tr": "denemek (giysi)", "tk": "geýip görmek", "ru": "примерить" },
+        { "word": "How much is it?", "tr": "Ne kadar?", "tk": "Bahasy näçe?", "ru": "Сколько стоит?" },
+        { "word": "pay by card", "tr": "kartla ödemek", "tk": "kart bilen tölemek", "ru": "платить картой" }
+      ],
+      "questions": [
+        { "question": "What does the customer want to buy?", "options": ["A shirt", "A jacket", "Shoes", "A dress"], "answer": 1, "explanation": { "tr": "Ceket.", "tk": "Kurtka.", "ru": "Куртку." } },
+        { "question": "Which colours does the customer like?", "options": ["Red or green", "Black or dark blue", "White or grey", "Brown or black"], "answer": 1, "explanation": { "tr": "Siyah ya da lacivert.", "tk": "Gara ýa-da goýy gök.", "ru": "Чёрный или тёмно-синий." } },
+        { "question": "What size is the customer?", "options": ["Small", "Medium", "Large", "Extra large"], "answer": 1, "explanation": { "tr": "Medium.", "tk": "Medium.", "ru": "Medium." } },
+        { "question": "How much is the jacket?", "options": ["$35", "$40", "$45", "$54"], "answer": 2, "explanation": { "tr": "Kırk beş dolar.", "tk": "Kyrk bäş dollar.", "ru": "Сорок пять долларов." } },
+        { "question": "How does the customer pay?", "options": ["In cash", "By card", "By phone", "He doesn't buy it"], "answer": 1, "explanation": { "tr": "Kartla.", "tk": "Kart bilen.", "ru": "Картой." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "A2", "topic": "Booking a hotel room", "title": "Booking a Hotel Room",
+    "body": {
+      "script": [
+        "Receptionist: Good afternoon, Sunrise Hotel. How can I help you?",
+        "Guest: Hello. I'd like to book a room for next weekend, please.",
+        "Receptionist: Certainly. Which nights?",
+        "Guest: Friday and Saturday, the 14th and 15th.",
+        "Receptionist: A single or a double room?",
+        "Guest: A double, please. It's for me and my wife.",
+        "Receptionist: We have a double room with a sea view for ninety dollars a night, or one without a view for seventy.",
+        "Guest: We'll take the one with the sea view. Is breakfast included?",
+        "Receptionist: Yes, breakfast is served from seven to ten. Can I have your name, please?",
+        "Guest: It's Murat Aydın. That's A-Y-D-I-N.",
+        "Receptionist: Thank you, Mr Aydın. Check-in is from two p.m. See you on Friday!"
+      ],
+      "glossary": [
+        { "word": "book", "tr": "rezervasyon yapmak", "tk": "öňünden bellemek", "ru": "бронировать" },
+        { "word": "double room", "tr": "çift kişilik oda", "tk": "iki adamlyk otag", "ru": "двухместный номер" },
+        { "word": "sea view", "tr": "deniz manzarası", "tk": "deňze bakýan", "ru": "вид на море" },
+        { "word": "included", "tr": "dahil", "tk": "goşulan", "ru": "включён" },
+        { "word": "served", "tr": "servis edilir", "tk": "berilýär", "ru": "подаётся" },
+        { "word": "check-in", "tr": "giriş (otele)", "tk": "myhmanhana ýerleşmek", "ru": "заселение" }
+      ],
+      "questions": [
+        { "question": "Which nights does the guest want?", "options": ["Thursday and Friday", "Friday and Saturday", "Saturday and Sunday", "Only Saturday"], "answer": 1, "explanation": { "tr": "Cuma ve cumartesi.", "tk": "Anna we şenbe.", "ru": "Пятница и суббота." } },
+        { "question": "Who is the room for?", "options": ["The guest and his wife", "The guest alone", "The guest and his friend", "A family of four"], "answer": 0, "explanation": { "tr": "Kendisi ve eşi.", "tk": "Özi we aýaly.", "ru": "Для него и жены." } },
+        { "question": "How much is the room he chooses?", "options": ["$70 a night", "$80 a night", "$90 a night", "$190 a night"], "answer": 2, "explanation": { "tr": "Deniz manzaralı: 90 dolar.", "tk": "Deňze bakýany: 90 dollar.", "ru": "С видом на море: 90 долларов." } },
+        { "question": "When is breakfast?", "options": ["6 to 9", "7 to 10", "8 to 11", "It is not included"], "answer": 1, "explanation": { "tr": "Yediden ona.", "tk": "Ýediden ona çenli.", "ru": "С семи до десяти." } },
+        { "question": "What time is check-in?", "options": ["From 12 p.m.", "From 1 p.m.", "From 2 p.m.", "From 3 p.m."], "answer": 2, "explanation": { "tr": "Öğleden sonra ikiden itibaren.", "tk": "Günortadan soň sagat ikiden.", "ru": "С двух часов дня." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "A2", "topic": "A phone message", "title": "A Voicemail from Sara",
+    "body": {
+      "script": [
+        "Hi Emma, it's Sara. I'm calling about our trip to the museum tomorrow.",
+        "There's a small change. The museum opens at ten, not at nine, so let's meet at half past nine instead.",
+        "We can meet outside the train station, near the flower shop, not at the bus stop.",
+        "Tickets are eight dollars for students, so don't forget your student card.",
+        "Oh, and bring some sandwiches. The café in the museum is closed this week.",
+        "My brother Tim wants to come too. I hope that's OK!",
+        "Call me back tonight if you can. My number is 0-7-7-5-3-2-1. Bye!"
+      ],
+      "glossary": [
+        { "word": "trip", "tr": "gezi", "tk": "gezelenç", "ru": "поездка" },
+        { "word": "instead", "tr": "onun yerine", "tk": "onuň ýerine", "ru": "вместо этого" },
+        { "word": "outside", "tr": "dışında, önünde", "tk": "daşynda", "ru": "снаружи, у" },
+        { "word": "student card", "tr": "öğrenci kartı", "tk": "talyp kartasy", "ru": "студенческий билет" },
+        { "word": "closed", "tr": "kapalı", "tk": "ýapyk", "ru": "закрыт" },
+        { "word": "call back", "tr": "geri aramak", "tk": "yzyna jaň etmek", "ru": "перезвонить" }
+      ],
+      "questions": [
+        { "question": "What time will they meet?", "options": ["9:00", "9:30", "10:00", "10:30"], "answer": 1, "explanation": { "tr": "Dokuz buçukta.", "tk": "Dokuzdan otuz geçende.", "ru": "В половине десятого." } },
+        { "question": "Where will they meet?", "options": ["At the bus stop", "Outside the train station", "Inside the museum", "At the café"], "answer": 1, "explanation": { "tr": "Tren istasyonunun önünde.", "tk": "Otly menziliniň daşynda.", "ru": "У вокзала." } },
+        { "question": "Why should Emma bring her student card?", "options": ["To get a cheaper ticket", "To enter the station", "To use the café", "To take photos"], "answer": 0, "explanation": { "tr": "Öğrenci bileti sekiz dolar.", "tk": "Talyp bileti sekiz dollar.", "ru": "Студенческий билет — восемь долларов." } },
+        { "question": "Why should she bring sandwiches?", "options": ["The museum café is closed", "Food is expensive", "Sara is hungry", "It's a picnic"], "answer": 0, "explanation": { "tr": "Müze kafesi bu hafta kapalı.", "tk": "Muzeýiň kafesi bu hepde ýapyk.", "ru": "Кафе музея на этой неделе закрыто." } },
+        { "question": "Who else wants to come?", "options": ["Sara's sister", "Sara's brother Tim", "Emma's brother", "Sara's mother"], "answer": 1, "explanation": { "tr": "Sara'nın erkek kardeşi Tim.", "tk": "Saranyň dogany Tim.", "ru": "Брат Сары Тим." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "A2", "topic": "Planning a picnic", "title": "Planning a Picnic",
+    "body": {
+      "script": [
+        "Leyla: The weather looks great on Sunday. Shall we have a picnic in the park?",
+        "Kerim: Good idea! Who should we invite?",
+        "Leyla: Let's ask Aylin and her husband, and maybe your cousin Batyr.",
+        "Kerim: Batyr's working on Sunday, but I'll ask Aylin. What shall we take?",
+        "Leyla: I'll make some salad and bake a cake. Can you buy fruit and drinks?",
+        "Kerim: Sure. I'll get some watermelon, grapes and lemonade. Do we need plates?",
+        "Leyla: Yes, but let's not use plastic ones. I'll bring plates from home.",
+        "Kerim: Perfect. What time shall we meet?",
+        "Leyla: How about twelve o'clock, near the big fountain?",
+        "Kerim: Great. And if it rains, we can have lunch at our house instead."
+      ],
+      "glossary": [
+        { "word": "picnic", "tr": "piknik", "tk": "piknik", "ru": "пикник" },
+        { "word": "invite", "tr": "davet etmek", "tk": "çagyrmak", "ru": "приглашать" },
+        { "word": "bake", "tr": "fırında pişirmek", "tk": "peçde bişirmek", "ru": "печь" },
+        { "word": "watermelon", "tr": "karpuz", "tk": "garpyz", "ru": "арбуз" },
+        { "word": "grapes", "tr": "üzüm", "tk": "üzüm", "ru": "виноград" },
+        { "word": "fountain", "tr": "çeşme, fıskiye", "tk": "suw çüwdürimi", "ru": "фонтан" }
+      ],
+      "questions": [
+        { "question": "When is the picnic?", "options": ["On Saturday", "On Sunday", "On Friday", "Next week"], "answer": 1, "explanation": { "tr": "Pazar günü.", "tk": "Ýekşenbe güni.", "ru": "В воскресенье." } },
+        { "question": "Why can't Batyr come?", "options": ["He is ill", "He is working", "He is on holiday", "He doesn't like picnics"], "answer": 1, "explanation": { "tr": "Pazar çalışıyor.", "tk": "Ýekşenbe işleýär.", "ru": "Он работает." } },
+        { "question": "What will Leyla make?", "options": ["Sandwiches and soup", "Salad and a cake", "Fruit and drinks", "Pizza"], "answer": 1, "explanation": { "tr": "Salata ve kek.", "tk": "Salat we tort.", "ru": "Салат и торт." } },
+        { "question": "Why will Leyla bring plates from home?", "options": ["She doesn't want to use plastic ones", "The shop is closed", "Kerim forgot them", "They are cheaper"], "answer": 0, "explanation": { "tr": "Plastik kullanmak istemiyor.", "tk": "Plastik ulanmak islemeýär.", "ru": "Не хочет пластиковые." } },
+        { "question": "What will they do if it rains?", "options": ["Cancel the picnic", "Go to a café", "Have lunch at their house", "Go next Sunday"], "answer": 2, "explanation": { "tr": "Evde öğle yemeği yerler.", "tk": "Öýde günortanlyk naharyny iýerler.", "ru": "Пообедают дома." } }
+      ]
+    }
+  },
+  {
+    "skill": "LISTENING", "level": "B1", "topic": "A radio interview with a chef", "title": "Radio Interview: A Young Chef",
+    "body": {
+      "script": [
+        "Host: Today in the studio we have Daniyar, who opened his own restaurant at just twenty-four. Welcome!",
+        "Daniyar: Thanks for having me.",
+        "Host: How did you get into cooking?",
+        "Daniyar: Honestly, by accident. I was studying economics, but I worked in a kitchen at weekends to pay for university. After a year I realised I was much happier in the kitchen than in lectures.",
+        "Host: Your parents must have been worried.",
+        "Daniyar: They were! My father wanted me to finish my degree first, and actually I did — I graduated, and then I went to cooking school for two years.",
+        "Host: What makes your restaurant different?",
+        "Daniyar: We use only local ingredients, and the menu changes every month depending on what farmers can give us. In winter that's quite a challenge!",
+        "Host: What's the hardest part of running a restaurant?",
+        "Daniyar: Not the cooking — it's managing people and money. I work about seventy hours a week.",
+        "Host: Any advice for young people who want to become chefs?",
+        "Daniyar: Work in a real kitchen before you spend money on a course. You'll find out very quickly whether you love it."
+      ],
+      "glossary": [
+        { "word": "by accident", "tr": "tesadüfen", "tk": "tötänleýin", "ru": "случайно" },
+        { "word": "lecture", "tr": "ders (üniversite)", "tk": "leksiýa", "ru": "лекция" },
+        { "word": "graduate", "tr": "mezun olmak", "tk": "okuw tamamlamak", "ru": "окончить вуз" },
+        { "word": "ingredients", "tr": "malzemeler", "tk": "önümler, düzümi", "ru": "ингредиенты" },
+        { "word": "depending on", "tr": "…e bağlı olarak", "tk": "…e baglylykda", "ru": "в зависимости от" },
+        { "word": "challenge", "tr": "zorluk", "tk": "kynçylyk", "ru": "вызов, трудность" },
+        { "word": "run (a business)", "tr": "işletmek", "tk": "dolandyrmak", "ru": "управлять" }
+      ],
+      "questions": [
+        { "question": "Why did Daniyar first work in a kitchen?", "options": ["To learn to cook", "To pay for university", "Because his father was a chef", "For a school project"], "answer": 1, "explanation": { "tr": "Üniversite masrafı için.", "tk": "Uniwersitetiň tölegi üçin.", "ru": "Чтобы платить за учёбу." } },
+        { "question": "What did he do after university?", "options": ["Opened a restaurant immediately", "Went to cooking school for two years", "Worked in a bank", "Travelled abroad"], "answer": 1, "explanation": { "tr": "İki yıl aşçılık okuluna gitti.", "tk": "Iki ýyl aşpez mekdebinde okady.", "ru": "Два года учился в кулинарной школе." } },
+        { "question": "Why does his menu change every month?", "options": ["Customers get bored", "It depends on what local farmers have", "Prices go up", "He likes experimenting"], "answer": 1, "explanation": { "tr": "Yerel çiftçilerin ürünlerine bağlı.", "tk": "Ýerli daýhanlaryň önümlerine bagly.", "ru": "Зависит от продуктов фермеров." } },
+        { "question": "What does he find hardest?", "options": ["Cooking", "Managing people and money", "Finding customers", "Working in winter"], "answer": 1, "explanation": { "tr": "İnsan ve para yönetimi.", "tk": "Adamlary we puly dolandyrmak.", "ru": "Управление людьми и деньгами." } },
+        { "question": "What is his advice?", "options": ["Take a course first", "Study economics", "Work in a real kitchen before paying for a course", "Open a restaurant young"], "answer": 2, "explanation": { "tr": "Önce gerçek bir mutfakta çalışın.", "tk": "Ilki hakyky aşhanada işläň.", "ru": "Сначала поработайте на настоящей кухне." } }
+      ]
+    }
+  }
+]

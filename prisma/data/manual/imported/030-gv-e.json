@@ -1,0 +1,107 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Questions",
+    "title": "Questions: B1 Review",
+    "body": {
+      "explanation": {
+        "tr": "• Evet/hayır soruları: yardımcı fiil + özne + fiil → Do you smoke? Is she coming? Have you finished? Can you swim?\n• Wh-soruları: soru kelimesi + yardımcı fiil + özne + fiil → Where do you live? What did she say?\n• Özne soruları (who/what özne): yardımcı fiil yok → Who called you? What happened?\n• Edatla biten sorular: Who are you talking to? Where are you from? What are you looking for?\n• Dolaylı (kibar) sorular: normal cümle sırası → Can you tell me where the station is? (✗ where is the station)\n• Question tags: You're tired, aren't you? She doesn't eat meat, does she?",
+        "tk": "• Hawa/ýok soraglary: kömekçi işlik + eýe + işlik → Do you smoke? Is she coming? Have you finished? Can you swim?\n• Wh-soraglary: sorag sözi + kömekçi işlik + eýe + işlik → Where do you live? What did she say?\n• Eýe soraglary (who/what eýe): kömekçi işlik ýok → Who called you? What happened?\n• Sözlem bilen gutarýan soraglar: Who are you talking to? Where are you from? What are you looking for?\n• Gytaklaýyn (sypaýy) soraglar: adaty söz tertibi → Can you tell me where the station is? (✗ where is the station)\n• Question tags: You're tired, aren't you? She doesn't eat meat, does she?",
+        "ru": "• Общие вопросы: вспомогательный + подлежащее + глагол → Do you smoke? Is she coming? Have you finished? Can you swim?\n• Специальные: вопросительное слово + вспомогательный + подлежащее + глагол → Where do you live? What did she say?\n• Вопросы к подлежащему (who/what): без вспомогательного → Who called you? What happened?\n• С предлогом в конце: Who are you talking to? Where are you from? What are you looking for?\n• Косвенные (вежливые): прямой порядок слов → Can you tell me where the station is? (✗ where is the station)\n• Разделительные: You're tired, aren't you? She doesn't eat meat, does she?"
+      },
+      "examples": [
+        { "en": "Where did you grow up?", "tr": "Nerede büyüdün?", "tk": "Sen nirede önüp-ösdüň?", "ru": "Где ты вырос?" },
+        { "en": "Who told you that?", "tr": "Bunu sana kim söyledi?", "tk": "Muny saňa kim aýtdy?", "ru": "Кто тебе это сказал?" },
+        { "en": "What are you thinking about?", "tr": "Ne düşünüyorsun?", "tk": "Näme barada oýlanýarsyň?", "ru": "О чём ты думаешь?" },
+        { "en": "Could you tell me what time it is?", "tr": "Saatin kaç olduğunu söyleyebilir misiniz?", "tk": "Sagat näçe bolandygyny aýdyp bilersiňizmi?", "ru": "Не подскажете, который час?" },
+        { "en": "You speak Russian, don't you?", "tr": "Rusça konuşuyorsun, değil mi?", "tk": "Sen rusça gürleýärsiň, şeýle dälmi?", "ru": "Ты говоришь по-русски, да?" },
+        { "en": "How long have you lived here?", "tr": "Ne zamandır burada yaşıyorsun?", "tk": "Näçe wagtdan bäri şu ýerde ýaşaýarsyň?", "ru": "Как долго ты здесь живёшь?" }
+      ],
+      "exercises": [
+        { "question": "Where ___ you buy that jacket?", "options": ["do", "did", "were", "have"], "answer": 1, "explanation": { "tr": "Geçmiş → did.", "tk": "Geçmiş → did.", "ru": "Прошлое → did." } },
+        { "question": "Who ___ the window?", "options": ["did break", "broke", "breaked", "does break"], "answer": 1, "explanation": { "tr": "Özne sorusu → broke.", "tk": "Eýe soragy → broke.", "ru": "Вопрос к подлежащему → broke." } },
+        { "question": "Who did you go ___?", "options": ["with", "to", "at", "by"], "answer": 0, "explanation": { "tr": "go with someone.", "tk": "go with someone.", "ru": "go with someone." } },
+        { "question": "Can you tell me where ___?", "options": ["is the bank", "the bank is", "does the bank", "the bank"], "answer": 1, "explanation": { "tr": "Dolaylı soru → normal sıra.", "tk": "Gytaklaýyn sorag → adaty tertip.", "ru": "Косвенный вопрос → прямой порядок." } },
+        { "question": "She's a teacher, ___?", "options": ["is she", "isn't she", "doesn't she", "isn't it"], "answer": 1, "explanation": { "tr": "Olumlu → olumsuz tag.", "tk": "Tassyklaýjy → ýokluk tag.", "ru": "Утверждение → отрицательный хвостик." } },
+        { "question": "They didn't come, ___?", "options": ["didn't they", "did they", "do they", "were they"], "answer": 1, "explanation": { "tr": "Olumsuz → olumlu tag.", "tk": "Ýokluk → tassyklaýjy tag.", "ru": "Отрицание → положительный хвостик." } },
+        { "question": "What ___ for dinner tonight?", "options": ["we are having", "are we having", "we having", "do we having"], "answer": 1, "explanation": { "tr": "are + we + -ing.", "tk": "are + we + -ing.", "ru": "are + we + -ing." } },
+        { "question": "How often ___ she visit her grandparents?", "options": ["do", "does", "is", "did she"], "answer": 1, "explanation": { "tr": "she → does.", "tk": "she → does.", "ru": "she → does." } },
+        { "question": "Do you know what time ___?", "options": ["does the film start", "the film starts", "starts the film", "the film does start"], "answer": 1, "explanation": { "tr": "Dolaylı soru → the film starts.", "tk": "Gytaklaýyn → the film starts.", "ru": "Косвенный → the film starts." } },
+        { "question": "What happened? → Which is correct?", "options": ["What did happen?", "What happened?", "What was happened?", "What happen?"], "answer": 1, "explanation": { "tr": "Özne sorusu → What happened?", "tk": "Eýe soragy → What happened?", "ru": "Вопрос к подлежащему → What happened?" } },
+        { "question": "___ have you been waiting?", "options": ["How long", "How much", "When", "What time"], "answer": 0, "explanation": { "tr": "Süre → How long.", "tk": "Dowamlylyk → How long.", "ru": "Длительность → How long." } },
+        { "question": "Find the mistake: \"Where you are from?\"", "options": ["Where", "you are", "from", "There is no mistake"], "answer": 1, "explanation": { "tr": "Where are you from?", "tk": "Where are you from?", "ru": "Where are you from?" } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Reported Speech",
+    "title": "Reported Statements, Questions and Commands",
+    "body": {
+      "explanation": {
+        "tr": "Dolaylı anlatımın üç türü:\n• İfadeler: said / told + (that) + zaman kayması → \"I'm tired.\" → She said (that) she was tired.\n• Sorular: asked + if/whether (evet-hayır) veya soru kelimesi + NORMAL cümle sırası\n  \"Are you hungry?\" → He asked if I was hungry.\n  \"Where do you live?\" → She asked where I lived. (✗ where did I live)\n• Emirler/rica: told / asked + kişi + (not) to + fiil\n  \"Close the door.\" → He told me to close the door.\n  \"Don't be late.\" → She told us not to be late.\nZaman kayması: present → past, past → past perfect, will → would, can → could",
+        "tk": "Gytaklaýyn gürrüňiň üç görnüşi:\n• Habar sözlemleri: said / told + (that) + zaman süýşmesi → \"I'm tired.\" → She said (that) she was tired.\n• Soraglar: asked + if/whether (hawa-ýok) ýa-da sorag sözi + ADATY söz tertibi\n  \"Are you hungry?\" → He asked if I was hungry.\n  \"Where do you live?\" → She asked where I lived. (✗ where did I live)\n• Buýruklar/haýyş: told / asked + adam + (not) to + işlik\n  \"Close the door.\" → He told me to close the door.\n  \"Don't be late.\" → She told us not to be late.\nZaman süýşmesi: present → past, past → past perfect, will → would, can → could",
+        "ru": "Три вида косвенной речи:\n• Утверждения: said / told + (that) + сдвиг времён → \"I'm tired.\" → She said (that) she was tired.\n• Вопросы: asked + if/whether (общий) или вопросительное слово + ПРЯМОЙ порядок слов\n  \"Are you hungry?\" → He asked if I was hungry.\n  \"Where do you live?\" → She asked where I lived. (✗ where did I live)\n• Команды/просьбы: told / asked + кому + (not) to + глагол\n  \"Close the door.\" → He told me to close the door.\n  \"Don't be late.\" → She told us not to be late.\nСдвиг времён: present → past, past → past perfect, will → would, can → could"
+      },
+      "examples": [
+        { "en": "\"I love this city.\" → She said she loved that city.", "tr": "O şehri sevdiğini söyledi.", "tk": "Ol şol şäheri söýýändigini aýtdy.", "ru": "Она сказала, что любит этот город." },
+        { "en": "\"Do you speak English?\" → He asked if I spoke English.", "tr": "İngilizce konuşup konuşmadığımı sordu.", "tk": "Ol menden iňlisçe gürleýändigimi sorady.", "ru": "Он спросил, говорю ли я по-английски." },
+        { "en": "\"What time is it?\" → She asked what time it was.", "tr": "Saatin kaç olduğunu sordu.", "tk": "Ol sagadyň näçe bolandygyny sorady.", "ru": "Она спросила, который час." },
+        { "en": "\"Sit down.\" → The teacher told us to sit down.", "tr": "Öğretmen oturmamızı söyledi.", "tk": "Mugallym bize oturmagy aýtdy.", "ru": "Учитель сказал нам сесть." },
+        { "en": "\"Don't touch it.\" → Mum told me not to touch it.", "tr": "Annem ona dokunmamamı söyledi.", "tk": "Ejem maňa oňa degmezligi aýtdy.", "ru": "Мама сказала мне не трогать это." },
+        { "en": "\"I'll help you.\" → He said he would help me.", "tr": "Bana yardım edeceğini söyledi.", "tk": "Ol maňa kömek etjekdigini aýtdy.", "ru": "Он сказал, что поможет мне." }
+      ],
+      "exercises": [
+        { "question": "\"I'm busy.\" → He said he ___ busy.", "options": ["is", "was", "were", "has been"], "answer": 1, "explanation": { "tr": "is → was.", "tk": "is → was.", "ru": "is → was." } },
+        { "question": "\"Are you ready?\" → She asked ___ ready.", "options": ["if I was", "was I", "if was I", "am I"], "answer": 0, "explanation": { "tr": "if + normal sıra.", "tk": "if + adaty tertip.", "ru": "if + прямой порядок." } },
+        { "question": "\"Where do you work?\" → He asked me where ___.", "options": ["did I work", "I worked", "do I work", "I work did"], "answer": 1, "explanation": { "tr": "Normal sıra + zaman kayması.", "tk": "Adaty tertip + zaman süýşmesi.", "ru": "Прямой порядок + сдвиг времени." } },
+        { "question": "\"Open the window.\" → She told me ___ the window.", "options": ["open", "to open", "opening", "that I open"], "answer": 1, "explanation": { "tr": "told + kişi + to.", "tk": "told + adam + to.", "ru": "told + кому + to." } },
+        { "question": "\"Don't shout.\" → The teacher told us ___.", "options": ["don't shout", "not to shout", "to not shouting", "not shout"], "answer": 1, "explanation": { "tr": "not to + fiil.", "tk": "not to + işlik.", "ru": "not to + глагол." } },
+        { "question": "\"I will call you.\" → She said she ___ call me.", "options": ["will", "would", "can", "is going"], "answer": 1, "explanation": { "tr": "will → would.", "tk": "will → would.", "ru": "will → would." } },
+        { "question": "\"I saw the accident.\" → He said he ___ the accident.", "options": ["saw", "had seen", "has seen", "sees"], "answer": 1, "explanation": { "tr": "past → past perfect.", "tk": "past → past perfect.", "ru": "past → past perfect." } },
+        { "question": "\"Can you swim?\" → She asked if I ___ swim.", "options": ["can", "could", "will", "may"], "answer": 1, "explanation": { "tr": "can → could.", "tk": "can → could.", "ru": "can → could." } },
+        { "question": "\"Why are you late?\" → The boss asked me why ___ late.", "options": ["was I", "I was", "am I", "I am"], "answer": 1, "explanation": { "tr": "why + I was.", "tk": "why + I was.", "ru": "why + I was." } },
+        { "question": "\"Please help me.\" → He asked me ___ him.", "options": ["help", "to help", "helping", "that I help"], "answer": 1, "explanation": { "tr": "asked + kişi + to.", "tk": "asked + adam + to.", "ru": "asked + кому + to." } },
+        { "question": "\"Do you like tea?\" → She asked ___ I liked tea.", "options": ["that", "whether", "what", "do"], "answer": 1, "explanation": { "tr": "Evet/hayır → whether/if.", "tk": "Hawa/ýok → whether/if.", "ru": "Общий вопрос → whether/if." } },
+        { "question": "Find the mistake: \"She asked me where did I live.\"", "options": ["She asked", "me", "where did I live", "There is no mistake"], "answer": 2, "explanation": { "tr": "where I lived.", "tk": "where I lived.", "ru": "where I lived." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Sentences, Word order",
+    "title": "English Word Order: B1 Review",
+    "body": {
+      "explanation": {
+        "tr": "İngilizcede temel cümle sırası: Özne – Fiil – Nesne – Yer – Zaman (S-V-O-P-T)\n• I play football in the park on Sundays.\n• Fiil ile nesne ayrılmaz: She speaks English very well. (✗ She speaks very well English.)\n• Sıklık zarfları: ana fiilden önce, be'den sonra → I always walk. She is always late.\n• Sıfatlar isimden önce: a big red car (görüş-boyut-yaş-renk-köken-malzeme sırası: a nice old Turkmen carpet)\n• Dolaylı nesne: give someone something / give something to someone → I gave her a book. / I gave a book to her.\n• Bağlaçlar: and, but, or, so, because, although",
+        "tk": "Iňlis dilinde esasy söz tertibi: Eýe – Işlik – Doldurgyç – Ýer – Wagt (S-V-O-P-T)\n• I play football in the park on Sundays.\n• Işlik bilen doldurgyç aýrylmaýar: She speaks English very well. (✗ She speaks very well English.)\n• Ýygylyk hallary: esasy işlikden öň, be-den soň → I always walk. She is always late.\n• Sypatlar atdan öň: a big red car (pikir-ölçeg-ýaş-reňk-gelip çykyş-material tertibi: a nice old Turkmen carpet)\n• Gytaklaýyn doldurgyç: give someone something / give something to someone → I gave her a book. / I gave a book to her.\n• Baglaýjylar: and, but, or, so, because, although",
+        "ru": "Базовый порядок слов: Подлежащее – Глагол – Дополнение – Место – Время (S-V-O-P-T)\n• I play football in the park on Sundays.\n• Глагол и дополнение не разделяются: She speaks English very well. (✗ She speaks very well English.)\n• Наречия частоты: перед смысловым глаголом, после be → I always walk. She is always late.\n• Прилагательные перед существительным: a big red car (порядок: мнение-размер-возраст-цвет-происхождение-материал: a nice old Turkmen carpet)\n• Косвенное дополнение: give someone something / give something to someone → I gave her a book. / I gave a book to her.\n• Союзы: and, but, or, so, because, although"
+      },
+      "examples": [
+        { "en": "I play football in the park on Sundays.", "tr": "Pazar günleri parkta futbol oynarım.", "tk": "Ýekşenbe günleri seýilgähde futbol oýnaýaryn.", "ru": "По воскресеньям я играю в футбол в парке." },
+        { "en": "She speaks English very well.", "tr": "İngilizceyi çok iyi konuşur.", "tk": "Ol iňlisçe örän gowy gürleýär.", "ru": "Она очень хорошо говорит по-английски." },
+        { "en": "My grandma has a beautiful old Turkmen carpet.", "tr": "Büyükannemin güzel, eski bir Türkmen halısı var.", "tk": "Mamamyň owadan köne türkmen haly bar.", "ru": "У бабушки есть красивый старый туркменский ковёр." },
+        { "en": "I sent my friend a postcard.", "tr": "Arkadaşıma bir kartpostal gönderdim.", "tk": "Dostuma açyk hat iberdim.", "ru": "Я отправил другу открытку." },
+        { "en": "He is never late for work.", "tr": "İşe asla geç kalmaz.", "tk": "Ol işe hiç haçan gijä galmaýar.", "ru": "Он никогда не опаздывает на работу." },
+        { "en": "It was raining, so we stayed at home.", "tr": "Yağmur yağıyordu, bu yüzden evde kaldık.", "tk": "Ýagyş ýagýardy, şonuň üçin öýde galdyk.", "ru": "Шёл дождь, поэтому мы остались дома." }
+      ],
+      "exercises": [
+        { "question": "Choose the correct order.", "options": ["I every day drink tea.", "I drink tea every day.", "Every day tea I drink.", "I drink every day tea."], "answer": 1, "explanation": { "tr": "S-V-O-Zaman.", "tk": "S-V-O-Wagt.", "ru": "S-V-O-время." } },
+        { "question": "Choose the correct order.", "options": ["She plays very well the piano.", "She plays the piano very well.", "She very well plays the piano.", "Very well she plays the piano."], "answer": 1, "explanation": { "tr": "Fiil + nesne birlikte.", "tk": "Işlik + doldurgyç bile.", "ru": "Глагол + дополнение вместе." } },
+        { "question": "Choose the correct order.", "options": ["We met at the station yesterday our friends.", "We met our friends at the station yesterday.", "Yesterday we our friends met at the station.", "We met our friends yesterday at the station at."], "answer": 1, "explanation": { "tr": "S-V-O-Yer-Zaman.", "tk": "S-V-O-Ýer-Wagt.", "ru": "S-V-O-место-время." } },
+        { "question": "Choose the correct order.", "options": ["He usually is tired.", "He is usually tired.", "Usually he tired is.", "He is tired usually always."], "answer": 1, "explanation": { "tr": "be'den sonra zarf.", "tk": "be-den soň hal.", "ru": "Наречие после be." } },
+        { "question": "Choose the correct order.", "options": ["a red big car", "a big red car", "a car big red", "a red car big"], "answer": 1, "explanation": { "tr": "Boyut → renk.", "tk": "Ölçeg → reňk.", "ru": "Размер → цвет." } },
+        { "question": "Choose the correct order.", "options": ["an old beautiful vase", "a beautiful old vase", "a vase old beautiful", "a old beautiful vase"], "answer": 1, "explanation": { "tr": "Görüş → yaş.", "tk": "Pikir → ýaş.", "ru": "Мнение → возраст." } },
+        { "question": "Choose the correct sentence.", "options": ["I gave to her a present.", "I gave her a present.", "I gave a present her.", "I her gave a present."], "answer": 1, "explanation": { "tr": "give + kişi + şey.", "tk": "give + adam + zat.", "ru": "give + кому + что." } },
+        { "question": "I was tired, ___ I went to bed early.", "options": ["because", "so", "but", "although"], "answer": 1, "explanation": { "tr": "Sonuç → so.", "tk": "Netije → so.", "ru": "Следствие → so." } },
+        { "question": "___ it was cold, we went swimming.", "options": ["Because", "So", "Although", "And"], "answer": 2, "explanation": { "tr": "Zıtlık → Although.", "tk": "Garşylyk → Although.", "ru": "Уступка → Although." } },
+        { "question": "Choose the correct order.", "options": ["Often we go to the cinema.", "We go often to the cinema.", "We often go to the cinema.", "We go to often the cinema."], "answer": 2, "explanation": { "tr": "Zarf ana fiilden önce.", "tk": "Hal esasy işlikden öň.", "ru": "Наречие перед глаголом." } },
+        { "question": "Choose the correct order.", "options": ["She at home yesterday was.", "She was at home yesterday.", "Yesterday was she at home.", "She was yesterday at home at."], "answer": 1, "explanation": { "tr": "S-V-Yer-Zaman.", "tk": "S-V-Ýer-Wagt.", "ru": "S-V-место-время." } },
+        { "question": "Find the mistake: \"I like very much football.\"", "options": ["I like", "very much", "football", "There is no mistake"], "answer": 1, "explanation": { "tr": "I like football very much.", "tk": "I like football very much.", "ru": "I like football very much." } }
+      ]
+    }
+  }
+]

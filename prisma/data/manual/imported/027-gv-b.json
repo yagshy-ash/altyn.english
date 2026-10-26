@@ -1,0 +1,107 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Gerund and Infinitive",
+    "title": "Gerund and Infinitive: B1 Review",
+    "body": {
+      "explanation": {
+        "tr": "• Gerund (V-ing): özne olarak (Swimming is fun), edattan sonra (good at drawing), bazı fiillerden sonra: enjoy, finish, mind, avoid, suggest, keep, miss, practise, give up, can't stand\n• to-infinitive: want, need, decide, hope, plan, promise, refuse, agree, manage, afford, learn, would like; amaç (I came to help); sıfattan sonra (easy to learn)\n• Bare infinitive (to'suz): modallardan sonra (can go), let/make + nesne (Let me go.)\n• İkisini de alan: like, love, hate, start, begin\n• Anlam değiştiren: stop, remember, forget, try\n  I remember locking the door. (kilitlediğimi hatırlıyorum) / Remember to lock the door. (kilitlemeyi unutma)",
+        "tk": "• Gerund (V-ing): eýe hökmünde (Swimming is fun), sözlemden soň (good at drawing), käbir işliklerden soň: enjoy, finish, mind, avoid, suggest, keep, miss, practise, give up, can't stand\n• to-infinitive: want, need, decide, hope, plan, promise, refuse, agree, manage, afford, learn, would like; maksat (I came to help); sypatdan soň (easy to learn)\n• Bare infinitive (to-suz): modal işliklerden soň (can go), let/make + doldurgyç (Let me go.)\n• Ikisini hem alýan: like, love, hate, start, begin\n• Manysy üýtgeýän: stop, remember, forget, try\n  I remember locking the door. (gulplandygymy ýadymda) / Remember to lock the door. (gulplamagy unutma)",
+        "ru": "• Герундий (V-ing): как подлежащее (Swimming is fun), после предлогов (good at drawing), после глаголов: enjoy, finish, mind, avoid, suggest, keep, miss, practise, give up, can't stand\n• to-инфинитив: want, need, decide, hope, plan, promise, refuse, agree, manage, afford, learn, would like; цель (I came to help); после прилагательных (easy to learn)\n• Инфинитив без to: после модальных (can go), let/make + дополнение (Let me go.)\n• И то, и другое: like, love, hate, start, begin\n• Меняют смысл: stop, remember, forget, try\n  I remember locking the door. (помню, что запер) / Remember to lock the door. (не забудь запереть)"
+      },
+      "examples": [
+        { "en": "I enjoy cooking for my family.", "tr": "Ailem için yemek yapmaktan hoşlanırım.", "tk": "Maşgalam üçin nahar bişirmegi halaýaryn.", "ru": "Мне нравится готовить для семьи." },
+        { "en": "She decided to study abroad.", "tr": "Yurt dışında okumaya karar verdi.", "tk": "Ol daşary ýurtda okamak kararyna geldi.", "ru": "Она решила учиться за границей." },
+        { "en": "He's good at fixing things.", "tr": "Bir şeyleri tamir etmede iyidir.", "tk": "Ol zatlary bejermekde ökde.", "ru": "Он хорошо умеет чинить вещи." },
+        { "en": "My parents let me stay up late.", "tr": "Ailem geç saate kadar oturmama izin verir.", "tk": "Ene-atam maňa giç ýatmaga rugsat berýär.", "ru": "Родители разрешают мне поздно ложиться." },
+        { "en": "I stopped eating sugar.", "tr": "Şeker yemeyi bıraktım.", "tk": "Men şeker iýmegi taşladym.", "ru": "Я перестал есть сахар." },
+        { "en": "We stopped to buy some water.", "tr": "Su almak için durduk.", "tk": "Suw almak üçin durduk.", "ru": "Мы остановились, чтобы купить воды." }
+      ],
+      "exercises": [
+        { "question": "Do you mind ___ the door?", "options": ["close", "closing", "to close", "closed"], "answer": 1, "explanation": { "tr": "mind + -ing.", "tk": "mind + -ing.", "ru": "mind + -ing." } },
+        { "question": "They agreed ___ us.", "options": ["helping", "to help", "help", "helped"], "answer": 1, "explanation": { "tr": "agree + to.", "tk": "agree + to.", "ru": "agree + to." } },
+        { "question": "___ fast food every day is unhealthy.", "options": ["Eat", "To eating", "Eating", "Eats"], "answer": 2, "explanation": { "tr": "Özne → gerund.", "tk": "Eýe → gerund.", "ru": "Подлежащее → герундий." } },
+        { "question": "I can't afford ___ a new car.", "options": ["buying", "to buy", "buy", "bought"], "answer": 1, "explanation": { "tr": "afford + to.", "tk": "afford + to.", "ru": "afford + to." } },
+        { "question": "She's interested in ___ photos.", "options": ["take", "to take", "taking", "took"], "answer": 2, "explanation": { "tr": "Edat + -ing.", "tk": "Sözlem + -ing.", "ru": "Предлог + -ing." } },
+        { "question": "You should ___ more water.", "options": ["drink", "to drink", "drinking", "drinks"], "answer": 0, "explanation": { "tr": "Modal + yalın fiil.", "tk": "Modal + esasy işlik.", "ru": "Модальный + глагол без to." } },
+        { "question": "He went to the bank ___ some money.", "options": ["getting", "to get", "get", "for get"], "answer": 1, "explanation": { "tr": "Amaç → to.", "tk": "Maksat → to.", "ru": "Цель → to." } },
+        { "question": "I'll never forget ___ the Caspian Sea for the first time.", "options": ["to see", "seeing", "see", "saw"], "answer": 1, "explanation": { "tr": "Geçmiş anı → forget + -ing.", "tk": "Geçmiş ýatlama → forget + -ing.", "ru": "Воспоминание → forget + -ing." } },
+        { "question": "Don't forget ___ your passport!", "options": ["bringing", "to bring", "bring", "brought"], "answer": 1, "explanation": { "tr": "Yapılacak iş → forget to.", "tk": "Ediljek iş → forget to.", "ru": "Предстоящее → forget to." } },
+        { "question": "My boss made me ___ the report again.", "options": ["write", "to write", "writing", "wrote"], "answer": 0, "explanation": { "tr": "make + nesne + yalın fiil.", "tk": "make + doldurgyç + esasy işlik.", "ru": "make + дополнение + глагол без to." } },
+        { "question": "This question is difficult ___.", "options": ["answering", "to answer", "answer", "answered"], "answer": 1, "explanation": { "tr": "Sıfat + to.", "tk": "Sypat + to.", "ru": "Прилагательное + to." } },
+        { "question": "Find the mistake: \"I suggest to take a taxi.\"", "options": ["I suggest", "to take", "a taxi", "There is no mistake"], "answer": 1, "explanation": { "tr": "suggest + -ing: taking.", "tk": "suggest + -ing: taking.", "ru": "suggest + -ing: taking." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Modal Auxiliaries, Modals",
+    "title": "Modal Verbs: B1 Review",
+    "body": {
+      "explanation": {
+        "tr": "Modal fiiller + yalın fiil; -s almazlar, soruda başa gelirler.\n• can / could: yetenek, izin, rica → I can swim. Could you help me?\n• must: güçlü zorunluluk (konuşanın fikri) → I must study.\n• have to: dış zorunluluk → I have to wear a uniform.\n• mustn't: yasak → You mustn't smoke here.\n• don't have to: gerek yok → You don't have to come.\n• should / ought to: tavsiye → You should rest.\n• may / might: olasılık → It might rain.\n• Geçmiş: could, had to; çıkarım: must be (kesin öyle), can't be (kesin değil)\n  She must be tired. That can't be true.",
+        "tk": "Modal işlikler + esasy işlik; -s almaýarlar, soragda başa geçýärler.\n• can / could: başarnyk, rugsat, haýyş → I can swim. Could you help me?\n• must: güýçli hökmanylyk (gürleýäniň pikiri) → I must study.\n• have to: daşky hökmanylyk → I have to wear a uniform.\n• mustn't: gadagan → You mustn't smoke here.\n• don't have to: gerek däl → You don't have to come.\n• should / ought to: maslahat → You should rest.\n• may / might: ähtimallyk → It might rain.\n• Geçmiş: could, had to; netije çykarmak: must be (hökman şeýle), can't be (hökman beýle däl)\n  She must be tired. That can't be true.",
+        "ru": "Модальные глаголы + глагол без to; не принимают -s, в вопросе ставятся в начало.\n• can / could: умение, разрешение, просьба → I can swim. Could you help me?\n• must: сильная необходимость (мнение говорящего) → I must study.\n• have to: внешняя необходимость → I have to wear a uniform.\n• mustn't: запрет → You mustn't smoke here.\n• don't have to: не нужно → You don't have to come.\n• should / ought to: совет → You should rest.\n• may / might: вероятность → It might rain.\n• Прошлое: could, had to; вывод: must be (наверняка), can't be (не может быть)\n  She must be tired. That can't be true."
+      },
+      "examples": [
+        { "en": "Could you open the window, please?", "tr": "Pencereyi açabilir misin lütfen?", "tk": "Penjiräni açyp bilersiňmi?", "ru": "Не могли бы вы открыть окно?" },
+        { "en": "You mustn't use your phone during the exam.", "tr": "Sınav sırasında telefonunu kullanmamalısın.", "tk": "Synag wagtynda telefonyňy ulanmaly däl.", "ru": "Во время экзамена нельзя пользоваться телефоном." },
+        { "en": "You don't have to bring food. We have plenty.", "tr": "Yiyecek getirmene gerek yok. Bol bol var.", "tk": "Iýmit getirmegiň hökman däl. Bizde köp.", "ru": "Тебе не нужно приносить еду. У нас много." },
+        { "en": "She must be at home. Her car is outside.", "tr": "Evde olmalı. Arabası dışarıda.", "tk": "Ol öýde bolmaly. Maşyny daşarda.", "ru": "Она, должно быть, дома. Её машина у дома." },
+        { "en": "I had to work late yesterday.", "tr": "Dün geç saate kadar çalışmak zorunda kaldım.", "tk": "Düýn giçe çenli işlemeli boldum.", "ru": "Вчера мне пришлось работать допоздна." },
+        { "en": "It might snow tonight.", "tr": "Bu gece kar yağabilir.", "tk": "Şu gije gar ýagmagy mümkin.", "ru": "Сегодня ночью может пойти снег." }
+      ],
+      "exercises": [
+        { "question": "You ___ smoke in the hospital. It's forbidden.", "options": ["don't have to", "mustn't", "shouldn't to", "can"], "answer": 1, "explanation": { "tr": "Yasak → mustn't.", "tk": "Gadagan → mustn't.", "ru": "Запрет → mustn't." } },
+        { "question": "It's Sunday. You ___ get up early.", "options": ["mustn't", "don't have to", "can't", "haven't"], "answer": 1, "explanation": { "tr": "Gerek yok → don't have to.", "tk": "Hökman däl → don't have to.", "ru": "Не нужно → don't have to." } },
+        { "question": "___ you swim when you were five?", "options": ["Can", "Could", "Must", "Should"], "answer": 1, "explanation": { "tr": "Geçmiş yetenek → Could.", "tk": "Geçmiş başarnyk → Could.", "ru": "Умение в прошлом → Could." } },
+        { "question": "You look ill. You ___ see a doctor.", "options": ["should", "mustn't", "can't", "don't have to"], "answer": 0, "explanation": { "tr": "Tavsiye → should.", "tk": "Maslahat → should.", "ru": "Совет → should." } },
+        { "question": "He ___ be hungry. He has just eaten a big meal.", "options": ["must", "can't", "should", "has to"], "answer": 1, "explanation": { "tr": "Olamaz → can't.", "tk": "Bolup bilmez → can't.", "ru": "Не может быть → can't." } },
+        { "question": "Yesterday I ___ wait two hours for the bus.", "options": ["must", "had to", "have to", "should"], "answer": 1, "explanation": { "tr": "Geçmiş zorunluluk → had to.", "tk": "Geçmiş hökmanylyk → had to.", "ru": "Необходимость в прошлом → had to." } },
+        { "question": "Take an umbrella. It ___ rain later.", "options": ["might", "must", "can't", "has to"], "answer": 0, "explanation": { "tr": "Olasılık → might.", "tk": "Ähtimallyk → might.", "ru": "Вероятность → might." } },
+        { "question": "She ___ speak three languages.", "options": ["can", "cans", "can to", "is can"], "answer": 0, "explanation": { "tr": "Modal -s almaz.", "tk": "Modal -s almaýar.", "ru": "Модальный без -s." } },
+        { "question": "All passengers ___ wear seat belts. It's the law.", "options": ["have to", "might", "could", "don't have to"], "answer": 0, "explanation": { "tr": "Kural → have to.", "tk": "Düzgün → have to.", "ru": "Правило → have to." } },
+        { "question": "The lights are on. They ___ be at home.", "options": ["must", "can't", "mustn't", "don't have to"], "answer": 0, "explanation": { "tr": "Kesin çıkarım → must.", "tk": "Anyk netije → must.", "ru": "Уверенный вывод → must." } },
+        { "question": "___ I use your pen?", "options": ["May", "Must", "Should", "Have"], "answer": 0, "explanation": { "tr": "İzin → May.", "tk": "Rugsat → May.", "ru": "Разрешение → May." } },
+        { "question": "Find the mistake: \"You should to call your grandmother.\"", "options": ["You", "should to", "call", "your grandmother"], "answer": 1, "explanation": { "tr": "should + yalın fiil.", "tk": "should + esasy işlik.", "ru": "should + глагол без to." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Nouns",
+    "title": "Nouns: Countable, Uncountable, Plurals",
+    "body": {
+      "explanation": {
+        "tr": "• Sayılabilen isimler: tekil/çoğul olur → a chair, two chairs\n• Sayılamayan isimler: çoğul olmaz, a/an almaz → water, money, advice, information, furniture, news, luggage, bread\n  some advice (✓), an advice (✗); The news is good. (tekil)\n  Saymak için: a piece of advice, a loaf of bread, a bottle of water\n• Çoğul kuralları: -s (cats), -es (boxes, watches), y → ies (cities), f/fe → ves (knife → knives, leaf → leaves)\n• Düzensiz çoğullar: man → men, woman → women, child → children, foot → feet, tooth → teeth, mouse → mice, person → people\n• Her zaman çoğul: jeans, trousers, glasses, scissors",
+        "tk": "• Sanalýan atlar: birlik/köplük bolýar → a chair, two chairs\n• Sanalmaýan atlar: köplük bolmaýar, a/an almaýar → water, money, advice, information, furniture, news, luggage, bread\n  some advice (✓), an advice (✗); The news is good. (birlik)\n  Sanamak üçin: a piece of advice, a loaf of bread, a bottle of water\n• Köplük düzgünleri: -s (cats), -es (boxes, watches), y → ies (cities), f/fe → ves (knife → knives, leaf → leaves)\n• Nädogry köplükler: man → men, woman → women, child → children, foot → feet, tooth → teeth, mouse → mice, person → people\n• Elmydama köplük: jeans, trousers, glasses, scissors",
+        "ru": "• Исчисляемые: бывают в ед. и мн. ч. → a chair, two chairs\n• Неисчисляемые: нет мн. ч., без a/an → water, money, advice, information, furniture, news, luggage, bread\n  some advice (✓), an advice (✗); The news is good. (ед. ч.)\n  Чтобы посчитать: a piece of advice, a loaf of bread, a bottle of water\n• Множественное число: -s (cats), -es (boxes, watches), y → ies (cities), f/fe → ves (knife → knives, leaf → leaves)\n• Неправильные: man → men, woman → women, child → children, foot → feet, tooth → teeth, mouse → mice, person → people\n• Всегда во мн. ч.: jeans, trousers, glasses, scissors"
+      },
+      "examples": [
+        { "en": "Can you give me some advice?", "tr": "Bana biraz tavsiye verebilir misin?", "tk": "Maňa birneme maslahat berip bilersiňmi?", "ru": "Можешь дать мне совет?" },
+        { "en": "The news is very good.", "tr": "Haber çok iyi.", "tk": "Habar örän gowy.", "ru": "Новости очень хорошие." },
+        { "en": "Three children were playing.", "tr": "Üç çocuk oynuyordu.", "tk": "Üç çaga oýnaýardy.", "ru": "Играли трое детей." },
+        { "en": "I need a new pair of jeans.", "tr": "Yeni bir kot pantolona ihtiyacım var.", "tk": "Maňa täze jinsi balak gerek.", "ru": "Мне нужны новые джинсы." },
+        { "en": "There are many leaves on the ground.", "tr": "Yerde birçok yaprak var.", "tk": "Ýerde köp ýaprak bar.", "ru": "На земле много листьев." },
+        { "en": "We bought two loaves of bread.", "tr": "İki somun ekmek aldık.", "tk": "Biz iki çörek satyn aldyk.", "ru": "Мы купили две буханки хлеба." }
+      ],
+      "exercises": [
+        { "question": "Plural of \"knife\":", "options": ["knifes", "knives", "knifs", "knivs"], "answer": 1, "explanation": { "tr": "fe → ves.", "tk": "fe → ves.", "ru": "fe → ves." } },
+        { "question": "Plural of \"child\":", "options": ["childs", "childes", "children", "childrens"], "answer": 2, "explanation": { "tr": "Düzensiz: children.", "tk": "Nädogry: children.", "ru": "Неправильное: children." } },
+        { "question": "Plural of \"city\":", "options": ["citys", "cities", "cityes", "citis"], "answer": 1, "explanation": { "tr": "Ünsüz + y → ies.", "tk": "Çekimsiz + y → ies.", "ru": "Согласная + y → ies." } },
+        { "question": "Can I ask you for ___?", "options": ["an advice", "some advice", "advices", "a advice"], "answer": 1, "explanation": { "tr": "advice sayılamaz.", "tk": "advice sanalmaýar.", "ru": "advice неисчисляемое." } },
+        { "question": "The news ___ surprising.", "options": ["are", "is", "were", "have"], "answer": 1, "explanation": { "tr": "news tekil.", "tk": "news birlik.", "ru": "news — ед. ч." } },
+        { "question": "We need some new ___.", "options": ["furniture", "furnitures", "a furniture", "furnitures pieces"], "answer": 0, "explanation": { "tr": "furniture sayılamaz.", "tk": "furniture sanalmaýar.", "ru": "furniture неисчисляемое." } },
+        { "question": "My ___ hurt after the long walk.", "options": ["foots", "feet", "feets", "foot"], "answer": 1, "explanation": { "tr": "foot → feet.", "tk": "foot → feet.", "ru": "foot → feet." } },
+        { "question": "Where ___ my glasses?", "options": ["is", "are", "was", "has"], "answer": 1, "explanation": { "tr": "glasses hep çoğul.", "tk": "glasses elmydama köplük.", "ru": "glasses всегда во мн. ч." } },
+        { "question": "Can I have ___ water, please?", "options": ["a", "a glass of", "an", "many"], "answer": 1, "explanation": { "tr": "a glass of water.", "tk": "a glass of water.", "ru": "a glass of water." } },
+        { "question": "There ___ a lot of people at the concert.", "options": ["was", "were", "is", "has"], "answer": 1, "explanation": { "tr": "people çoğul.", "tk": "people köplük.", "ru": "people — мн. ч." } },
+        { "question": "Plural of \"box\":", "options": ["boxs", "boxes", "boxies", "box"], "answer": 1, "explanation": { "tr": "-x → -es.", "tk": "-x → -es.", "ru": "-x → -es." } },
+        { "question": "Find the mistake: \"I have many luggages.\"", "options": ["I have", "many", "luggages", "There is no mistake"], "answer": 2, "explanation": { "tr": "luggage sayılamaz: a lot of luggage.", "tk": "luggage sanalmaýar: a lot of luggage.", "ru": "luggage неисчисляемое: a lot of luggage." } }
+      ]
+    }
+  }
+]

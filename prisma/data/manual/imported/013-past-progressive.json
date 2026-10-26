@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Past Progressive: Negations in the Past Progressive",
+    "title": "Past Progressive: Negative Sentences",
+    "body": {
+      "explanation": {
+        "tr": "Past Progressive, geçmişte belli bir anda devam eden eylemleri anlatır.\nOlumsuz biçim:\n• I / he / she / it + wasn't (was not) + fiil-ing\n• you / we / they + weren't (were not) + fiil-ing\n• I wasn't sleeping at 11 pm. (Gece 11'de uyumuyordum.)\n• They weren't listening when the teacher explained it.",
+        "tk": "Past Progressive geçmişde belli bir pursatda dowam eden hereketleri aňladýar.\nÝokluk görnüşi:\n• I / he / she / it + wasn't (was not) + işlik-ing\n• you / we / they + weren't (were not) + işlik-ing\n• I wasn't sleeping at 11 pm. (Gije sagat 11-de men ýatamokdym.)\n• They weren't listening when the teacher explained it.",
+        "ru": "Past Progressive описывает действие, длившееся в определённый момент в прошлом.\nОтрицание:\n• I / he / she / it + wasn't (was not) + глагол-ing\n• you / we / they + weren't (were not) + глагол-ing\n• I wasn't sleeping at 11 pm. (В 11 вечера я не спал.)\n• They weren't listening when the teacher explained it."
+      },
+      "examples": [
+        { "en": "I wasn't working at that time.", "tr": "O sırada çalışmıyordum.", "tk": "Şol wagt men işlemeýärdim.", "ru": "В то время я не работал." },
+        { "en": "She wasn't wearing a coat.", "tr": "Palto giymiyordu.", "tk": "Ol palto geýmändi.", "ru": "Она была без пальто." },
+        { "en": "We weren't watching TV when you called.", "tr": "Aradığında televizyon izlemiyorduk.", "tk": "Sen jaň edeniňde biz telewizor görmeýärdik.", "ru": "Когда ты позвонил, мы не смотрели телевизор." },
+        { "en": "It wasn't raining in the morning.", "tr": "Sabah yağmur yağmıyordu.", "tk": "Irden ýagyş ýagmaýardy.", "ru": "Утром дождя не было." },
+        { "en": "They weren't paying attention.", "tr": "Dikkat etmiyorlardı.", "tk": "Olar üns bermeýärdiler.", "ru": "Они не были внимательны." },
+        { "en": "He wasn't driving fast.", "tr": "Hızlı sürmüyordu.", "tk": "Ol çalt sürmeýärdi.", "ru": "Он ехал не быстро." }
+      ],
+      "exercises": [
+        { "question": "I ___ sleeping when you came.", "options": ["wasn't", "weren't", "didn't", "isn't"], "answer": 0, "explanation": { "tr": "I → wasn't.", "tk": "I → wasn't.", "ru": "I → wasn't." } },
+        { "question": "They ___ playing outside at 5 pm.", "options": ["wasn't", "weren't", "didn't", "aren't"], "answer": 1, "explanation": { "tr": "they → weren't.", "tk": "they → weren't.", "ru": "they → weren't." } },
+        { "question": "She wasn't ___ to music.", "options": ["listen", "listened", "listening", "listens"], "answer": 2, "explanation": { "tr": "wasn't + -ing.", "tk": "wasn't + -ing.", "ru": "wasn't + -ing." } },
+        { "question": "We ___ talking about you!", "options": ["wasn't", "weren't", "didn't", "not"], "answer": 1, "explanation": { "tr": "we → weren't.", "tk": "we → weren't.", "ru": "we → weren't." } },
+        { "question": "It ___ snowing yesterday morning.", "options": ["weren't", "wasn't", "didn't", "isn't"], "answer": 1, "explanation": { "tr": "it → wasn't.", "tk": "it → wasn't.", "ru": "it → wasn't." } },
+        { "question": "Make it negative: \"He was reading.\"", "options": ["He didn't reading.", "He wasn't reading.", "He weren't reading.", "He not was reading."], "answer": 1, "explanation": { "tr": "was → wasn't.", "tk": "was → wasn't.", "ru": "was → wasn't." } },
+        { "question": "You ___ listening to me!", "options": ["wasn't", "weren't", "didn't", "aren't"], "answer": 1, "explanation": { "tr": "you → weren't.", "tk": "you → weren't.", "ru": "you → weren't." } },
+        { "question": "The children ___ doing their homework.", "options": ["wasn't", "weren't", "didn't", "isn't"], "answer": 1, "explanation": { "tr": "children → weren't.", "tk": "children → weren't.", "ru": "children → weren't." } },
+        { "question": "Choose the correct sentence.", "options": ["She weren't cooking.", "She wasn't cooking.", "She didn't cooking.", "She wasn't cook."], "answer": 1, "explanation": { "tr": "wasn't + cooking.", "tk": "wasn't + cooking.", "ru": "wasn't + cooking." } },
+        { "question": "Find the mistake: \"My parents wasn't sleeping.\"", "options": ["My parents", "wasn't", "sleeping", "There is no mistake"], "answer": 1, "explanation": { "tr": "parents → weren't.", "tk": "parents → weren't.", "ru": "parents → weren't." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Past Progressive: Past Progressive – Statements",
+    "title": "Past Progressive: Positive Statements",
+    "body": {
+      "explanation": {
+        "tr": "Past Progressive: was / were + fiil-ing\n• I / he / she / it → was: I was reading.\n• you / we / they → were: They were dancing.\nKullanım:\n• Geçmişte belli bir anda devam eden eylem: At 8 pm I was having dinner.\n• Uzun eylem + kısa eylem (when ile): I was walking home when it started to rain.\n• Aynı anda iki uzun eylem (while ile): While I was cooking, he was cleaning.",
+        "tk": "Past Progressive: was / were + işlik-ing\n• I / he / she / it → was: I was reading.\n• you / we / they → were: They were dancing.\nUlanylyşy:\n• Geçmişde belli bir pursatda dowam eden hereket: At 8 pm I was having dinner.\n• Uzak hereket + gysga hereket (when bilen): I was walking home when it started to rain.\n• Bir wagtda iki uzak hereket (while bilen): While I was cooking, he was cleaning.",
+        "ru": "Past Progressive: was / were + глагол-ing\n• I / he / she / it → was: I was reading.\n• you / we / they → were: They were dancing.\nУпотребление:\n• Действие в процессе в определённый момент прошлого: At 8 pm I was having dinner.\n• Длительное + короткое действие (с when): I was walking home when it started to rain.\n• Два длительных действия одновременно (с while): While I was cooking, he was cleaning."
+      },
+      "examples": [
+        { "en": "At 8 pm I was having dinner.", "tr": "Akşam 8'de akşam yemeği yiyordum.", "tk": "Agşam sagat 8-de men agşamlyk edýärdim.", "ru": "В 8 вечера я ужинал." },
+        { "en": "I was walking home when it started to rain.", "tr": "Yağmur başladığında eve yürüyordum.", "tk": "Ýagyş başlanda men öýe pyýada barýardym.", "ru": "Я шёл домой, когда начался дождь." },
+        { "en": "While I was cooking, he was cleaning.", "tr": "Ben yemek yaparken o temizlik yapıyordu.", "tk": "Men nahar bişirýärkäm, ol arassalaýardy.", "ru": "Пока я готовил, он убирался." },
+        { "en": "The children were playing in the yard.", "tr": "Çocuklar bahçede oynuyordu.", "tk": "Çagalar howluda oýnaýardylar.", "ru": "Дети играли во дворе." },
+        { "en": "It was snowing all night.", "tr": "Bütün gece kar yağıyordu.", "tk": "Bütin gije gar ýagýardy.", "ru": "Всю ночь шёл снег." },
+        { "en": "She was smiling at me.", "tr": "Bana gülümsüyordu.", "tk": "Ol maňa ýylgyrýardy.", "ru": "Она мне улыбалась." }
+      ],
+      "exercises": [
+        { "question": "At 7 o'clock I ___ breakfast.", "options": ["was having", "were having", "am having", "had having"], "answer": 0, "explanation": { "tr": "I → was + -ing.", "tk": "I → was + -ing.", "ru": "I → was + -ing." } },
+        { "question": "They ___ football when it started to rain.", "options": ["was playing", "were playing", "played were", "are playing"], "answer": 1, "explanation": { "tr": "they → were + -ing.", "tk": "they → were + -ing.", "ru": "they → were + -ing." } },
+        { "question": "She was ___ when the phone rang.", "options": ["sleep", "slept", "sleeping", "sleeps"], "answer": 2, "explanation": { "tr": "was + sleeping.", "tk": "was + sleeping.", "ru": "was + sleeping." } },
+        { "question": "While we ___ TV, the lights went out.", "options": ["were watching", "was watching", "watched", "are watching"], "answer": 0, "explanation": { "tr": "Uzun eylem → were watching.", "tk": "Uzak hereket → were watching.", "ru": "Длительное действие → were watching." } },
+        { "question": "I was reading ___ my brother was playing games.", "options": ["while", "when", "until", "after"], "answer": 0, "explanation": { "tr": "İki uzun eylem → while.", "tk": "Iki uzak hereket → while.", "ru": "Два длительных → while." } },
+        { "question": "The sun ___ and the birds were singing.", "options": ["was shining", "were shining", "shone was", "is shining"], "answer": 0, "explanation": { "tr": "sun → was + -ing.", "tk": "sun → was + -ing.", "ru": "sun → was + -ing." } },
+        { "question": "You ___ very fast. I couldn't understand you.", "options": ["was speaking", "were speaking", "speaking", "spoke were"], "answer": 1, "explanation": { "tr": "you → were.", "tk": "you → were.", "ru": "you → were." } },
+        { "question": "He ___ a shower when the doorbell rang.", "options": ["was taking", "took", "were taking", "takes"], "answer": 0, "explanation": { "tr": "Uzun eylem → was taking.", "tk": "Uzak hereket → was taking.", "ru": "Длительное → was taking." } },
+        { "question": "Choose the correct sentence.", "options": ["We was waiting for the bus.", "We were waiting for the bus.", "We were wait for the bus.", "We waiting for the bus."], "answer": 1, "explanation": { "tr": "were + waiting.", "tk": "were + waiting.", "ru": "were + waiting." } },
+        { "question": "Find the mistake: \"I were working at midnight.\"", "options": ["I", "were", "working", "at midnight"], "answer": 1, "explanation": { "tr": "I → was.", "tk": "I → was.", "ru": "I → was." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Past Progressive: Questions and short answers in the Past Progressive",
+    "title": "Past Progressive: Questions and Short Answers",
+    "body": {
+      "explanation": {
+        "tr": "Past Progressive soru: Was/Were + özne + fiil-ing?\n• Was she sleeping? Were they working?\n• Kısa cevaplar:\n  Yes, I/he/she/it was. / No, I/he/she/it wasn't.\n  Yes, you/we/they were. / No, you/we/they weren't.\n• Örnek: Were you watching TV at 9? – No, I wasn't. I was reading.",
+        "tk": "Past Progressive sorag: Was/Were + eýe + işlik-ing?\n• Was she sleeping? Were they working?\n• Gysga jogaplar:\n  Yes, I/he/she/it was. / No, I/he/she/it wasn't.\n  Yes, you/we/they were. / No, you/we/they weren't.\n• Mysal: Were you watching TV at 9? – No, I wasn't. I was reading.",
+        "ru": "Вопрос в Past Progressive: Was/Were + подлежащее + глагол-ing?\n• Was she sleeping? Were they working?\n• Краткие ответы:\n  Yes, I/he/she/it was. / No, I/he/she/it wasn't.\n  Yes, you/we/they were. / No, you/we/they weren't.\n• Пример: Were you watching TV at 9? – No, I wasn't. I was reading."
+      },
+      "examples": [
+        { "en": "Were you sleeping? – Yes, I was.", "tr": "Uyuyor muydun? – Evet.", "tk": "Ýatyrmydyň? – Hawa.", "ru": "Ты спал? – Да." },
+        { "en": "Was it raining? – No, it wasn't.", "tr": "Yağmur yağıyor muydu? – Hayır.", "tk": "Ýagyş ýagýarmydy? – Ýok.", "ru": "Шёл дождь? – Нет." },
+        { "en": "Were they studying? – Yes, they were.", "tr": "Ders mi çalışıyorlardı? – Evet.", "tk": "Olar sapak okaýarmydylar? – Hawa.", "ru": "Они занимались? – Да." },
+        { "en": "Was he driving? – No, he wasn't.", "tr": "Araba mı kullanıyordu? – Hayır.", "tk": "Ol maşyn sürýärmidi? – Ýok.", "ru": "Он был за рулём? – Нет." },
+        { "en": "Was your mum working yesterday? – Yes, she was.", "tr": "Annen dün çalışıyor muydu? – Evet.", "tk": "Ejeň düýn işleýärmidi? – Hawa.", "ru": "Твоя мама вчера работала? – Да." },
+        { "en": "Were we making too much noise? – No, you weren't.", "tr": "Çok mu gürültü yapıyorduk? – Hayır.", "tk": "Biz gaty galmagal edýärmidik? – Ýok.", "ru": "Мы слишком шумели? – Нет." }
+      ],
+      "exercises": [
+        { "question": "___ you listening?", "options": ["Was", "Were", "Did", "Are"], "answer": 1, "explanation": { "tr": "you → Were.", "tk": "you → Were.", "ru": "you → Were." } },
+        { "question": "___ she crying?", "options": ["Was", "Were", "Did", "Is"], "answer": 0, "explanation": { "tr": "she → Was.", "tk": "she → Was.", "ru": "she → Was." } },
+        { "question": "\"Were they dancing?\" – \"Yes, they ___.\"", "options": ["was", "were", "did", "are"], "answer": 1, "explanation": { "tr": "Yes, they were.", "tk": "Yes, they were.", "ru": "Yes, they were." } },
+        { "question": "\"Was he working?\" – \"No, he ___.\"", "options": ["wasn't", "weren't", "didn't", "isn't"], "answer": 0, "explanation": { "tr": "No, he wasn't.", "tk": "No, he wasn't.", "ru": "No, he wasn't." } },
+        { "question": "Were you ___ dinner at 8?", "options": ["have", "had", "having", "has"], "answer": 2, "explanation": { "tr": "Were + you + -ing.", "tk": "Were + you + -ing.", "ru": "Were + you + -ing." } },
+        { "question": "\"Was it snowing?\" – \"Yes, it ___.\"", "options": ["did", "was", "were", "is"], "answer": 1, "explanation": { "tr": "Yes, it was.", "tk": "Yes, it was.", "ru": "Yes, it was." } },
+        { "question": "\"Were you sleeping?\" – \"No, I ___.\"", "options": ["weren't", "wasn't", "didn't", "am not"], "answer": 1, "explanation": { "tr": "I → wasn't.", "tk": "I → wasn't.", "ru": "I → wasn't." } },
+        { "question": "Choose the correct question.", "options": ["Was the kids playing?", "Were the kids playing?", "Did the kids playing?", "Were the kids play?"], "answer": 1, "explanation": { "tr": "kids → Were + -ing.", "tk": "kids → Were + -ing.", "ru": "kids → Were + -ing." } },
+        { "question": "___ your father reading the newspaper?", "options": ["Was", "Were", "Did", "Do"], "answer": 0, "explanation": { "tr": "father → Was.", "tk": "father → Was.", "ru": "father → Was." } },
+        { "question": "Find the mistake: \"Did you waiting for me?\"", "options": ["Did", "you", "waiting", "for me"], "answer": 0, "explanation": { "tr": "Were you waiting?", "tk": "Were you waiting?", "ru": "Were you waiting?" } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Past Progressive: Questions in the Past Progressive",
+    "title": "Past Progressive: Wh-Questions",
+    "body": {
+      "explanation": {
+        "tr": "Soru kelimeli Past Progressive soruları:\n• Soru kelimesi + was/were + özne + fiil-ing?\n  What were you doing at 10 o'clock? Where was she going? Why were they laughing?\n• Who özne ise: Who was talking? (Kim konuşuyordu?)\n• Polis sorusu gibi: What were you doing last night at 9 pm?",
+        "tk": "Sorag sözli Past Progressive soraglary:\n• Sorag sözi + was/were + eýe + işlik-ing?\n  What were you doing at 10 o'clock? Where was she going? Why were they laughing?\n• Who eýe bolsa: Who was talking? (Kim gürleýärdi?)\n• Polisiýanyň soragy ýaly: What were you doing last night at 9 pm?",
+        "ru": "Специальные вопросы в Past Progressive:\n• Вопросительное слово + was/were + подлежащее + глагол-ing?\n  What were you doing at 10 o'clock? Where was she going? Why were they laughing?\n• Если Who — подлежащее: Who was talking? (Кто разговаривал?)\n• Как вопрос полицейского: What were you doing last night at 9 pm?"
+      },
+      "examples": [
+        { "en": "What were you doing at 10 o'clock?", "tr": "Saat 10'da ne yapıyordun?", "tk": "Sagat 10-da näme edýärdiň?", "ru": "Что ты делал в 10 часов?" },
+        { "en": "Where was she going?", "tr": "Nereye gidiyordu?", "tk": "Ol nirä barýardy?", "ru": "Куда она шла?" },
+        { "en": "Why were they laughing?", "tr": "Neden gülüyorlardı?", "tk": "Olar näme üçin gülýärdiler?", "ru": "Почему они смеялись?" },
+        { "en": "Who was talking during the test?", "tr": "Sınav sırasında kim konuşuyordu?", "tk": "Synag wagtynda kim gürleýärdi?", "ru": "Кто разговаривал во время контрольной?" },
+        { "en": "What was he wearing?", "tr": "Ne giyiyordu?", "tk": "Ol näme geýipdi?", "ru": "Во что он был одет?" },
+        { "en": "How fast were you driving?", "tr": "Ne kadar hızlı sürüyordun?", "tk": "Sen näçe çalt sürýärdiň?", "ru": "С какой скоростью ты ехал?" }
+      ],
+      "exercises": [
+        { "question": "What ___ you doing yesterday at 6 pm?", "options": ["was", "were", "did", "are"], "answer": 1, "explanation": { "tr": "you → were.", "tk": "you → were.", "ru": "you → were." } },
+        { "question": "Where ___ he going so fast?", "options": ["was", "were", "did", "is"], "answer": 0, "explanation": { "tr": "he → was.", "tk": "he → was.", "ru": "he → was." } },
+        { "question": "Why were you ___?", "options": ["cry", "cried", "crying", "cries"], "answer": 2, "explanation": { "tr": "were + crying.", "tk": "were + crying.", "ru": "were + crying." } },
+        { "question": "Who ___ playing the music so loud?", "options": ["were", "was", "did", "is"], "answer": 1, "explanation": { "tr": "Who (özne) → was.", "tk": "Who (eýe) → was.", "ru": "Who (подлежащее) → was." } },
+        { "question": "What ___ the children watching?", "options": ["was", "were", "did", "do"], "answer": 1, "explanation": { "tr": "children → were.", "tk": "children → were.", "ru": "children → were." } },
+        { "question": "Put in order: (you / were / what / thinking)", "options": ["What you were thinking?", "What were you thinking?", "Were what you thinking?", "What thinking were you?"], "answer": 1, "explanation": { "tr": "What + were + you + -ing.", "tk": "What + were + you + -ing.", "ru": "What + were + you + -ing." } },
+        { "question": "How ___ she feeling after the accident?", "options": ["was", "were", "did", "is"], "answer": 0, "explanation": { "tr": "she → was.", "tk": "she → was.", "ru": "she → was." } },
+        { "question": "Choose the correct question.", "options": ["Where were you go?", "Where were you going?", "Where did you going?", "Where was you going?"], "answer": 1, "explanation": { "tr": "Where + were + you + going.", "tk": "Where + were + you + going.", "ru": "Where + were + you + going." } },
+        { "question": "What ___ your sister cooking?", "options": ["were", "was", "did", "do"], "answer": 1, "explanation": { "tr": "sister → was.", "tk": "sister → was.", "ru": "sister → was." } },
+        { "question": "Find the mistake: \"What was they doing?\"", "options": ["What", "was", "they", "doing"], "answer": 1, "explanation": { "tr": "they → were.", "tk": "they → were.", "ru": "they → were." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Past Progressive: Sentences and questions in the Past Progressive",
+    "title": "Past Progressive: Mixed Practice",
+    "body": {
+      "explanation": {
+        "tr": "Past Progressive'in tüm biçimlerini birlikte çalış:\n• Olumlu: She was reading a book.\n• Olumsuz: She wasn't reading a book.\n• Soru: Was she reading a book?\n• Wh-soru: What was she reading?\n• Simple Past ile birlikte: She was reading when I arrived.\n  (Uzun eylem → Past Progressive, kesen kısa eylem → Simple Past)",
+        "tk": "Past Progressive-iň ähli görnüşlerini bilelikde türgenleş:\n• Tassyklaýjy: She was reading a book.\n• Ýokluk: She wasn't reading a book.\n• Sorag: Was she reading a book?\n• Wh-sorag: What was she reading?\n• Simple Past bilen bilelikde: She was reading when I arrived.\n  (Uzak hereket → Past Progressive, ony kesýän gysga hereket → Simple Past)",
+        "ru": "Тренируй все формы Past Progressive вместе:\n• Утверждение: She was reading a book.\n• Отрицание: She wasn't reading a book.\n• Вопрос: Was she reading a book?\n• Специальный вопрос: What was she reading?\n• Вместе с Simple Past: She was reading when I arrived.\n  (Длительное действие → Past Progressive, короткое прерывающее → Simple Past)"
+      },
+      "examples": [
+        { "en": "She was reading when I arrived.", "tr": "Ben geldiğimde okuyordu.", "tk": "Men gelenimde ol okaýardy.", "ru": "Когда я пришёл, она читала." },
+        { "en": "Was she reading a novel?", "tr": "Roman mı okuyordu?", "tk": "Ol roman okaýarmydy?", "ru": "Она читала роман?" },
+        { "en": "What was she reading?", "tr": "Ne okuyordu?", "tk": "Ol näme okaýardy?", "ru": "Что она читала?" },
+        { "en": "We weren't expecting visitors.", "tr": "Misafir beklemiyorduk.", "tk": "Biz myhman garaşmaýardyk.", "ru": "Мы не ждали гостей." },
+        { "en": "The phone rang while I was having a shower.", "tr": "Duş alırken telefon çaldı.", "tk": "Men suwa düşýärkäm telefon jyňňyrdady.", "ru": "Телефон зазвонил, когда я был в душе." },
+        { "en": "Were you waiting long?", "tr": "Uzun süre mi bekliyordun?", "tk": "Uzak garaşdyňmy?", "ru": "Ты долго ждал?" }
+      ],
+      "exercises": [
+        { "question": "My dad ___ (fix) the car when I came home.", "options": ["was fixing", "were fixing", "fixed was", "is fixing"], "answer": 0, "explanation": { "tr": "Uzun eylem → was fixing.", "tk": "Uzak hereket → was fixing.", "ru": "Длительное → was fixing." } },
+        { "question": "Make a question: \"They were singing.\"", "options": ["Were they singing?", "Was they singing?", "Did they singing?", "They were singing?"], "answer": 0, "explanation": { "tr": "Were + they + -ing.", "tk": "Were + they + -ing.", "ru": "Were + they + -ing." } },
+        { "question": "Make it negative: \"I was joking.\"", "options": ["I weren't joking.", "I wasn't joking.", "I didn't joking.", "I not was joking."], "answer": 1, "explanation": { "tr": "I → wasn't.", "tk": "I → wasn't.", "ru": "I → wasn't." } },
+        { "question": "While she ___ (walk) in the park, she ___ (find) a wallet.", "options": ["was walking / found", "walked / was finding", "was walking / was finding", "walked / found was"], "answer": 0, "explanation": { "tr": "Uzun: was walking; kısa: found.", "tk": "Uzak: was walking; gysga: found.", "ru": "Длительное: was walking; короткое: found." } },
+        { "question": "What ___ you ___ (do) when the lights went out?", "options": ["were / doing", "was / doing", "did / doing", "were / do"], "answer": 0, "explanation": { "tr": "What were you doing?", "tk": "What were you doing?", "ru": "What were you doing?" } },
+        { "question": "\"Was it raining when you left?\" – \"No, it ___.\"", "options": ["didn't", "wasn't", "weren't", "isn't"], "answer": 1, "explanation": { "tr": "No, it wasn't.", "tk": "No, it wasn't.", "ru": "No, it wasn't." } },
+        { "question": "I ___ (cook) and my sister ___ (set) the table.", "options": ["was cooking / was setting", "cooked / set was", "was cooking / were setting", "were cooking / was setting"], "answer": 0, "explanation": { "tr": "I → was; sister → was.", "tk": "I → was; sister → was.", "ru": "I → was; sister → was." } },
+        { "question": "They ___ (not / listen) when the teacher gave the homework.", "options": ["wasn't listening", "weren't listening", "didn't listening", "weren't listen"], "answer": 1, "explanation": { "tr": "they → weren't + -ing.", "tk": "they → weren't + -ing.", "ru": "they → weren't + -ing." } },
+        { "question": "Choose the correct sentence.", "options": ["When I was arriving, they had dinner.", "When I arrived, they were having dinner.", "When I arrived, they was having dinner.", "When I was arrive, they were having dinner."], "answer": 1, "explanation": { "tr": "Kısa: arrived; uzun: were having.", "tk": "Gysga: arrived; uzak: were having.", "ru": "Короткое: arrived; длительное: were having." } },
+        { "question": "Find the mistake: \"Were you sleep when I called?\"", "options": ["Were you", "sleep", "when I", "called"], "answer": 1, "explanation": { "tr": "sleep → sleeping.", "tk": "sleep → sleeping.", "ru": "sleep → sleeping." } }
+      ]
+    }
+  }
+]

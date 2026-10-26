@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Simple Present: Sentences and questions in the Simple Present",
+    "title": "Simple Present: Statements and Questions",
+    "body": {
+      "explanation": {
+        "tr": "Simple Present; alışkanlıklar, rutinler ve genel gerçekler için kullanılır.\n• Olumlu: I/you/we/they work. He/she/it works. (3. tekil şahısta -s/-es)\n• Olumsuz: I don't work. She doesn't work. (doesn't sonrası -s yok)\n• Soru: Do you work? Does he work?\n• Soru kelimesiyle: Where do you live? What does she like?\n• Kısa cevap: Yes, I do. / No, she doesn't.\n-es alanlar: go → goes, watch → watches, fix → fixes. y → ies: study → studies.",
+        "tk": "Simple Present endikler, gündelik işler we umumy hakykatlar üçin ulanylýar.\n• Tassyklaýjy: I/you/we/they work. He/she/it works. (3-nji ýöňkemäniň birliginde -s/-es)\n• Ýokluk: I don't work. She doesn't work. (doesn't-dan soň -s ýok)\n• Sorag: Do you work? Does he work?\n• Sorag sözi bilen: Where do you live? What does she like?\n• Gysga jogap: Yes, I do. / No, she doesn't.\n-es alýanlar: go → goes, watch → watches, fix → fixes. y → ies: study → studies.",
+        "ru": "Simple Present используется для привычек, распорядка и общих фактов.\n• Утверждение: I/you/we/they work. He/she/it works. (в 3-м лице ед. ч. -s/-es)\n• Отрицание: I don't work. She doesn't work. (после doesn't нет -s)\n• Вопрос: Do you work? Does he work?\n• С вопросительным словом: Where do you live? What does she like?\n• Краткий ответ: Yes, I do. / No, she doesn't.\nОкончание -es: go → goes, watch → watches, fix → fixes. y → ies: study → studies."
+      },
+      "examples": [
+        { "en": "My father works in a hospital.", "tr": "Babam bir hastanede çalışıyor.", "tk": "Kakam hassahanada işleýär.", "ru": "Мой отец работает в больнице." },
+        { "en": "We don't eat meat on Fridays.", "tr": "Cuma günleri et yemeyiz.", "tk": "Biz anna günleri et iýmeýäris.", "ru": "По пятницам мы не едим мясо." },
+        { "en": "Does your sister speak English?", "tr": "Kız kardeşin İngilizce konuşur mu?", "tk": "Uýaň iňlisçe gürleýärmi?", "ru": "Твоя сестра говорит по-английски?" },
+        { "en": "Where do they live?", "tr": "Nerede yaşıyorlar?", "tk": "Olar nirede ýaşaýarlar?", "ru": "Где они живут?" },
+        { "en": "She watches TV every evening.", "tr": "Her akşam televizyon izler.", "tk": "Ol her agşam telewizor görýär.", "ru": "Она смотрит телевизор каждый вечер." },
+        { "en": "Water boils at 100 degrees.", "tr": "Su 100 derecede kaynar.", "tk": "Suw 100 gradusda gaýnaýar.", "ru": "Вода кипит при 100 градусах." }
+      ],
+      "exercises": [
+        { "question": "My brother ___ football every Saturday.", "options": ["play", "plays", "playing", "is play"], "answer": 1, "explanation": { "tr": "3. tekil şahıs: plays.", "tk": "3-nji ýöňkeme birlik: plays.", "ru": "3-е лицо ед. ч.: plays." } },
+        { "question": "___ you like chocolate?", "options": ["Does", "Are", "Do", "Is"], "answer": 2, "explanation": { "tr": "you ile soru: Do.", "tk": "you bilen sorag: Do.", "ru": "Вопрос с you: Do." } },
+        { "question": "She ___ coffee in the morning.", "options": ["don't drink", "doesn't drink", "doesn't drinks", "not drinks"], "answer": 1, "explanation": { "tr": "doesn't + yalın fiil.", "tk": "doesn't + esasy işlik.", "ru": "doesn't + начальная форма." } },
+        { "question": "Where ___ your parents work?", "options": ["does", "do", "are", "is"], "answer": 1, "explanation": { "tr": "Çoğul özne → do.", "tk": "Köplük eýe → do.", "ru": "Подлежащее во мн. ч. → do." } },
+        { "question": "\"Does Tom have a bike?\" – \"Yes, he ___.\"", "options": ["do", "does", "has", "is"], "answer": 1, "explanation": { "tr": "Kısa cevap: Yes, he does.", "tk": "Gysga jogap: Yes, he does.", "ru": "Краткий ответ: Yes, he does." } },
+        { "question": "My mother ___ the dishes after dinner.", "options": ["washs", "washes", "wash", "washing"], "answer": 1, "explanation": { "tr": "-sh ile biten fiil → -es: washes.", "tk": "-sh bilen gutarýan işlik → -es: washes.", "ru": "Глагол на -sh → -es: washes." } },
+        { "question": "He ___ English at university.", "options": ["studys", "studies", "studyes", "study"], "answer": 1, "explanation": { "tr": "Ünsüz + y → ies: studies.", "tk": "Çekimsiz + y → ies: studies.", "ru": "Согласная + y → ies: studies." } },
+        { "question": "What time ___ the shop open?", "options": ["do", "does", "is", "are"], "answer": 1, "explanation": { "tr": "the shop (tekil) → does.", "tk": "the shop (birlik) → does.", "ru": "the shop (ед. ч.) → does." } },
+        { "question": "Find the mistake: \"Does she lives in Mary?\"", "options": ["Does", "she", "lives", "There is no mistake"], "answer": 2, "explanation": { "tr": "Does sonrası yalın fiil: live.", "tk": "Does-dan soň esasy işlik: live.", "ru": "После Does — начальная форма: live." } },
+        { "question": "We ___ to school by bus.", "options": ["goes", "go", "going", "are go"], "answer": 1, "explanation": { "tr": "we → yalın fiil: go.", "tk": "we → esasy işlik: go.", "ru": "we → начальная форма: go." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Simple Present: Signal words in the Simple Present",
+    "title": "Signal Words for the Simple Present",
+    "body": {
+      "explanation": {
+        "tr": "Bazı kelimeler cümlenin Simple Present olması gerektiğini gösterir (signal words):\n• Sıklık zarfları: always, usually, often, sometimes, rarely, never\n• every day / every week / every Monday\n• on Mondays, at the weekend, in the morning\n• once a week, twice a year\nSıklık zarfının yeri: ana fiilden önce, 'be' fiilinden sonra.\n• She always gets up early.\n• He is never late.\nZaman ifadeleri genellikle cümle sonunda: I visit my grandma every Sunday.",
+        "tk": "Käbir sözler sözlemiň Simple Present bolmalydygyny görkezýär (signal words):\n• Ýygylyk hallary: always, usually, often, sometimes, rarely, never\n• every day / every week / every Monday\n• on Mondays, at the weekend, in the morning\n• once a week, twice a year\nÝygylyk halynyň orny: esasy işlikden öň, 'be' işliginden soň.\n• She always gets up early.\n• He is never late.\nWagt aňlatmalary köplenç sözlemiň ahyrynda: I visit my grandma every Sunday.",
+        "ru": "Некоторые слова-маркеры подсказывают, что нужен Simple Present (signal words):\n• Наречия частоты: always, usually, often, sometimes, rarely, never\n• every day / every week / every Monday\n• on Mondays, at the weekend, in the morning\n• once a week, twice a year\nМесто наречия частоты: перед смысловым глаголом, после 'be'.\n• She always gets up early.\n• He is never late.\nВыражения времени обычно в конце: I visit my grandma every Sunday."
+      },
+      "examples": [
+        { "en": "I always drink tea for breakfast.", "tr": "Kahvaltıda her zaman çay içerim.", "tk": "Ertirlik naharynda hemişe çaý içýärin.", "ru": "Я всегда пью чай на завтрак." },
+        { "en": "She is usually at home in the evening.", "tr": "Akşamları genellikle evdedir.", "tk": "Ol agşamlaryna adatça öýde bolýar.", "ru": "Вечером она обычно дома." },
+        { "en": "We go swimming twice a week.", "tr": "Haftada iki kez yüzmeye gideriz.", "tk": "Biz hepdede iki gezek ýüzmäge gidýäris.", "ru": "Мы ходим плавать два раза в неделю." },
+        { "en": "He never eats fast food.", "tr": "Asla fast food yemez.", "tk": "Ol hiç haçan fast-fud iýmeýär.", "ru": "Он никогда не ест фастфуд." },
+        { "en": "On Sundays, my family has a big lunch.", "tr": "Pazar günleri ailem büyük bir öğle yemeği yer.", "tk": "Ýekşenbe günleri maşgalam uly günortanlyk edýär.", "ru": "По воскресеньям моя семья устраивает большой обед." },
+        { "en": "They sometimes play chess in the park.", "tr": "Bazen parkta satranç oynarlar.", "tk": "Olar käwagt seýilgähde küşt oýnaýarlar.", "ru": "Они иногда играют в шахматы в парке." }
+      ],
+      "exercises": [
+        { "question": "Which word is a signal word for the Simple Present?", "options": ["yesterday", "now", "every day", "last year"], "answer": 2, "explanation": { "tr": "every day → alışkanlık → Simple Present.", "tk": "every day → endik → Simple Present.", "ru": "every day → привычка → Simple Present." } },
+        { "question": "She ___ to the gym every Monday.", "options": ["go", "goes", "is going", "went"], "answer": 1, "explanation": { "tr": "every Monday → Simple Present: goes.", "tk": "every Monday → Simple Present: goes.", "ru": "every Monday → Simple Present: goes." } },
+        { "question": "Put the word in the correct place: \"I get up at 7.\" (usually)", "options": ["Usually I get up at 7 usually.", "I usually get up at 7.", "I get usually up at 7.", "I get up usually at 7."], "answer": 1, "explanation": { "tr": "Sıklık zarfı ana fiilden önce.", "tk": "Ýygylyk haly esasy işlikden öň.", "ru": "Наречие частоты — перед глаголом." } },
+        { "question": "Put the word in the correct place: \"He is late.\" (never)", "options": ["He never is late.", "He is never late.", "Never he is late.", "He is late never."], "answer": 1, "explanation": { "tr": "'be' fiilinden sonra: is never.", "tk": "'be' işliginden soň: is never.", "ru": "После 'be': is never." } },
+        { "question": "My grandparents ___ us once a month.", "options": ["visit", "visits", "are visiting", "visited"], "answer": 0, "explanation": { "tr": "once a month → Simple Present; çoğul özne → visit.", "tk": "once a month → Simple Present; köplük eýe → visit.", "ru": "once a month → Simple Present; мн. ч. → visit." } },
+        { "question": "We ___ eat in restaurants. We prefer cooking at home.", "options": ["often", "rarely", "always", "usually"], "answer": 1, "explanation": { "tr": "Anlam: nadiren (rarely).", "tk": "Manysy: seýrek (rarely).", "ru": "По смыслу: редко (rarely)." } },
+        { "question": "Does he ___ walk to school?", "options": ["usually", "usual", "usuals", "use"], "answer": 0, "explanation": { "tr": "Soruda zarf özneden sonra, fiilden önce.", "tk": "Soragda hal eýeden soň, işlikden öň.", "ru": "В вопросе наречие после подлежащего, перед глаголом." } },
+        { "question": "The sun ___ in the east.", "options": ["rise", "rises", "is rising", "rose"], "answer": 1, "explanation": { "tr": "Genel gerçek → Simple Present: rises.", "tk": "Umumy hakykat → Simple Present: rises.", "ru": "Общая истина → Simple Present: rises." } },
+        { "question": "Find the mistake: \"She always is happy.\"", "options": ["She", "always is", "happy", "There is no mistake"], "answer": 1, "explanation": { "tr": "'be' ile: is always.", "tk": "'be' bilen: is always.", "ru": "С 'be': is always." } },
+        { "question": "I ___ my teeth twice a day.", "options": ["brushes", "brush", "am brushing", "brushed"], "answer": 1, "explanation": { "tr": "twice a day → Simple Present; I → brush.", "tk": "twice a day → Simple Present; I → brush.", "ru": "twice a day → Simple Present; I → brush." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Simple Past: Positive statements in the Simple Past",
+    "title": "Simple Past: Positive Statements",
+    "body": {
+      "explanation": {
+        "tr": "Simple Past, geçmişte başlayıp bitmiş eylemler için kullanılır.\n• Düzenli fiiller: fiil + -ed → work → worked, play → played\n  - e ile biten: live → lived\n  - ünsüz + y: study → studied\n  - kısa ünlü + tek ünsüz: stop → stopped\n• Düzensiz fiiller ezberlenir: go → went, see → saw, eat → ate, have → had, buy → bought\n• Tüm öznelerle aynı biçim: I/he/they worked.\n• be: I/he/she/it was, you/we/they were",
+        "tk": "Simple Past geçmişde başlap gutaran hereketler üçin ulanylýar.\n• Dogry işlikler: işlik + -ed → work → worked, play → played\n  - e bilen gutarýan: live → lived\n  - çekimsiz + y: study → studied\n  - gysga çekimli + bir çekimsiz: stop → stopped\n• Nädogry işlikler ýatlanýar: go → went, see → saw, eat → ate, have → had, buy → bought\n• Ähli eýeler bilen birmeňzeş görnüş: I/he/they worked.\n• be: I/he/she/it was, you/we/they were",
+        "ru": "Simple Past используется для действий, которые начались и закончились в прошлом.\n• Правильные глаголы: глагол + -ed → work → worked, play → played\n  - на -e: live → lived\n  - согласная + y: study → studied\n  - краткая гласная + одна согласная: stop → stopped\n• Неправильные глаголы нужно выучить: go → went, see → saw, eat → ate, have → had, buy → bought\n• Форма одинакова для всех лиц: I/he/they worked.\n• be: I/he/she/it was, you/we/they were"
+      },
+      "examples": [
+        { "en": "I visited my aunt last weekend.", "tr": "Geçen hafta sonu teyzemi ziyaret ettim.", "tk": "Geçen dynç günleri daýzama baryp gördüm.", "ru": "В прошлые выходные я навестил тётю." },
+        { "en": "We went to the mountains in summer.", "tr": "Yazın dağlara gittik.", "tk": "Tomusda daglara gitdik.", "ru": "Летом мы ездили в горы." },
+        { "en": "She studied for three hours yesterday.", "tr": "Dün üç saat ders çalıştı.", "tk": "Ol düýn üç sagat okady.", "ru": "Вчера она занималась три часа." },
+        { "en": "The bus stopped in front of the school.", "tr": "Otobüs okulun önünde durdu.", "tk": "Awtobus mekdebiň öňünde saklandy.", "ru": "Автобус остановился перед школой." },
+        { "en": "They were very happy.", "tr": "Çok mutluydular.", "tk": "Olar örän bagtlydy.", "ru": "Они были очень счастливы." },
+        { "en": "He bought a new jacket.", "tr": "Yeni bir ceket aldı.", "tk": "Ol täze kurtka satyn aldy.", "ru": "Он купил новую куртку." }
+      ],
+      "exercises": [
+        { "question": "Yesterday I ___ football with my friends.", "options": ["play", "played", "plaied", "playing"], "answer": 1, "explanation": { "tr": "Ünlü + y → sadece -ed: played.", "tk": "Çekimli + y → diňe -ed: played.", "ru": "Гласная + y → просто -ed: played." } },
+        { "question": "We ___ to the cinema last night.", "options": ["goed", "went", "go", "gone"], "answer": 1, "explanation": { "tr": "go → went (düzensiz).", "tk": "go → went (nädogry).", "ru": "go → went (неправильный)." } },
+        { "question": "She ___ in London for two years.", "options": ["lived", "liveed", "lives", "livd"], "answer": 0, "explanation": { "tr": "e ile biten fiil → sadece -d: lived.", "tk": "e bilen gutarýan işlik → diňe -d: lived.", "ru": "Глагол на -e → только -d: lived." } },
+        { "question": "The car ___ at the red light.", "options": ["stoped", "stopped", "stopt", "stops"], "answer": 1, "explanation": { "tr": "Kısa ünlü + ünsüz → ünsüz ikilenir: stopped.", "tk": "Gysga çekimli + çekimsiz → çekimsiz iki esse: stopped.", "ru": "Удвоение согласной: stopped." } },
+        { "question": "I ___ a strange noise last night.", "options": ["heared", "heard", "hear", "hearded"], "answer": 1, "explanation": { "tr": "hear → heard.", "tk": "hear → heard.", "ru": "hear → heard." } },
+        { "question": "They ___ tired after the long trip.", "options": ["was", "were", "are", "be"], "answer": 1, "explanation": { "tr": "they → were.", "tk": "they → were.", "ru": "they → were." } },
+        { "question": "He ___ his homework before dinner.", "options": ["finishs", "finished", "finishd", "finish"], "answer": 1, "explanation": { "tr": "finish + -ed.", "tk": "finish + -ed.", "ru": "finish + -ed." } },
+        { "question": "My baby brother ___ all night.", "options": ["cryed", "cried", "cry", "crys"], "answer": 1, "explanation": { "tr": "Ünsüz + y → ied: cried.", "tk": "Çekimsiz + y → ied: cried.", "ru": "Согласная + y → ied: cried." } },
+        { "question": "We ___ pizza for lunch.", "options": ["eated", "ate", "eat", "eaten"], "answer": 1, "explanation": { "tr": "eat → ate.", "tk": "eat → ate.", "ru": "eat → ate." } },
+        { "question": "Find the mistake: \"Last summer I swimmed in the sea every day.\"", "options": ["Last summer", "swimmed", "in the sea", "every day"], "answer": 1, "explanation": { "tr": "swim → swam.", "tk": "swim → swam.", "ru": "swim → swam." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Simple Past: Questions and short answers in the Simple Past",
+    "title": "Simple Past: Questions and Short Answers",
+    "body": {
+      "explanation": {
+        "tr": "Simple Past'ta soru 'did' ile yapılır; fiil yalın hâle döner.\n• Did + özne + yalın fiil? → Did you see the match?\n• Kısa cevaplar: Yes, I did. / No, I didn't.\n• 'be' fiili ile did kullanılmaz: Was she at home? – Yes, she was. / No, she wasn't. Were they late? – Yes, they were.\nDikkat: Did you went? (✗) → Did you go? (✓)",
+        "tk": "Simple Past-da sorag 'did' bilen düzülýär; işlik esasy görnüşe dolanýar.\n• Did + eýe + esasy işlik? → Did you see the match?\n• Gysga jogaplar: Yes, I did. / No, I didn't.\n• 'be' işligi bilen did ulanylmaýar: Was she at home? – Yes, she was. / No, she wasn't. Were they late? – Yes, they were.\nÜns beriň: Did you went? (✗) → Did you go? (✓)",
+        "ru": "Вопросы в Simple Past строятся с 'did'; глагол возвращается в начальную форму.\n• Did + подлежащее + глагол? → Did you see the match?\n• Краткие ответы: Yes, I did. / No, I didn't.\n• С глаголом 'be' did не нужен: Was she at home? – Yes, she was. / No, she wasn't. Were they late? – Yes, they were.\nВнимание: Did you went? (✗) → Did you go? (✓)"
+      },
+      "examples": [
+        { "en": "Did you enjoy the party? – Yes, I did.", "tr": "Partiden hoşlandın mı? – Evet.", "tk": "Oturylyşyk saňa ýaradymy? – Hawa.", "ru": "Тебе понравилась вечеринка? – Да." },
+        { "en": "Did she call you? – No, she didn't.", "tr": "Seni aradı mı? – Hayır.", "tk": "Ol saňa jaň etdimi? – Ýok.", "ru": "Она тебе звонила? – Нет." },
+        { "en": "Was the film good? – Yes, it was.", "tr": "Film iyi miydi? – Evet.", "tk": "Film gowumydy? – Hawa.", "ru": "Фильм был хороший? – Да." },
+        { "en": "Were you at school yesterday? – No, I wasn't.", "tr": "Dün okulda mıydın? – Hayır.", "tk": "Düýn mekdepdemidiň? – Ýok.", "ru": "Ты вчера был в школе? – Нет." },
+        { "en": "Did they win the game? – Yes, they did.", "tr": "Maçı kazandılar mı? – Evet.", "tk": "Olar oýunda ýeňdilermi? – Hawa.", "ru": "Они выиграли игру? – Да." },
+        { "en": "Did it rain last night? – No, it didn't.", "tr": "Dün gece yağmur yağdı mı? – Hayır.", "tk": "Düýn agşam ýagyş ýagdymy? – Ýok.", "ru": "Вчера ночью шёл дождь? – Нет." }
+      ],
+      "exercises": [
+        { "question": "___ you watch the news yesterday?", "options": ["Do", "Did", "Was", "Were"], "answer": 1, "explanation": { "tr": "Geçmiş soru: Did.", "tk": "Geçmiş sorag: Did.", "ru": "Вопрос в прошлом: Did." } },
+        { "question": "Did he ___ his keys?", "options": ["found", "find", "finds", "finding"], "answer": 1, "explanation": { "tr": "Did + yalın fiil: find.", "tk": "Did + esasy işlik: find.", "ru": "Did + начальная форма: find." } },
+        { "question": "\"Did you like the book?\" – \"Yes, I ___.\"", "options": ["liked", "did", "do", "was"], "answer": 1, "explanation": { "tr": "Kısa cevap: Yes, I did.", "tk": "Gysga jogap: Yes, I did.", "ru": "Краткий ответ: Yes, I did." } },
+        { "question": "\"Did they come?\" – \"No, they ___.\"", "options": ["didn't", "don't", "weren't", "not"], "answer": 0, "explanation": { "tr": "No, they didn't.", "tk": "No, they didn't.", "ru": "No, they didn't." } },
+        { "question": "___ she at the meeting?", "options": ["Did", "Was", "Were", "Does"], "answer": 1, "explanation": { "tr": "be fiili: Was she ...?", "tk": "be işligi: Was she ...?", "ru": "Глагол be: Was she ...?" } },
+        { "question": "\"Were you tired?\" – \"Yes, I ___.\"", "options": ["did", "were", "was", "am"], "answer": 2, "explanation": { "tr": "I ile: Yes, I was.", "tk": "I bilen: Yes, I was.", "ru": "С I: Yes, I was." } },
+        { "question": "Choose the correct question.", "options": ["Did you went to the park?", "Did you go to the park?", "Went you to the park?", "Do you went to the park?"], "answer": 1, "explanation": { "tr": "Did + yalın fiil.", "tk": "Did + esasy işlik.", "ru": "Did + начальная форма." } },
+        { "question": "\"Was the test difficult?\" – \"No, it ___.\"", "options": ["didn't", "wasn't", "weren't", "isn't"], "answer": 1, "explanation": { "tr": "No, it wasn't.", "tk": "No, it wasn't.", "ru": "No, it wasn't." } },
+        { "question": "___ your parents at home last night?", "options": ["Was", "Did", "Were", "Are"], "answer": 2, "explanation": { "tr": "Çoğul özne: Were.", "tk": "Köplük eýe: Were.", "ru": "Мн. ч.: Were." } },
+        { "question": "Find the mistake: \"Did she ate breakfast?\"", "options": ["Did", "she", "ate", "There is no mistake"], "answer": 2, "explanation": { "tr": "ate → eat.", "tk": "ate → eat.", "ru": "ate → eat." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Tenses – Simple Past: Questions in the Simple Past",
+    "title": "Making Questions in the Simple Past",
+    "body": {
+      "explanation": {
+        "tr": "Bir olumlu cümleyi Simple Past soruya çevirmek için:\n1. Cümlenin başına Did koy.\n2. Fiili yalın hâle getir.\n• She cooked dinner. → Did she cook dinner?\n• They saw a whale. → Did they see a whale?\n• 'be' ile özne ve fiilin yeri değişir:\n  He was angry. → Was he angry?\n  You were there. → Were you there?\n• 'can' → could: She could swim. → Could she swim?",
+        "tk": "Tassyklaýjy sözlemi Simple Past soragyna öwürmek üçin:\n1. Sözlemiň başyna Did goý.\n2. Işligi esasy görnüşe getir.\n• She cooked dinner. → Did she cook dinner?\n• They saw a whale. → Did they see a whale?\n• 'be' bilen eýe we işligiň orny çalyşýar:\n  He was angry. → Was he angry?\n  You were there. → Were you there?\n• 'can' → could: She could swim. → Could she swim?",
+        "ru": "Чтобы превратить утверждение в вопрос в Simple Past:\n1. Поставь Did в начало.\n2. Верни глагол в начальную форму.\n• She cooked dinner. → Did she cook dinner?\n• They saw a whale. → Did they see a whale?\n• С 'be' подлежащее и глагол меняются местами:\n  He was angry. → Was he angry?\n  You were there. → Were you there?\n• 'can' → could: She could swim. → Could she swim?"
+      },
+      "examples": [
+        { "en": "He fixed the bike. → Did he fix the bike?", "tr": "Bisikleti tamir etti mi?", "tk": "Ol welosipedi bejertdimi?", "ru": "Он починил велосипед?" },
+        { "en": "You met Sara. → Did you meet Sara?", "tr": "Sara ile tanıştın mı?", "tk": "Sen Sara bilen duşuşdyňmy?", "ru": "Ты встретил Сару?" },
+        { "en": "It was cold. → Was it cold?", "tr": "Hava soğuk muydu?", "tk": "Howa sowukmydy?", "ru": "Было холодно?" },
+        { "en": "They were at the beach. → Were they at the beach?", "tr": "Plajda mıydılar?", "tk": "Olar kenardamydylar?", "ru": "Они были на пляже?" },
+        { "en": "She wrote a letter. → Did she write a letter?", "tr": "Bir mektup yazdı mı?", "tk": "Ol hat ýazdymy?", "ru": "Она написала письмо?" },
+        { "en": "He could read at four. → Could he read at four?", "tr": "Dört yaşında okuyabiliyor muydu?", "tk": "Ol dört ýaşynda okap bilýärmi?", "ru": "Он умел читать в четыре года?" }
+      ],
+      "exercises": [
+        { "question": "They played tennis. → ___ tennis?", "options": ["Did they played", "Did they play", "Played they", "Do they play"], "answer": 1, "explanation": { "tr": "Did + özne + yalın fiil.", "tk": "Did + eýe + esasy işlik.", "ru": "Did + подлежащее + начальная форма." } },
+        { "question": "She was at the party. → ___ at the party?", "options": ["Did she was", "Was she", "Did she be", "Were she"], "answer": 1, "explanation": { "tr": "be ile: Was she ...?", "tk": "be bilen: Was she ...?", "ru": "С be: Was she ...?" } },
+        { "question": "He took the train. → Did he ___ the train?", "options": ["took", "take", "takes", "taken"], "answer": 1, "explanation": { "tr": "took → take.", "tk": "took → take.", "ru": "took → take." } },
+        { "question": "You were busy. → ___ busy?", "options": ["Was you", "Were you", "Did you be", "Did you were"], "answer": 1, "explanation": { "tr": "you → Were.", "tk": "you → Were.", "ru": "you → Were." } },
+        { "question": "The children slept well. → Did the children ___ well?", "options": ["slept", "sleep", "sleeped", "sleeping"], "answer": 1, "explanation": { "tr": "slept → sleep.", "tk": "slept → sleep.", "ru": "slept → sleep." } },
+        { "question": "He could ski. → ___ ski?", "options": ["Did he could", "Could he", "Did he can", "Can he"], "answer": 1, "explanation": { "tr": "could ile: Could he ...?", "tk": "could bilen: Could he ...?", "ru": "С could: Could he ...?" } },
+        { "question": "Anna bought a dress. → Did Anna ___ a dress?", "options": ["bought", "buy", "buys", "buyed"], "answer": 1, "explanation": { "tr": "bought → buy.", "tk": "bought → buy.", "ru": "bought → buy." } },
+        { "question": "Choose the correct question.", "options": ["Did the film started at 8?", "Did the film start at 8?", "Started the film at 8?", "Was the film start at 8?"], "answer": 1, "explanation": { "tr": "Did + yalın fiil: start.", "tk": "Did + esasy işlik: start.", "ru": "Did + начальная форма: start." } },
+        { "question": "It was expensive. → ___ expensive?", "options": ["Did it", "Was it", "Were it", "Did it was"], "answer": 1, "explanation": { "tr": "be ile: Was it?", "tk": "be bilen: Was it?", "ru": "С be: Was it?" } },
+        { "question": "We had a good time. → Did we ___ a good time?", "options": ["had", "have", "has", "having"], "answer": 1, "explanation": { "tr": "had → have.", "tk": "had → have.", "ru": "had → have." } }
+      ]
+    }
+  }
+]

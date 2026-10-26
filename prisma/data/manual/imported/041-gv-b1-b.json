@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Environment, Weather",
+    "title": "Weather and the Environment",
+    "body": {
+      "explanation": {
+        "tr": "Hava durumu:\n• İsim → sıfat (-y): sun → sunny, rain → rainy, cloud → cloudy, wind → windy, fog → foggy, snow → snowy\n• Fiiller: It's raining. It snowed last night. (özne her zaman 'it')\n• Güçlü ifadeler: heavy rain (şiddetli yağmur, strong değil!), strong wind, thick fog, a light shower, boiling hot, freezing cold\n• Tahmin: It's going to rain (kanıt var), It will probably be sunny tomorrow.\nÇevre:\n• pollution (kirlilik), climate change, global warming, recycle (geri dönüştürmek), waste (atık), reduce, protect, renewable energy, endangered species\n• Fiil + isim: cut down trees, save energy, throw away rubbish, protect the environment",
+        "tk": "Howa:\n• At → sypat (-y): sun → sunny, rain → rainy, cloud → cloudy, wind → windy, fog → foggy, snow → snowy\n• Işlikler: It's raining. It snowed last night. (eýe hemişe 'it')\n• Güýçli aňlatmalar: heavy rain (güýçli ýagyş, strong däl!), strong wind, thick fog, a light shower, boiling hot, freezing cold\n• Çaklama: It's going to rain (subutnama bar), It will probably be sunny tomorrow.\nDaşky gurşaw:\n• pollution (hapalanma), climate change, global warming, recycle (gaýtadan işlemek), waste (galyndy), reduce, protect, renewable energy, endangered species\n• Işlik + at: cut down trees, save energy, throw away rubbish, protect the environment",
+        "ru": "Погода:\n• Сущ. → прил. (-y): sun → sunny, rain → rainy, cloud → cloudy, wind → windy, fog → foggy, snow → snowy\n• Глаголы: It's raining. It snowed last night. (подлежащее всегда 'it')\n• Сочетания: heavy rain (сильный дождь, не strong!), strong wind, thick fog, a light shower, boiling hot, freezing cold\n• Прогноз: It's going to rain (есть признаки), It will probably be sunny tomorrow.\nЭкология:\n• pollution (загрязнение), climate change, global warming, recycle (перерабатывать), waste (отходы), reduce, protect, renewable energy, endangered species\n• Глагол + сущ.: cut down trees, save energy, throw away rubbish, protect the environment"
+      },
+      "examples": [
+        { "en": "It's windy and cloudy today.", "tr": "Bugün rüzgârlı ve bulutlu.", "tk": "Şu gün şemally we bulutly.", "ru": "Сегодня ветрено и облачно." },
+        { "en": "There was heavy rain all night.", "tr": "Bütün gece şiddetli yağmur yağdı.", "tk": "Bütin gije güýçli ýagyş ýagdy.", "ru": "Всю ночь шёл сильный дождь." },
+        { "en": "Look at those clouds! It's going to rain.", "tr": "Şu bulutlara bak! Yağmur yağacak.", "tk": "Ol bulutlara seret! Ýagyş ýagjak.", "ru": "Посмотри на тучи! Будет дождь." },
+        { "en": "We should recycle plastic bottles.", "tr": "Plastik şişeleri geri dönüştürmeliyiz.", "tk": "Biz plastik çüýşeleri gaýtadan işlemeli.", "ru": "Нам нужно перерабатывать пластиковые бутылки." },
+        { "en": "Air pollution is a big problem in cities.", "tr": "Hava kirliliği şehirlerde büyük bir sorun.", "tk": "Howanyň hapalanmagy şäherlerde uly mesele.", "ru": "Загрязнение воздуха — большая проблема городов." },
+        { "en": "Turn off the lights to save energy.", "tr": "Enerji tasarrufu için ışıkları kapat.", "tk": "Energiýany tygşytlamak üçin çyralary öçür.", "ru": "Выключай свет, чтобы экономить энергию." }
+      ],
+      "exercises": [
+        { "question": "There was ___ rain yesterday.", "options": ["strong", "heavy", "big", "hard-working"], "answer": 1, "explanation": { "tr": "heavy rain.", "tk": "heavy rain.", "ru": "heavy rain." } },
+        { "question": "fog → adjective:", "options": ["fogy", "foggy", "fogful", "fogging"], "answer": 1, "explanation": { "tr": "g ikilenir.", "tk": "g iki esse.", "ru": "g удваивается." } },
+        { "question": "___ snowing outside.", "options": ["There is", "It's", "Is", "It has"], "answer": 1, "explanation": { "tr": "Hava → it.", "tk": "Howa → it.", "ru": "Погода → it." } },
+        { "question": "Look at the dark sky! It ___ rain.", "options": ["will", "is going to", "goes", "is raining to"], "answer": 1, "explanation": { "tr": "Kanıt var → going to.", "tk": "Subutnama bar → going to.", "ru": "Есть признаки → going to." } },
+        { "question": "We must stop ___ down the rainforests.", "options": ["cutting", "cut", "to cutting", "cuts"], "answer": 0, "explanation": { "tr": "stop + -ing.", "tk": "stop + -ing.", "ru": "stop + -ing." } },
+        { "question": "Animals that may soon disappear are ___ species.", "options": ["dangerous", "endangered", "extinct", "wild"], "answer": 1, "explanation": { "tr": "endangered = nesli tehlikede.", "tk": "endangered = ýok bolmak howpy abananlar.", "ru": "endangered = под угрозой." } },
+        { "question": "Solar and wind power are ___ energy.", "options": ["renewable", "recycled", "polluted", "wasted"], "answer": 0, "explanation": { "tr": "Yenilenebilir.", "tk": "Täzelenýän.", "ru": "Возобновляемая." } },
+        { "question": "Don't ___ plastic bags. Use them again.", "options": ["throw away", "throw up", "put on", "take after"], "answer": 0, "explanation": { "tr": "throw away = atmak.", "tk": "throw away = taşlamak.", "ru": "throw away = выбрасывать." } },
+        { "question": "It's ___ cold! Wear your gloves.", "options": ["freezing", "boiling", "heavy", "thick"], "answer": 0, "explanation": { "tr": "freezing cold = buz gibi.", "tk": "freezing cold = buz ýaly sowuk.", "ru": "freezing cold = ледяной." } },
+        { "question": "The opposite of \"increase pollution\" is ___ pollution.", "options": ["reduce", "recycle", "remove from", "repeat"], "answer": 0, "explanation": { "tr": "reduce = azaltmak.", "tk": "reduce = azaltmak.", "ru": "reduce = сокращать." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Food, Drinks",
+    "title": "Food and Drink: Countable, Uncountable and Containers",
+    "body": {
+      "explanation": {
+        "tr": "Yiyeceklerin çoğu sayılamaz: bread, rice, milk, water, sugar, cheese, meat, butter, coffee.\n• Sayılamazlarla: some/any/much/a little + ölçü kelimeleri: a loaf of bread, a slice of cheese, a glass of milk, a cup of tea, a bottle of water, a bar of chocolate, a kilo of rice, a can of cola, a packet of biscuits, a piece of cake\n• Sayılabilir: apple, egg, banana, sandwich → many / a few / how many\n• How much sugar? / How many eggs?\nPişirme fiilleri: boil (haşlamak), fry (kızartmak), bake (fırında pişirmek), roast, grill, chop (doğramak), mix\nTat: sweet, salty, sour (ekşi), bitter (acı), spicy (baharatlı/acılı)",
+        "tk": "Iýmitleriň köpüsi sanalmaýar: bread, rice, milk, water, sugar, cheese, meat, butter, coffee.\n• Sanalmaýanlar bilen: some/any/much/a little + ölçeg sözleri: a loaf of bread, a slice of cheese, a glass of milk, a cup of tea, a bottle of water, a bar of chocolate, a kilo of rice, a can of cola, a packet of biscuits, a piece of cake\n• Sanalýanlar: apple, egg, banana, sandwich → many / a few / how many\n• How much sugar? / How many eggs?\nBişirmek işlikleri: boil (gaýnatmak), fry (gowurmak), bake (peçde bişirmek), roast, grill, chop (dogramak), mix\nTagam: sweet, salty, sour (turşy), bitter (ajy), spicy (ýiti/burçly)",
+        "ru": "Большинство продуктов неисчисляемые: bread, rice, milk, water, sugar, cheese, meat, butter, coffee.\n• С неисчисляемыми: some/any/much/a little + слова-меры: a loaf of bread, a slice of cheese, a glass of milk, a cup of tea, a bottle of water, a bar of chocolate, a kilo of rice, a can of cola, a packet of biscuits, a piece of cake\n• Исчисляемые: apple, egg, banana, sandwich → many / a few / how many\n• How much sugar? / How many eggs?\nГлаголы готовки: boil (варить), fry (жарить), bake (печь), roast, grill, chop (резать), mix\nВкус: sweet, salty, sour (кислый), bitter (горький), spicy (острый)"
+      },
+      "examples": [
+        { "en": "Could I have a glass of water, please?", "tr": "Bir bardak su alabilir miyim lütfen?", "tk": "Maňa bir stakan suw berip bilersiňizmi?", "ru": "Можно стакан воды, пожалуйста?" },
+        { "en": "Buy a loaf of bread and a kilo of rice.", "tr": "Bir somun ekmek ve bir kilo pirinç al.", "tk": "Bir bölek çörek we bir kilo tüwi al.", "ru": "Купи буханку хлеба и килограмм риса." },
+        { "en": "How much sugar do you take?", "tr": "Kaç şeker alıyorsun?", "tk": "Näçe şeker salýaň?", "ru": "Сколько сахара ты кладёшь?" },
+        { "en": "There are only a few eggs left.", "tr": "Sadece birkaç yumurta kaldı.", "tk": "Diňe birnäçe ýumurtga galdy.", "ru": "Осталось всего несколько яиц." },
+        { "en": "Boil the potatoes for twenty minutes.", "tr": "Patatesleri yirmi dakika haşla.", "tk": "Kartoşkany ýigrimi minut gaýnat.", "ru": "Вари картофель двадцать минут." },
+        { "en": "This lemon is very sour.", "tr": "Bu limon çok ekşi.", "tk": "Bu limon örän turşy.", "ru": "Этот лимон очень кислый." }
+      ],
+      "exercises": [
+        { "question": "a ___ of bread", "options": ["bar", "loaf", "can", "glass"], "answer": 1, "explanation": { "tr": "loaf = somun.", "tk": "loaf = bölek.", "ru": "loaf = буханка." } },
+        { "question": "a ___ of chocolate", "options": ["bar", "slice", "loaf", "cup"], "answer": 0, "explanation": { "tr": "bar = kalıp.", "tk": "bar = plitka.", "ru": "bar = плитка." } },
+        { "question": "How ___ milk is in the fridge?", "options": ["many", "much", "few", "lot"], "answer": 1, "explanation": { "tr": "Sayılamaz → much.", "tk": "Sanalmaýan → much.", "ru": "Неисчисляемое → much." } },
+        { "question": "How ___ apples do we need?", "options": ["much", "many", "little", "lot of"], "answer": 1, "explanation": { "tr": "Sayılabilir → many.", "tk": "Sanalýan → many.", "ru": "Исчисляемое → many." } },
+        { "question": "Which is uncountable?", "options": ["egg", "banana", "rice", "sandwich"], "answer": 2, "explanation": { "tr": "rice sayılamaz.", "tk": "rice sanalmaýar.", "ru": "rice неисчисляемое." } },
+        { "question": "Can I have ___ information about the menu?", "options": ["an", "some", "many", "a few"], "answer": 1, "explanation": { "tr": "Sayılamaz → some.", "tk": "Sanalmaýan → some.", "ru": "Неисчисляемое → some." } },
+        { "question": "To cook a cake in the oven is to ___ it.", "options": ["fry", "boil", "bake", "chop"], "answer": 2, "explanation": { "tr": "bake.", "tk": "bake.", "ru": "bake." } },
+        { "question": "Coffee without sugar tastes ___.", "options": ["sweet", "bitter", "salty", "sour"], "answer": 1, "explanation": { "tr": "bitter = acı (tat).", "tk": "bitter = ajy.", "ru": "bitter = горький." } },
+        { "question": "There's ___ cheese left — just one slice.", "options": ["a little", "a few", "many", "few of"], "answer": 0, "explanation": { "tr": "Sayılamaz → a little.", "tk": "Sanalmaýan → a little.", "ru": "Неисчисляемое → a little." } },
+        { "question": "Food with a lot of chilli is ___.", "options": ["sour", "spicy", "sweet", "bitter"], "answer": 1, "explanation": { "tr": "spicy = acılı.", "tk": "spicy = ýiti.", "ru": "spicy = острый." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Free Time",
+    "title": "Free Time: Go, Play, Do and Verb Patterns",
+    "body": {
+      "explanation": {
+        "tr": "Etkinliklerde doğru fiil:\n• PLAY + top oyunları ve oyunlar: play football, play tennis, play chess, play computer games (+ enstrüman: play the guitar)\n• GO + -ing etkinlikler: go swimming, go shopping, go cycling, go fishing, go skiing\n• DO + bireysel sporlar/etkinlikler: do yoga, do karate, do exercise, do gymnastics\nSevme fiilleri + -ing: like, love, enjoy, hate, don't mind + doing: I enjoy reading.\nwould like + to: I'd like to try climbing.\nSıklık: once a week, twice a month, every weekend; I'm into… / I'm keen on… / I'm interested in + -ing",
+        "tk": "Hereketlerde dogry işlik:\n• PLAY + top oýunlary we oýunlar: play football, play tennis, play chess, play computer games (+ saz guraly: play the guitar)\n• GO + -ing hereketler: go swimming, go shopping, go cycling, go fishing, go skiing\n• DO + şahsy sport/hereketler: do yoga, do karate, do exercise, do gymnastics\nHalamak işlikleri + -ing: like, love, enjoy, hate, don't mind + doing: I enjoy reading.\nwould like + to: I'd like to try climbing.\nÝygylyk: once a week, twice a month, every weekend; I'm into… / I'm keen on… / I'm interested in + -ing",
+        "ru": "Правильный глагол с занятиями:\n• PLAY + игры с мячом и игры: play football, play tennis, play chess, play computer games (+ инструмент: play the guitar)\n• GO + занятия на -ing: go swimming, go shopping, go cycling, go fishing, go skiing\n• DO + индивидуальный спорт/занятия: do yoga, do karate, do exercise, do gymnastics\nГлаголы предпочтения + -ing: like, love, enjoy, hate, don't mind + doing: I enjoy reading.\nwould like + to: I'd like to try climbing.\nЧастотность: once a week, twice a month, every weekend; I'm into… / I'm keen on… / I'm interested in + -ing"
+      },
+      "examples": [
+        { "en": "I play tennis twice a week.", "tr": "Haftada iki kez tenis oynarım.", "tk": "Men hepdede iki gezek tennis oýnaýaryn.", "ru": "Я играю в теннис два раза в неделю." },
+        { "en": "We often go swimming in summer.", "tr": "Yazın sık sık yüzmeye gideriz.", "tk": "Tomusda biz ýygy-ýygydan ýüzmäge gidýäris.", "ru": "Летом мы часто ходим плавать." },
+        { "en": "My mother does yoga every morning.", "tr": "Annem her sabah yoga yapar.", "tk": "Ejem her irden ýoga bilen meşgullanýar.", "ru": "Мама каждое утро занимается йогой." },
+        { "en": "He enjoys playing the piano.", "tr": "Piyano çalmaktan hoşlanır.", "tk": "Ol pianino çalmagy halaýar.", "ru": "Ему нравится играть на пианино." },
+        { "en": "I'd like to learn photography.", "tr": "Fotoğrafçılık öğrenmek isterim.", "tk": "Men surat çekmegi öwrenmek isleýärin.", "ru": "Я бы хотел научиться фотографии." },
+        { "en": "She's really into reading crime novels.", "tr": "Polisiye roman okumaya bayılıyor.", "tk": "Ol detektiw romanlaryny okamagy örän halaýar.", "ru": "Она обожает читать детективы." }
+      ],
+      "exercises": [
+        { "question": "I ___ chess with my grandfather.", "options": ["do", "go", "play", "make"], "answer": 2, "explanation": { "tr": "play chess.", "tk": "play chess.", "ru": "play chess." } },
+        { "question": "Let's ___ cycling this weekend.", "options": ["play", "go", "do", "make"], "answer": 1, "explanation": { "tr": "go + -ing.", "tk": "go + -ing.", "ru": "go + -ing." } },
+        { "question": "She ___ karate at school.", "options": ["plays", "goes", "does", "makes"], "answer": 2, "explanation": { "tr": "do karate.", "tk": "do karate.", "ru": "do karate." } },
+        { "question": "He plays ___ violin.", "options": ["a", "the", "—", "an"], "answer": 1, "explanation": { "tr": "Enstrüman → the.", "tk": "Saz guraly → the.", "ru": "Инструмент → the." } },
+        { "question": "I enjoy ___ films at the weekend.", "options": ["watch", "to watch", "watching", "watched"], "answer": 2, "explanation": { "tr": "enjoy + -ing.", "tk": "enjoy + -ing.", "ru": "enjoy + -ing." } },
+        { "question": "I'd like ___ surfing one day.", "options": ["try", "to try", "trying", "tried"], "answer": 1, "explanation": { "tr": "would like + to.", "tk": "would like + to.", "ru": "would like + to." } },
+        { "question": "Are you interested ___ painting?", "options": ["on", "at", "in", "for"], "answer": 2, "explanation": { "tr": "interested in.", "tk": "interested in.", "ru": "interested in." } },
+        { "question": "We ___ fishing at the lake last Sunday.", "options": ["went", "played", "did", "made"], "answer": 0, "explanation": { "tr": "go fishing → went.", "tk": "go fishing → went.", "ru": "go fishing → went." } },
+        { "question": "I don't mind ___ the dishes.", "options": ["do", "to do", "doing", "did"], "answer": 2, "explanation": { "tr": "don't mind + -ing.", "tk": "don't mind + -ing.", "ru": "don't mind + -ing." } },
+        { "question": "I go to the gym ___ a week.", "options": ["two times of", "twice", "second", "double"], "answer": 1, "explanation": { "tr": "twice = iki kez.", "tk": "twice = iki gezek.", "ru": "twice = дважды." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Home, House",
+    "title": "Home and House: Rooms, Furniture and Chores",
+    "body": {
+      "explanation": {
+        "tr": "Ev türleri: flat (daire), detached house (müstakil ev), terraced house (sıra ev), cottage (kır evi).\nOdalar ve eşyalar: living room (sofa, armchair, carpet), kitchen (cooker, fridge, sink, cupboard), bedroom (wardrobe, chest of drawers, pillow, blanket), bathroom (bath, shower, basin, towel).\nEdatlar: IN the kitchen, ON the wall/floor/shelf, UNDER the bed, NEXT TO the window, ON the first floor, UPSTAIRS/DOWNSTAIRS.\nEv işleri (do/make): do the washing-up, do the cleaning, do the laundry, make the bed, make dinner; tidy up, vacuum, iron, take out the rubbish.\nSahiplik: rent a flat (kiralamak), move house (taşınmak), landlord (ev sahibi), neighbour.",
+        "tk": "Jaý görnüşleri: flat (kwartira), detached house (aýratyn jaý), terraced house (hatar jaý), cottage (oba jaýy).\nOtaglar we zatlar: living room (sofa, armchair, carpet), kitchen (cooker, fridge, sink, cupboard), bedroom (wardrobe, chest of drawers, pillow, blanket), bathroom (bath, shower, basin, towel).\nPredloglar: IN the kitchen, ON the wall/floor/shelf, UNDER the bed, NEXT TO the window, ON the first floor, UPSTAIRS/DOWNSTAIRS.\nÖý işleri (do/make): do the washing-up, do the cleaning, do the laundry, make the bed, make dinner; tidy up, vacuum, iron, take out the rubbish.\nEýeçilik: rent a flat (kireýine almak), move house (göçmek), landlord (jaý eýesi), neighbour.",
+        "ru": "Типы жилья: flat (квартира), detached house (отдельный дом), terraced house (таунхаус), cottage (загородный домик).\nКомнаты и мебель: living room (sofa, armchair, carpet), kitchen (cooker, fridge, sink, cupboard), bedroom (wardrobe, chest of drawers, pillow, blanket), bathroom (bath, shower, basin, towel).\nПредлоги: IN the kitchen, ON the wall/floor/shelf, UNDER the bed, NEXT TO the window, ON the first floor, UPSTAIRS/DOWNSTAIRS.\nДомашние дела (do/make): do the washing-up, do the cleaning, do the laundry, make the bed, make dinner; tidy up, vacuum, iron, take out the rubbish.\nЖильё: rent a flat (снимать), move house (переезжать), landlord (хозяин), neighbour."
+      },
+      "examples": [
+        { "en": "We live in a flat on the third floor.", "tr": "Üçüncü kattaki bir dairede yaşıyoruz.", "tk": "Biz üçünji gatdaky kwartirada ýaşaýarys.", "ru": "Мы живём в квартире на третьем этаже." },
+        { "en": "Put the milk in the fridge.", "tr": "Sütü buzdolabına koy.", "tk": "Süýdi sowadyja goý.", "ru": "Положи молоко в холодильник." },
+        { "en": "My clothes are in the wardrobe.", "tr": "Kıyafetlerim gardıropta.", "tk": "Eşiklerim şkafda.", "ru": "Моя одежда в шкафу." },
+        { "en": "I make my bed every morning.", "tr": "Her sabah yatağımı toplarım.", "tk": "Men her irden düşegimi ýygnaýaryn.", "ru": "Я заправляю кровать каждое утро." },
+        { "en": "Can you do the washing-up tonight?", "tr": "Bu akşam bulaşıkları yıkayabilir misin?", "tk": "Şu agşam gap-gaçlary ýuwup bilersiňmi?", "ru": "Можешь сегодня помыть посуду?" },
+        { "en": "They're moving house next month.", "tr": "Gelecek ay taşınıyorlar.", "tk": "Olar indiki aý göçýärler.", "ru": "Они переезжают в следующем месяце." }
+      ],
+      "exercises": [
+        { "question": "You keep clothes in a ___.", "options": ["fridge", "wardrobe", "cooker", "sink"], "answer": 1, "explanation": { "tr": "wardrobe = gardırop.", "tk": "wardrobe = eşik şkafy.", "ru": "wardrobe = шкаф." } },
+        { "question": "I ___ my bed every morning.", "options": ["do", "make", "clean", "tidy"], "answer": 1, "explanation": { "tr": "make the bed.", "tk": "make the bed.", "ru": "make the bed." } },
+        { "question": "Can you ___ the washing-up?", "options": ["make", "do", "take", "have"], "answer": 1, "explanation": { "tr": "do the washing-up.", "tk": "do the washing-up.", "ru": "do the washing-up." } },
+        { "question": "The picture is ___ the wall.", "options": ["in", "on", "at", "under"], "answer": 1, "explanation": { "tr": "Duvarda → on.", "tk": "Diwarda → on.", "ru": "На стене → on." } },
+        { "question": "A house not joined to any other house is…", "options": ["terraced", "detached", "a flat", "a block"], "answer": 1, "explanation": { "tr": "detached = müstakil.", "tk": "detached = aýratyn.", "ru": "detached = отдельный." } },
+        { "question": "You wash your hands in the ___.", "options": ["bath", "basin", "cupboard", "drawer"], "answer": 1, "explanation": { "tr": "basin = lavabo.", "tk": "basin = el ýuwulýan.", "ru": "basin = раковина." } },
+        { "question": "The bedrooms are ___. Go up the stairs.", "options": ["downstairs", "upstairs", "outside", "underground"], "answer": 1, "explanation": { "tr": "upstairs = üst kat.", "tk": "upstairs = ýokarky gat.", "ru": "upstairs = наверху." } },
+        { "question": "The person who owns the flat you rent is the ___.", "options": ["neighbour", "landlord", "tenant", "builder"], "answer": 1, "explanation": { "tr": "landlord = ev sahibi.", "tk": "landlord = jaý eýesi.", "ru": "landlord = хозяин." } },
+        { "question": "Please ___ the rubbish. The bin is full.", "options": ["take out", "take off", "take after", "take up"], "answer": 0, "explanation": { "tr": "take out = dışarı çıkarmak.", "tk": "take out = daşary çykarmak.", "ru": "take out = вынести." } },
+        { "question": "We use a ___ to cook food.", "options": ["sink", "cooker", "wardrobe", "pillow"], "answer": 1, "explanation": { "tr": "cooker = ocak.", "tk": "cooker = plita.", "ru": "cooker = плита." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Language, Proverbs",
+    "title": "Idioms and Proverbs",
+    "body": {
+      "explanation": {
+        "tr": "Atasözleri (proverbs) öğüt verir; deyimler (idioms) kelimelerin toplamından farklı bir anlam taşır.\nSık atasözleri:\n• Practice makes perfect. (Pratik mükemmelleştirir.)\n• Actions speak louder than words. (Söz değil iş önemli.)\n• Better late than never. (Geç olsun güç olmasın.)\n• Don't judge a book by its cover. (Görünüşe aldanma.)\n• The early bird catches the worm. (Erken kalkan yol alır.)\n• When in Rome, do as the Romans do. (Gittiğin yerin âdetine uy.)\nSık deyimler:\n• a piece of cake = çok kolay; break the ice = buzları kırmak; under the weather = keyifsiz/hasta; cost an arm and a leg = çok pahalı; hit the books = sıkı çalışmak; once in a blue moon = çok nadiren",
+        "tk": "Nakyllar (proverbs) maslahat berýär; idiomalar sözleriň jeminden tapawutly many aňladýar.\nKöp ulanylýan nakyllar:\n• Practice makes perfect. (Tejribe kämilleşdirýär.)\n• Actions speak louder than words. (Söz däl, iş möhüm.)\n• Better late than never. (Hiç wagt bolmandan, giç bolsun.)\n• Don't judge a book by its cover. (Daşky görnüşe aldanma.)\n• The early bird catches the worm. (Ir turan ozar.)\n• When in Rome, do as the Romans do. (Baran ýeriňiň adatyna eýer.)\nKöp ulanylýan idiomalar:\n• a piece of cake = örän aňsat; break the ice = gürrüňi başlamak; under the weather = keselli; cost an arm and a leg = örän gymmat; hit the books = yhlasly okamak; once in a blue moon = örän seýrek",
+        "ru": "Пословицы (proverbs) дают совет; идиомы имеют значение, не равное сумме слов.\nЧастые пословицы:\n• Practice makes perfect. (Повторение — мать учения.)\n• Actions speak louder than words. (Дела говорят громче слов.)\n• Better late than never. (Лучше поздно, чем никогда.)\n• Don't judge a book by its cover. (Не суди по внешности.)\n• The early bird catches the worm. (Кто рано встаёт, тому Бог подаёт.)\n• When in Rome, do as the Romans do. (В чужой монастырь со своим уставом не ходят.)\nЧастые идиомы:\n• a piece of cake = проще простого; break the ice = растопить лёд; under the weather = неважно себя чувствовать; cost an arm and a leg = стоить целое состояние; hit the books = засесть за учёбу; once in a blue moon = очень редко"
+      },
+      "examples": [
+        { "en": "The test was a piece of cake.", "tr": "Sınav çok kolaydı.", "tk": "Synag örän aňsatdy.", "ru": "Тест был проще простого." },
+        { "en": "I'm feeling a bit under the weather today.", "tr": "Bugün biraz keyifsizim.", "tk": "Şu gün özümi birneme erbet duýýaryn.", "ru": "Сегодня я неважно себя чувствую." },
+        { "en": "That car cost an arm and a leg.", "tr": "O araba çok pahalıya mal oldu.", "tk": "Ol ulag örän gymmat düşdi.", "ru": "Та машина стоила целое состояние." },
+        { "en": "Keep practising — practice makes perfect!", "tr": "Pratik yapmaya devam et, pratik mükemmelleştirir!", "tk": "Türgenleşmegi dowam et — tejribe kämilleşdirýär!", "ru": "Продолжай — повторение мать учения!" },
+        { "en": "I have exams next week, so I need to hit the books.", "tr": "Gelecek hafta sınavlarım var, sıkı çalışmam lazım.", "tk": "Indiki hepde synaglarym bar, yhlasly okamaly.", "ru": "На следующей неделе экзамены, надо засесть за учёбу." },
+        { "en": "He tells a joke to break the ice.", "tr": "Buzları kırmak için fıkra anlatır.", "tk": "Ol ilkinji ysnyşmazlygy aýyrmak üçin degişme aýdýar.", "ru": "Он рассказывает шутку, чтобы растопить лёд." }
+      ],
+      "exercises": [
+        { "question": "\"a piece of cake\" means…", "options": ["very easy", "very sweet", "a small gift", "a short break"], "answer": 0, "explanation": { "tr": "Çok kolay.", "tk": "Örän aňsat.", "ru": "Очень легко." } },
+        { "question": "\"under the weather\" means…", "options": ["outside", "a little ill", "very cold", "very happy"], "answer": 1, "explanation": { "tr": "Keyifsiz/hasta.", "tk": "Keselli.", "ru": "Нездоровится." } },
+        { "question": "Complete: \"Better late than ___.\"", "options": ["early", "never", "sorry", "tomorrow"], "answer": 1, "explanation": { "tr": "never.", "tk": "never.", "ru": "never." } },
+        { "question": "Complete: \"Actions speak louder than ___.\"", "options": ["voices", "words", "people", "songs"], "answer": 1, "explanation": { "tr": "words.", "tk": "words.", "ru": "words." } },
+        { "question": "\"once in a blue moon\" means…", "options": ["every night", "very rarely", "at midnight", "very sadly"], "answer": 1, "explanation": { "tr": "Çok nadiren.", "tk": "Örän seýrek.", "ru": "Очень редко." } },
+        { "question": "Complete: \"Don't judge a book by its ___.\"", "options": ["cover", "title", "price", "author"], "answer": 0, "explanation": { "tr": "cover = kapak.", "tk": "cover = daşy.", "ru": "cover = обложка." } },
+        { "question": "\"It cost an arm and a leg\" means it was…", "options": ["dangerous", "very expensive", "painful", "cheap"], "answer": 1, "explanation": { "tr": "Çok pahalı.", "tk": "Örän gymmat.", "ru": "Очень дорого." } },
+        { "question": "Complete: \"The early bird catches the ___.\"", "options": ["fish", "worm", "train", "sun"], "answer": 1, "explanation": { "tr": "worm = solucan.", "tk": "worm = gurçuk.", "ru": "worm = червяк." } },
+        { "question": "To \"break the ice\" means to…", "options": ["make people feel relaxed", "go skating", "be very cold", "stop a fight"], "answer": 0, "explanation": { "tr": "Ortamı yumuşatmak.", "tk": "Ýagdaýy ýumşatmak.", "ru": "Разрядить обстановку." } },
+        { "question": "Which proverb fits: \"You must follow local customs when you travel.\"", "options": ["Practice makes perfect.", "When in Rome, do as the Romans do.", "Better late than never.", "Actions speak louder than words."], "answer": 1, "explanation": { "tr": "Yerel âdetlere uy.", "tk": "Ýerli adata eýer.", "ru": "Следуй местным обычаям." } }
+      ]
+    }
+  }
+]

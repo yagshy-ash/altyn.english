@@ -1,0 +1,1220 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Pronunciation: Phonetic Transcription – In the bathroom",
+    "title": "Phonetic Symbols: In the Bathroom",
+    "body": {
+      "explanation": {
+        "tr": "Banyo kelimelerinin okunuşu:\n• /ɑː/ uzun a: /ˈbɑːθruːm/ bathroom, /bɑːθ/ bath\n• /θ/ th (sert, dil dişlerin arasında): bath, toothbrush, toothpaste\n• /uː/ uzun u: /ˈtuːθbrʌʃ/ toothbrush\n• /aʊ/: /ʃaʊə/ shower, /taʊəl/ towel\n• /əʊ/: /səʊp/ soap, /kəʊm/ comb (b okunmaz!)\n• /ɪ/: /sɪŋk/ sink\n• /ɪə/: /ˈmɪrə/ mirror",
+        "tk": "Hammam otagy sözleriniň aýdylyşy:\n• /ɑː/ uzyn a: /ˈbɑːθruːm/ bathroom, /bɑːθ/ bath\n• /θ/ th (gaty, dil dişleriň arasynda): bath, toothbrush, toothpaste\n• /uː/ uzyn u: /ˈtuːθbrʌʃ/ toothbrush\n• /aʊ/: /ʃaʊə/ shower, /taʊəl/ towel\n• /əʊ/: /səʊp/ soap, /kəʊm/ comb (b okalmaýar!)\n• /ɪ/: /sɪŋk/ sink\n• mirror /ˈmɪrə/",
+        "ru": "Произношение слов «ванная»:\n• /ɑː/ долгое а: /ˈbɑːθruːm/ bathroom, /bɑːθ/ bath\n• /θ/ твёрдое th (язык между зубами): bath, toothbrush, toothpaste\n• /uː/ долгое у: /ˈtuːθbrʌʃ/ toothbrush\n• /aʊ/: /ʃaʊə/ shower, /taʊəl/ towel\n• /əʊ/: /səʊp/ soap, /kəʊm/ comb (b не читается!)\n• /ɪ/: /sɪŋk/ sink\n• mirror /ˈmɪrə/"
+      },
+      "examples": [
+        {
+          "en": "bathroom /ˈbɑːθruːm/",
+          "tr": "banyo",
+          "tk": "hammam otagy",
+          "ru": "ванная"
+        },
+        {
+          "en": "towel /ˈtaʊəl/",
+          "tr": "havlu",
+          "tk": "süpürgiç",
+          "ru": "полотенце"
+        },
+        {
+          "en": "soap /səʊp/",
+          "tr": "sabun",
+          "tk": "sabyn",
+          "ru": "мыло"
+        },
+        {
+          "en": "comb /kəʊm/",
+          "tr": "tarak",
+          "tk": "darak",
+          "ru": "расчёска"
+        },
+        {
+          "en": "mirror /ˈmɪrə/",
+          "tr": "ayna",
+          "tk": "aýna",
+          "ru": "зеркало"
+        },
+        {
+          "en": "shower /ˈʃaʊə/",
+          "tr": "duş",
+          "tk": "duş",
+          "ru": "душ"
+        }
+      ],
+      "exercises": [
+        {
+          "question": "/səʊp/ is:",
+          "options": [
+            "soup",
+            "soap",
+            "sop",
+            "sap"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/əʊ/ → soap (soup /suːp/).",
+            "tk": "/əʊ/ → soap (soup /suːp/).",
+            "ru": "/əʊ/ → soap (soup — /suːp/)."
+          }
+        },
+        {
+          "question": "/ˈtaʊəl/ is:",
+          "options": [
+            "towel",
+            "tower",
+            "total",
+            "tool"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "towel = havlu.",
+            "tk": "towel = süpürgiç.",
+            "ru": "towel = полотенце."
+          }
+        },
+        {
+          "question": "/kəʊm/ is:",
+          "options": [
+            "come",
+            "comb",
+            "coma",
+            "calm"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "comb — b okunmaz.",
+            "tk": "comb — b okalmaýar.",
+            "ru": "comb — b не читается."
+          }
+        },
+        {
+          "question": "/bɑːθ/ is:",
+          "options": [
+            "bath",
+            "both",
+            "bat",
+            "birth"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/ɑː/ + /θ/ → bath.",
+            "tk": "/ɑː/ + /θ/ → bath.",
+            "ru": "/ɑː/ + /θ/ → bath."
+          }
+        },
+        {
+          "question": "/ˈʃaʊə/ is:",
+          "options": [
+            "shower",
+            "shower cap",
+            "show",
+            "shore"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "shower = duş.",
+            "tk": "shower = duş.",
+            "ru": "shower = душ."
+          }
+        },
+        {
+          "question": "/sɪŋk/ is:",
+          "options": [
+            "sink",
+            "think",
+            "sing",
+            "zinc"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "sink = lavabo.",
+            "tk": "sink = rakowina.",
+            "ru": "sink = раковина."
+          }
+        },
+        {
+          "question": "/ˈmɪrə/ is:",
+          "options": [
+            "mirror",
+            "mayor",
+            "mere",
+            "miner"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "mirror = ayna.",
+            "tk": "mirror = aýna.",
+            "ru": "mirror = зеркало."
+          }
+        },
+        {
+          "question": "/ˈtuːθpeɪst/ is:",
+          "options": [
+            "toothpaste",
+            "toothbrush",
+            "tooth pick",
+            "taste"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "toothpaste = diş macunu.",
+            "tk": "toothpaste = diş pastasy.",
+            "ru": "toothpaste = зубная паста."
+          }
+        },
+        {
+          "question": "Which word has the sound /θ/?",
+          "options": [
+            "bath",
+            "soap",
+            "sink",
+            "comb"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "bath → th.",
+            "tk": "bath → th.",
+            "ru": "bath → th."
+          }
+        },
+        {
+          "question": "In \"comb\", which letter is silent?",
+          "options": [
+            "c",
+            "o",
+            "m",
+            "b"
+          ],
+          "answer": 3,
+          "explanation": {
+            "tr": "b okunmaz.",
+            "tk": "b okalmaýar.",
+            "ru": "b не читается."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Pronunciation: Phonetic Transcription – In the house",
+    "title": "Phonetic Symbols: In the House",
+    "body": {
+      "explanation": {
+        "tr": "Ev eşyalarının okunuşu:\n• /aʊ/: /haʊs/ house\n• /ɪ/: /ˈkɪtʃɪn/ kitchen\n• /ɔː/: /dɔː/ door, /flɔː/ floor, /ˈdrɔːə/ drawer\n• /eɪ/: /ˈteɪbl/ table\n• /eə/: /tʃeə/ chair, /steəz/ stairs\n• /əʊ/: /ˈsəʊfə/ sofa, /ˈwɪndəʊ/ window\n• /ʊ/ kısa u: /ˈkʊkə/ cooker\n• wardrobe /ˈwɔːdrəʊb/",
+        "tk": "Öý goşlarynyň aýdylyşy:\n• /aʊ/: /haʊs/ house\n• /ɪ/: /ˈkɪtʃɪn/ kitchen\n• /ɔː/: /dɔː/ door, /flɔː/ floor, /ˈdrɔːə/ drawer\n• /eɪ/: /ˈteɪbl/ table\n• /eə/: /tʃeə/ chair, /steəz/ stairs\n• /əʊ/: /ˈsəʊfə/ sofa, /ˈwɪndəʊ/ window\n• /ʊ/ gysga u: /ˈkʊkə/ cooker\n• wardrobe /ˈwɔːdrəʊb/",
+        "ru": "Произношение слов «дом»:\n• /aʊ/: /haʊs/ house\n• /ɪ/: /ˈkɪtʃɪn/ kitchen\n• /ɔː/: /dɔː/ door, /flɔː/ floor, /ˈdrɔːə/ drawer\n• /eɪ/: /ˈteɪbl/ table\n• /eə/: /tʃeə/ chair, /steəz/ stairs\n• /əʊ/: /ˈsəʊfə/ sofa, /ˈwɪndəʊ/ window\n• /ʊ/ краткое у: /ˈkʊkə/ cooker\n• wardrobe /ˈwɔːdrəʊb/"
+      },
+      "examples": [
+        {
+          "en": "house /haʊs/",
+          "tr": "ev",
+          "tk": "jaý",
+          "ru": "дом"
+        },
+        {
+          "en": "kitchen /ˈkɪtʃɪn/",
+          "tr": "mutfak",
+          "tk": "aşhana",
+          "ru": "кухня"
+        },
+        {
+          "en": "door /dɔː/",
+          "tr": "kapı",
+          "tk": "gapy",
+          "ru": "дверь"
+        },
+        {
+          "en": "chair /tʃeə/",
+          "tr": "sandalye",
+          "tk": "oturgyç",
+          "ru": "стул"
+        },
+        {
+          "en": "window /ˈwɪndəʊ/",
+          "tr": "pencere",
+          "tk": "penjire",
+          "ru": "окно"
+        },
+        {
+          "en": "sofa /ˈsəʊfə/",
+          "tr": "kanepe",
+          "tk": "diwan",
+          "ru": "диван"
+        }
+      ],
+      "exercises": [
+        {
+          "question": "/haʊs/ is:",
+          "options": [
+            "horse",
+            "house",
+            "hose",
+            "his"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/aʊ/ → house.",
+            "tk": "/aʊ/ → house.",
+            "ru": "/aʊ/ → house."
+          }
+        },
+        {
+          "question": "/ˈkɪtʃɪn/ is:",
+          "options": [
+            "chicken",
+            "kitchen",
+            "kitten",
+            "cushion"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "kitchen = mutfak.",
+            "tk": "kitchen = aşhana.",
+            "ru": "kitchen = кухня."
+          }
+        },
+        {
+          "question": "/dɔː/ is:",
+          "options": [
+            "door",
+            "do",
+            "dog",
+            "dare"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/ɔː/ → door.",
+            "tk": "/ɔː/ → door.",
+            "ru": "/ɔː/ → door."
+          }
+        },
+        {
+          "question": "/tʃeə/ is:",
+          "options": [
+            "cheer",
+            "chair",
+            "share",
+            "chore"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/eə/ → chair.",
+            "tk": "/eə/ → chair.",
+            "ru": "/eə/ → chair."
+          }
+        },
+        {
+          "question": "/ˈteɪbl/ is:",
+          "options": [
+            "tablet",
+            "table",
+            "tickle",
+            "title"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/eɪ/ → table.",
+            "tk": "/eɪ/ → table.",
+            "ru": "/eɪ/ → table."
+          }
+        },
+        {
+          "question": "/ˈwɪndəʊ/ is:",
+          "options": [
+            "widow",
+            "window",
+            "windy",
+            "wonder"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "window.",
+            "tk": "window.",
+            "ru": "window."
+          }
+        },
+        {
+          "question": "/flɔː/ is:",
+          "options": [
+            "flower",
+            "floor",
+            "flour",
+            "flow"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "floor = zemin.",
+            "tk": "floor = pol.",
+            "ru": "floor = пол."
+          }
+        },
+        {
+          "question": "/ˈsəʊfə/ is:",
+          "options": [
+            "sofa",
+            "soft",
+            "safer",
+            "sofia"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "sofa = kanepe.",
+            "tk": "sofa = diwan.",
+            "ru": "sofa = диван."
+          }
+        },
+        {
+          "question": "/steəz/ is:",
+          "options": [
+            "stars",
+            "stairs",
+            "stores",
+            "steers"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "stairs = merdiven.",
+            "tk": "stairs = basgançak.",
+            "ru": "stairs = лестница."
+          }
+        },
+        {
+          "question": "/ˈwɔːdrəʊb/ is:",
+          "options": [
+            "wardrobe",
+            "warm robe",
+            "word",
+            "wardrob"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "wardrobe = gardırop.",
+            "tk": "wardrobe = şkaf.",
+            "ru": "wardrobe = шкаф."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Pronunciation: Phonetic Transcription – Numbers",
+    "title": "Phonetic Symbols: Numbers",
+    "body": {
+      "explanation": {
+        "tr": "Sayıların okunuşu:\n• one /wʌn/ (w ile başlar!), two /tuː/, three /θriː/, four /fɔː/, five /faɪv/\n• six /sɪks/, seven /ˈsevn/, eight /eɪt/ (gh okunmaz), nine /naɪn/, ten /ten/\n• 13–19 vurgu sonda: thirTEEN /ˌθɜːˈtiːn/; 30–90 vurgu başta: THIRty /ˈθɜːti/\n  fifteen /ˌfɪfˈtiːn/ ↔ fifty /ˈfɪfti/\n• /θ/: three, thirteen, thirty, thousand /ˈθaʊznd/\n• hundred /ˈhʌndrəd/",
+        "tk": "Sanlaryň aýdylyşy:\n• one /wʌn/ (w bilen başlanýar!), two /tuː/, three /θriː/, four /fɔː/, five /faɪv/\n• six /sɪks/, seven /ˈsevn/, eight /eɪt/ (gh okalmaýar), nine /naɪn/, ten /ten/\n• 13–19 basym ahyrda: thirTEEN /ˌθɜːˈtiːn/; 30–90 basym başda: THIRty /ˈθɜːti/\n  fifteen /ˌfɪfˈtiːn/ ↔ fifty /ˈfɪfti/\n• /θ/: three, thirteen, thirty, thousand /ˈθaʊznd/\n• hundred /ˈhʌndrəd/",
+        "ru": "Произношение чисел:\n• one /wʌn/ (начинается с w!), two /tuː/, three /θriː/, four /fɔː/, five /faɪv/\n• six /sɪks/, seven /ˈsevn/, eight /eɪt/ (gh не читается), nine /naɪn/, ten /ten/\n• 13–19 ударение в конце: thirTEEN /ˌθɜːˈtiːn/; 30–90 — в начале: THIRty /ˈθɜːti/\n  fifteen /ˌfɪfˈtiːn/ ↔ fifty /ˈfɪfti/\n• /θ/: three, thirteen, thirty, thousand /ˈθaʊznd/\n• hundred /ˈhʌndrəd/"
+      },
+      "examples": [
+        {
+          "en": "one /wʌn/",
+          "tr": "bir",
+          "tk": "bir",
+          "ru": "один"
+        },
+        {
+          "en": "three /θriː/",
+          "tr": "üç",
+          "tk": "üç",
+          "ru": "три"
+        },
+        {
+          "en": "eight /eɪt/",
+          "tr": "sekiz",
+          "tk": "sekiz",
+          "ru": "восемь"
+        },
+        {
+          "en": "fifteen /ˌfɪfˈtiːn/",
+          "tr": "on beş",
+          "tk": "on bäş",
+          "ru": "пятнадцать"
+        },
+        {
+          "en": "fifty /ˈfɪfti/",
+          "tr": "elli",
+          "tk": "elli",
+          "ru": "пятьдесят"
+        },
+        {
+          "en": "thousand /ˈθaʊznd/",
+          "tr": "bin",
+          "tk": "müň",
+          "ru": "тысяча"
+        }
+      ],
+      "exercises": [
+        {
+          "question": "/wʌn/ is:",
+          "options": [
+            "one",
+            "won't",
+            "when",
+            "win"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "one = 1 (won da aynı okunur).",
+            "tk": "one = 1 (won hem şeýle okalýar).",
+            "ru": "one = 1 (won звучит так же)."
+          }
+        },
+        {
+          "question": "/θriː/ is:",
+          "options": [
+            "tree",
+            "three",
+            "free",
+            "thirty"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/θ/ → three.",
+            "tk": "/θ/ → three.",
+            "ru": "/θ/ → three."
+          }
+        },
+        {
+          "question": "/eɪt/ is:",
+          "options": [
+            "eight",
+            "eat",
+            "it",
+            "aid"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "eight = 8.",
+            "tk": "eight = 8.",
+            "ru": "eight = 8."
+          }
+        },
+        {
+          "question": "/ˌfɪfˈtiːn/ is:",
+          "options": [
+            "fifty",
+            "fifteen",
+            "fifth",
+            "fifteenth"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "Vurgu sonda → 15.",
+            "tk": "Basym ahyrda → 15.",
+            "ru": "Ударение в конце → 15."
+          }
+        },
+        {
+          "question": "/ˈfɪfti/ is:",
+          "options": [
+            "fifty",
+            "fifteen",
+            "fifth",
+            "fifties"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "Vurgu başta → 50.",
+            "tk": "Basym başda → 50.",
+            "ru": "Ударение в начале → 50."
+          }
+        },
+        {
+          "question": "/fɔː/ is:",
+          "options": [
+            "for / four",
+            "far",
+            "fur",
+            "fire"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "four = for (sesteş).",
+            "tk": "four = for (sesdeş).",
+            "ru": "four = for (омофоны)."
+          }
+        },
+        {
+          "question": "/ˈhʌndrəd/ is:",
+          "options": [
+            "hundred",
+            "hunted",
+            "hungry",
+            "handed"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "hundred = yüz.",
+            "tk": "hundred = ýüz.",
+            "ru": "hundred = сто."
+          }
+        },
+        {
+          "question": "/ˈsevn/ is:",
+          "options": [
+            "seven",
+            "seventy",
+            "several",
+            "sieve"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "seven = 7.",
+            "tk": "seven = 7.",
+            "ru": "seven = 7."
+          }
+        },
+        {
+          "question": "Where is the stress in \"thirteen\"?",
+          "options": [
+            "THIR-teen",
+            "thir-TEEN",
+            "no stress",
+            "on both equally"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "-teen vurgulu.",
+            "tk": "-teen basymly.",
+            "ru": "Ударный слог -teen."
+          }
+        },
+        {
+          "question": "/ˈθaʊznd/ is:",
+          "options": [
+            "thousand",
+            "thousands",
+            "trousers",
+            "thirsty"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "thousand = bin.",
+            "tk": "thousand = müň.",
+            "ru": "thousand = тысяча."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Pronunciation: Phonetic Transcription – Parts of the body",
+    "title": "Phonetic Symbols: Parts of the Body",
+    "body": {
+      "explanation": {
+        "tr": "Vücut bölümlerinin okunuşu:\n• /e/: /hed/ head\n• /ɪə/: /ɪə/ ear\n• /aɪ/: /aɪ/ eye\n• /əʊ/: /nəʊz/ nose, /təʊ/ toe, /ˈʃəʊldə/ shoulder\n• /aʊ/: /maʊθ/ mouth\n• /ɑː/: /ɑːm/ arm, /hɑːt/ heart\n• /æ/: /hænd/ hand, /bæk/ back\n• Okunmayan harfler: knee /niː/ (k), thumb /θʌm/ (b), stomach /ˈstʌmək/ (ch = k)",
+        "tk": "Beden agzalarynyň aýdylyşy:\n• /e/: /hed/ head\n• /ɪə/: /ɪə/ ear\n• /aɪ/: /aɪ/ eye\n• /əʊ/: /nəʊz/ nose, /təʊ/ toe, /ˈʃəʊldə/ shoulder\n• /aʊ/: /maʊθ/ mouth\n• /ɑː/: /ɑːm/ arm, /hɑːt/ heart\n• /æ/: /hænd/ hand, /bæk/ back\n• Okalmaýan harplar: knee /niː/ (k), thumb /θʌm/ (b), stomach /ˈstʌmək/ (ch = k)",
+        "ru": "Произношение частей тела:\n• /e/: /hed/ head\n• /ɪə/: /ɪə/ ear\n• /aɪ/: /aɪ/ eye\n• /əʊ/: /nəʊz/ nose, /təʊ/ toe, /ˈʃəʊldə/ shoulder\n• /aʊ/: /maʊθ/ mouth\n• /ɑː/: /ɑːm/ arm, /hɑːt/ heart\n• /æ/: /hænd/ hand, /bæk/ back\n• Немые буквы: knee /niː/ (k), thumb /θʌm/ (b), stomach /ˈstʌmək/ (ch = к)"
+      },
+      "examples": [
+        {
+          "en": "head /hed/",
+          "tr": "baş",
+          "tk": "kelle",
+          "ru": "голова"
+        },
+        {
+          "en": "eye /aɪ/",
+          "tr": "göz",
+          "tk": "göz",
+          "ru": "глаз"
+        },
+        {
+          "en": "mouth /maʊθ/",
+          "tr": "ağız",
+          "tk": "agyz",
+          "ru": "рот"
+        },
+        {
+          "en": "knee /niː/",
+          "tr": "diz",
+          "tk": "dyz",
+          "ru": "колено"
+        },
+        {
+          "en": "shoulder /ˈʃəʊldə/",
+          "tr": "omuz",
+          "tk": "egin",
+          "ru": "плечо"
+        },
+        {
+          "en": "stomach /ˈstʌmək/",
+          "tr": "mide/karın",
+          "tk": "garyn",
+          "ru": "живот"
+        }
+      ],
+      "exercises": [
+        {
+          "question": "/hed/ is:",
+          "options": [
+            "head",
+            "had",
+            "heard",
+            "hid"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "head = baş.",
+            "tk": "head = kelle.",
+            "ru": "head = голова."
+          }
+        },
+        {
+          "question": "/aɪ/ is:",
+          "options": [
+            "ear",
+            "eye",
+            "air",
+            "oh"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "eye = göz (I ile aynı okunur).",
+            "tk": "eye = göz (I bilen birmeňzeş okalýar).",
+            "ru": "eye = глаз (звучит как I)."
+          }
+        },
+        {
+          "question": "/ɪə/ is:",
+          "options": [
+            "ear",
+            "eye",
+            "air",
+            "year"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "ear = kulak.",
+            "tk": "ear = gulak.",
+            "ru": "ear = ухо."
+          }
+        },
+        {
+          "question": "/maʊθ/ is:",
+          "options": [
+            "mouse",
+            "mouth",
+            "month",
+            "moth"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "/aʊ/ + /θ/ → mouth.",
+            "tk": "/aʊ/ + /θ/ → mouth.",
+            "ru": "/aʊ/ + /θ/ → mouth."
+          }
+        },
+        {
+          "question": "/nəʊz/ is:",
+          "options": [
+            "nose",
+            "knows / nose",
+            "noise",
+            "news"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "nose = knows (sesteş).",
+            "tk": "nose = knows (sesdeş).",
+            "ru": "nose = knows (омофоны)."
+          }
+        },
+        {
+          "question": "/niː/ is:",
+          "options": [
+            "knee",
+            "nine",
+            "near",
+            "new"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "knee — k okunmaz.",
+            "tk": "knee — k okalmaýar.",
+            "ru": "knee — k не читается."
+          }
+        },
+        {
+          "question": "/hænd/ is:",
+          "options": [
+            "hand",
+            "head",
+            "hint",
+            "hound"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/æ/ → hand.",
+            "tk": "/æ/ → hand.",
+            "ru": "/æ/ → hand."
+          }
+        },
+        {
+          "question": "/ɑːm/ is:",
+          "options": [
+            "arm",
+            "am",
+            "aim",
+            "harm"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "arm = kol.",
+            "tk": "arm = gol.",
+            "ru": "arm = рука (от плеча)."
+          }
+        },
+        {
+          "question": "/θʌm/ is:",
+          "options": [
+            "thumb",
+            "thump",
+            "tum",
+            "theme"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "thumb — b okunmaz.",
+            "tk": "thumb — b okalmaýar.",
+            "ru": "thumb — b не читается."
+          }
+        },
+        {
+          "question": "/hɑːt/ is:",
+          "options": [
+            "hat",
+            "heart",
+            "hurt",
+            "heat"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "heart = kalp.",
+            "tk": "heart = ýürek.",
+            "ru": "heart = сердце."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Pronunciation: Phonetic Transcription – Vegetables",
+    "title": "Phonetic Symbols: Vegetables",
+    "body": {
+      "explanation": {
+        "tr": "Sebzelerin okunuşu:\n• /ˈvedʒtəbl/ vegetable — 4 değil 3 hece: VEG-ta-ble\n• /ə/: /ˈkærət/ carrot, /pəˈteɪtəʊ/ potato, /təˈmɑːtəʊ/ tomato\n• /ʌ/: /ˈʌnjən/ onion, /ˈkjuːkʌmbə/ cucumber\n• /æ/: /ˈkæbɪdʒ/ cabbage\n• /iː/: /piːz/ peas, /biːnz/ beans\n• /ɑː/: /ˈɡɑːlɪk/ garlic\n• /ʌ/ + /ʃ/: /ˈmʌʃrʊm/ mushroom",
+        "tk": "Gök önümleriň aýdylyşy:\n• /ˈvedʒtəbl/ vegetable — 4 däl, 3 bogun: VEG-ta-ble\n• /ə/: /ˈkærət/ carrot, /pəˈteɪtəʊ/ potato, /təˈmɑːtəʊ/ tomato\n• /ʌ/: /ˈʌnjən/ onion, /ˈkjuːkʌmbə/ cucumber\n• /æ/: /ˈkæbɪdʒ/ cabbage\n• /iː/: /piːz/ peas, /biːnz/ beans\n• /ɑː/: /ˈɡɑːlɪk/ garlic\n• /ʌ/ + /ʃ/: /ˈmʌʃrʊm/ mushroom",
+        "ru": "Произношение овощей:\n• /ˈvedʒtəbl/ vegetable — 3 слога, а не 4: VEG-ta-ble\n• /ə/: /ˈkærət/ carrot, /pəˈteɪtəʊ/ potato, /təˈmɑːtəʊ/ tomato\n• /ʌ/: /ˈʌnjən/ onion, /ˈkjuːkʌmbə/ cucumber\n• /æ/: /ˈkæbɪdʒ/ cabbage\n• /iː/: /piːz/ peas, /biːnz/ beans\n• /ɑː/: /ˈɡɑːlɪk/ garlic\n• /ʌ/ + /ʃ/: /ˈmʌʃrʊm/ mushroom"
+      },
+      "examples": [
+        {
+          "en": "carrot /ˈkærət/",
+          "tr": "havuç",
+          "tk": "käşir",
+          "ru": "морковь"
+        },
+        {
+          "en": "potato /pəˈteɪtəʊ/",
+          "tr": "patates",
+          "tk": "kartoşka",
+          "ru": "картофель"
+        },
+        {
+          "en": "onion /ˈʌnjən/",
+          "tr": "soğan",
+          "tk": "sogan",
+          "ru": "лук"
+        },
+        {
+          "en": "cucumber /ˈkjuːkʌmbə/",
+          "tr": "salatalık",
+          "tk": "hyýar",
+          "ru": "огурец"
+        },
+        {
+          "en": "cabbage /ˈkæbɪdʒ/",
+          "tr": "lahana",
+          "tk": "kelem",
+          "ru": "капуста"
+        },
+        {
+          "en": "garlic /ˈɡɑːlɪk/",
+          "tr": "sarımsak",
+          "tk": "sarymsak",
+          "ru": "чеснок"
+        }
+      ],
+      "exercises": [
+        {
+          "question": "/ˈkærət/ is:",
+          "options": [
+            "carrot",
+            "carat",
+            "correct",
+            "carry"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "carrot = havuç.",
+            "tk": "carrot = käşir.",
+            "ru": "carrot = морковь."
+          }
+        },
+        {
+          "question": "/ˈʌnjən/ is:",
+          "options": [
+            "onion",
+            "union",
+            "opinion",
+            "unknown"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "onion — o harfi /ʌ/ okunur.",
+            "tk": "onion — o harpy /ʌ/ okalýar.",
+            "ru": "onion — o читается как /ʌ/."
+          }
+        },
+        {
+          "question": "/pəˈteɪtəʊ/ is:",
+          "options": [
+            "potato",
+            "tomato",
+            "pottery",
+            "potter"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "potato.",
+            "tk": "potato.",
+            "ru": "potato."
+          }
+        },
+        {
+          "question": "/ˈkæbɪdʒ/ is:",
+          "options": [
+            "cabbage",
+            "cabin",
+            "garbage",
+            "carriage"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "cabbage = lahana.",
+            "tk": "cabbage = kelem.",
+            "ru": "cabbage = капуста."
+          }
+        },
+        {
+          "question": "/ˈkjuːkʌmbə/ is:",
+          "options": [
+            "cucumber",
+            "cumber",
+            "cupboard",
+            "computer"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "cucumber = salatalık.",
+            "tk": "cucumber = hyýar.",
+            "ru": "cucumber = огурец."
+          }
+        },
+        {
+          "question": "/ˈɡɑːlɪk/ is:",
+          "options": [
+            "garlic",
+            "gallic",
+            "garage",
+            "golic"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "garlic = sarımsak.",
+            "tk": "garlic = sarymsak.",
+            "ru": "garlic = чеснок."
+          }
+        },
+        {
+          "question": "/biːnz/ is:",
+          "options": [
+            "beans",
+            "bins",
+            "bones",
+            "buns"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "/iː/ → beans.",
+            "tk": "/iː/ → beans.",
+            "ru": "/iː/ → beans."
+          }
+        },
+        {
+          "question": "/ˈmʌʃrʊm/ is:",
+          "options": [
+            "mushroom",
+            "mush room",
+            "mishmash",
+            "mash"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "mushroom = mantar.",
+            "tk": "mushroom = kömelek.",
+            "ru": "mushroom = гриб."
+          }
+        },
+        {
+          "question": "How many syllables does \"vegetable\" usually have?",
+          "options": [
+            "two",
+            "three",
+            "four",
+            "five"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "VEG-ta-ble: 3 hece.",
+            "tk": "VEG-ta-ble: 3 bogun.",
+            "ru": "VEG-ta-ble: 3 слога."
+          }
+        },
+        {
+          "question": "/təˈmɑːtəʊ/ is:",
+          "options": [
+            "tomato",
+            "potato",
+            "tomorrow",
+            "tornado"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "İngiliz okunuşu: tomato.",
+            "tk": "Britan aýdylyşy: tomato.",
+            "ru": "Британское: tomato."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Pronunciation: Silent consonants – Pronunciation",
+    "title": "Silent Letters in English",
+    "body": {
+      "explanation": {
+        "tr": "İngilizcede bazı harfler yazılır ama okunmaz (silent letters):\n• k (kn-): know, knee, knife, knock\n• w (wr-): write, wrong, wrist, who\n• b (-mb): climb, comb, thumb, lamb\n• h: hour, honest, (wh-) what /wɒt/\n• gh: night, light, daughter, eight\n• l: walk, talk, half, could, should\n• t: listen, castle, Christmas\n• g (gn-): sign, foreign\nBu harfleri okumazsan doğal konuşursun: k-nife değil /naɪf/.",
+        "tk": "Iňlis dilinde käbir harplar ýazylýar, emma okalmaýar (silent letters):\n• k (kn-): know, knee, knife, knock\n• w (wr-): write, wrong, wrist, who\n• b (-mb): climb, comb, thumb, lamb\n• h: hour, honest, (wh-) what /wɒt/\n• gh: night, light, daughter, eight\n• l: walk, talk, half, could, should\n• t: listen, castle, Christmas\n• g (gn-): sign, foreign\nBu harplary okamasaň, tebigy gürlärsiň: k-nife däl, /naɪf/.",
+        "ru": "В английском некоторые буквы пишутся, но не читаются (немые буквы):\n• k (kn-): know, knee, knife, knock\n• w (wr-): write, wrong, wrist, who\n• b (-mb): climb, comb, thumb, lamb\n• h: hour, honest, (wh-) what /wɒt/\n• gh: night, light, daughter, eight\n• l: walk, talk, half, could, should\n• t: listen, castle, Christmas\n• g (gn-): sign, foreign\nЕсли не произносить их, речь звучит естественно: не к-найф, а /naɪf/."
+      },
+      "examples": [
+        {
+          "en": "knife /naɪf/",
+          "tr": "bıçak",
+          "tk": "pyçak",
+          "ru": "нож"
+        },
+        {
+          "en": "write /raɪt/",
+          "tr": "yazmak",
+          "tk": "ýazmak",
+          "ru": "писать"
+        },
+        {
+          "en": "climb /klaɪm/",
+          "tr": "tırmanmak",
+          "tk": "dyrmaşmak",
+          "ru": "взбираться"
+        },
+        {
+          "en": "hour /ˈaʊə/",
+          "tr": "saat (süre)",
+          "tk": "sagat",
+          "ru": "час"
+        },
+        {
+          "en": "listen /ˈlɪsn/",
+          "tr": "dinlemek",
+          "tk": "diňlemek",
+          "ru": "слушать"
+        },
+        {
+          "en": "walk /wɔːk/",
+          "tr": "yürümek",
+          "tk": "ýöremek",
+          "ru": "идти пешком"
+        }
+      ],
+      "exercises": [
+        {
+          "question": "Which letter is silent in \"knife\"?",
+          "options": [
+            "k",
+            "n",
+            "f",
+            "i"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "kn- → k okunmaz.",
+            "tk": "kn- → k okalmaýar.",
+            "ru": "kn- → k немая."
+          }
+        },
+        {
+          "question": "Which letter is silent in \"write\"?",
+          "options": [
+            "w",
+            "r",
+            "t",
+            "i"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "wr- → w okunmaz.",
+            "tk": "wr- → w okalmaýar.",
+            "ru": "wr- → w немая."
+          }
+        },
+        {
+          "question": "Which letter is silent in \"climb\"?",
+          "options": [
+            "c",
+            "l",
+            "m",
+            "b"
+          ],
+          "answer": 3,
+          "explanation": {
+            "tr": "-mb → b okunmaz.",
+            "tk": "-mb → b okalmaýar.",
+            "ru": "-mb → b немая."
+          }
+        },
+        {
+          "question": "Which letter is silent in \"listen\"?",
+          "options": [
+            "l",
+            "s",
+            "t",
+            "n"
+          ],
+          "answer": 2,
+          "explanation": {
+            "tr": "t okunmaz.",
+            "tk": "t okalmaýar.",
+            "ru": "t немая."
+          }
+        },
+        {
+          "question": "Which letter is silent in \"hour\"?",
+          "options": [
+            "h",
+            "o",
+            "u",
+            "r"
+          ],
+          "answer": 0,
+          "explanation": {
+            "tr": "h okunmaz → an hour.",
+            "tk": "h okalmaýar → an hour.",
+            "ru": "h немая → an hour."
+          }
+        },
+        {
+          "question": "Which letter is silent in \"walk\"?",
+          "options": [
+            "w",
+            "a",
+            "l",
+            "k"
+          ],
+          "answer": 2,
+          "explanation": {
+            "tr": "l okunmaz.",
+            "tk": "l okalmaýar.",
+            "ru": "l немая."
+          }
+        },
+        {
+          "question": "Which letters are silent in \"night\"?",
+          "options": [
+            "n",
+            "gh",
+            "t",
+            "i"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "gh okunmaz.",
+            "tk": "gh okalmaýar.",
+            "ru": "gh немые."
+          }
+        },
+        {
+          "question": "Which word has a silent letter?",
+          "options": [
+            "dog",
+            "knee",
+            "cat",
+            "pen"
+          ],
+          "answer": 1,
+          "explanation": {
+            "tr": "knee — k.",
+            "tk": "knee — k.",
+            "ru": "knee — k."
+          }
+        },
+        {
+          "question": "Which letter is silent in \"sign\"?",
+          "options": [
+            "s",
+            "i",
+            "g",
+            "n"
+          ],
+          "answer": 2,
+          "explanation": {
+            "tr": "g okunmaz.",
+            "tk": "g okalmaýar.",
+            "ru": "g немая."
+          }
+        },
+        {
+          "question": "Which word has NO silent letter?",
+          "options": [
+            "comb",
+            "know",
+            "lamp",
+            "half"
+          ],
+          "answer": 2,
+          "explanation": {
+            "tr": "lamp: tüm harfler okunur.",
+            "tk": "lamp: ähli harplar okalýar.",
+            "ru": "lamp: все буквы читаются."
+          }
+        }
+      ]
+    }
+  }
+]

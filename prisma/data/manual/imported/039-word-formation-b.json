@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Word Formation: Verbs and nouns in English",
+    "title": "Verbs and Their Nouns",
+    "body": {
+      "explanation": {
+        "tr": "Birçok fiilden isim türetilir. En sık sonekler:\n• -tion / -sion: inform → information, decide → decision, invite → invitation\n• -ment: move → movement, pay → payment, agree → agreement\n• -er / -or (kişi): teach → teacher, drive → driver, act → actor\n• -ance / -ence: perform → performance, exist → existence\n• -al: arrive → arrival\nBazıları aynı kalır: a walk, a call, a dream, a visit.\nBazıları düzensizdir: choose → choice, die → death, lose → loss, think → thought.",
+        "tk": "Köp işliklerden at ýasalýar. Iň köp ulanylýan goşulmalar:\n• -tion / -sion: inform → information, decide → decision, invite → invitation\n• -ment: move → movement, pay → payment, agree → agreement\n• -er / -or (adam): teach → teacher, drive → driver, act → actor\n• -ance / -ence: perform → performance, exist → existence\n• -al: arrive → arrival\nKäbirleri üýtgemeýär: a walk, a call, a dream, a visit.\nKäbirleri düzgünsiz: choose → choice, die → death, lose → loss, think → thought.",
+        "ru": "Из многих глаголов образуются существительные. Частые суффиксы:\n• -tion / -sion: inform → information, decide → decision, invite → invitation\n• -ment: move → movement, pay → payment, agree → agreement\n• -er / -or (человек): teach → teacher, drive → driver, act → actor\n• -ance / -ence: perform → performance, exist → existence\n• -al: arrive → arrival\nНекоторые не меняются: a walk, a call, a dream, a visit.\nНекоторые неправильные: choose → choice, die → death, lose → loss, think → thought."
+      },
+      "examples": [
+        { "en": "We need to decide. → It's a hard decision.", "tr": "Karar vermemiz gerek. → Zor bir karar.", "tk": "Biz karar bermeli. → Bu kyn karar.", "ru": "Нам нужно решить. → Это трудное решение." },
+        { "en": "Thank you for inviting me. → Thanks for the invitation.", "tr": "Beni davet ettiğin için teşekkürler. → Davet için teşekkürler.", "tk": "Meni çagyranyň üçin sag bol. → Çakylyk üçin sag bol.", "ru": "Спасибо, что пригласил. → Спасибо за приглашение." },
+        { "en": "Can I pay by card? → The payment was quick.", "tr": "Kartla ödeyebilir miyim? → Ödeme hızlıydı.", "tk": "Kart bilen töläp bilerinmi? → Töleg çalt boldy.", "ru": "Можно оплатить картой? → Оплата прошла быстро." },
+        { "en": "My father drives a bus. He is a bus driver.", "tr": "Babam otobüs kullanır. O bir otobüs şoförü.", "tk": "Kakam awtobus sürýär. Ol awtobus sürüjisi.", "ru": "Мой отец водит автобус. Он водитель автобуса." },
+        { "en": "The train arrives at 6. Its arrival is at 6.", "tr": "Tren 6'da varıyor. Varışı 6'da.", "tk": "Otly 6-da gelýär. Onuň gelşi 6-da.", "ru": "Поезд прибывает в 6. Прибытие в 6." },
+        { "en": "You can choose. It's your choice.", "tr": "Seçebilirsin. Senin seçimin.", "tk": "Saýlap bilersiň. Bu seniň saýlawyň.", "ru": "Ты можешь выбрать. Это твой выбор." }
+      ],
+      "exercises": [
+        { "question": "Noun of \"decide\":", "options": ["decidement", "decision", "decidation", "decider"], "answer": 1, "explanation": { "tr": "decision.", "tk": "decision.", "ru": "decision." } },
+        { "question": "Noun of \"move\":", "options": ["movement", "movation", "movence", "movion"], "answer": 0, "explanation": { "tr": "-ment.", "tk": "-ment.", "ru": "-ment." } },
+        { "question": "A person who teaches is a ___.", "options": ["teachor", "teacher", "teachist", "teachment"], "answer": 1, "explanation": { "tr": "-er.", "tk": "-er.", "ru": "-er." } },
+        { "question": "Noun of \"arrive\":", "options": ["arrivement", "arrivation", "arrival", "arrivance"], "answer": 2, "explanation": { "tr": "-al.", "tk": "-al.", "ru": "-al." } },
+        { "question": "Noun of \"choose\":", "options": ["choosing", "choosement", "choice", "chooser"], "answer": 2, "explanation": { "tr": "Düzensiz: choice.", "tk": "Düzgünsiz: choice.", "ru": "Неправильное: choice." } },
+        { "question": "Noun of \"inform\":", "options": ["informment", "information", "informance", "informal"], "answer": 1, "explanation": { "tr": "-ation.", "tk": "-ation.", "ru": "-ation." } },
+        { "question": "A person who acts in films is an ___.", "options": ["acter", "actor", "actist", "action"], "answer": 1, "explanation": { "tr": "-or.", "tk": "-or.", "ru": "-or." } },
+        { "question": "Noun of \"perform\":", "options": ["performance", "performment", "performation", "performence"], "answer": 0, "explanation": { "tr": "-ance.", "tk": "-ance.", "ru": "-ance." } },
+        { "question": "Noun of \"lose\":", "options": ["losing", "loss", "lost", "losement"], "answer": 1, "explanation": { "tr": "Düzensiz: loss.", "tk": "Düzgünsiz: loss.", "ru": "Неправильное: loss." } },
+        { "question": "Noun of \"agree\":", "options": ["agreeance", "agreement", "agreation", "agreal"], "answer": 1, "explanation": { "tr": "-ment.", "tk": "-ment.", "ru": "-ment." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Word Formation: Verbs in sentences",
+    "title": "Choose the Right Verb",
+    "body": {
+      "explanation": {
+        "tr": "Cümleyi anlamlı yapan fiildir. Doğru fiili seçmek için ismin ne yaptığını düşün:\n• eat (yemek), drink (içmek), sleep (uyumak), read (okumak), write (yazmak)\n• go (gitmek), come (gelmek), live (yaşamak), work (çalışmak), play (oynamak)\n• wear (giymek), open (açmak), close (kapamak), cook (pişirmek), watch (izlemek)\nHe/she/it ile şimdiki genişte -s eklenir: She reads. He plays.\nKalıp eşleşmeleri: read a book, drink water, play football, watch TV, wear a coat.",
+        "tk": "Sözlemi manyly edýän işlik. Dogry işligi saýlamak üçin adyň näme edýändigini pikir ediň:\n• eat (iýmek), drink (içmek), sleep (ýatmak), read (okamak), write (ýazmak)\n• go (gitmek), come (gelmek), live (ýaşamak), work (işlemek), play (oýnamak)\n• wear (geýmek), open (açmak), close (ýapmak), cook (bişirmek), watch (görmek)\nHe/she/it bilen häzirki zamanda -s goşulýar: She reads. He plays.\nDurnukly jübütler: read a book, drink water, play football, watch TV, wear a coat.",
+        "ru": "Смысл предложению даёт глагол. Чтобы выбрать нужный, подумай, что делает предмет:\n• eat (есть), drink (пить), sleep (спать), read (читать), write (писать)\n• go (идти), come (приходить), live (жить), work (работать), play (играть)\n• wear (носить), open (открывать), close (закрывать), cook (готовить), watch (смотреть)\nС he/she/it в Present Simple добавляется -s: She reads. He plays.\nУстойчивые пары: read a book, drink water, play football, watch TV, wear a coat."
+      },
+      "examples": [
+        { "en": "I drink tea every morning.", "tr": "Her sabah çay içerim.", "tk": "Men her irden çaý içýärin.", "ru": "Я пью чай каждое утро." },
+        { "en": "She reads a book.", "tr": "Kitap okuyor.", "tk": "Ol kitap okaýar.", "ru": "Она читает книгу." },
+        { "en": "We play football on Sundays.", "tr": "Pazar günleri futbol oynarız.", "tk": "Biz ýekşenbe günleri futbol oýnaýarys.", "ru": "По воскресеньям мы играем в футбол." },
+        { "en": "My parents live in Ashgabat.", "tr": "Ailem Aşkabat'ta yaşıyor.", "tk": "Ene-atam Aşgabatda ýaşaýar.", "ru": "Мои родители живут в Ашхабаде." },
+        { "en": "He wears a blue shirt.", "tr": "Mavi bir gömlek giyiyor.", "tk": "Ol gök köýnek geýýär.", "ru": "Он носит синюю рубашку." },
+        { "en": "Please open the window.", "tr": "Lütfen pencereyi aç.", "tk": "Penjiräni açsana.", "ru": "Пожалуйста, открой окно." }
+      ],
+      "exercises": [
+        { "question": "I ___ water when I am thirsty.", "options": ["eat", "drink", "read", "wear"], "answer": 1, "explanation": { "tr": "drink water.", "tk": "drink water.", "ru": "drink water." } },
+        { "question": "She ___ a letter to her friend.", "options": ["writes", "sleeps", "drinks", "wears"], "answer": 0, "explanation": { "tr": "write a letter.", "tk": "write a letter.", "ru": "write a letter." } },
+        { "question": "We ___ TV in the evening.", "options": ["read", "watch", "cook", "open"], "answer": 1, "explanation": { "tr": "watch TV.", "tk": "watch TV.", "ru": "watch TV." } },
+        { "question": "It is cold. ___ your coat!", "options": ["Eat", "Wear", "Drink", "Play"], "answer": 1, "explanation": { "tr": "wear a coat.", "tk": "wear a coat.", "ru": "wear a coat." } },
+        { "question": "The children ___ in the park.", "options": ["play", "plays", "cook", "write"], "answer": 0, "explanation": { "tr": "Çoğul özne → play.", "tk": "Köplük eýe → play.", "ru": "Мн. ч. → play." } },
+        { "question": "My mother ___ dinner every day.", "options": ["cook", "cooks", "eats", "sleeps"], "answer": 1, "explanation": { "tr": "she → cooks.", "tk": "she → cooks.", "ru": "she → cooks." } },
+        { "question": "I am tired. I want to ___.", "options": ["sleep", "run", "work", "open"], "answer": 0, "explanation": { "tr": "Yorgun → uyumak.", "tk": "Ýadaw → ýatmak.", "ru": "Устал → спать." } },
+        { "question": "He ___ in a hospital. He is a doctor.", "options": ["lives", "works", "goes", "eats"], "answer": 1, "explanation": { "tr": "works in a hospital.", "tk": "works in a hospital.", "ru": "works in a hospital." } },
+        { "question": "Please ___ the door. It's cold.", "options": ["open", "close", "read", "eat"], "answer": 1, "explanation": { "tr": "Soğuk → kapat.", "tk": "Sowuk → ýap.", "ru": "Холодно → закрой." } },
+        { "question": "We ___ to school by bus.", "options": ["go", "goes", "come", "wear"], "answer": 0, "explanation": { "tr": "we → go.", "tk": "we → go.", "ru": "we → go." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Word Formation: Word formation – Noun – Adjective",
+    "title": "From Nouns to Adjectives",
+    "body": {
+      "explanation": {
+        "tr": "İsimden sıfat türeten sonekler:\n• -ful (…lı, dolu): help → helpful, beauty → beautiful, care → careful\n• -less (…sız): care → careless, home → homeless, hope → hopeless\n• -y: sun → sunny, rain → rainy, salt → salty, health → healthy\n• -ous: danger → dangerous, fame → famous\n• -al: nature → natural, music → musical, nation → national\n• -ly (sıfat!): friend → friendly, day → daily, love → lovely\n• -ic: history → historic, artist → artistic\n• -ish: child → childish, fool → foolish",
+        "tk": "Atdan sypat ýasaýan goşulmalar:\n• -ful (…ly, doly): help → helpful, beauty → beautiful, care → careful\n• -less (…syz): care → careless, home → homeless, hope → hopeless\n• -y: sun → sunny, rain → rainy, salt → salty, health → healthy\n• -ous: danger → dangerous, fame → famous\n• -al: nature → natural, music → musical, nation → national\n• -ly (sypat!): friend → friendly, day → daily, love → lovely\n• -ic: history → historic, artist → artistic\n• -ish: child → childish, fool → foolish",
+        "ru": "Суффиксы, образующие прилагательные от существительных:\n• -ful (полный чего-то): help → helpful, beauty → beautiful, care → careful\n• -less (без чего-то): care → careless, home → homeless, hope → hopeless\n• -y: sun → sunny, rain → rainy, salt → salty, health → healthy\n• -ous: danger → dangerous, fame → famous\n• -al: nature → natural, music → musical, nation → national\n• -ly (прилагательное!): friend → friendly, day → daily, love → lovely\n• -ic: history → historic, artist → artistic\n• -ish: child → childish, fool → foolish"
+      },
+      "examples": [
+        { "en": "It's a sunny day.", "tr": "Güneşli bir gün.", "tk": "Günli gün.", "ru": "Солнечный день." },
+        { "en": "Be careful! The road is dangerous.", "tr": "Dikkatli ol! Yol tehlikeli.", "tk": "Seresap bol! Ýol howply.", "ru": "Осторожно! Дорога опасная." },
+        { "en": "She is a famous singer.", "tr": "Ünlü bir şarkıcı.", "tk": "Ol meşhur aýdymçy.", "ru": "Она известная певица." },
+        { "en": "Our neighbours are very friendly.", "tr": "Komşularımız çok cana yakın.", "tk": "Goňşularymyz örän mähirli.", "ru": "Наши соседи очень дружелюбные." },
+        { "en": "Thank you, that was very helpful.", "tr": "Teşekkürler, çok yardımcı oldu.", "tk": "Sag boluň, örän peýdaly boldy.", "ru": "Спасибо, это очень помогло." },
+        { "en": "Eat healthy food.", "tr": "Sağlıklı yiyecekler ye.", "tk": "Peýdaly iýmit iýiň.", "ru": "Ешь здоровую пищу." }
+      ],
+      "exercises": [
+        { "question": "danger → adjective:", "options": ["dangerful", "dangerous", "dangery", "dangeral"], "answer": 1, "explanation": { "tr": "-ous.", "tk": "-ous.", "ru": "-ous." } },
+        { "question": "sun → adjective:", "options": ["sunful", "sunny", "suny", "sunous"], "answer": 1, "explanation": { "tr": "-y (n ikilenir).", "tk": "-y (n iki esse).", "ru": "-y (n удваивается)." } },
+        { "question": "help → adjective (useful):", "options": ["helpful", "helpless", "helpy", "helpous"], "answer": 0, "explanation": { "tr": "-ful = yardımcı.", "tk": "-ful = peýdaly.", "ru": "-ful = полезный." } },
+        { "question": "A person with no home is ___.", "options": ["homeful", "homeless", "homey", "homish"], "answer": 1, "explanation": { "tr": "-less = …sız.", "tk": "-less = …syz.", "ru": "-less = без." } },
+        { "question": "nature → adjective:", "options": ["naturous", "natural", "natury", "natureful"], "answer": 1, "explanation": { "tr": "-al.", "tk": "-al.", "ru": "-al." } },
+        { "question": "friend → adjective:", "options": ["friendful", "friendous", "friendly", "friendy"], "answer": 2, "explanation": { "tr": "-ly sıfat.", "tk": "-ly sypat.", "ru": "-ly — прилагательное." } },
+        { "question": "fame → adjective:", "options": ["fameful", "famous", "famy", "famal"], "answer": 1, "explanation": { "tr": "famous (e düşer).", "tk": "famous (e düşýär).", "ru": "famous (e выпадает)." } },
+        { "question": "beauty → adjective:", "options": ["beautiful", "beautyful", "beautious", "beautily"], "answer": 0, "explanation": { "tr": "y → i + ful.", "tk": "y → i + ful.", "ru": "y → i + ful." } },
+        { "question": "child → adjective (behaving like a child):", "options": ["childful", "childish", "childy", "childous"], "answer": 1, "explanation": { "tr": "-ish = çocukça.", "tk": "-ish = çagajyk ýaly.", "ru": "-ish = ребяческий." } },
+        { "question": "salt → adjective:", "options": ["saltful", "salty", "saltous", "saltal"], "answer": 1, "explanation": { "tr": "-y.", "tk": "-y.", "ru": "-y." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Word Formation: Word formation – Verb – Noun",
+    "title": "Verb or Noun? Using the Right Form",
+    "body": {
+      "explanation": {
+        "tr": "Cümlede boşluğa fiil mi isim mi gerektiğini anlamak için:\n• a/an/the/my/his… sonrası → İSİM: The explanation was clear.\n• Sıfattan sonra → İSİM: a good decision\n• Özne (I, she, they…) sonrası, to sonrası, can/will/must sonrası → FİİL: She will explain. I want to decide.\nSık çiftler: explain – explanation, describe – description, discuss – discussion, enjoy – enjoyment, improve – improvement, succeed – success, fail – failure, believe – belief, advise – advice, prove – proof",
+        "tk": "Sözlemde boşluga işlik ýa-da at gerekdigini bilmek üçin:\n• a/an/the/my/his… soň → AT: The explanation was clear.\n• Sypatdan soň → AT: a good decision\n• Eýeden (I, she, they…), to, can/will/must soň → IŞLIK: She will explain. I want to decide.\nKöp duş gelýän jübütler: explain – explanation, describe – description, discuss – discussion, enjoy – enjoyment, improve – improvement, succeed – success, fail – failure, believe – belief, advise – advice, prove – proof",
+        "ru": "Чтобы понять, нужен глагол или существительное:\n• После a/an/the/my/his… → СУЩ.: The explanation was clear.\n• После прилагательного → СУЩ.: a good decision\n• После подлежащего (I, she, they…), to, can/will/must → ГЛАГОЛ: She will explain. I want to decide.\nЧастые пары: explain – explanation, describe – description, discuss – discussion, enjoy – enjoyment, improve – improvement, succeed – success, fail – failure, believe – belief, advise – advice, prove – proof"
+      },
+      "examples": [
+        { "en": "Can you explain this? Your explanation was great.", "tr": "Bunu açıklayabilir misin? Açıklaman harikaydı.", "tk": "Muny düşündirip bilersiňmi? Düşündirişiň ajaýypdy.", "ru": "Можешь объяснить? Твоё объяснение было отличным." },
+        { "en": "My English has improved. There is a big improvement.", "tr": "İngilizcem gelişti. Büyük bir ilerleme var.", "tk": "Iňlis dilim gowulandy. Uly ösüş bar.", "ru": "Мой английский улучшился. Большой прогресс." },
+        { "en": "He gave me good advice.", "tr": "Bana iyi bir tavsiye verdi.", "tk": "Ol maňa gowy maslahat berdi.", "ru": "Он дал мне хороший совет." },
+        { "en": "I advise you to rest.", "tr": "Dinlenmeni tavsiye ederim.", "tk": "Saňa dynç almagy maslahat berýärin.", "ru": "Советую тебе отдохнуть." },
+        { "en": "Hard work leads to success.", "tr": "Sıkı çalışma başarı getirir.", "tk": "Yhlasly zähmet üstünlige alyp barýar.", "ru": "Упорный труд ведёт к успеху." },
+        { "en": "Let's discuss it. The discussion was long.", "tr": "Bunu tartışalım. Tartışma uzundu.", "tk": "Muny ara alyp maslahatlaşalyň. Ara alyp maslahatlaşma uzak dowam etdi.", "ru": "Давай обсудим. Обсуждение было долгим." }
+      ],
+      "exercises": [
+        { "question": "Thanks for your ___. (explain)", "options": ["explain", "explanation", "explaining", "explained"], "answer": 1, "explanation": { "tr": "your + isim.", "tk": "your + at.", "ru": "your + сущ." } },
+        { "question": "Can you ___ the picture? (description)", "options": ["description", "describe", "descriptive", "describer"], "answer": 1, "explanation": { "tr": "can + fiil.", "tk": "can + işlik.", "ru": "can + глагол." } },
+        { "question": "He gave me some useful ___.", "options": ["advise", "advice", "advises", "advicing"], "answer": 1, "explanation": { "tr": "İsim: advice (c ile).", "tk": "At: advice (c bilen).", "ru": "Сущ.: advice (с c)." } },
+        { "question": "I ___ you to see a doctor.", "options": ["advice", "advise", "advisement", "advicing"], "answer": 1, "explanation": { "tr": "Fiil: advise (s ile).", "tk": "Işlik: advise (s bilen).", "ru": "Глагол: advise (с s)." } },
+        { "question": "The project was a great ___.", "options": ["succeed", "success", "successful", "succeeds"], "answer": 1, "explanation": { "tr": "a great + isim.", "tk": "a great + at.", "ru": "a great + сущ." } },
+        { "question": "Don't be afraid of ___.", "options": ["fail", "failure", "fails", "failed"], "answer": 1, "explanation": { "tr": "of + isim.", "tk": "of + at.", "ru": "of + сущ." } },
+        { "question": "We want to ___ our English.", "options": ["improvement", "improve", "improving", "improves"], "answer": 1, "explanation": { "tr": "to + fiil.", "tk": "to + işlik.", "ru": "to + глагол." } },
+        { "question": "I ___ the party very much.", "options": ["enjoyment", "enjoyed", "enjoyable", "joy"], "answer": 1, "explanation": { "tr": "Özne + fiil.", "tk": "Eýe + işlik.", "ru": "Подлежащее + глагол." } },
+        { "question": "Do you have any ___? (prove)", "options": ["prove", "proof", "proving", "proven"], "answer": 1, "explanation": { "tr": "any + isim: proof.", "tk": "any + at: proof.", "ru": "any + сущ.: proof." } },
+        { "question": "It's my ___ that people are good. (believe)", "options": ["believe", "belief", "believing", "believer"], "answer": 1, "explanation": { "tr": "my + isim: belief.", "tk": "my + at: belief.", "ru": "my + сущ.: belief." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Word Formation: Words with the ending -ing in English sentences",
+    "title": "Words Ending in -ing: Verb, Noun or Adjective?",
+    "body": {
+      "explanation": {
+        "tr": "-ing ile biten kelimeler farklı görevler yapabilir:\n• Fiil (continuous): She is SWIMMING now.\n• İsim (gerund): SWIMMING is good for you. / I like READING.\n• Sıfat: a BORING film, an INTERESTING book, RUNNING water\n-ing sıfatı vs -ed sıfatı:\n• -ing = bir şeyin etkisi: The film is boring (film sıkıcı).\n• -ed = kişinin hissi: I am bored (ben sıkıldım).\nYazım: make → making, run → running, lie → lying.",
+        "tk": "-ing bilen gutarýan sözler dürli wezipeleri ýerine ýetirip biler:\n• Işlik (continuous): She is SWIMMING now.\n• At (gerund): SWIMMING is good for you. / I like READING.\n• Sypat: a BORING film, an INTERESTING book, RUNNING water\n-ing sypaty we -ed sypaty:\n• -ing = bir zadyň täsiri: The film is boring (film içgysgynç).\n• -ed = adamyň duýgusy: I am bored (meniň içim gysdy).\nÝazylyşy: make → making, run → running, lie → lying.",
+        "ru": "Слова на -ing выполняют разные функции:\n• Глагол (continuous): She is SWIMMING now.\n• Существительное (герундий): SWIMMING is good for you. / I like READING.\n• Прилагательное: a BORING film, an INTERESTING book, RUNNING water\n-ing vs -ed прилагательные:\n• -ing = свойство предмета: The film is boring (фильм скучный).\n• -ed = чувство человека: I am bored (мне скучно).\nНаписание: make → making, run → running, lie → lying."
+      },
+      "examples": [
+        { "en": "She is swimming in the sea.", "tr": "Denizde yüzüyor.", "tk": "Ol deňizde ýüzýär.", "ru": "Она плавает в море." },
+        { "en": "Swimming is good for your health.", "tr": "Yüzmek sağlığa iyidir.", "tk": "Ýüzmek saglyga peýdaly.", "ru": "Плавание полезно для здоровья." },
+        { "en": "I love reading before bed.", "tr": "Yatmadan önce okumayı severim.", "tk": "Ýatmazdan öň okamagy halaýaryn.", "ru": "Люблю читать перед сном." },
+        { "en": "That was an interesting lesson.", "tr": "İlginç bir dersti.", "tk": "Bu gyzykly sapakdy.", "ru": "Это был интересный урок." },
+        { "en": "The film was boring, so I was bored.", "tr": "Film sıkıcıydı, o yüzden sıkıldım.", "tk": "Film içgysgynçdy, şonuň üçin meniň içim gysdy.", "ru": "Фильм был скучным, и мне было скучно." },
+        { "en": "Smoking is not allowed here.", "tr": "Burada sigara içmek yasak.", "tk": "Bu ýerde çilim çekmek gadagan.", "ru": "Здесь курить запрещено." }
+      ],
+      "exercises": [
+        { "question": "\"READING is my hobby.\" — READING is…", "options": ["a verb", "a noun (gerund)", "an adjective", "an adverb"], "answer": 1, "explanation": { "tr": "Özne → isim.", "tk": "Eýe → at.", "ru": "Подлежащее → сущ." } },
+        { "question": "\"He is READING a book.\" — READING is…", "options": ["a verb", "a noun", "an adjective", "a preposition"], "answer": 0, "explanation": { "tr": "is + -ing → fiil.", "tk": "is + -ing → işlik.", "ru": "is + -ing → глагол." } },
+        { "question": "\"an AMAZING view\" — AMAZING is…", "options": ["a verb", "a noun", "an adjective", "an adverb"], "answer": 2, "explanation": { "tr": "İsmi niteliyor.", "tk": "Ady häsiýetlendirýär.", "ru": "Описывает сущ." } },
+        { "question": "The lesson was very ___.", "options": ["interested", "interesting", "interest", "interests"], "answer": 1, "explanation": { "tr": "Dersin özelliği → -ing.", "tk": "Sapagyň häsiýeti → -ing.", "ru": "Свойство урока → -ing." } },
+        { "question": "I'm ___ in history.", "options": ["interesting", "interested", "interest", "interestingly"], "answer": 1, "explanation": { "tr": "Kişinin hissi → -ed.", "tk": "Adamyň duýgusy → -ed.", "ru": "Чувство → -ed." } },
+        { "question": "run + -ing =", "options": ["runing", "running", "runeing", "runnning"], "answer": 1, "explanation": { "tr": "n ikilenir.", "tk": "n iki esse.", "ru": "n удваивается." } },
+        { "question": "make + -ing =", "options": ["makeing", "making", "makking", "maknig"], "answer": 1, "explanation": { "tr": "e düşer.", "tk": "e düşýär.", "ru": "e выпадает." } },
+        { "question": "lie + -ing =", "options": ["lieing", "lying", "liing", "lyeing"], "answer": 1, "explanation": { "tr": "ie → y.", "tk": "ie → y.", "ru": "ie → y." } },
+        { "question": "\"I enjoy ___ to music.\"", "options": ["listen", "to listen", "listening", "listened"], "answer": 2, "explanation": { "tr": "enjoy + -ing.", "tk": "enjoy + -ing.", "ru": "enjoy + -ing." } },
+        { "question": "The news was ___. Everyone was shocked.", "options": ["shocked", "shocking", "shock", "shocks"], "answer": 1, "explanation": { "tr": "Haberin özelliği → -ing.", "tk": "Habaryň häsiýeti → -ing.", "ru": "Свойство новости → -ing." } }
+      ]
+    }
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Spelling: Spelling in English",
+    "title": "Common English Spelling Rules",
+    "body": {
+      "explanation": {
+        "tr": "Sık kullanılan yazım kuralları:\n• 'i before e, except after c': believe, friend, piece ama receive, ceiling\n• Sessiz -e düşer (+ ünlüyle başlayan ek): make → making, hope → hoped; ama -ful/-ly gibi ünsüzle başlayan eklerde kalır: hopeful, lovely\n• Kısa ünlü + tek ünsüz → ünsüz ikilenir: stop → stopped, big → bigger, run → running\n• Ünsüz + y → i: happy → happiness, carry → carried (ama -ing'de y kalır: carrying)\n• Çoğul: -s, -es (bus → buses), f → ves (wolf → wolves)\n• Sık karıştırılanlar: their/there/they're, your/you're, its/it's, to/too/two",
+        "tk": "Köp ulanylýan ýazylyş düzgünleri:\n• 'i before e, except after c': believe, friend, piece, emma receive, ceiling\n• Okalmaýan -e düşýär (+ çekimli bilen başlanýan goşulma): make → making, hope → hoped; emma çekimsiz bilen başlanýan -ful/-ly ýaly goşulmalarda galýar: hopeful, lovely\n• Gysga çekimli + bir çekimsiz → çekimsiz iki esse: stop → stopped, big → bigger, run → running\n• Çekimsiz + y → i: happy → happiness, carry → carried (emma -ing-de y galýar: carrying)\n• Köplük: -s, -es (bus → buses), f → ves (wolf → wolves)\n• Köp garyşdyrylýanlar: their/there/they're, your/you're, its/it's, to/too/two",
+        "ru": "Частые правила орфографии:\n• 'i before e, except after c': believe, friend, piece, но receive, ceiling\n• Немое -e выпадает перед суффиксом на гласную: make → making, hope → hoped; перед суффиксом на согласную остаётся: hopeful, lovely\n• Краткая гласная + одна согласная → удвоение: stop → stopped, big → bigger, run → running\n• Согласная + y → i: happy → happiness, carry → carried (но в -ing y сохраняется: carrying)\n• Мн. ч.: -s, -es (bus → buses), f → ves (wolf → wolves)\n• Частые путаницы: their/there/they're, your/you're, its/it's, to/too/two"
+      },
+      "examples": [
+        { "en": "I believe you. / I received your letter.", "tr": "Sana inanıyorum. / Mektubunu aldım.", "tk": "Saňa ynanýaryn. / Hatyňy aldym.", "ru": "Я тебе верю. / Я получил твоё письмо." },
+        { "en": "She is making a cake. It looks lovely.", "tr": "Pasta yapıyor. Çok güzel görünüyor.", "tk": "Ol tort bişirýär. Örän owadan görünýär.", "ru": "Она печёт торт. Выглядит чудесно." },
+        { "en": "The bus stopped at the corner.", "tr": "Otobüs köşede durdu.", "tk": "Awtobus burçda saklandy.", "ru": "Автобус остановился на углу." },
+        { "en": "Happiness is important.", "tr": "Mutluluk önemlidir.", "tk": "Bagt möhüm.", "ru": "Счастье важно." },
+        { "en": "They're putting their bags over there.", "tr": "Çantalarını şuraya koyuyorlar.", "tk": "Olar sumkalaryny ol ýere goýýarlar.", "ru": "Они ставят свои сумки вон туда." },
+        { "en": "It's too late to buy two tickets.", "tr": "İki bilet almak için çok geç.", "tk": "Iki bilet almak üçin gaty giç.", "ru": "Слишком поздно покупать два билета." }
+      ],
+      "exercises": [
+        { "question": "Which spelling is correct?", "options": ["recieve", "receive", "receeve", "resieve"], "answer": 1, "explanation": { "tr": "c'den sonra ei.", "tk": "c-den soň ei.", "ru": "После c — ei." } },
+        { "question": "Which spelling is correct?", "options": ["freind", "friend", "frend", "friand"], "answer": 1, "explanation": { "tr": "friend.", "tk": "friend.", "ru": "friend." } },
+        { "question": "hope + -ing =", "options": ["hopeing", "hoping", "hopping", "hopeng"], "answer": 1, "explanation": { "tr": "e düşer: hoping (hopping = zıplamak!).", "tk": "e düşýär: hoping (hopping = bökmek!).", "ru": "e выпадает: hoping (hopping = прыгать!)." } },
+        { "question": "big + -er =", "options": ["biger", "bigger", "biggger", "bigeer"], "answer": 1, "explanation": { "tr": "Ünsüz ikilenir.", "tk": "Çekimsiz iki esse.", "ru": "Удвоение." } },
+        { "question": "happy + -ness =", "options": ["happyness", "happiness", "happines", "hapiness"], "answer": 1, "explanation": { "tr": "y → i.", "tk": "y → i.", "ru": "y → i." } },
+        { "question": "care + -ful =", "options": ["carful", "careful", "carefull", "careeful"], "answer": 1, "explanation": { "tr": "Ünsüzle başlayan ek → e kalır.", "tk": "Çekimsiz goşulma → e galýar.", "ru": "Суффикс на согласную → e остаётся." } },
+        { "question": "\"___ coming to the party?\"", "options": ["Your", "You're", "Youre", "Yore"], "answer": 1, "explanation": { "tr": "You are → You're.", "tk": "You are → You're.", "ru": "You are → You're." } },
+        { "question": "\"The dog wagged ___ tail.\"", "options": ["it's", "its", "its'", "it"], "answer": 1, "explanation": { "tr": "İyelik → its.", "tk": "Eýelik → its.", "ru": "Притяжательное → its." } },
+        { "question": "\"This tea is ___ hot.\"", "options": ["to", "too", "two", "tow"], "answer": 1, "explanation": { "tr": "too = çok/fazla.", "tk": "too = gaty.", "ru": "too = слишком." } },
+        { "question": "Plural of \"wolf\":", "options": ["wolfs", "wolves", "wolfes", "wolvs"], "answer": 1, "explanation": { "tr": "f → ves.", "tk": "f → ves.", "ru": "f → ves." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A1",
+    "topic": "Spelling: Words ending in -y – Spelling Exercise 1",
+    "title": "Words Ending in -y: Plurals",
+    "body": {
+      "explanation": {
+        "tr": "-y ile biten isimlerin çoğulu:\n• Ünsüz + y → y düşer, -ies eklenir: baby → babies, city → cities, lady → ladies, party → parties, story → stories\n• Ünlü (a, e, o, u) + y → sadece -s eklenir: boy → boys, day → days, key → keys, toy → toys, monkey → monkeys\nİpucu: y'den önceki harfe bak!",
+        "tk": "-y bilen gutarýan atlaryň köplügi:\n• Çekimsiz + y → y düşýär, -ies goşulýar: baby → babies, city → cities, lady → ladies, party → parties, story → stories\n• Çekimli (a, e, o, u) + y → diňe -s goşulýar: boy → boys, day → days, key → keys, toy → toys, monkey → monkeys\nMaslahat: y-den öňki harpa seret!",
+        "ru": "Мн. ч. существительных на -y:\n• Согласная + y → y меняется на -ies: baby → babies, city → cities, lady → ladies, party → parties, story → stories\n• Гласная (a, e, o, u) + y → просто -s: boy → boys, day → days, key → keys, toy → toys, monkey → monkeys\nПодсказка: смотри на букву перед y!"
+      },
+      "examples": [
+        { "en": "one baby – two babies", "tr": "bir bebek – iki bebek", "tk": "bir çaga – iki çaga", "ru": "один малыш – два малыша" },
+        { "en": "one city – many cities", "tr": "bir şehir – birçok şehir", "tk": "bir şäher – köp şäher", "ru": "один город – много городов" },
+        { "en": "one boy – three boys", "tr": "bir erkek çocuk – üç erkek çocuk", "tk": "bir oglan – üç oglan", "ru": "один мальчик – три мальчика" },
+        { "en": "one key – two keys", "tr": "bir anahtar – iki anahtar", "tk": "bir açar – iki açar", "ru": "один ключ – два ключа" },
+        { "en": "one story – many stories", "tr": "bir hikâye – birçok hikâye", "tk": "bir hekaýa – köp hekaýa", "ru": "одна история – много историй" },
+        { "en": "one toy – lots of toys", "tr": "bir oyuncak – birçok oyuncak", "tk": "bir oýnawaç – köp oýnawaç", "ru": "одна игрушка – много игрушек" }
+      ],
+      "exercises": [
+        { "question": "Plural of \"baby\":", "options": ["babys", "babies", "babyes", "babis"], "answer": 1, "explanation": { "tr": "b + y → ies.", "tk": "b + y → ies.", "ru": "b + y → ies." } },
+        { "question": "Plural of \"boy\":", "options": ["boies", "boys", "boyes", "bois"], "answer": 1, "explanation": { "tr": "o + y → s.", "tk": "o + y → s.", "ru": "o + y → s." } },
+        { "question": "Plural of \"city\":", "options": ["citys", "cities", "cityes", "citties"], "answer": 1, "explanation": { "tr": "t + y → ies.", "tk": "t + y → ies.", "ru": "t + y → ies." } },
+        { "question": "Plural of \"day\":", "options": ["daies", "days", "dayes", "dais"], "answer": 1, "explanation": { "tr": "a + y → s.", "tk": "a + y → s.", "ru": "a + y → s." } },
+        { "question": "Plural of \"party\":", "options": ["partys", "parties", "partyes", "partis"], "answer": 1, "explanation": { "tr": "t + y → ies.", "tk": "t + y → ies.", "ru": "t + y → ies." } },
+        { "question": "Plural of \"key\":", "options": ["keies", "keys", "kies", "keyes"], "answer": 1, "explanation": { "tr": "e + y → s.", "tk": "e + y → s.", "ru": "e + y → s." } },
+        { "question": "Plural of \"lady\":", "options": ["ladys", "ladies", "ladyes", "laddies"], "answer": 1, "explanation": { "tr": "d + y → ies.", "tk": "d + y → ies.", "ru": "d + y → ies." } },
+        { "question": "Plural of \"toy\":", "options": ["toies", "toys", "toyes", "tois"], "answer": 1, "explanation": { "tr": "o + y → s.", "tk": "o + y → s.", "ru": "o + y → s." } },
+        { "question": "Plural of \"monkey\":", "options": ["monkies", "monkeys", "monkeies", "monkis"], "answer": 1, "explanation": { "tr": "e + y → s.", "tk": "e + y → s.", "ru": "e + y → s." } },
+        { "question": "Plural of \"family\":", "options": ["familys", "families", "familyes", "familes"], "answer": 1, "explanation": { "tr": "l + y → ies.", "tk": "l + y → ies.", "ru": "l + y → ies." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Spelling: Words ending in -y – Spelling Exercise 2",
+    "title": "Words Ending in -y: Verbs",
+    "body": {
+      "explanation": {
+        "tr": "-y ile biten fiillerde yazım:\n• 3. tekil (he/she/it): ünsüz + y → -ies: study → studies, cry → cries, fly → flies; ünlü + y → -s: play → plays, buy → buys, enjoy → enjoys\n• Geçmiş (-ed): ünsüz + y → -ied: study → studied, carry → carried, try → tried; ünlü + y → -ed: play → played, stay → stayed\n  İstisnalar: say → said, pay → paid, lay → laid\n• -ing: y HER ZAMAN kalır: study → studying, cry → crying, play → playing",
+        "tk": "-y bilen gutarýan işliklerde ýazylyş:\n• 3-nji ýöňkeme (he/she/it): çekimsiz + y → -ies: study → studies, cry → cries, fly → flies; çekimli + y → -s: play → plays, buy → buys, enjoy → enjoys\n• Geçmiş (-ed): çekimsiz + y → -ied: study → studied, carry → carried, try → tried; çekimli + y → -ed: play → played, stay → stayed\n  Kadadan çykmalar: say → said, pay → paid, lay → laid\n• -ing: y HEMIŞE galýar: study → studying, cry → crying, play → playing",
+        "ru": "Написание глаголов на -y:\n• 3-е лицо (he/she/it): согласная + y → -ies: study → studies, cry → cries, fly → flies; гласная + y → -s: play → plays, buy → buys, enjoy → enjoys\n• Прошедшее (-ed): согласная + y → -ied: study → studied, carry → carried, try → tried; гласная + y → -ed: play → played, stay → stayed\n  Исключения: say → said, pay → paid, lay → laid\n• -ing: y ВСЕГДА сохраняется: study → studying, cry → crying, play → playing"
+      },
+      "examples": [
+        { "en": "She studies every evening.", "tr": "Her akşam ders çalışır.", "tk": "Ol her agşam okaýar.", "ru": "Она занимается каждый вечер." },
+        { "en": "He plays the guitar.", "tr": "Gitar çalar.", "tk": "Ol gitara çalýar.", "ru": "Он играет на гитаре." },
+        { "en": "We tried to help.", "tr": "Yardım etmeye çalıştık.", "tk": "Biz kömek etjek bolduk.", "ru": "Мы пытались помочь." },
+        { "en": "They stayed at a hotel.", "tr": "Bir otelde kaldılar.", "tk": "Olar myhmanhanada galdylar.", "ru": "Они остановились в отеле." },
+        { "en": "The baby is crying.", "tr": "Bebek ağlıyor.", "tk": "Çaga aglaýar.", "ru": "Малыш плачет." },
+        { "en": "I paid for the tickets.", "tr": "Biletlerin parasını ödedim.", "tk": "Men biletleriň tölegini etdim.", "ru": "Я заплатил за билеты." }
+      ],
+      "exercises": [
+        { "question": "He ___ (study) English.", "options": ["studys", "studies", "studyes", "studis"], "answer": 1, "explanation": { "tr": "d + y → ies.", "tk": "d + y → ies.", "ru": "d + y → ies." } },
+        { "question": "She ___ (play) tennis.", "options": ["plaies", "plays", "playes", "plais"], "answer": 1, "explanation": { "tr": "a + y → s.", "tk": "a + y → s.", "ru": "a + y → s." } },
+        { "question": "Yesterday I ___ (carry) a heavy box.", "options": ["carryed", "carried", "caried", "carryd"], "answer": 1, "explanation": { "tr": "r + y → ied.", "tk": "r + y → ied.", "ru": "r + y → ied." } },
+        { "question": "We ___ (stay) at home.", "options": ["staied", "stayed", "staid", "stayd"], "answer": 1, "explanation": { "tr": "a + y → ed.", "tk": "a + y → ed.", "ru": "a + y → ed." } },
+        { "question": "The baby is ___ (cry).", "options": ["criing", "crying", "cring", "cryeing"], "answer": 1, "explanation": { "tr": "-ing'de y kalır.", "tk": "-ing-de y galýar.", "ru": "В -ing y остаётся." } },
+        { "question": "He ___ (say) hello.", "options": ["sayed", "said", "saied", "sayd"], "answer": 1, "explanation": { "tr": "İstisna: said.", "tk": "Kadadan çykma: said.", "ru": "Исключение: said." } },
+        { "question": "A bird ___ (fly) in the sky.", "options": ["flys", "flies", "flyes", "fleis"], "answer": 1, "explanation": { "tr": "l + y → ies.", "tk": "l + y → ies.", "ru": "l + y → ies." } },
+        { "question": "They ___ (enjoy) the party.", "options": ["enjoied", "enjoyed", "enjoyd", "enjoid"], "answer": 1, "explanation": { "tr": "o + y → ed.", "tk": "o + y → ed.", "ru": "o + y → ed." } },
+        { "question": "I am ___ (study) for my exam.", "options": ["studiing", "studying", "studing", "studyeing"], "answer": 1, "explanation": { "tr": "studying.", "tk": "studying.", "ru": "studying." } },
+        { "question": "She ___ (pay) by card.", "options": ["payed", "paid", "paied", "payd"], "answer": 1, "explanation": { "tr": "İstisna: paid.", "tk": "Kadadan çykma: paid.", "ru": "Исключение: paid." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "A2",
+    "topic": "Spelling: Words ending in -y – Spelling Exercise 3",
+    "title": "Words Ending in -y: Adjectives and Adverbs",
+    "body": {
+      "explanation": {
+        "tr": "-y ile biten sıfatlarda yazım:\n• Karşılaştırma: ünsüz + y → -ier / -iest: happy → happier → the happiest, easy → easier → the easiest, funny → funnier\n• Ünlü + y → değişmez: grey → greyer\n• Zarf (-ly): happy → happily, easy → easily, lucky → luckily, angry → angrily\n  İstisnalar: shy → shyly, dry → dryly (tek heceli)\n• İsim (-ness): happy → happiness, lazy → laziness, kind → kindness",
+        "tk": "-y bilen gutarýan sypatlarda ýazylyş:\n• Deňeşdirme: çekimsiz + y → -ier / -iest: happy → happier → the happiest, easy → easier → the easiest, funny → funnier\n• Çekimli + y → üýtgemeýär: grey → greyer\n• Hal (-ly): happy → happily, easy → easily, lucky → luckily, angry → angrily\n  Kadadan çykmalar: shy → shyly, dry → dryly (bir bogunly)\n• At (-ness): happy → happiness, lazy → laziness, kind → kindness",
+        "ru": "Написание прилагательных на -y:\n• Сравнение: согласная + y → -ier / -iest: happy → happier → the happiest, easy → easier → the easiest, funny → funnier\n• Гласная + y → без изменений: grey → greyer\n• Наречие (-ly): happy → happily, easy → easily, lucky → luckily, angry → angrily\n  Исключения: shy → shyly, dry → dryly (односложные)\n• Существительное (-ness): happy → happiness, lazy → laziness, kind → kindness"
+      },
+      "examples": [
+        { "en": "Today is easier than yesterday.", "tr": "Bugün dünden daha kolay.", "tk": "Şu gün düýnkiden aňsat.", "ru": "Сегодня легче, чем вчера." },
+        { "en": "She is the happiest girl in the class.", "tr": "Sınıftaki en mutlu kız o.", "tk": "Ol synpdaky iň bagtly gyz.", "ru": "Она самая счастливая девочка в классе." },
+        { "en": "He smiled happily.", "tr": "Mutlu bir şekilde gülümsedi.", "tk": "Ol bagtly ýylgyrdy.", "ru": "Он радостно улыбнулся." },
+        { "en": "Luckily, the bus was late too.", "tr": "Neyse ki otobüs de geç kalmıştı.", "tk": "Bagtymyza, awtobus hem gijä galdy.", "ru": "К счастью, автобус тоже опоздал." },
+        { "en": "That film was funnier than this one.", "tr": "O film bundan daha komikti.", "tk": "Ol film mundan gülkünçdi.", "ru": "Тот фильм был смешнее этого." },
+        { "en": "Laziness is a bad habit.", "tr": "Tembellik kötü bir alışkanlıktır.", "tk": "Ýaltalyk erbet endik.", "ru": "Лень — плохая привычка." }
+      ],
+      "exercises": [
+        { "question": "happy → comparative:", "options": ["happyer", "happier", "more happy", "happyier"], "answer": 1, "explanation": { "tr": "y → ier.", "tk": "y → ier.", "ru": "y → ier." } },
+        { "question": "easy → superlative:", "options": ["the easyest", "the easiest", "the most easy", "the easist"], "answer": 1, "explanation": { "tr": "y → iest.", "tk": "y → iest.", "ru": "y → iest." } },
+        { "question": "easy → adverb:", "options": ["easyly", "easily", "easly", "easilly"], "answer": 1, "explanation": { "tr": "y → ily.", "tk": "y → ily.", "ru": "y → ily." } },
+        { "question": "lucky → adverb:", "options": ["luckyly", "luckily", "lucky", "luckly"], "answer": 1, "explanation": { "tr": "luckily.", "tk": "luckily.", "ru": "luckily." } },
+        { "question": "funny → comparative:", "options": ["funnyer", "funnier", "funier", "more funny"], "answer": 1, "explanation": { "tr": "funnier.", "tk": "funnier.", "ru": "funnier." } },
+        { "question": "lazy → noun:", "options": ["lazyness", "laziness", "lazines", "lazeness"], "answer": 1, "explanation": { "tr": "y → iness.", "tk": "y → iness.", "ru": "y → iness." } },
+        { "question": "angry → adverb:", "options": ["angryly", "angrily", "angrly", "angerly"], "answer": 1, "explanation": { "tr": "angrily.", "tk": "angrily.", "ru": "angrily." } },
+        { "question": "shy → adverb:", "options": ["shily", "shyly", "shyli", "shylly"], "answer": 1, "explanation": { "tr": "Tek heceli → shyly.", "tk": "Bir bogunly → shyly.", "ru": "Односложное → shyly." } },
+        { "question": "heavy → superlative:", "options": ["the heavyest", "the heaviest", "the most heavy", "the heavest"], "answer": 1, "explanation": { "tr": "the heaviest.", "tk": "the heaviest.", "ru": "the heaviest." } },
+        { "question": "busy → comparative:", "options": ["busyer", "busier", "more busy", "bussier"], "answer": 1, "explanation": { "tr": "busier.", "tk": "busier.", "ru": "busier." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Spelling: Words ending in -y – Spelling Exercise 4",
+    "title": "Words Ending in -y: Mixed Spelling Test",
+    "body": {
+      "explanation": {
+        "tr": "Tüm -y kuralları bir arada:\n• Ünsüz + y: -ies (çoğul / 3. tekil), -ied (geçmiş), -ier/-iest (karşılaştırma), -ily (zarf), -iness (isim), -iful (beautiful), -iment (merriment)\n• Ünlü + y: değişmez: -s, -ed, -er (plays, played, greyer)\n• -ing: y her zaman kalır (carrying, enjoying)\n• -ish, -ism gibi i ile başlayan eklerde y kalır: babyish\n• İstisnalar: said, paid, laid; day → daily, gay → gaily",
+        "tk": "Ähli -y düzgünleri bilelikde:\n• Çekimsiz + y: -ies (köplük / 3-nji ýöňkeme), -ied (geçmiş), -ier/-iest (deňeşdirme), -ily (hal), -iness (at), -iful (beautiful), -iment (merriment)\n• Çekimli + y: üýtgemeýär: -s, -ed, -er (plays, played, greyer)\n• -ing: y hemişe galýar (carrying, enjoying)\n• i bilen başlanýan -ish ýaly goşulmalarda y galýar: babyish\n• Kadadan çykmalar: said, paid, laid; day → daily, gay → gaily",
+        "ru": "Все правила с -y вместе:\n• Согласная + y: -ies (мн. ч. / 3-е лицо), -ied (прошедшее), -ier/-iest (сравнение), -ily (наречие), -iness (существительное), -iful (beautiful), -iment (merriment)\n• Гласная + y: без изменений: -s, -ed, -er (plays, played, greyer)\n• -ing: y всегда сохраняется (carrying, enjoying)\n• Перед суффиксами на i, например -ish, y остаётся: babyish\n• Исключения: said, paid, laid; day → daily, gay → gaily"
+      },
+      "examples": [
+        { "en": "beauty → beautiful", "tr": "güzellik → güzel", "tk": "gözellik → owadan", "ru": "красота → красивый" },
+        { "en": "day → daily", "tr": "gün → günlük", "tk": "gün → gündelik", "ru": "день → ежедневно" },
+        { "en": "He is carrying two bags.", "tr": "İki çanta taşıyor.", "tk": "Ol iki sumka göterýär.", "ru": "Он несёт две сумки." },
+        { "en": "The flies are annoying.", "tr": "Sinekler can sıkıcı.", "tk": "Siňekler bizar edýär.", "ru": "Мухи раздражают." },
+        { "en": "She replied immediately.", "tr": "Hemen cevap verdi.", "tk": "Ol derrew jogap berdi.", "ru": "Она сразу ответила." },
+        { "en": "It was the busiest day of the year.", "tr": "Yılın en yoğun günüydü.", "tk": "Bu ýylyň iň işli güni boldy.", "ru": "Это был самый загруженный день года." }
+      ],
+      "exercises": [
+        { "question": "beauty + -ful =", "options": ["beautyful", "beautiful", "beautifull", "beautieful"], "answer": 1, "explanation": { "tr": "y → i.", "tk": "y → i.", "ru": "y → i." } },
+        { "question": "reply (past) =", "options": ["replyed", "replied", "replid", "replieed"], "answer": 1, "explanation": { "tr": "l + y → ied.", "tk": "l + y → ied.", "ru": "l + y → ied." } },
+        { "question": "day + -ly =", "options": ["dayly", "daily", "dailly", "daly"], "answer": 1, "explanation": { "tr": "İstisna: daily.", "tk": "Kadadan çykma: daily.", "ru": "Исключение: daily." } },
+        { "question": "carry + -ing =", "options": ["carriing", "carrying", "carying", "carring"], "answer": 1, "explanation": { "tr": "-ing'de y kalır.", "tk": "-ing-de y galýar.", "ru": "В -ing y остаётся." } },
+        { "question": "annoy (he/she) =", "options": ["annoies", "annoys", "annoyes", "anoys"], "answer": 1, "explanation": { "tr": "o + y → s.", "tk": "o + y → s.", "ru": "o + y → s." } },
+        { "question": "busy → superlative:", "options": ["the busyest", "the busiest", "the most busy", "the bussiest"], "answer": 1, "explanation": { "tr": "the busiest.", "tk": "the busiest.", "ru": "the busiest." } },
+        { "question": "lay (past) =", "options": ["layed", "laid", "laied", "layd"], "answer": 1, "explanation": { "tr": "İstisna: laid.", "tk": "Kadadan çykma: laid.", "ru": "Исключение: laid." } },
+        { "question": "Plural of \"journey\":", "options": ["journies", "journeys", "journeyes", "journys"], "answer": 1, "explanation": { "tr": "e + y → s.", "tk": "e + y → s.", "ru": "e + y → s." } },
+        { "question": "ready + -ness =", "options": ["readyness", "readiness", "readines", "redyness"], "answer": 1, "explanation": { "tr": "y → iness.", "tk": "y → iness.", "ru": "y → iness." } },
+        { "question": "Which word is spelled correctly?", "options": ["stories", "storys", "storyes", "storeys (for books)"], "answer": 0, "explanation": { "tr": "story → stories.", "tk": "story → stories.", "ru": "story → stories." } }
+      ]
+    }
+  }
+]

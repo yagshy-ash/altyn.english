@@ -1,0 +1,107 @@
+[
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Participles",
+    "title": "Participles: -ing and -ed Forms",
+    "body": {
+      "explanation": {
+        "tr": "İngilizcede iki participle vardır:\n• Present participle (V-ing): etken, devam eden → a crying baby (ağlayan bebek), the man sitting there\n• Past participle (V3): edilgen, tamamlanmış → a broken window (kırık pencere), a book written in 1900\n• -ing / -ed sıfatlar (duygu): \n  -ing → bir şeyin nasıl OLDUĞU: The film was boring. (sıkıcıydı)\n  -ed → kişinin nasıl HİSSETTİĞİ: I was bored. (sıkıldım)\n  interesting/interested, exciting/excited, tiring/tired, surprising/surprised\n• Participle cümlecikleri (kısaltma): Feeling tired, I went to bed. (= Because I felt tired…)",
+        "tk": "Iňlis dilinde iki participle bar:\n• Present participle (V-ing): işjeň, dowam edýän → a crying baby (aglaýan çaga), the man sitting there\n• Past participle (V3): edilýän, tamamlanan → a broken window (döwük penjire), a book written in 1900\n• -ing / -ed sypatlar (duýgy):\n  -ing → bir zadyň nähili BOLANDYGY: The film was boring. (ýakymsyzdy)\n  -ed → adamyň özüni nähili DUÝANDYGY: I was bored. (içim gysdy)\n  interesting/interested, exciting/excited, tiring/tired, surprising/surprised\n• Participle sözlemçeleri (gysgaltma): Feeling tired, I went to bed. (= Because I felt tired…)",
+        "ru": "В английском два причастия:\n• Present participle (V-ing): активное, в процессе → a crying baby (плачущий ребёнок), the man sitting there\n• Past participle (V3): пассивное, завершённое → a broken window (разбитое окно), a book written in 1900\n• Прилагательные на -ing / -ed (чувства):\n  -ing → какой предмет: The film was boring. (скучный)\n  -ed → что чувствует человек: I was bored. (мне было скучно)\n  interesting/interested, exciting/excited, tiring/tired, surprising/surprised\n• Причастные обороты: Feeling tired, I went to bed. (= Because I felt tired…)"
+      },
+      "examples": [
+        { "en": "Look at the crying baby.", "tr": "Ağlayan bebeğe bak.", "tk": "Aglaýan çaga seret.", "ru": "Посмотри на плачущего малыша." },
+        { "en": "Be careful! There's a broken glass on the floor.", "tr": "Dikkat! Yerde kırık bir bardak var.", "tk": "Seresap bol! Ýerde döwük stakan bar.", "ru": "Осторожно! На полу разбитый стакан." },
+        { "en": "The lesson was boring, so I was bored.", "tr": "Ders sıkıcıydı, bu yüzden sıkıldım.", "tk": "Sapak ýakymsyzdy, şonuň üçin içim gysdy.", "ru": "Урок был скучным, поэтому мне было скучно." },
+        { "en": "I'm interested in history. History is interesting.", "tr": "Tarihle ilgileniyorum. Tarih ilginçtir.", "tk": "Men taryh bilen gyzyklanýaryn. Taryh gyzykly.", "ru": "Мне интересна история. История интересная." },
+        { "en": "The cake made by my grandma is delicious.", "tr": "Büyükannemin yaptığı pasta nefis.", "tk": "Mamamyň bişiren torty örän tagamly.", "ru": "Торт, испечённый бабушкой, очень вкусный." },
+        { "en": "Feeling hungry, we stopped at a café.", "tr": "Acıkınca bir kafede durduk.", "tk": "Açanymyz üçin kafede saklandyk.", "ru": "Проголодавшись, мы зашли в кафе." }
+      ],
+      "exercises": [
+        { "question": "The match was very ___.", "options": ["excited", "exciting", "excite", "excitedly"], "answer": 1, "explanation": { "tr": "Maçın özelliği → exciting.", "tk": "Oýnuň häsiýeti → exciting.", "ru": "Каким был матч → exciting." } },
+        { "question": "The fans were very ___.", "options": ["excited", "exciting", "excite", "exciter"], "answer": 0, "explanation": { "tr": "Kişilerin duygusu → excited.", "tk": "Adamlaryň duýgusy → excited.", "ru": "Чувства людей → excited." } },
+        { "question": "I was ___ to hear the news.", "options": ["surprising", "surprised", "surprise", "surprises"], "answer": 1, "explanation": { "tr": "Hissettiğim → surprised.", "tk": "Duýanym → surprised.", "ru": "Что я почувствовал → surprised." } },
+        { "question": "Who is the girl ___ next to Tom?", "options": ["sit", "sitting", "sat", "sits"], "answer": 1, "explanation": { "tr": "Devam eden → sitting.", "tk": "Dowam edýän → sitting.", "ru": "В процессе → sitting." } },
+        { "question": "We found a ___ window.", "options": ["breaking", "broken", "broke", "break"], "answer": 1, "explanation": { "tr": "Edilgen → broken.", "tk": "Edilýän → broken.", "ru": "Пассивное → broken." } },
+        { "question": "This is a book ___ by a Turkmen author.", "options": ["writing", "written", "wrote", "writes"], "answer": 1, "explanation": { "tr": "Yazılmış → written.", "tk": "Ýazylan → written.", "ru": "Написанная → written." } },
+        { "question": "After a ___ day, I just want to sleep.", "options": ["tired", "tiring", "tire", "tiredly"], "answer": 1, "explanation": { "tr": "Günün özelliği → tiring.", "tk": "Günüň häsiýeti → tiring.", "ru": "Какой день → tiring." } },
+        { "question": "Are you ___ in art?", "options": ["interesting", "interested", "interest", "interests"], "answer": 1, "explanation": { "tr": "interested in.", "tk": "interested in.", "ru": "interested in." } },
+        { "question": "___ the door, she saw a big dog.", "options": ["Open", "Opening", "Opened", "To opening"], "answer": 1, "explanation": { "tr": "Eşzamanlı eylem → Opening.", "tk": "Bir wagtdaky hereket → Opening.", "ru": "Одновременное действие → Opening." } },
+        { "question": "The ___ children ran out of the school.", "options": ["laughing", "laughed", "laugh", "laughs"], "answer": 0, "explanation": { "tr": "Gülen çocuklar → laughing.", "tk": "Gülýän çagalar → laughing.", "ru": "Смеющиеся дети → laughing." } },
+        { "question": "The film was so ___ that I fell asleep.", "options": ["bored", "boring", "bore", "boredom"], "answer": 1, "explanation": { "tr": "Filmin özelliği → boring.", "tk": "Filmiň häsiýeti → boring.", "ru": "Каким был фильм → boring." } },
+        { "question": "Find the mistake: \"I am very boring in this lesson.\" (I feel bored)", "options": ["I am", "very", "boring", "in this lesson"], "answer": 2, "explanation": { "tr": "Duygu → bored.", "tk": "Duýgy → bored.", "ru": "Чувство → bored." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Passive Voice",
+    "title": "Passive Voice: B1 Review",
+    "body": {
+      "explanation": {
+        "tr": "Passive (edilgen), eylemi KİMİN yaptığı değil, NE YAPILDIĞI önemli olduğunda kullanılır.\n• Yapı: be + V3 (be zamana göre değişir)\n  Simple Present: Tea is grown in India.\n  Simple Past: The bridge was built in 1990.\n  Present Perfect: The car has been repaired.\n  will: The results will be announced tomorrow.\n  Modal: The work must be done today.\n  Progressive: The room is being cleaned.\n• Yapan önemliyse by ile: The book was written by Magtymguly.\n• Aktiften pasife: They make cars here. → Cars are made here.",
+        "tk": "Passive (edilýän) hereketi KIMIŇ edendigi däl-de, NÄME EDILENDIGI möhüm bolanda ulanylýar.\n• Gurluşy: be + V3 (be zamana görä üýtgeýär)\n  Simple Present: Tea is grown in India.\n  Simple Past: The bridge was built in 1990.\n  Present Perfect: The car has been repaired.\n  will: The results will be announced tomorrow.\n  Modal: The work must be done today.\n  Progressive: The room is being cleaned.\n• Ýerine ýetiren möhüm bolsa by bilen: The book was written by Magtymguly.\n• Işjeňden edilýäne: They make cars here. → Cars are made here.",
+        "ru": "Пассивный залог используется, когда важно не КТО сделал, а ЧТО сделано.\n• Схема: be + V3 (be меняется по времени)\n  Simple Present: Tea is grown in India.\n  Simple Past: The bridge was built in 1990.\n  Present Perfect: The car has been repaired.\n  will: The results will be announced tomorrow.\n  Модальные: The work must be done today.\n  Progressive: The room is being cleaned.\n• Если важен исполнитель — by: The book was written by Magtymguly.\n• Из актива в пассив: They make cars here. → Cars are made here."
+      },
+      "examples": [
+        { "en": "Cotton is grown in Turkmenistan.", "tr": "Türkmenistan'da pamuk yetiştirilir.", "tk": "Türkmenistanda pagta ösdürilip ýetişdirilýär.", "ru": "В Туркменистане выращивают хлопок." },
+        { "en": "This mosque was built in the 15th century.", "tr": "Bu cami 15. yüzyılda inşa edildi.", "tk": "Bu metjit XV asyrda guruldy.", "ru": "Эта мечеть была построена в XV веке." },
+        { "en": "My phone has been stolen!", "tr": "Telefonum çalındı!", "tk": "Telefonym ogurlandy!", "ru": "У меня украли телефон!" },
+        { "en": "The winners will be announced on Friday.", "tr": "Kazananlar cuma günü açıklanacak.", "tk": "Ýeňijiler anna güni yglan ediler.", "ru": "Победителей объявят в пятницу." },
+        { "en": "The road is being repaired.", "tr": "Yol tamir ediliyor.", "tk": "Ýol bejerilýär.", "ru": "Дорогу ремонтируют." },
+        { "en": "The poem was written by Magtymguly.", "tr": "Şiir Mahtumkulu tarafından yazıldı.", "tk": "Goşgy Magtymguly tarapyndan ýazyldy.", "ru": "Стихотворение написал Махтумкули." }
+      ],
+      "exercises": [
+        { "question": "English ___ all over the world.", "options": ["speaks", "is spoken", "is speaking", "spoke"], "answer": 1, "explanation": { "tr": "is + V3.", "tk": "is + V3.", "ru": "is + V3." } },
+        { "question": "The window ___ yesterday.", "options": ["was broken", "is broken", "broke was", "has broke"], "answer": 0, "explanation": { "tr": "Geçmiş passive: was + V3.", "tk": "Geçmiş passive: was + V3.", "ru": "Пассив в прошлом: was + V3." } },
+        { "question": "The letters ___ tomorrow.", "options": ["will send", "will be sent", "will sent", "are sending"], "answer": 1, "explanation": { "tr": "will be + V3.", "tk": "will be + V3.", "ru": "will be + V3." } },
+        { "question": "My car ___ already ___.", "options": ["has / been repaired", "has / repaired", "is / repairing", "was / repair"], "answer": 0, "explanation": { "tr": "has been + V3.", "tk": "has been + V3.", "ru": "has been + V3." } },
+        { "question": "The homework must ___ by Monday.", "options": ["finish", "be finished", "finished", "being finished"], "answer": 1, "explanation": { "tr": "Modal + be + V3.", "tk": "Modal + be + V3.", "ru": "Модальный + be + V3." } },
+        { "question": "Active → Passive: \"Someone cleans the office every day.\"", "options": ["The office cleans every day.", "The office is cleaned every day.", "The office was cleaned every day.", "The office is cleaning every day."], "answer": 1, "explanation": { "tr": "is cleaned.", "tk": "is cleaned.", "ru": "is cleaned." } },
+        { "question": "Active → Passive: \"They built the stadium in 2017.\"", "options": ["The stadium built in 2017.", "The stadium was built in 2017.", "The stadium is built in 2017.", "The stadium has built in 2017."], "answer": 1, "explanation": { "tr": "was built.", "tk": "was built.", "ru": "was built." } },
+        { "question": "Shh! A new song ___ right now.", "options": ["is recorded", "is being recorded", "records", "was recorded"], "answer": 1, "explanation": { "tr": "Şu an + passive → is being + V3.", "tk": "Häzir + passive → is being + V3.", "ru": "Сейчас + пассив → is being + V3." } },
+        { "question": "\"Romeo and Juliet\" was written ___ Shakespeare.", "options": ["from", "by", "with", "of"], "answer": 1, "explanation": { "tr": "Yapan → by.", "tk": "Ýerine ýetiren → by.", "ru": "Исполнитель → by." } },
+        { "question": "These cakes ___ fresh every morning.", "options": ["are made", "is made", "make", "are making"], "answer": 0, "explanation": { "tr": "cakes (çoğul) → are made.", "tk": "cakes (köplük) → are made.", "ru": "cakes (мн. ч.) → are made." } },
+        { "question": "The thief ___ by the police last night.", "options": ["caught", "was caught", "has caught", "is catch"], "answer": 1, "explanation": { "tr": "was caught.", "tk": "was caught.", "ru": "was caught." } },
+        { "question": "Find the mistake: \"The museum was open in 1990.\" (people opened it)", "options": ["The museum", "was open", "in", "1990"], "answer": 1, "explanation": { "tr": "Passive → was opened.", "tk": "Passive → was opened.", "ru": "Пассив → was opened." } }
+      ]
+    }
+  },
+  {
+    "skill": "GRAMMAR",
+    "level": "B1",
+    "topic": "Grammar & Vocabulary: Phrasal Verbs",
+    "title": "Common Phrasal Verbs",
+    "body": {
+      "explanation": {
+        "tr": "Phrasal verb = fiil + edat/zarf (up, down, on, off, out, in, back…). Anlam çoğu zaman kelimelerden tahmin edilemez.\n• get up (kalkmak), wake up (uyanmak), look for (aramak), look after (bakmak), give up (vazgeçmek/bırakmak), find out (öğrenmek), turn on/off (açmak/kapatmak), put on (giymek), take off (çıkarmak; uçak kalkmak), come back (geri dönmek), go out (dışarı çıkmak), run out of (tükenmek), set up (kurmak)\n• Ayrılabilenler: nesne ortada olabilir → Turn the light off. / Turn off the light. Zamirle mutlaka ortada: Turn it off. (✗ Turn off it)\n• Ayrılamayanlar: look after the baby, look for my keys",
+        "tk": "Phrasal verb = işlik + sözlem/hal (up, down, on, off, out, in, back…). Manysyny köplenç sözlerden çaklap bolmaýar.\n• get up (turmak), wake up (oýanmak), look for (gözlemek), look after (seretmek), give up (taşlamak), find out (bilmek), turn on/off (ýakmak/öçürmek), put on (geýmek), take off (çykarmak; uçar galmak), come back (gaýdyp gelmek), go out (daşary çykmak), run out of (gutarmak), set up (döretmek)\n• Aýrylýanlar: doldurgyç ortada bolup biler → Turn the light off. / Turn off the light. Çalyşma bilen hökman ortada: Turn it off. (✗ Turn off it)\n• Aýrylmaýanlar: look after the baby, look for my keys",
+        "ru": "Фразовый глагол = глагол + частица/предлог (up, down, on, off, out, in, back…). Значение часто нельзя угадать по частям.\n• get up (вставать), wake up (просыпаться), look for (искать), look after (присматривать), give up (бросать/сдаваться), find out (выяснить), turn on/off (включить/выключить), put on (надеть), take off (снять; взлететь), come back (вернуться), go out (выйти, сходить куда-то), run out of (закончиться), set up (основать)\n• Разделяемые: дополнение может стоять в середине → Turn the light off. / Turn off the light. С местоимением — только в середине: Turn it off. (✗ Turn off it)\n• Неразделяемые: look after the baby, look for my keys"
+      },
+      "examples": [
+        { "en": "I get up at 6 every morning.", "tr": "Her sabah 6'da kalkarım.", "tk": "Men her ir sagat 6-da turýaryn.", "ru": "Я встаю в 6 каждое утро." },
+        { "en": "Can you look after my cat this weekend?", "tr": "Bu hafta sonu kedime bakabilir misin?", "tk": "Bu dynç günleri pişigime seredip bilersiňmi?", "ru": "Можешь присмотреть за моей кошкой в выходные?" },
+        { "en": "I'm looking for my glasses.", "tr": "Gözlüğümü arıyorum.", "tk": "Men äýnegimi gözleýärin.", "ru": "Я ищу очки." },
+        { "en": "He gave up smoking last year.", "tr": "Geçen yıl sigarayı bıraktı.", "tk": "Ol geçen ýyl çilim çekmegi taşlady.", "ru": "В прошлом году он бросил курить." },
+        { "en": "We've run out of milk.", "tr": "Sütümüz bitti.", "tk": "Süýdümiz gutardy.", "ru": "У нас закончилось молоко." },
+        { "en": "It's cold. Put your coat on.", "tr": "Hava soğuk. Paltonu giy.", "tk": "Sowuk. Paltoňy geý.", "ru": "Холодно. Надень пальто." }
+      ],
+      "exercises": [
+        { "question": "Please ___ the TV. I'm trying to sleep.", "options": ["turn on", "turn off", "turn up", "turn in"], "answer": 1, "explanation": { "tr": "Kapat → turn off.", "tk": "Öçür → turn off.", "ru": "Выключи → turn off." } },
+        { "question": "The plane ___ at 9 o'clock.", "options": ["took off", "took on", "took up", "took out"], "answer": 0, "explanation": { "tr": "Uçak kalktı → took off.", "tk": "Uçar galdy → took off.", "ru": "Самолёт взлетел → took off." } },
+        { "question": "I need to ___ what time the train leaves.", "options": ["find out", "find up", "look after", "give up"], "answer": 0, "explanation": { "tr": "Öğrenmek → find out.", "tk": "Bilmek → find out.", "ru": "Выяснить → find out." } },
+        { "question": "Don't ___! You can do it!", "options": ["give up", "give in up", "get up", "look up"], "answer": 0, "explanation": { "tr": "Pes etme → give up.", "tk": "Ýeňilme → give up.", "ru": "Не сдавайся → give up." } },
+        { "question": "Who ___ your little brother when your parents are at work?", "options": ["looks for", "looks after", "looks up", "looks out"], "answer": 1, "explanation": { "tr": "Bakmak → look after.", "tk": "Seretmek → look after.", "ru": "Присматривать → look after." } },
+        { "question": "We ___ of petrol on the way home.", "options": ["ran out", "ran off", "ran up", "ran in"], "answer": 0, "explanation": { "tr": "run out of = tükenmek.", "tk": "run out of = gutarmak.", "ru": "run out of = закончиться." } },
+        { "question": "\"Where's the light switch? Can you turn ___ on?\"", "options": ["on it", "it", "it on it", "them"], "answer": 1, "explanation": { "tr": "turn it on (zamir ortada).", "tk": "turn it on (çalyşma ortada).", "ru": "turn it on (местоимение в середине)." } },
+        { "question": "My alarm didn't ring, so I didn't ___ on time.", "options": ["wake up", "wake on", "wake off", "wake out"], "answer": 0, "explanation": { "tr": "wake up = uyanmak.", "tk": "wake up = oýanmak.", "ru": "wake up = проснуться." } },
+        { "question": "When will you ___ from your holiday?", "options": ["come back", "come on", "come up", "come off"], "answer": 0, "explanation": { "tr": "Geri dönmek → come back.", "tk": "Gaýdyp gelmek → come back.", "ru": "Вернуться → come back." } },
+        { "question": "Take your shoes ___ before you come in.", "options": ["on", "off", "up", "out"], "answer": 1, "explanation": { "tr": "Çıkarmak → take off.", "tk": "Çykarmak → take off.", "ru": "Снять → take off." } },
+        { "question": "They ___ a new company last year.", "options": ["set up", "set off", "set in", "set out of"], "answer": 0, "explanation": { "tr": "Kurmak → set up.", "tk": "Döretmek → set up.", "ru": "Основать → set up." } },
+        { "question": "Find the mistake: \"Please turn off it.\"", "options": ["Please", "turn off it", "There is no mistake", "Please turn"], "answer": 1, "explanation": { "tr": "turn it off.", "tk": "turn it off.", "ru": "turn it off." } }
+      ]
+    }
+  }
+]
