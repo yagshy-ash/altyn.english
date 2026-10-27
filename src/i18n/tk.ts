@@ -42,6 +42,7 @@ export const tk: Dict = {
     password: "Açar sözi",
     submit: "Gir",
     error: "Ulanyjy ady ýa-da açar sözi nädogry.",
+    closed: "Hasabyňy mugallymyň ýapdy. Maglumat üçin mugallymyň bilen gürleş.",
     tagline: "Iňlis dilini her gün az-azdan, gyzyklanyp öwren.",
   },
   nav: {
@@ -135,6 +136,10 @@ export const tk: Dict = {
     inactive: "Işjeň däl",
     deactivate: "Işjeňligini aýyr",
     activate: "Işjeňleşdir",
+    deactivateConfirm: "{name} işjeňsizleşdirilsinmi? Derrew ulgamdan çykarylar we täzeden işjeňleşdirilýänçä girip bilmez. Maglumatlary pozulmaz.",
+    deleteStudent: "Okuwçyny poz",
+    deleteConfirm: "{name} we onuň ähli okuw maglumatlary (synanyşyklar, ýalňyşlar, kartlar, wagt, öý işleri) HEMIŞELIK pozular. Tassyklamak üçin ulanyjy adyny ýaz: {name}",
+    accessHint: "Işjeňsizleşdir: giriş derrew ýapylýar, maglumatlar galýar, islän wagtyň yzyna açyp bilersiň. Poz: giriş ýapylýar we hemme zat hemişelik pozulýar.",
     resetPassword: "Täze açar sözi",
     passwordReset: "Täze açar sözi:",
     weekTime: "Bu hepde",

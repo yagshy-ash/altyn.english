@@ -5,7 +5,8 @@ import { SkillIcon } from "@/components/skill-icon";
 import { SKILLS } from "@/lib/skills";
 import { LoginForm } from "./login-form";
 
-export default async function LoginPage() {
+export default async function LoginPage({ searchParams }: PageProps<"/login">) {
+  const { closed } = await searchParams;
   const { locale, t } = await getT();
   return (
     <main className="grid flex-1 lg:grid-cols-2">
@@ -32,7 +33,7 @@ export default async function LoginPage() {
           </div>
           <h1 className="h1">{t.login.title}</h1>
           <p className="mt-2 mb-6 font-semibold text-muted">{t.login.subtitle}</p>
-          <LoginForm t={t.login} />
+          <LoginForm t={t.login} closed={closed === "1"} />
         </div>
       </section>
     </main>

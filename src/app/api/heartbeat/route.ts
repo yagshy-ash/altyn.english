@@ -11,6 +11,9 @@ const AREAS = new Set(["home", "vocabulary", "reading", "listening", "grammar", 
 export async function POST(req: Request) {
   const session = await readSession();
   if (!session || session.role !== "STUDENT") return new Response(null, { status: 204 });
+  // Kapatılmış ya da silinmiş hesap süre yazmaz
+  const user = await db.user.findUnique({ where: { id: session.userId }, select: { active: true } });
+  if (!user?.active) return new Response(null, { status: 204 });
 
   const { area } = (await req.json().catch(() => ({}))) as { area?: string };
   const safeArea = area && AREAS.has(area) ? area : "home";

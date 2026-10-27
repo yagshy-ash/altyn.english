@@ -30,6 +30,16 @@
       "exportedName": "login",
       "filename": "src/app/actions/auth.ts"
     },
+    "4026bf1719e9f68b4d6fda22866cff243d50278f20": {
+      "workers": {
+        "app/teacher/students/[id]/page": {
+          "moduleId": 67961,
+          "async": true
+        }
+      },
+      "exportedName": "deleteStudent",
+      "filename": "src/app/actions/students.ts"
+    },
     "40e7bf69dcb69d44dc01ce5bb4bc6a3e9dd1123fc3": {
       "workers": {
         "app/teacher/students/[id]/page": {

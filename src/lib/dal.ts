@@ -21,7 +21,8 @@ export const getCurrentUser = cache(async () => {
 
 export async function requireUser(role?: Role) {
   const user = await getCurrentUser();
-  if (!user) redirect("/login");
+  // Çerez var ama hesap kapatılmış/silinmiş: çerezi silmeden /login'e gitmek proxy ile döngü yapar
+  if (!user) redirect((await readSession()) ? "/api/session/end" : "/login");
   if (role && user.role !== role) redirect(homeFor(user.role));
   return user;
 }

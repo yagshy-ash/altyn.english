@@ -1,11 +1,23 @@
 "use client";
 
 import { useState, useTransition } from "react";
-import { resetStudentPassword, toggleStudentActive, updateStudentLevel } from "@/app/actions/students";
+import { deleteStudent, resetStudentPassword, toggleStudentActive, updateStudentLevel } from "@/app/actions/students";
 import { Level } from "@/generated/prisma/enums";
-import type { Dict } from "@/i18n";
+import { fmt, type Dict } from "@/i18n";
 
-export function StudentControls({ studentId, level, active, t }: { studentId: string; level: Level; active: boolean; t: Dict }) {
+export function StudentControls({
+  studentId,
+  username,
+  level,
+  active,
+  t,
+}: {
+  studentId: string;
+  username: string;
+  level: Level;
+  active: boolean;
+  t: Dict;
+}) {
   const [pending, start] = useTransition();
   const [newPassword, setNewPassword] = useState<string | null>(null);
 
@@ -30,10 +42,28 @@ export function StudentControls({ studentId, level, active, t }: { studentId: st
         <button className="btn" disabled={pending} onClick={() => start(async () => setNewPassword(await resetStudentPassword(studentId)))}>
           {t.students.resetPassword}
         </button>
-        <button className="btn" disabled={pending} onClick={() => start(() => toggleStudentActive(studentId))}>
+        <button
+          className={`btn ${active ? "" : "btn-green"}`}
+          disabled={pending}
+          onClick={() => {
+            if (active && !confirm(fmt(t.students.deactivateConfirm, { name: username }))) return;
+            start(() => toggleStudentActive(studentId));
+          }}
+        >
           {active ? t.students.deactivate : t.students.activate}
         </button>
+        <button
+          className="btn btn-red"
+          disabled={pending}
+          onClick={() => {
+            if (prompt(fmt(t.students.deleteConfirm, { name: username }))?.trim().toLowerCase() !== username) return;
+            start(() => deleteStudent(studentId));
+          }}
+        >
+          {t.students.deleteStudent}
+        </button>
       </div>
+      <p className="text-xs font-semibold text-muted">{t.students.accessHint}</p>
 
       {newPassword && (
         <p role="status" className="rounded-xl bg-green-soft p-3 text-sm">

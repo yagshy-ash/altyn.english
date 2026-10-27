@@ -41,6 +41,7 @@ export const tr = {
     password: "Şifre",
     submit: "Giriş yap",
     error: "Kullanıcı adı veya şifre hatalı.",
+    closed: "Hesabın öğretmenin tarafından kapatıldı. Bilgi için öğretmeninle konuş.",
     tagline: "İngilizceyi her gün biraz, eğlenerek öğren.",
   },
   nav: {
@@ -134,6 +135,10 @@ export const tr = {
     inactive: "Pasif",
     deactivate: "Pasifleştir",
     activate: "Aktifleştir",
+    deactivateConfirm: "{name} pasifleştirilsin mi? Hemen çıkış yapılır ve tekrar aktifleştirene kadar giriş yapamaz. Verileri silinmez.",
+    deleteStudent: "Öğrenciyi sil",
+    deleteConfirm: "{name} ve tüm çalışma verileri (denemeler, hatalar, kartlar, süreler, ödevler) KALICI olarak silinecek. Onaylamak için kullanıcı adını yaz: {name}",
+    accessHint: "Pasifleştir: erişim hemen kapanır, veriler kalır, istediğin zaman geri açarsın. Sil: erişim kapanır ve her şey kalıcı olarak silinir.",
     resetPassword: "Yeni şifre",
     passwordReset: "Yeni şifre:",
     weekTime: "Bu hafta",

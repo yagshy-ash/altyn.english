@@ -2,6 +2,7 @@
   "/_global-error/page": "/_global-error",
   "/_not-found/page": "/_not-found",
   "/api/heartbeat/route": "/api/heartbeat",
+  "/api/session/end/route": "/api/session/end",
   "/apple-icon.png/route": "/apple-icon.png",
   "/favicon.ico/route": "/favicon.ico",
   "/icon.svg/route": "/icon.svg",

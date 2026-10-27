@@ -203,7 +203,7 @@ export default async function StudentProfile({ params }: PageProps<"/teacher/stu
         <aside className="flex flex-col gap-6">
           <section className="card">
             <h2 className="mb-3 font-black">{t.students.controls}</h2>
-            <StudentControls studentId={student.id} level={student.level} active={student.active} t={t} />
+            <StudentControls studentId={student.id} username={student.username} level={student.level} active={student.active} t={t} />
             {student.note && <p className="mt-4 border-l-4 border-yellow pl-3 text-sm font-semibold text-muted">{student.note}</p>}
           </section>
 

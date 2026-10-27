@@ -99,6 +99,12 @@
       "namedRegex": "^/api/heartbeat(?:/)?$"
     },
     {
+      "page": "/api/session/end",
+      "regex": "^/api/session/end(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/session/end(?:/)?$"
+    },
+    {
       "page": "/apple-icon.png",
       "regex": "^/apple\\-icon\\.png(?:/)?$",
       "routeKeys": {},

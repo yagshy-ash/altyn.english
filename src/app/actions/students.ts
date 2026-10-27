@@ -3,6 +3,7 @@
 import bcrypt from "bcryptjs";
 import { z } from "zod";
 import { revalidatePath } from "next/cache";
+import { redirect } from "next/navigation";
 import { db } from "@/lib/db";
 import { requireTeacher } from "@/lib/dal";
 import { Level, Locale } from "@/generated/prisma/enums";
@@ -77,6 +78,15 @@ export async function toggleStudentActive(studentId: string) {
   const student = await ownStudent(studentId);
   await db.user.update({ where: { id: student.id }, data: { active: !student.active } });
   revalidatePath("/teacher", "layout");
+}
+
+// Kalıcı silme: denemeler, hatalar, kartlar, süreler, ödevler ve kişisel paylaşımlar da silinir (onDelete: Cascade).
+// Öğrencinin açık oturumu bir sonraki istekte kapanır (dal.ts).
+export async function deleteStudent(studentId: string) {
+  const student = await ownStudent(studentId);
+  await db.user.delete({ where: { id: student.id } });
+  revalidatePath("/teacher", "layout");
+  redirect("/teacher/students");
 }
 
 export async function resetStudentPassword(studentId: string) {
