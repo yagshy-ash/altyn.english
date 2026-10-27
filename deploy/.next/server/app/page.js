@@ -1,10 +1,10 @@
 var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/app/page.js")
-R.c("server/chunks/ssr/[root-of-the-server]__1ixw5pp8mcpp1._.js")
-R.c("server/chunks/ssr/node_modules_next_dist_0janj0i6dqko7._.js")
-R.c("server/chunks/ssr/node_modules_next_dist_esm_build_templates_app-page_0dq5iwc4xesq1.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0h2fm7ym52j3z._.js")
+R.c("server/chunks/ssr/node_modules_1fzbt3m5cwwpd._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_esm_build_templates_app-page_0z4j_ro_78be4.js")
 R.c("server/chunks/ssr/_1-96r6e03h7_x._.js")
 R.c("server/chunks/ssr/[root-of-the-server]__1wl0vw-n8lbkn._.js")
-R.c("server/chunks/ssr/node_modules_1fzbt3m5cwwpd._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_0janj0i6dqko7._.js")
 R.c("server/chunks/ssr/[root-of-the-server]__18qng18ok5a12._.js")
 R.c("server/chunks/ssr/node_modules_next_dist_compiled_@edge-runtime_cookies_index_1kiz_an963mbg.js")
 R.c("server/chunks/ssr/src_i18n_index_ts_0vpri385fufim._.js")
@@ -14,5 +14,5 @@ R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_forbidde
 R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_unauthorized_0l_sp0xky89qu.js")
 R.c("server/chunks/ssr/node_modules_next_dist_1c5t_vsn6u8fr._.js")
 R.c("server/chunks/ssr/_next-internal_server_app_page_actions_0hhsz1jew5ls7.js")
-R.m(99726)
-module.exports=R.m(99726).exports
+R.m(62665)
+module.exports=R.m(62665).exports

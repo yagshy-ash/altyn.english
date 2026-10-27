@@ -1,6 +1,6 @@
 var R=require("../../../chunks/ssr/[turbopack]_runtime.js")("server/app/student/chat/page.js")
-R.c("server/chunks/ssr/[root-of-the-server]__08de2g9oex424._.js")
-R.c("server/chunks/ssr/node_modules_next_dist_esm_build_templates_app-page_0539hypg6knnl.js")
+R.c("server/chunks/ssr/[root-of-the-server]__1wj77smf9fz40._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_esm_build_templates_app-page_1_i9qeb8s1gfm.js")
 R.c("server/chunks/ssr/[root-of-the-server]__1wl0vw-n8lbkn._.js")
 R.c("server/chunks/ssr/node_modules_next_dist_0janj0i6dqko7._.js")
 R.c("server/chunks/ssr/[root-of-the-server]__18qng18ok5a12._.js")
@@ -26,5 +26,5 @@ R.c("server/chunks/ssr/_0wntw2pxzyznw._.js")
 R.c("server/chunks/ssr/_1u5--b6q6hegq._.js")
 R.c("server/chunks/ssr/node_modules_zod_v4_0jcz0spao3214._.js")
 R.c("server/chunks/ssr/node_modules_@anthropic-ai_sdk_0xbckx3ju33r2._.js")
-R.m(70554)
-module.exports=R.m(70554).exports
+R.m(13571)
+module.exports=R.m(13571).exports
