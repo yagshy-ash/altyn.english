@@ -93,20 +93,38 @@ export async function generateContent(job: ContentJob): Promise<GeneratedContent
   return { title: out.title, topic: out.topic, body };
 }
 
-// Öğretmenin kendi metni: metin olduğu gibi kalır, yalnızca kelime listesi ve sorular üretilir
-const TextQuiz = ReadingBody.pick({ glossary: true, questions: true }).extend({ title: z.string(), topic: z.string() });
+// Öğretmenin kendi metni: metin ve öğretmenin soruları olduğu gibi kalır; YZ kelime listesi,
+// öğretmen sorularına açıklama ve istenirse ek sorular üretir
+const L3 = z.object({ tr: z.string(), tk: z.string(), ru: z.string() });
+const TextQuiz = ReadingBody.pick({ glossary: true, questions: true }).extend({
+  title: z.string(),
+  topic: z.string(),
+  teacherExplanations: z.array(L3),
+});
 
-export async function quizForText(opts: { text: string; level: Level; skill: "READING" | "LISTENING"; count: number }) {
+export type TeacherQuestion = { question: string; options: string[]; answer: number };
+
+export async function quizForText(opts: {
+  text: string;
+  level: Level;
+  skill: "READING" | "LISTENING";
+  count: number;
+  teacherQuestions: TeacherQuestion[];
+}) {
+  const given = opts.teacherQuestions
+    .map((q, i) => `${i + 1}. ${q.question}\n${q.options.map((o, j) => `   ${"ABCD"[j]}) ${o}${j === q.answer ? "  (correct)" : ""}`).join("\n")}`)
+    .join("\n");
   const user = `Level: ${LEVEL_GUIDE[opts.level]}
 The teacher wrote the text below for ${opts.skill === "LISTENING" ? "a listening exercise (students hear it read aloud and do not see it)" : "a reading exercise"}. Do not rewrite or correct the text.
 Create:
 - "glossary": 8–12 words or phrases that appear in the text and may be new at this level, with tr/tk/ru meanings as used in the text.
-- "questions": exactly ${opts.count} multiple-choice comprehension questions in English with 4 options each, answerable only from the text${opts.skill === "LISTENING" ? " by listening" : ""}. Mix detail, main-idea and inference questions suited to the level; each has a short explanation in all three languages.
+- "teacherExplanations": ${opts.teacherQuestions.length ? `exactly ${opts.teacherQuestions.length} items, one per teacher question below in the same order: a short explanation in all three languages of why the marked answer is correct according to the text. Quote the answer itself; never refer to options by letter.` : "an empty array."}
+- "questions": ${opts.count ? `exactly ${opts.count} new multiple-choice comprehension questions in English with 4 options each, answerable only from the text${opts.skill === "LISTENING" ? " by listening" : ""}. Do not repeat or rephrase the teacher's questions. Mix detail, main-idea and inference questions suited to the level; each has a short explanation in all three languages.` : "an empty array."}
 - "title": a short English title for the text; "topic": the topic in a few English words.
 
 <text>
 ${opts.text}
-</text>`;
+</text>${given ? `\n\n<teacher_questions>\n${given}\n</teacher_questions>` : ""}`;
   const response = await client().beta.messages.parse({
     model: MODEL,
     max_tokens: 16000,

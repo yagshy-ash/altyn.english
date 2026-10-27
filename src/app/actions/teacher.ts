@@ -42,28 +42,65 @@ export async function generate(_prev: FormState, formData: FormData): Promise<Fo
   redirect(`/teacher/content/${id}`);
 }
 
-// Öğretmenin kendi metni: metin aynen saklanır, YZ yalnızca kelime listesi ve sorular üretir
+// Öğretmenin kendi metni: metin ve öğretmenin soruları aynen saklanır; YZ kelime listesi,
+// açıklamalar ve istenen sayıda ek soru üretir (öğretmen 5 + YZ 3 = 8 soru)
+const TeacherQuestions = z
+  .array(
+    z
+      .object({
+        question: z.string().trim().min(1).max(500),
+        options: z.array(z.string().trim().min(1).max(300)).min(2).max(4),
+        answer: z.number().int().min(0),
+      })
+      .refine((q) => q.answer < q.options.length && new Set(q.options).size === q.options.length),
+  )
+  .max(15);
 
 export async function createFromText(_prev: FormState, formData: FormData): Promise<FormState> {
   const teacher = await requireTeacher();
   const skill = z.enum(["READING", "LISTENING"]).parse(formData.get("skill"));
   const level = z.enum(Level).parse(formData.get("level"));
-  const count = z.coerce.number().int().min(3).max(10).parse(formData.get("count"));
+  const count = z.coerce.number().int().min(0).max(10).parse(formData.get("count"));
   const givenTitle = String(formData.get("title") ?? "").trim().slice(0, 200);
   const text = String(formData.get("text") ?? "").replace(/\r\n?/g, "\n").trim();
   if (text.split(/\s+/).length < 30) return { error: "tooShort" };
   if (text.length > MAX_TEXT_CHARS) return { error: "tooLong" };
+  let manual: z.infer<typeof TeacherQuestions>;
+  try {
+    manual = TeacherQuestions.parse(JSON.parse(String(formData.get("questions") || "[]")));
+  } catch {
+    return { error: "badQuestion" };
+  }
+  if (manual.length + count === 0) return { error: "noQuestions" };
   // Boş satırlar paragrafları ayırır; hiç boş satır yoksa her satır ayrı paragraf (diyaloglar için)
   const blocks = /\n\s*\n/.test(text) ? text.split(/\n\s*\n/) : text.split("\n");
   const parts = blocks.map((p) => p.replace(/\s+/g, " ").trim()).filter(Boolean);
+  const textKey = skill === "READING" ? "passage" : "script";
+  const noExplanation = { tr: "", tk: "", ru: "" };
   let id: string;
   try {
-    const quiz = await quizForText({ text: parts.join("\n\n"), level, skill, count });
-    const body = { [skill === "READING" ? "passage" : "script"]: parts, glossary: quiz.glossary, questions: quiz.questions };
-    const missing = missingPart(skill, body);
-    if (missing) throw new Error(`Text quiz incomplete (no ${missing})`);
+    let body;
+    let title = givenTitle;
+    let topic = givenTitle;
+    try {
+      const quiz = await quizForText({ text: parts.join("\n\n"), level, skill, count, teacherQuestions: manual });
+      body = {
+        [textKey]: parts,
+        glossary: quiz.glossary,
+        questions: [...manual.map((q, i) => ({ ...q, explanation: quiz.teacherExplanations[i] ?? noExplanation })), ...quiz.questions],
+      };
+      if (missingPart(skill, body)) throw new Error("Text quiz incomplete");
+      title ||= quiz.title;
+      topic = quiz.topic;
+    } catch (e) {
+      // YZ'den ek soru istenmediyse YZ olmadan da kaydedilir: öğretmenin soruları, açıklamasız ve kelime listesiz
+      if (count > 0 || !isAiUnavailable(e)) throw e;
+      body = { [textKey]: parts, glossary: [], questions: manual.map((q) => ({ ...q, explanation: noExplanation })) };
+      title ||= parts[0].split(/\s+/).slice(0, 6).join(" ");
+      topic ||= title;
+    }
     const created = await db.content.create({
-      data: { skill, level, topic: quiz.topic, title: givenTitle || quiz.title, body, aiGenerated: false, createdById: teacher.id },
+      data: { skill, level, topic, title, body, aiGenerated: false, createdById: teacher.id },
     });
     id = created.id;
   } catch (e) {

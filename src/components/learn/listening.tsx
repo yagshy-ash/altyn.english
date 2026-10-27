@@ -95,17 +95,19 @@ export function Listening({ contentId, body, locale, t }: { contentId: string; b
         </section>
       )}
 
-      <details className="card">
-        <summary className="cursor-pointer font-black">{t.quiz.glossary}</summary>
-        <dl className="mt-3 grid gap-2 sm:grid-cols-2">
-          {body.glossary.map((g) => (
-            <div key={g.word} className="rounded-xl bg-bg p-2">
-              <dt className="font-extrabold">{g.word}</dt>
-              <dd className="text-sm font-semibold text-muted">{g[locale]}</dd>
-            </div>
-          ))}
-        </dl>
-      </details>
+      {body.glossary.length > 0 && (
+        <details className="card">
+          <summary className="cursor-pointer font-black">{t.quiz.glossary}</summary>
+          <dl className="mt-3 grid gap-2 sm:grid-cols-2">
+            {body.glossary.map((g) => (
+              <div key={g.word} className="rounded-xl bg-bg p-2">
+                <dt className="font-extrabold">{g.word}</dt>
+                <dd className="text-sm font-semibold text-muted">{g[locale]}</dd>
+              </div>
+            ))}
+          </dl>
+        </details>
+      )}
 
       <h2 className="h2">{t.quiz.questions}</h2>
       <Quiz contentId={contentId} items={body.questions} locale={locale} t={t} backHref="/student/listening" onFinished={() => { setDone(true); setShowScript(true); }} />

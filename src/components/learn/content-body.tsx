@@ -104,6 +104,7 @@ export function ContentBody({
 }
 
 function Glossary({ items, locale, t }: { items: ReadingBody["glossary"]; locale: AppLocale; t: Dict }) {
+  if (!items.length) return null;
   return (
     <details className="card" open>
       <summary className="cursor-pointer font-black">{t.quiz.glossary}</summary>
