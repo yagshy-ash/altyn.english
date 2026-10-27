@@ -199,6 +199,7 @@ export const tr = {
     hint: "Tüm seviyeler birlikte · çalıştıkça XP kazanırsın",
     you: "Sen",
     empty: "Henüz sıralama yok.",
+    showAll: "Tüm sıralama ({n} öğrenci)",
   },
   videos: {
     title: "Videolar",

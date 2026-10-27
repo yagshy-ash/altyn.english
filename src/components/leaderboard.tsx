@@ -1,5 +1,5 @@
 import { Trophy } from "lucide-react";
-import type { Dict } from "@/i18n";
+import { fmt, type Dict } from "@/i18n";
 import type { RankRow } from "@/lib/ranking";
 
 const MEDAL = ["", "🥇", "🥈", "🥉"];
@@ -17,11 +17,11 @@ function Row({ r, mine, you }: { r: RankRow; mine: boolean; you: string }) {
   );
 }
 
-// İlk 10 + (listede değilse) bakan öğrencinin kendi satırı
-export function Leaderboard({ rows, t, meId, limit = 10 }: { rows: RankRow[]; t: Dict; meId?: string; limit?: number }) {
-  const top = rows.slice(0, limit);
-  const me = meId ? rows.find((r) => r.id === meId) : undefined;
-  const showMe = me && !top.some((r) => r.id === me.id);
+// İlk 3 hep görünür; bakan öğrenci ilk 3'te değilse kendi satırı da görünür; tam liste açılır-kapanır
+export function Leaderboard({ rows, t, meId }: { rows: RankRow[]; t: Dict; meId?: string }) {
+  const top = rows.slice(0, 3);
+  const rest = rows.slice(3);
+  const me = meId ? rest.find((r) => r.id === meId) : undefined;
 
   return (
     <section className="card flex flex-col gap-2">
@@ -34,7 +34,7 @@ export function Leaderboard({ rows, t, meId, limit = 10 }: { rows: RankRow[]; t:
           {top.map((r) => (
             <Row key={r.id} r={r} mine={r.id === meId} you={t.ranking.you} />
           ))}
-          {showMe && (
+          {me && (
             <>
               <li className="text-center text-muted" aria-hidden>⋯</li>
               <Row r={me} mine you={t.ranking.you} />
@@ -43,6 +43,18 @@ export function Leaderboard({ rows, t, meId, limit = 10 }: { rows: RankRow[]; t:
         </ol>
       ) : (
         <p className="font-semibold text-muted">{t.ranking.empty}</p>
+      )}
+      {rest.length > 0 && (
+        <details>
+          <summary className="cursor-pointer rounded-xl px-2 py-1.5 text-sm font-extrabold text-blue hover:bg-bg">
+            {fmt(t.ranking.showAll, { n: rows.length })}
+          </summary>
+          <ol className="mt-1 flex flex-col">
+            {rest.map((r) => (
+              <Row key={r.id} r={r} mine={r.id === meId} you={t.ranking.you} />
+            ))}
+          </ol>
+        </details>
       )}
     </section>
   );

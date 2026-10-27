@@ -200,6 +200,7 @@ export const tk: Dict = {
     hint: "Ähli derejeler bilelikde · okadygyňça XP gazanýarsyň",
     you: "Sen",
     empty: "Entek reýting ýok.",
+    showAll: "Doly reýting ({n} okuwçy)",
   },
   videos: {
     title: "Wideolar",
