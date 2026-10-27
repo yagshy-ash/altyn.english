@@ -35,7 +35,7 @@ export function GenerateForm({ t, defaultLevel, defaultSkill }: { t: Dict; defau
       <button className="btn btn-green py-3" disabled={pending}>
         <Sparkles size={18} /> {pending ? t.content.generating : t.content.generate}
       </button>
-      {state?.error && <p className="font-bold text-red-dark">{t.common.error}</p>}
+      {state?.error && <p className="font-bold text-red-dark">{state.error === "ai" ? t.common.aiOff : t.common.error}</p>}
     </form>
   );
 }

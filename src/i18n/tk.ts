@@ -33,6 +33,7 @@ export const tk: Dict = {
     tryAgain: "Täzeden synanyş",
     words: "söz",
     error: "Ýalňyşlyk ýüze çykdy. Täzeden synanyşyň.",
+    aiOff: "Emeli aň kömekçisi häzirki wagtda elýeterli däl. Beýleki bölümler bilen işlemegi dowam etdirip bilersiň.",
   },
   login: {
     title: "Giriş",

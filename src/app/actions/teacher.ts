@@ -5,7 +5,7 @@ import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
 import { db } from "@/lib/db";
 import { requireTeacher } from "@/lib/dal";
-import { generateContent } from "@/lib/ai";
+import { generateContent, isAiUnavailable } from "@/lib/ai";
 import { GRAMMAR, pick, TOPICS, VOCAB_THEMES } from "@/lib/syllabus";
 import { Level, Skill } from "@/generated/prisma/enums";
 
@@ -34,7 +34,7 @@ export async function generate(_prev: FormState, formData: FormData): Promise<Fo
     id = created.id;
   } catch (e) {
     console.error(e);
-    return { error: "error" };
+    return { error: isAiUnavailable(e) ? "ai" : "error" };
   }
   revalidatePath("/teacher/content");
   redirect(`/teacher/content/${id}`);

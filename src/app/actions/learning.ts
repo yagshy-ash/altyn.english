@@ -4,7 +4,7 @@ import { revalidatePath } from "next/cache";
 import { db } from "@/lib/db";
 import { requireStudent } from "@/lib/dal";
 import { visibleContentWhere } from "@/lib/content";
-import { chatOpening, chatTurn, evaluateAnswer, explainText } from "@/lib/ai";
+import { chatOpening, chatTurn, evaluateAnswer, explainText, isAiUnavailable } from "@/lib/ai";
 import { SCENARIOS } from "@/lib/scenarios";
 import type { Feedback, GrammarBody, ListeningBody, ReadingBody, VocabularyBody, WritingBody, SpeakingBody } from "@/lib/content-schemas";
 import type { Skill } from "@/generated/prisma/enums";
@@ -20,6 +20,19 @@ async function visibleContent(contentId: string) {
 }
 
 type MistakeInput = { type: string; wrong: string; right: string; explanation?: string };
+
+// Yapay zekâlı action'lar hata fırlatmaz: production'da hata mesajı istemciye ulaşmadığı için
+// "AI kullanılamıyor" durumu sonuçla bildirilir
+export type AiResult<T> = { ok: true; data: T } | { ok: false; reason: "ai" | "error" };
+
+async function aiResult<T>(fn: () => Promise<T>): Promise<AiResult<T>> {
+  try {
+    return { ok: true, data: await fn() };
+  } catch (e) {
+    console.error(e);
+    return { ok: false, reason: isAiUnavailable(e) ? "ai" : "error" };
+  }
+}
 
 // Her çalışma tek yerden kaydedilir: deneme + hatalar + ilgili ödevin tamamlanması
 async function recordAttempt(opts: {
@@ -167,11 +180,11 @@ async function evaluateAndRecord(kind: "writing" | "speaking", contentId: string
 }
 
 export async function submitWriting(contentId: string, text: string, durationSec: number) {
-  return evaluateAndRecord("writing", contentId, text, durationSec);
+  return aiResult(() => evaluateAndRecord("writing", contentId, text, durationSec));
 }
 
 export async function submitSpeaking(contentId: string, transcript: string, durationSec: number) {
-  return evaluateAndRecord("speaking", contentId, transcript, durationSec);
+  return aiResult(() => evaluateAndRecord("speaking", contentId, transcript, durationSec));
 }
 
 /* ---------- Bunu anlamadım ---------- */
@@ -180,7 +193,7 @@ export async function explain(text: string) {
   const student = await requireStudent();
   const clean = text.trim().slice(0, 6000);
   if (!clean) throw new Error("Empty");
-  return explainText(clean, student.level, student.locale);
+  return aiResult(() => explainText(clean, student.level, student.locale));
 }
 
 /* ---------- Sohbet / rol yapma ---------- */
@@ -195,24 +208,30 @@ function scenarioById(id: string) {
 
 export async function startChat(scenarioId: string) {
   const student = await requireStudent();
-  return chatOpening(scenarioById(scenarioId).prompt, student.level);
+  return aiResult(() => chatOpening(scenarioById(scenarioId).prompt, student.level));
 }
 
 export async function sendChat(scenarioId: string, history: ChatMessage[]) {
   const student = await requireStudent();
   const s = scenarioById(scenarioId);
-  const turn = await chatTurn({ scenario: s.prompt, level: student.level, locale: student.locale, history: history.slice(-30) });
-  const last = history.at(-1);
-  if (turn.fix.hasError && last?.role === "student") {
-    await db.mistake.create({
-      data: { studentId: student.id, skill: "SPEAKING", type: "other", wrong: last.text.slice(0, 500), right: turn.fix.corrected, explanation: turn.fix.why },
-    });
-    await addMistakeCards(student.id, [{ wrong: last.text, right: turn.fix.corrected, why: turn.fix.why }]);
-  }
-  return turn;
+  return aiResult(async () => {
+    const turn = await chatTurn({ scenario: s.prompt, level: student.level, locale: student.locale, history: history.slice(-30) });
+    const last = history.at(-1);
+    if (turn.fix.hasError && last?.role === "student") {
+      await db.mistake.create({
+        data: { studentId: student.id, skill: "SPEAKING", type: "other", wrong: last.text.slice(0, 500), right: turn.fix.corrected, explanation: turn.fix.why },
+      });
+      await addMistakeCards(student.id, [{ wrong: last.text, right: turn.fix.corrected, why: turn.fix.why }]);
+    }
+    return turn;
+  });
 }
 
 export async function endChat(scenarioId: string, history: ChatMessage[], durationSec: number) {
+  return aiResult(() => scoreChat(scenarioId, history, durationSec));
+}
+
+async function scoreChat(scenarioId: string, history: ChatMessage[], durationSec: number) {
   const student = await requireStudent();
   const s = scenarioById(scenarioId);
   const said = history.filter((m) => m.role === "student").map((m) => m.text);

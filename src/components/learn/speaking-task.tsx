@@ -35,11 +35,9 @@ export function SpeakingTask({ contentId, body, locale, t }: { contentId: string
     start(async () => {
       speech.stop();
       setError("");
-      try {
-        setFeedback(await submitSpeaking(contentId, answer, Math.round((Date.now() - startedAt.current) / 1000)));
-      } catch {
-        setError(t.common.error);
-      }
+      const r = await submitSpeaking(contentId, answer, Math.round((Date.now() - startedAt.current) / 1000));
+      if (r.ok) setFeedback(r.data);
+      else setError(r.reason === "ai" ? t.common.aiOff : t.common.error);
     });
 
   const reset = () => {

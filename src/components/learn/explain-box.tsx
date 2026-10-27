@@ -5,10 +5,10 @@ import { explain } from "@/app/actions/learning";
 import type { Explanation } from "@/lib/ai";
 import type { Dict } from "@/i18n";
 
-export function ExplainBox({ t }: { t: Dict["explain"] & { error?: string } }) {
+export function ExplainBox({ t }: { t: Dict["explain"] & { error: string; aiOff: string } }) {
   const [text, setText] = useState("");
   const [out, setOut] = useState<Explanation | null>(null);
-  const [failed, setFailed] = useState(false);
+  const [failed, setFailed] = useState("");
   const [pending, start] = useTransition();
 
   return (
@@ -21,18 +21,20 @@ export function ExplainBox({ t }: { t: Dict["explain"] & { error?: string } }) {
           disabled={pending || !text.trim()}
           onClick={() =>
             start(async () => {
-              setFailed(false);
+              setFailed("");
               try {
-                setOut(await explain(text));
+                const r = await explain(text);
+                if (r.ok) setOut(r.data);
+                else setFailed(r.reason === "ai" ? t.aiOff : t.error);
               } catch {
-                setFailed(true);
+                setFailed(t.error);
               }
             })
           }
         >
           {pending ? t.working : t.go}
         </button>
-        {failed && <p className="font-bold text-red-dark">{t.error}</p>}
+        {failed && <p className="font-bold text-red-dark">{failed}</p>}
       </section>
 
       {out && (

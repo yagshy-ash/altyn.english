@@ -32,6 +32,7 @@ export const tr = {
     tryAgain: "Tekrar dene",
     words: "kelime",
     error: "Bir hata oluştu. Tekrar dene.",
+    aiOff: "Yapay zekâ asistanı şu anda kullanılamıyor. Diğer bölümlerle çalışmaya devam edebilirsin.",
   },
   login: {
     title: "Giriş yap",

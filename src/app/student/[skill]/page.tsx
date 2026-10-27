@@ -71,7 +71,7 @@ export default async function SkillPage({ params, searchParams }: PageProps<"/st
       )}
 
       {showExplain ? (
-        <ExplainBox t={{ ...t.explain, error: t.common.error }} />
+        <ExplainBox t={{ ...t.explain, error: t.common.error, aiOff: t.common.aiOff }} />
       ) : contents.length ? (
         <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {contents.map((c, i) => {

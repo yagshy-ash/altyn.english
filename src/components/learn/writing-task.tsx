@@ -29,15 +29,12 @@ export function WritingTask({ contentId, body, locale, t }: { contentId: string;
   const send = () =>
     start(async () => {
       setError("");
+      const r = await submitWriting(contentId, text, Math.round((Date.now() - started.current) / 1000));
+      if (!r.ok) return setError(r.reason === "ai" ? t.common.aiOff : t.common.error);
+      setFeedback(r.data);
       try {
-        const f = await submitWriting(contentId, text, Math.round((Date.now() - started.current) / 1000));
-        setFeedback(f);
-        try {
-          localStorage.removeItem(key);
-        } catch {}
-      } catch {
-        setError(t.common.error);
-      }
+        localStorage.removeItem(key);
+      } catch {}
     });
 
   return (

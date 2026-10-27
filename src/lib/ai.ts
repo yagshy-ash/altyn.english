@@ -7,8 +7,15 @@ import { z } from "zod";
 import { BODY_SCHEMAS, Feedback } from "./content-schemas";
 import type { Level, Skill } from "@/generated/prisma/enums";
 
-const MODEL = "claude-opus-5-5";
-const client = new Anthropic({ maxRetries: 5 });
+const MODEL = "claude-haiku-5-5";
+// Oluşturma ilk çağrıya kadar ertelenir: anahtar yoksa modül yüklenirken değil, çağrıda hata verir
+let anthropic: Anthropic | undefined;
+const client = () => (anthropic ??= new Anthropic({ maxRetries: 2 }));
+
+// API anahtarı yok, kredi bitti, servis kapalı vb. — yapay zekâ özellikleri şu an kullanılamaz
+export function isAiUnavailable(e: unknown) {
+  return e instanceof Anthropic.AnthropicError;
+}
 
 const SYSTEM = `You write English-learning materials for students whose native languages are Turkish, Turkmen and Russian.
 - English content must match the requested CEFR level exactly: vocabulary, sentence length and grammar.
@@ -68,11 +75,9 @@ export function contentPrompt({ skill, level, topic, items }: ContentJob) {
 
 export async function generateContent(job: ContentJob): Promise<GeneratedContent> {
   const { system, user } = contentPrompt(job);
-  const response = await client.beta.messages.parse({
+  const response = await client().beta.messages.parse({
     model: MODEL,
     max_tokens: 16000,
-    betas: ["server-side-fallback-2026-07-01"],
-    fallbacks: "default",
     output_config: { effort: "low", format: betaZodOutputFormat(contentSchema(job.skill)) },
     system: [{ type: "text", text: system, cache_control: { type: "ephemeral" } }],
     messages: [{ role: "user", content: user }],
@@ -126,11 +131,9 @@ export async function evaluateAnswer(opts: {
   locale: keyof typeof LANG_NAME;
 }): Promise<Feedback> {
   const { kind, task, answer, level, locale } = opts;
-  const response = await client.beta.messages.parse({
+  const response = await client().beta.messages.parse({
     model: MODEL,
     max_tokens: 8000,
-    betas: ["server-side-fallback-2026-07-01"],
-    fallbacks: "default",
     output_config: { effort: "medium", format: betaZodOutputFormat(Feedback) },
     system: `You are a kind but precise English teacher assessing a ${level === "TOEFL" ? "TOEFL candidate" : `${level} learner`}.
 Write "summary", every mistake's "why" and "tip" in ${LANG_NAME[locale]}; keep them short and encouraging.
@@ -146,7 +149,7 @@ ${kind === "speaking" ? 'The answer is an automatic speech-to-text transcript: i
 
 // Öğretmenin materyal metinlerinden yapılandırılmış liste çıkarma (scripts/import-materials.ts)
 export async function extractList<T extends z.ZodType>(instruction: string, text: string, schema: T): Promise<z.infer<T>> {
-  const response = await client.beta.messages.parse({
+  const response = await client().beta.messages.parse({
     model: MODEL,
     max_tokens: 16000,
     output_config: { effort: "low", format: betaZodOutputFormat(schema) },
@@ -166,11 +169,9 @@ export const Explanation = z.object({
 export type Explanation = z.infer<typeof Explanation>;
 
 export async function explainText(text: string, level: Level, locale: keyof typeof LANG_NAME): Promise<Explanation> {
-  const response = await client.beta.messages.parse({
+  const response = await client().beta.messages.parse({
     model: MODEL,
     max_tokens: 12000,
-    betas: ["server-side-fallback-2026-07-01"],
-    fallbacks: "default",
     output_config: { effort: "low", format: betaZodOutputFormat(Explanation) },
     system: `You help a ${level} English learner understand a text they could not follow. Write every explanation in ${LANG_NAME[locale]}.
 "summary": 2–4 sentences on what the text says. "sentences": the text split into sentences (at most 15, the hardest ones if longer) with a plain-language meaning. "vocab": up to 12 words or phrases above the learner's level with meanings. "grammar": up to 4 structures worth noticing, each with a short note.`,
@@ -195,11 +196,9 @@ export async function chatTurn(opts: {
 }): Promise<ChatTurn> {
   const { scenario, level, locale, history } = opts;
   const transcript = history.map((m) => `${m.role === "student" ? "STUDENT" : "YOU"}: ${m.text}`).join("\n");
-  const response = await client.beta.messages.parse({
+  const response = await client().beta.messages.parse({
     model: MODEL,
     max_tokens: 4000,
-    betas: ["server-side-fallback-2026-07-01"],
-    fallbacks: "default",
     output_config: { effort: "low", format: betaZodOutputFormat(ChatTurn) },
     system: `Role-play for an English learner (${LEVEL_GUIDE[level]}). ${scenario}
 Stay in character. "reply": your next line, 1–3 short sentences at the learner's level, ending with something the learner can respond to.
@@ -212,7 +211,7 @@ Stay in character. "reply": your next line, 1–3 short sentences at the learner
 
 // Sohbet başlangıcı: karakterin ilk cümlesi
 export async function chatOpening(scenario: string, level: Level): Promise<string> {
-  const response = await client.messages.create({
+  const response = await client().messages.create({
     model: MODEL,
     max_tokens: 2000,
     output_config: { effort: "low" },

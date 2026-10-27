@@ -42,6 +42,8 @@ export function ChatRoom({ scenarios, locale, t }: { scenarios: Scenario[]; loca
     }
   };
 
+  const failMsg = (reason: "ai" | "error") => (reason === "ai" ? t.common.aiOff : t.common.error);
+
   const history = (list: Msg[]) => list.map(({ role, text }) => ({ role, text }));
 
   const begin = (s: Scenario) =>
@@ -51,13 +53,10 @@ export function ChatRoom({ scenarios, locale, t }: { scenarios: Scenario[]; loca
       setFeedback(null);
       setError("");
       startedAt.current = Date.now();
-      try {
-        const opening = await startChat(s.id);
-        setMsgs([{ role: "partner", text: opening }]);
-        speak(opening);
-      } catch {
-        setError(t.common.error);
-      }
+      const r = await startChat(s.id);
+      if (!r.ok) return setError(failMsg(r.reason));
+      setMsgs([{ role: "partner", text: r.data }]);
+      speak(r.data);
     });
 
   const send = () => {
@@ -69,17 +68,15 @@ export function ChatRoom({ scenarios, locale, t }: { scenarios: Scenario[]; loca
     const next: Msg[] = [...msgs, { role: "student", text }];
     setMsgs(next);
     start(async () => {
-      try {
-        const turn = await sendChat(scenario.id, history(next));
-        setMsgs((m) => {
-          const copy = [...m];
-          copy[next.length - 1] = { ...copy[next.length - 1], fix: turn.fix };
-          return [...copy, { role: "partner", text: turn.reply }];
-        });
-        speak(turn.reply);
-      } catch {
-        setError(t.common.error);
-      }
+      const r = await sendChat(scenario.id, history(next));
+      if (!r.ok) return setError(failMsg(r.reason));
+      const turn = r.data;
+      setMsgs((m) => {
+        const copy = [...m];
+        copy[next.length - 1] = { ...copy[next.length - 1], fix: turn.fix };
+        return [...copy, { role: "partner", text: turn.reply }];
+      });
+      speak(turn.reply);
     });
   };
 
@@ -87,11 +84,9 @@ export function ChatRoom({ scenarios, locale, t }: { scenarios: Scenario[]; loca
     start(async () => {
       if (!scenario) return;
       if (msgs.filter((m) => m.role === "student").length < 3) return setError(t.chat.minTurns);
-      try {
-        setFeedback(await endChat(scenario.id, history(msgs), Math.round((Date.now() - startedAt.current) / 1000)));
-      } catch {
-        setError(t.common.error);
-      }
+      const r = await endChat(scenario.id, history(msgs), Math.round((Date.now() - startedAt.current) / 1000));
+      if (r.ok) setFeedback(r.data);
+      else setError(failMsg(r.reason));
     });
 
   if (!scenario) {
