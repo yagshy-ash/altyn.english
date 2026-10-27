@@ -275,6 +275,7 @@ export const tr = {
     play: "Dinle",
     pause: "Durdur",
     slow: "Yavaş",
+    noVoice: "Bu tarayıcıda İngilizce ses bulunamadı. Telefondan ya da Chrome, Edge veya Safari ile dene. Şimdilik metni okuyarak devam edebilirsin.",
     exercises: "Alıştırmalar",
     examples: "Örnekler",
     rule: "Kural",

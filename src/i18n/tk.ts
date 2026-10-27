@@ -276,6 +276,7 @@ export const tk: Dict = {
     play: "Diňle",
     pause: "Duruz",
     slow: "Haýal",
+    noVoice: "Bu brauzerde iňlis dilindäki ses tapylmady. Telefondan ýa-da Chrome, Edge ýa-da Safari bilen synanyşyp gör. Häzirlikçe teksti okap dowam edip bilersiň.",
     exercises: "Gönükmeler",
     examples: "Mysallar",
     rule: "Düzgün",

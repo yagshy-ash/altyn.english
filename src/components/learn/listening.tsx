@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import { Pause, Play, Snail } from "lucide-react";
 import type { AppLocale, Dict } from "@/i18n";
 import type { ListeningBody } from "@/lib/content-schemas";
-import { englishVoice, speak, stopSpeaking } from "./tts";
+import { englishVoice, loadVoices, speak, stopSpeaking } from "./tts";
 import { Quiz } from "./quiz";
 
 // Diyalogda "Anna: …" satırlarına konuşmacıya göre farklı ses atanır
@@ -14,15 +14,26 @@ export function Listening({ contentId, body, locale, t }: { contentId: string; b
   const [slow, setSlow] = useState(false);
   const [showScript, setShowScript] = useState(false);
   const [done, setDone] = useState(false);
+  const [noVoice, setNoVoice] = useState(false);
   const stopped = useRef(false);
 
   useEffect(() => () => stopSpeaking(), []);
 
-  const play = () => {
+  const fail = () => {
+    stopped.current = true;
+    stopSpeaking();
+    setPlaying(false);
+    setLine(-1);
+    setNoVoice(true);
+  };
+
+  const play = async () => {
     stopSpeaking();
     stopped.current = false;
     setPlaying(true);
-    const voices = window.speechSynthesis.getVoices().filter((v) => v.lang.startsWith("en"));
+    const all = await loadVoices();
+    if (!all.length) return fail();
+    const voices = all.filter((v) => v.lang.startsWith("en"));
     const speakers = new Map<string, SpeechSynthesisVoice | undefined>();
     const next = (i: number) => {
       if (stopped.current || i >= body.script.length) {
@@ -34,7 +45,7 @@ export function Listening({ contentId, body, locale, t }: { contentId: string; b
       const m = body.script[i].match(/^([A-Z][\w .'-]{0,20}):\s*(.*)$/);
       const name = m?.[1];
       if (name && !speakers.has(name)) speakers.set(name, voices[speakers.size % Math.max(1, voices.length)] ?? englishVoice());
-      speak(m ? m[2] : body.script[i], { rate: slow ? 0.75 : 0.95, voice: name ? speakers.get(name) : undefined, onEnd: () => next(i + 1) });
+      speak(m ? m[2] : body.script[i], { rate: slow ? 0.75 : 0.95, voice: name ? speakers.get(name) : undefined, onEnd: () => next(i + 1), onError: fail });
     };
     next(0);
   };
@@ -68,7 +79,8 @@ export function Listening({ contentId, body, locale, t }: { contentId: string; b
             ))}
           </div>
         )}
-        {(done || showScript) && (
+        {noVoice && <p className="max-w-md font-bold text-red-dark">{t.quiz.noVoice}</p>}
+        {(done || showScript || noVoice) && (
           <button onClick={() => setShowScript((s) => !s)} className="text-sm font-extrabold text-orange-dark underline">
             {t.quiz.showScript}
           </button>
