@@ -195,6 +195,12 @@ export const tk: Dict = {
     empty: "Entek habar ýok.",
     fromTeacher: "Mugallymyňdan",
   },
+  ranking: {
+    title: "Reýting",
+    hint: "Ähli derejeler bilelikde · okadygyňça XP gazanýarsyň",
+    you: "Sen",
+    empty: "Entek reýting ýok.",
+  },
   videos: {
     title: "Wideolar",
     add: "Wideo goş",

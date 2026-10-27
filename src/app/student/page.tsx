@@ -19,6 +19,8 @@ import { formatDate, formatTime, formatWeekday } from "@/lib/format";
 import { slugOf, SKILLS } from "@/lib/skills";
 import { ProgressBar, SKILL_STYLE, SkillIcon } from "@/components/skill-icon";
 import { LevelLine } from "@/components/charts";
+import { Leaderboard } from "@/components/leaderboard";
+import { leaderboard } from "@/lib/ranking";
 import type { Skill } from "@/generated/prisma/enums";
 
 const CEFR_NUM: Record<string, number> = { A1: 1, A2: 2, B1: 3, B2: 4, C1: 5, C2: 6 };
@@ -160,6 +162,7 @@ export default async function StudentHome() {
 
       {/* Sağ sütun */}
       <aside className="flex flex-col gap-4">
+        {student.teacherId && <Leaderboard rows={await leaderboard(student.teacherId)} t={t} meId={student.id} />}
         <section className="card flex flex-col gap-3">
           <div className="flex items-center justify-between">
             <h2 className="font-black">{t.student.dailyGoal}</h2>

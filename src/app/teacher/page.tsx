@@ -8,6 +8,8 @@ import { formatDuration, formatTime, zoneDayStart, dayKey } from "@/lib/format";
 import { dailyMinutes, daysSince } from "@/lib/stats";
 import { recentActivity, studentRows } from "@/lib/teacher-data";
 import { ActivityFeed } from "@/components/activity-feed";
+import { Leaderboard } from "@/components/leaderboard";
+import { leaderboard } from "@/lib/ranking";
 import { MinutesBars } from "@/components/charts";
 import { Avatar } from "@/components/avatar";
 
@@ -90,6 +92,7 @@ export default async function TeacherOverview() {
         </div>
 
         <div className="flex flex-col gap-6">
+          <Leaderboard rows={await leaderboard(teacher.id)} t={t} />
           <section className="card flex flex-col gap-3">
             <h2 className="flex items-center gap-2 font-black">
               <span className="size-3 animate-pulse rounded-full bg-green" /> {t.teacher.onlineNow}

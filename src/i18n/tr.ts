@@ -194,6 +194,12 @@ export const tr = {
     empty: "Henüz paylaşım yok.",
     fromTeacher: "Öğretmeninden",
   },
+  ranking: {
+    title: "Sıralama",
+    hint: "Tüm seviyeler birlikte · çalıştıkça XP kazanırsın",
+    you: "Sen",
+    empty: "Henüz sıralama yok.",
+  },
   videos: {
     title: "Videolar",
     add: "Video ekle",
