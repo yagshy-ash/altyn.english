@@ -1,44 +1,63 @@
 # altyn.english
 
-İngilizce öğretmeni ve öğrencileri için çalışma platformu. Öğretmen öğrenci ekler, seviyesini (A1–C2 veya TOEFL) belirler ve ilerlemesini takip eder. Öğrenci, seviyesine göre üretilmiş okuma, dinleme, yazma, konuşma, kelime ve gramer içerikleriyle çalışır.
+A learning platform for an English teacher and their students. The teacher creates student accounts, assigns each student a level (A1–C2 or TOEFL) and tracks their progress. Students practise with reading, listening, writing, speaking, vocabulary and grammar content generated for their level.
 
-Arayüz dilleri: Türkçe, Türkmence, Rusça.
+Interface languages: Turkish, Turkmen, Russian.
 
-## Teknoloji
+## Tech stack
 
-Next.js 16 (App Router) · TypeScript · Tailwind CSS 4 · PostgreSQL + Prisma 7 · jose (oturum) · Claude API · Recharts
+Next.js 16 (App Router) · TypeScript · Tailwind CSS 4 · PostgreSQL (Supabase) + Prisma 7 · jose (sessions) · Claude API · Recharts
 
-## Kurulum
+## Setup
 
 ```bash
 npm install
-cp .env.example .env        # DATABASE_URL, DIRECT_URL (Supabase → Connect), SESSION_SECRET, ANTHROPIC_API_KEY, TEACHER_* doldur
-npm run db:migrate          # tabloları oluşturur (DIRECT_URL üzerinden)
-npm run db:seed             # .env'deki bilgilerle öğretmen hesabını oluşturur
+cp .env.example .env        # fill in DATABASE_URL, DIRECT_URL (Supabase → Connect), SESSION_SECRET, ANTHROPIC_API_KEY, TEACHER_*
+npm run db:migrate          # creates the tables (uses DIRECT_URL)
+npm run db:seed             # creates the teacher account from .env
 npm run dev                 # http://localhost:3000
 ```
 
-`SESSION_SECRET` üretmek için: `openssl rand -base64 32`
+Generate a `SESSION_SECRET` with: `openssl rand -base64 32`
 
-## Yapı
+## Features
 
-| Yol | Ne |
+**Teacher**
+- Create student accounts (students cannot sign up themselves), set levels, reset passwords, deactivate accounts
+- Analytics per student: time on platform, online sessions, activity, scores, mistake map, level history
+- Calendar of lessons, posts for all students / a level / one student
+- Content library: browse, publish, generate with AI, assign to students
+
+**Student**
+- Daily set, streak and weekly goal
+- Reading and listening with quizzes, vocabulary sets with spaced-repetition review
+- Grammar explanations with exercises
+- Writing and 60-second speaking tasks with AI feedback
+- Roleplay chat and "I didn't understand this" explanations
+
+AI features (writing/speaking feedback, chat, explanations, content generation) need `ANTHROPIC_API_KEY` with available credit.
+
+## Project structure
+
+| Path | Purpose |
 |---|---|
-| `prisma/schema.prisma` | Veritabanı şeması |
-| `src/proxy.ts` | Rol bazlı hızlı yönlendirme |
-| `src/lib/dal.ts` | Yetki kontrolü (`requireTeacher`, `requireStudent`) |
-| `src/lib/content.ts` | Öğrencinin hangi içeriği göreceği: seviyesine etiketli içerik |
-| `src/i18n/` | Sözlükler (`tr.ts` ana sözlük; `tk.ts`, `ru.ts` aynı yapıda) |
-| `src/app/teacher/` | Öğretmen paneli |
-| `src/app/student/` | Öğrenci paneli |
-| `src/app/actions/` | Server action'lar |
+| `prisma/schema.prisma` | Database schema |
+| `prisma/data/` | Source materials and generated content (JSON) |
+| `scripts/` | Content import, generation (Batch API) and manual import scripts |
+| `src/proxy.ts` | Fast role-based redirects |
+| `src/lib/dal.ts` | Authorization (`requireTeacher`, `requireStudent`) |
+| `src/lib/content.ts` | Which content a student sees: content tagged with their level |
+| `src/lib/ai.ts` | Claude API calls: content generation, feedback, chat |
+| `src/i18n/` | Dictionaries (`tr.ts` is the source; `tk.ts`, `ru.ts` share its shape) |
+| `src/app/teacher/` | Teacher panel |
+| `src/app/student/` | Student panel |
+| `src/app/actions/` | Server actions |
 
-## Yol haritası
+## Content scripts
 
-1. ✅ Kurulum, giriş, roller, 3 dil, öğrenci ekleme ve seviye atama
-2. Kelime (aralıklı tekrar) ve okuma
-3. Yapay zekalı yazma değerlendirmesi
-4. Dinleme (tarayıcı sesi) ve konuşma
-5. Ödev sistemi
-6. Öğretmen analizleri: grafikler, hata haritası, süre
-7. İçerik hattı: Oxford materyallerinden müfredat ve yapay zekayla içerik üretimi
+```bash
+npm run content:manual -- pending 50   # list topics that have no content yet
+npm run content:manual -- import       # validate and import prisma/data/manual/*.json
+npm run content:batch -- submit 100    # generate content with the Batch API
+npm run content:batch -- collect <id>  # save batch results
+```
