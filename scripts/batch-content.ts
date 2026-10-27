@@ -9,6 +9,7 @@ import { zodOutputFormat } from "@anthropic-ai/sdk/helpers/zod";
 import { PrismaPg } from "@prisma/adapter-pg";
 import { PrismaClient } from "../src/generated/prisma/client";
 import { contentPrompt, contentSchema, sanitize, type ContentJob } from "../src/lib/ai";
+import { missingPart } from "../src/lib/content-schemas";
 
 const MODEL = "claude-sonnet-5-5";
 const client = new Anthropic({ maxRetries: 5 });
@@ -97,6 +98,8 @@ async function collect(id: string) {
     }
     try {
       const out = zodOutputFormat(contentSchema(job.skill)).parse(text.text);
+      const missing = missingPart(job.skill, out.body);
+      if (missing) throw new Error(`incomplete: no ${missing}`);
       const exists = await db.content.findFirst({ where: { skill: job.skill, level: job.level, topic: job.topic }, select: { id: true } });
       if (exists) {
         skipped++;

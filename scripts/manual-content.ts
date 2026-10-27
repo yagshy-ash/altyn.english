@@ -7,7 +7,7 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync } from "no
 import { z } from "zod";
 import { PrismaPg } from "@prisma/adapter-pg";
 import { PrismaClient } from "../src/generated/prisma/client";
-import { BODY_SCHEMAS } from "../src/lib/content-schemas";
+import { BODY_SCHEMAS, missingPart } from "../src/lib/content-schemas";
 import { sanitize } from "../src/lib/ai";
 import { Level, Skill } from "../src/generated/prisma/enums";
 
@@ -57,6 +57,11 @@ async function importAll() {
       const body = BODY_SCHEMAS[head.data.skill].safeParse((raw as { body: unknown }).body);
       if (!body.success) {
         errors.push(`#${i} ${head.data.topic}: ${body.error.issues[0].path.join(".")} ${body.error.issues[0].message}`);
+        continue;
+      }
+      const missing = missingPart(head.data.skill, body.data);
+      if (missing) {
+        errors.push(`#${i} ${head.data.topic}: ${missing} eksik`);
         continue;
       }
       // Aynı şık iki kez olmasın, cevap indeksi şıkların içinde olsun

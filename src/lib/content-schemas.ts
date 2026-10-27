@@ -56,6 +56,23 @@ export const SpeakingBody = z.object({
   hints: z.array(z.string()),
 });
 
+// Şemaya uyan ama yarım kalmış içerik (ör. sorusuz okuma) kaydedilmez; eksik alanın adını döndürür
+const MIN_ITEMS: Record<string, [field: string, min: number][]> = {
+  READING: [["passage", 1], ["glossary", 3], ["questions", 3]],
+  LISTENING: [["script", 1], ["glossary", 3], ["questions", 3]],
+  VOCABULARY: [["words", 3]],
+  GRAMMAR: [["examples", 2], ["exercises", 3]],
+  WRITING: [],
+  SPEAKING: [],
+};
+export function missingPart(skill: string, body: unknown): string | null {
+  for (const [field, min] of MIN_ITEMS[skill] ?? []) {
+    const value = (body as Record<string, unknown>)[field];
+    if (!Array.isArray(value) || value.length < min) return field;
+  }
+  return null;
+}
+
 export const BODY_SCHEMAS = {
   READING: ReadingBody,
   LISTENING: ListeningBody,

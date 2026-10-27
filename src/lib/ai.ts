@@ -4,7 +4,7 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { betaZodOutputFormat } from "@anthropic-ai/sdk/helpers/beta/zod";
 import { z } from "zod";
-import { BODY_SCHEMAS, Feedback } from "./content-schemas";
+import { BODY_SCHEMAS, Feedback, missingPart } from "./content-schemas";
 import type { Level, Skill } from "@/generated/prisma/enums";
 
 const MODEL = "claude-haiku-5-5";
@@ -87,7 +87,10 @@ export async function generateContent(job: ContentJob): Promise<GeneratedContent
     throw new Error(`Generation failed (${response.stop_reason}) for ${job.skill} ${job.level} "${job.topic}"`);
   }
   const out = response.parsed_output;
-  return { title: out.title, topic: out.topic, body: sanitize(out.body) };
+  const body = sanitize(out.body);
+  const missing = missingPart(job.skill, body);
+  if (missing) throw new Error(`Generation incomplete (no ${missing}) for ${job.skill} ${job.level} "${job.topic}"`);
+  return { title: out.title, topic: out.topic, body };
 }
 
 // Model bazen Latin Türkmence/Türkçe içine Kiril harf karıştırıyor (bölegінде, toparы).
