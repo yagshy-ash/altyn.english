@@ -20,6 +20,24 @@ npm run dev                 # http://localhost:3000
 
 Generate a `SESSION_SECRET` with: `openssl rand -base64 32`
 
+## Deployment
+
+The app builds into a self-contained Node server (`output: "standalone"`), so the server only needs Node.js 20.9+ — no `npm install`.
+
+```bash
+npm run release             # builds and creates release/altyn-english.tar.gz (no secrets inside)
+```
+
+On the server (Linux x64):
+
+```bash
+tar -xzf altyn-english.tar.gz && cd altyn-english
+cp .env.example .env        # fill in the real values
+PORT=3000 HOSTNAME=0.0.0.0 node server.js
+```
+
+Keep it running with a process manager (e.g. `pm2 start server.js --name altyn-english` or a systemd service) and put a reverse proxy (nginx/Caddy) with HTTPS in front of it — session cookies are `secure` in production.
+
 ## Features
 
 **Teacher**

@@ -15,7 +15,8 @@
     "materials:import": "tsx scripts/import-materials.ts",
     "content:generate": "tsx scripts/generate-content.ts",
     "content:batch": "tsx scripts/batch-content.ts",
-    "content:manual": "tsx scripts/manual-content.ts"
+    "content:manual": "tsx scripts/manual-content.ts",
+    "release": "bash scripts/package-release.sh"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.1.0",
