@@ -1,0 +1,23 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/heartbeat/route": "app/api/heartbeat/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/student/[skill]/[id]/page": "app/student/[skill]/[id]/page.js",
+  "/student/[skill]/page": "app/student/[skill]/page.js",
+  "/student/chat/page": "app/student/chat/page.js",
+  "/student/lessons/page": "app/student/lessons/page.js",
+  "/student/page": "app/student/page.js",
+  "/student/review/page": "app/student/review/page.js",
+  "/teacher/assignments/page": "app/teacher/assignments/page.js",
+  "/teacher/calendar/page": "app/teacher/calendar/page.js",
+  "/teacher/content/[id]/page": "app/teacher/content/[id]/page.js",
+  "/teacher/content/page": "app/teacher/content/page.js",
+  "/teacher/page": "app/teacher/page.js",
+  "/teacher/posts/page": "app/teacher/posts/page.js",
+  "/teacher/students/[id]/attempts/[attemptId]/page": "app/teacher/students/[id]/attempts/[attemptId]/page.js",
+  "/teacher/students/[id]/page": "app/teacher/students/[id]/page.js",
+  "/teacher/students/page": "app/teacher/students/page.js"
+}

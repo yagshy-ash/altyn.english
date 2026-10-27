@@ -22,21 +22,26 @@ Generate a `SESSION_SECRET` with: `openssl rand -base64 32`
 
 ## Deployment
 
-The app builds into a self-contained Node server (`output: "standalone"`), so the server only needs Node.js 20.9+ — no `npm install`.
+The build is committed to the repo in `deploy/` (a self-contained Node server, `output: "standalone"`). The server never builds — it only pulls. It needs Node.js 20.9+ on Linux x64, no `npm install`.
+
+Locally, after changes:
 
 ```bash
-npm run release             # builds and creates release/altyn-english.tar.gz (no secrets inside)
+npm run release             # builds into deploy/ (no secrets inside)
+git add -A && git commit -m "..." && git push
 ```
 
-On the server (Linux x64):
+On the server, first time:
 
 ```bash
-tar -xzf altyn-english.tar.gz && cd altyn-english
-cp .env.example .env        # fill in the real values
-PORT=3000 HOSTNAME=0.0.0.0 node server.js
+git clone git@github.com:yagshy-ash/altyn.english.git && cd altyn.english
+cp .env.example deploy/.env # fill in the real values (ignored by git)
+cd deploy && PORT=3000 pm2 start server.js --name altyn-english --watch --ignore-watch="node_modules .env"
 ```
 
-Keep it running with a process manager (e.g. `pm2 start server.js --name altyn-english` or a systemd service) and put a reverse proxy (nginx/Caddy) with HTTPS in front of it — session cookies are `secure` in production.
+Updating: `git pull` — pm2 (`--watch`) restarts the server automatically.
+
+Put a reverse proxy with HTTPS (nginx/Caddy) in front of it — session cookies are `secure` in production.
 
 ## Features
 

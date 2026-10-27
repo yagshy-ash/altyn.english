@@ -1,0 +1,65 @@
+{
+  "node": {
+    "00f92e2977a385f7e90947be0155cd3b78a72303e6": {
+      "workers": {
+        "app/teacher/students/[id]/page": {
+          "moduleId": 67961,
+          "async": true
+        }
+      },
+      "exportedName": "logout",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "40d5934541737e57ba00c1d50a21a16fad5a4b698d": {
+      "workers": {
+        "app/teacher/students/[id]/page": {
+          "moduleId": 67961,
+          "async": true
+        }
+      },
+      "exportedName": "setLocale",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "6015648c6f6381fc1e3c8f55111d4c7b7037e0f621": {
+      "workers": {
+        "app/teacher/students/[id]/page": {
+          "moduleId": 67961,
+          "async": true
+        }
+      },
+      "exportedName": "login",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "40e7bf69dcb69d44dc01ce5bb4bc6a3e9dd1123fc3": {
+      "workers": {
+        "app/teacher/students/[id]/page": {
+          "moduleId": 67961,
+          "async": true
+        }
+      },
+      "exportedName": "resetStudentPassword",
+      "filename": "src/app/actions/students.ts"
+    },
+    "40d931f8cd213c32fb44b6319372d0e2814a344d44": {
+      "workers": {
+        "app/teacher/students/[id]/page": {
+          "moduleId": 67961,
+          "async": true
+        }
+      },
+      "exportedName": "toggleStudentActive",
+      "filename": "src/app/actions/students.ts"
+    },
+    "6077194bcb6abde94ea173739d10d89fd8e0d35cc2": {
+      "workers": {
+        "app/teacher/students/[id]/page": {
+          "moduleId": 67961,
+          "async": true
+        }
+      },
+      "exportedName": "updateStudentLevel",
+      "filename": "src/app/actions/students.ts"
+    }
+  },
+  "edge": {}
+}

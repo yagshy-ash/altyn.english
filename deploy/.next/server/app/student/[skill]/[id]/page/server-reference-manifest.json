@@ -1,0 +1,75 @@
+{
+  "node": {
+    "00f92e2977a385f7e90947be0155cd3b78a72303e6": {
+      "workers": {
+        "app/student/[skill]/[id]/page": {
+          "moduleId": 12101,
+          "async": true
+        }
+      },
+      "exportedName": "logout",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "40d5934541737e57ba00c1d50a21a16fad5a4b698d": {
+      "workers": {
+        "app/student/[skill]/[id]/page": {
+          "moduleId": 12101,
+          "async": true
+        }
+      },
+      "exportedName": "setLocale",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "6015648c6f6381fc1e3c8f55111d4c7b7037e0f621": {
+      "workers": {
+        "app/student/[skill]/[id]/page": {
+          "moduleId": 12101,
+          "async": true
+        }
+      },
+      "exportedName": "login",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "70642452281022aa06e0d0d386b01cda88dd827d78": {
+      "workers": {
+        "app/student/[skill]/[id]/page": {
+          "moduleId": 12101,
+          "async": true
+        }
+      },
+      "exportedName": "submitQuiz",
+      "filename": "src/app/actions/learning.ts"
+    },
+    "40bc1d9a6fbd4a2f57d39fe72315c85960b71eacc7": {
+      "workers": {
+        "app/student/[skill]/[id]/page": {
+          "moduleId": 12101,
+          "async": true
+        }
+      },
+      "exportedName": "addSetToDeck",
+      "filename": "src/app/actions/learning.ts"
+    },
+    "700d6d9d61fa177d4c23622c1b0f7afe528c18bd50": {
+      "workers": {
+        "app/student/[skill]/[id]/page": {
+          "moduleId": 12101,
+          "async": true
+        }
+      },
+      "exportedName": "submitWriting",
+      "filename": "src/app/actions/learning.ts"
+    },
+    "7033624975cc247bfdb810091b13e3e9169de6530c": {
+      "workers": {
+        "app/student/[skill]/[id]/page": {
+          "moduleId": 12101,
+          "async": true
+        }
+      },
+      "exportedName": "submitSpeaking",
+      "filename": "src/app/actions/learning.ts"
+    }
+  },
+  "edge": {}
+}

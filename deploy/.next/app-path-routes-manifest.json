@@ -1,0 +1,23 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/heartbeat/route": "/api/heartbeat",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/",
+  "/student/[skill]/[id]/page": "/student/[skill]/[id]",
+  "/student/[skill]/page": "/student/[skill]",
+  "/student/chat/page": "/student/chat",
+  "/student/lessons/page": "/student/lessons",
+  "/student/page": "/student",
+  "/student/review/page": "/student/review",
+  "/teacher/assignments/page": "/teacher/assignments",
+  "/teacher/calendar/page": "/teacher/calendar",
+  "/teacher/content/[id]/page": "/teacher/content/[id]",
+  "/teacher/content/page": "/teacher/content",
+  "/teacher/page": "/teacher",
+  "/teacher/posts/page": "/teacher/posts",
+  "/teacher/students/[id]/attempts/[attemptId]/page": "/teacher/students/[id]/attempts/[attemptId]",
+  "/teacher/students/[id]/page": "/teacher/students/[id]",
+  "/teacher/students/page": "/teacher/students"
+}
