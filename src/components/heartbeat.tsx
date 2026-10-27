@@ -4,6 +4,7 @@ import { useEffect } from "react";
 import { usePathname } from "next/navigation";
 
 // Sekme görünür ve öğrenci son 2 dakikada etkileşimdeyse 30 sn'de bir süre bildirir
+// (video izlerken etkileşim olmaz; orada 20 dakika beklenir)
 export function Heartbeat() {
   const path = usePathname();
   const area = path.split("/")[2] || "home";
@@ -14,7 +15,7 @@ export function Heartbeat() {
     const events = ["pointerdown", "keydown", "scroll", "mousemove", "touchstart"] as const;
     events.forEach((e) => window.addEventListener(e, mark, { passive: true }));
     const beat = () => {
-      if (document.visibilityState !== "visible" || Date.now() - lastInput > 120_000) return;
+      if (document.visibilityState !== "visible" || Date.now() - lastInput > (area === "watch" ? 1_200_000 : 120_000)) return;
       fetch("/api/heartbeat", { method: "POST", body: JSON.stringify({ area }), keepalive: true }).catch(() => {});
     };
     beat();

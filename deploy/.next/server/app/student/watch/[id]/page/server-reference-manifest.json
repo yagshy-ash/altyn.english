@@ -1,0 +1,35 @@
+{
+  "node": {
+    "00f92e2977a385f7e90947be0155cd3b78a72303e6": {
+      "workers": {
+        "app/student/watch/[id]/page": {
+          "moduleId": 6104,
+          "async": true
+        }
+      },
+      "exportedName": "logout",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "40d5934541737e57ba00c1d50a21a16fad5a4b698d": {
+      "workers": {
+        "app/student/watch/[id]/page": {
+          "moduleId": 6104,
+          "async": true
+        }
+      },
+      "exportedName": "setLocale",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "6015648c6f6381fc1e3c8f55111d4c7b7037e0f621": {
+      "workers": {
+        "app/student/watch/[id]/page": {
+          "moduleId": 6104,
+          "async": true
+        }
+      },
+      "exportedName": "login",
+      "filename": "src/app/actions/auth.ts"
+    }
+  },
+  "edge": {}
+}

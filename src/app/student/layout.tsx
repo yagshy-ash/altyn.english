@@ -19,6 +19,7 @@ export default async function StudentLayout({ children }: LayoutProps<"/student"
     { href: "/student/writing", label: t.skills.WRITING.name, icon: "writing" },
     { href: "/student/speaking", label: t.skills.SPEAKING.name, icon: "speaking" },
     { href: "/student/chat", label: t.nav.chat, icon: "chat" },
+    { href: "/student/watch", label: t.nav.watch, icon: "watch" },
     { href: "/student/lessons", label: t.nav.lessons, icon: "lessons" },
   ];
   return (

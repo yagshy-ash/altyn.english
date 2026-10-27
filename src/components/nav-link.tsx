@@ -17,6 +17,7 @@ import {
   PenLine,
   Puzzle,
   RotateCcw,
+  TvMinimalPlay,
   Users,
   type LucideIcon,
 } from "lucide-react";
@@ -39,6 +40,8 @@ const ICONS: Record<string, LucideIcon> = {
   chat: MessageCircle,
   review: RotateCcw,
   lessons: CalendarDays,
+  watch: TvMinimalPlay,
+  videos: TvMinimalPlay,
 };
 
 const COLORS: Record<string, string> = {
@@ -50,6 +53,7 @@ const COLORS: Record<string, string> = {
   speaking: "text-teal",
   chat: "text-blue",
   review: "text-purple",
+  watch: "text-red",
 };
 
 export type NavItem = { href: string; label: string; icon: string; exact?: boolean; badge?: number };

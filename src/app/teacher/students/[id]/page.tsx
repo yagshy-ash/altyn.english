@@ -54,6 +54,7 @@ export default async function StudentProfile({ params }: PageProps<"/teacher/stu
     review: t.nav.review,
     chat: t.nav.chat,
     lessons: t.nav.lessons,
+    watch: t.nav.watch,
     ...Object.fromEntries(SKILLS.map((s) => [s.toLowerCase(), t.skills[s].name])),
   };
 

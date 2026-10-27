@@ -7,9 +7,9 @@
     "static/chunks/0cz1d0mv5g_q7.js"
   ],
   "lowPriorityFiles": [
-    "static/VoCzrXwXEhI9bcBQQeedO/_buildManifest.js",
-    "static/VoCzrXwXEhI9bcBQQeedO/_ssgManifest.js",
-    "static/VoCzrXwXEhI9bcBQQeedO/_clientMiddlewareManifest.js"
+    "static/wbqCGjzZ_ShlRtDKkrnuu/_buildManifest.js",
+    "static/wbqCGjzZ_ShlRtDKkrnuu/_ssgManifest.js",
+    "static/wbqCGjzZ_ShlRtDKkrnuu/_clientMiddlewareManifest.js"
   ],
   "rootMainFiles": [
     "static/chunks/1x6obpmlu1_c2.js",
@@ -141,6 +141,30 @@
         94553
       ]
     },
+    "/student/watch/page": {
+      "otherChunks": [
+        "static/chunks/1x6obpmlu1_c2.js",
+        "static/chunks/2r4s4h5xul1n-.js",
+        "static/chunks/2khxl0v1q4i6n.js",
+        "static/chunks/0v3gphvner3b0.js",
+        "static/chunks/2gsxhio73malr.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/student/watch/[id]/page": {
+      "otherChunks": [
+        "static/chunks/1x6obpmlu1_c2.js",
+        "static/chunks/2r4s4h5xul1n-.js",
+        "static/chunks/2khxl0v1q4i6n.js",
+        "static/chunks/0v3gphvner3b0.js",
+        "static/chunks/2gsxhio73malr.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
     "/teacher/page": {
       "otherChunks": [
         "static/chunks/1x6obpmlu1_c2.js",
@@ -238,6 +262,18 @@
       ]
     },
     "/teacher/students/[id]/attempts/[attemptId]/page": {
+      "otherChunks": [
+        "static/chunks/1x6obpmlu1_c2.js",
+        "static/chunks/2r4s4h5xul1n-.js",
+        "static/chunks/2khxl0v1q4i6n.js",
+        "static/chunks/0v3gphvner3b0.js",
+        "static/chunks/2gsxhio73malr.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/teacher/videos/page": {
       "otherChunks": [
         "static/chunks/1x6obpmlu1_c2.js",
         "static/chunks/2r4s4h5xul1n-.js",

@@ -6,7 +6,7 @@ import { dayDate, dayKey } from "@/lib/format";
 // Günlük süreyi (bölüm bazında), online oturumu ve "son görülme"yi günceller.
 const BEAT = 30;
 const GAP_MS = 2 * 60 * 1000;
-const AREAS = new Set(["home", "vocabulary", "reading", "listening", "grammar", "writing", "speaking", "chat", "review", "lessons"]);
+const AREAS = new Set(["home", "vocabulary", "reading", "listening", "grammar", "writing", "speaking", "chat", "review", "lessons", "watch"]);
 
 export async function POST(req: Request) {
   const session = await readSession();

@@ -30,6 +30,14 @@
           "moduleId": 66286,
           "async": true
         },
+        "app/student/watch/[id]/page": {
+          "moduleId": 6104,
+          "async": true
+        },
+        "app/student/watch/page": {
+          "moduleId": 87597,
+          "async": true
+        },
         "app/teacher/assignments/page": {
           "moduleId": 14051,
           "async": true
@@ -64,6 +72,10 @@
         },
         "app/teacher/students/page": {
           "moduleId": 93275,
+          "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
           "async": true
         }
       },
@@ -100,6 +112,14 @@
           "moduleId": 66286,
           "async": true
         },
+        "app/student/watch/[id]/page": {
+          "moduleId": 6104,
+          "async": true
+        },
+        "app/student/watch/page": {
+          "moduleId": 87597,
+          "async": true
+        },
         "app/teacher/assignments/page": {
           "moduleId": 14051,
           "async": true
@@ -134,6 +154,10 @@
         },
         "app/teacher/students/page": {
           "moduleId": 93275,
+          "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
           "async": true
         }
       },
@@ -166,6 +190,14 @@
           "moduleId": 66286,
           "async": true
         },
+        "app/student/watch/[id]/page": {
+          "moduleId": 6104,
+          "async": true
+        },
+        "app/student/watch/page": {
+          "moduleId": 87597,
+          "async": true
+        },
         "app/teacher/assignments/page": {
           "moduleId": 14051,
           "async": true
@@ -200,6 +232,10 @@
         },
         "app/teacher/students/page": {
           "moduleId": 93275,
+          "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
           "async": true
         }
       },
@@ -339,10 +375,36 @@
         "app/teacher/posts/page": {
           "moduleId": 32996,
           "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
+          "async": true
         }
       },
       "filename": "src/app/actions/teacher.ts",
       "exportedName": "deleteContent"
+    },
+    "402f33c242c8f721bd9662dbae16ff00208c9e259e": {
+      "workers": {
+        "app/teacher/assignments/page": {
+          "moduleId": 14051,
+          "async": true
+        },
+        "app/teacher/calendar/page": {
+          "moduleId": 99293,
+          "async": true
+        },
+        "app/teacher/posts/page": {
+          "moduleId": 32996,
+          "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
+          "async": true
+        }
+      },
+      "filename": "src/app/actions/teacher.ts",
+      "exportedName": "deleteVideo"
     },
     "40670e20905bec668acff59e062539b6663798cc2a": {
       "workers": {
@@ -356,6 +418,10 @@
         },
         "app/teacher/posts/page": {
           "moduleId": 32996,
+          "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
           "async": true
         }
       },
@@ -375,6 +441,10 @@
         "app/teacher/posts/page": {
           "moduleId": 32996,
           "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
+          "async": true
         }
       },
       "filename": "src/app/actions/teacher.ts",
@@ -392,6 +462,10 @@
         },
         "app/teacher/posts/page": {
           "moduleId": 32996,
+          "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
           "async": true
         }
       },
@@ -411,10 +485,36 @@
         "app/teacher/posts/page": {
           "moduleId": 32996,
           "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
+          "async": true
         }
       },
       "filename": "src/app/actions/teacher.ts",
       "exportedName": "deleteAssignment"
+    },
+    "6042c75b266e1f23ff97c122a99da7acd42b92b5b2": {
+      "workers": {
+        "app/teacher/assignments/page": {
+          "moduleId": 14051,
+          "async": true
+        },
+        "app/teacher/calendar/page": {
+          "moduleId": 99293,
+          "async": true
+        },
+        "app/teacher/posts/page": {
+          "moduleId": 32996,
+          "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
+          "async": true
+        }
+      },
+      "filename": "src/app/actions/teacher.ts",
+      "exportedName": "createVideo"
     },
     "6043627e55daa6a1598ae0062134d728aa749f6447": {
       "workers": {
@@ -428,6 +528,10 @@
         },
         "app/teacher/posts/page": {
           "moduleId": 32996,
+          "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
           "async": true
         }
       },
@@ -451,6 +555,10 @@
         "app/teacher/posts/page": {
           "moduleId": 32996,
           "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
+          "async": true
         }
       },
       "filename": "src/app/actions/teacher.ts",
@@ -472,6 +580,10 @@
         },
         "app/teacher/posts/page": {
           "moduleId": 32996,
+          "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
           "async": true
         }
       },
@@ -495,6 +607,10 @@
         "app/teacher/posts/page": {
           "moduleId": 32996,
           "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
+          "async": true
         }
       },
       "filename": "src/app/actions/teacher.ts",
@@ -512,6 +628,10 @@
         },
         "app/teacher/posts/page": {
           "moduleId": 32996,
+          "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
           "async": true
         }
       },

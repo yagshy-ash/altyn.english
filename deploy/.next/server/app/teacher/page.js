@@ -1,7 +1,7 @@
 var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/teacher/page.js")
 R.c("server/chunks/ssr/[root-of-the-server]__037ay4g0xolp4._.js")
 R.c("server/chunks/ssr/src_components_skill-icon_tsx_1i_ow0qlqhwc1._.js")
-R.c("server/chunks/ssr/_1venm95sk8l1r._.js")
+R.c("server/chunks/ssr/_0q_ide_t4a7b-._.js")
 R.c("server/chunks/ssr/node_modules_next_dist_esm_build_templates_app-page_0xycx-o0wxbvt.js")
 R.c("server/chunks/ssr/[root-of-the-server]__1wl0vw-n8lbkn._.js")
 R.c("server/chunks/ssr/node_modules_next_dist_0janj0i6dqko7._.js")

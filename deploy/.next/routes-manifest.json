@@ -23,6 +23,14 @@
   },
   "dynamicRoutes": [
     {
+      "page": "/student/watch/[id]",
+      "regex": "^/student/watch/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/student/watch/(?<nxtPid>[^/]+?)(?:/)?$"
+    },
+    {
       "page": "/student/[skill]",
       "regex": "^/student/([^/]+?)(?:/)?$",
       "routeKeys": {
@@ -127,6 +135,12 @@
       "namedRegex": "^/student/review(?:/)?$"
     },
     {
+      "page": "/student/watch",
+      "regex": "^/student/watch(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/student/watch(?:/)?$"
+    },
+    {
       "page": "/teacher",
       "regex": "^/teacher(?:/)?$",
       "routeKeys": {},
@@ -161,6 +175,12 @@
       "regex": "^/teacher/students(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/teacher/students(?:/)?$"
+    },
+    {
+      "page": "/teacher/videos",
+      "regex": "^/teacher/videos(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/teacher/videos(?:/)?$"
     }
   ],
   "dataRoutes": [],

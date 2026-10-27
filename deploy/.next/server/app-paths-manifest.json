@@ -11,6 +11,8 @@
   "/student/lessons/page": "app/student/lessons/page.js",
   "/student/page": "app/student/page.js",
   "/student/review/page": "app/student/review/page.js",
+  "/student/watch/[id]/page": "app/student/watch/[id]/page.js",
+  "/student/watch/page": "app/student/watch/page.js",
   "/teacher/assignments/page": "app/teacher/assignments/page.js",
   "/teacher/calendar/page": "app/teacher/calendar/page.js",
   "/teacher/content/[id]/page": "app/teacher/content/[id]/page.js",
@@ -19,5 +21,6 @@
   "/teacher/posts/page": "app/teacher/posts/page.js",
   "/teacher/students/[id]/attempts/[attemptId]/page": "app/teacher/students/[id]/attempts/[attemptId]/page.js",
   "/teacher/students/[id]/page": "app/teacher/students/[id]/page.js",
-  "/teacher/students/page": "app/teacher/students/page.js"
+  "/teacher/students/page": "app/teacher/students/page.js",
+  "/teacher/videos/page": "app/teacher/videos/page.js"
 }

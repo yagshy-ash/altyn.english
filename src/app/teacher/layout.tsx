@@ -12,6 +12,7 @@ export default async function TeacherLayout({ children }: LayoutProps<"/teacher"
     { href: "/teacher/students", label: t.nav.students, icon: "students" },
     { href: "/teacher/calendar", label: t.nav.calendar, icon: "calendar" },
     { href: "/teacher/posts", label: t.nav.posts, icon: "posts" },
+    { href: "/teacher/videos", label: t.nav.videos, icon: "videos" },
     { href: "/teacher/content", label: t.nav.content, icon: "content" },
     { href: "/teacher/assignments", label: t.nav.assignments, icon: "assignments", badge: overdue },
   ];

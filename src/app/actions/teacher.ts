@@ -7,6 +7,7 @@ import { db } from "@/lib/db";
 import { requireTeacher } from "@/lib/dal";
 import { generateContent, isAiUnavailable } from "@/lib/ai";
 import { GRAMMAR, pick, TOPICS, VOCAB_THEMES } from "@/lib/syllabus";
+import { MAX_VIDEOS_PER_LEVEL, youtubeId } from "@/lib/youtube";
 import { Level, Skill } from "@/generated/prisma/enums";
 
 type FormState = { ok?: boolean; at?: number; error?: string } | undefined;
@@ -156,4 +157,28 @@ export async function deletePost(id: string) {
   const teacher = await requireTeacher();
   await db.post.deleteMany({ where: { id, teacherId: teacher.id } });
   revalidatePath("/teacher/posts");
+}
+
+/* ---------- Videolar ---------- */
+
+export async function createVideo(_prev: FormState, formData: FormData): Promise<FormState> {
+  const teacher = await requireTeacher();
+  const title = String(formData.get("title") ?? "").trim().slice(0, 200);
+  const level = z.enum(Level).safeParse(formData.get("level"));
+  const id = youtubeId(String(formData.get("url") ?? ""));
+  if (!id) return { error: "badUrl" };
+  if (!title || !level.success) return { error: "error" };
+  const count = await db.video.count({ where: { teacherId: teacher.id, level: level.data } });
+  if (count >= MAX_VIDEOS_PER_LEVEL) return { error: "limit" };
+  await db.video.create({ data: { teacherId: teacher.id, title, youtubeId: id, level: level.data } });
+  revalidatePath("/teacher/videos");
+  revalidatePath("/student/watch");
+  return { ok: true, at: Date.now() };
+}
+
+export async function deleteVideo(id: string) {
+  const teacher = await requireTeacher();
+  await db.video.deleteMany({ where: { id, teacherId: teacher.id } });
+  revalidatePath("/teacher/videos");
+  revalidatePath("/student/watch");
 }

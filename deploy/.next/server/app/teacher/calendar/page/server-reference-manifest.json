@@ -50,6 +50,16 @@
       "exportedName": "deleteContent",
       "filename": "src/app/actions/teacher.ts"
     },
+    "402f33c242c8f721bd9662dbae16ff00208c9e259e": {
+      "workers": {
+        "app/teacher/calendar/page": {
+          "moduleId": 99293,
+          "async": true
+        }
+      },
+      "exportedName": "deleteVideo",
+      "filename": "src/app/actions/teacher.ts"
+    },
     "40670e20905bec668acff59e062539b6663798cc2a": {
       "workers": {
         "app/teacher/calendar/page": {
@@ -88,6 +98,16 @@
         }
       },
       "exportedName": "deleteAssignment",
+      "filename": "src/app/actions/teacher.ts"
+    },
+    "6042c75b266e1f23ff97c122a99da7acd42b92b5b2": {
+      "workers": {
+        "app/teacher/calendar/page": {
+          "moduleId": 99293,
+          "async": true
+        }
+      },
+      "exportedName": "createVideo",
       "filename": "src/app/actions/teacher.ts"
     },
     "6043627e55daa6a1598ae0062134d728aa749f6447": {

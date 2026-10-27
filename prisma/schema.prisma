@@ -72,6 +72,7 @@ model User {
   lessons             Lesson[]        @relation("LessonStudents")
   postsWritten        Post[]          @relation("PostTeacher")
   postsReceived       Post[]          @relation("PostStudent")
+  videos              Video[]         @relation("VideoTeacher")
 }
 
 // Okuma metni, dinleme, yazma görevi, kelime seti, gramer alıştırması, konuşma senaryosu.
@@ -246,4 +247,18 @@ model Post {
   student   User?   @relation("PostStudent", fields: [studentId], references: [id], onDelete: Cascade)
 
   @@index([teacherId, createdAt])
+}
+
+// Öğretmenin eklediği YouTube videoları; öğrenci kendi seviyesindekileri platform içinde izler
+model Video {
+  id        String   @id @default(cuid())
+  title     String
+  youtubeId String
+  level     Level
+  createdAt DateTime @default(now())
+
+  teacherId String
+  teacher   User   @relation("VideoTeacher", fields: [teacherId], references: [id], onDelete: Cascade)
+
+  @@index([teacherId, level])
 }

@@ -1,0 +1,3 @@
+(()=>{"use strict";module.exports=[87597,a=>a.a(async(b,c)=>{try{var d=a.i(19228),e=a.i(19789),f=b([d,e]);[d,e]=f.then?(await f)():f,a.s(["00f92e2977a385f7e90947be0155cd3b78a72303e6",()=>e.C,"40d5934541737e57ba00c1d50a21a16fad5a4b698d",()=>e.E,"6015648c6f6381fc1e3c8f55111d4c7b7037e0f621",()=>e.N]),c()}catch(a){c(a)}},!1),19228,a=>a.a(async(b,c)=>{try{var d=a.i(19789),e=b([d]);[d]=e.then?(await e)():e,a.s([]),c()}catch(a){c(a)}},!1)]})();
+
+//# sourceMappingURL=_next-internal_server_app_student_watch_page_actions_0bq_2ccxu1p87.js.map
