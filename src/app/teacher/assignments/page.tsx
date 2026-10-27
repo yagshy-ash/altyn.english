@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Eye } from "lucide-react";
 import { db } from "@/lib/db";
 import { requireTeacher } from "@/lib/dal";
 import { getT } from "@/i18n/server";
@@ -26,7 +27,7 @@ export default async function AssignmentsPage({ searchParams }: PageProps<"/teac
     include: {
       student: { select: { id: true, name: true } },
       content: { select: { id: true, title: true, skill: true } },
-      attempts: { select: { score: true }, orderBy: { createdAt: "desc" }, take: 1 },
+      attempts: { select: { id: true, score: true }, orderBy: { createdAt: "desc" }, take: 1 },
     },
     orderBy: [{ completedAt: { sort: "desc", nulls: "first" } }, { dueAt: { sort: "asc", nulls: "last" } }],
     take: 200,
@@ -53,7 +54,8 @@ export default async function AssignmentsPage({ searchParams }: PageProps<"/teac
         <ul className="card flex flex-col p-2">
           {items.map((a) => {
             const overdue = !a.completedAt && a.dueAt && a.dueAt < now;
-            const score = a.attempts[0]?.score;
+            const attempt = a.attempts[0];
+            const score = attempt?.score;
             return (
               <li key={a.id} className="flex flex-wrap items-center gap-3 border-t-2 border-line p-3 first:border-t-0">
                 <SkillIcon skill={a.content.skill} size="sm" />
@@ -68,6 +70,11 @@ export default async function AssignmentsPage({ searchParams }: PageProps<"/teac
                 <span className={`chip ${a.completedAt ? "bg-green-soft text-green-dark" : overdue ? "bg-red-soft text-red-dark" : "bg-yellow-soft text-yellow-dark"}`}>
                   {a.completedAt ? `${t.assignments.completed}${score != null ? ` · ${Math.round(score)}%` : ""}` : overdue ? t.assignments.overdue : t.assignments.open}
                 </span>
+                {attempt && (
+                  <Link href={`/teacher/students/${a.student.id}/attempts/${attempt.id}`} className="btn btn-sm btn-blue">
+                    <Eye size={16} /> {t.assignments.viewResult}
+                  </Link>
+                )}
                 <DeleteButton action={deleteAssignment.bind(null, a.id)} confirm={t.common.confirmDelete} label={t.common.delete} />
               </li>
             );

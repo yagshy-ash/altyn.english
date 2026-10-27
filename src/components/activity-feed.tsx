@@ -32,8 +32,10 @@ export function ActivityFeed({ items, t, locale, showStudent = true }: { items: 
                   </Link>
                 )}
                 {showStudent && " · "}
-                <span className="text-muted">{t.skills[a.skill].name}</span>
-                {a.content && <> · {a.content.title}</>}
+                <span className="text-muted">{t.skills[a.skill].name}</span> ·{" "}
+                <Link href={`/teacher/students/${a.student.id}/attempts/${a.id}`} className="hover:underline">
+                  {a.content ? a.content.title : t.skills[a.skill].name}
+                </Link>
               </p>
               <p className="text-xs font-bold text-muted">
                 {formatDate(a.createdAt, locale, true)} · {formatDuration(a.durationSec, locale)}
