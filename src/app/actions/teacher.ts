@@ -5,7 +5,8 @@ import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
 import { db } from "@/lib/db";
 import { requireTeacher } from "@/lib/dal";
-import { generateContent, isAiUnavailable } from "@/lib/ai";
+import { generateContent, isAiUnavailable, quizForText } from "@/lib/ai";
+import { MAX_TEXT_CHARS, missingPart } from "@/lib/content-schemas";
 import { GRAMMAR, pick, TOPICS, VOCAB_THEMES } from "@/lib/syllabus";
 import { MAX_VIDEOS_PER_LEVEL, youtubeId } from "@/lib/youtube";
 import { Level, Skill } from "@/generated/prisma/enums";
@@ -31,6 +32,38 @@ export async function generate(_prev: FormState, formData: FormData): Promise<Fo
     const out = await generateContent({ skill, level, topic });
     const created = await db.content.create({
       data: { skill, level, topic: out.topic, title: out.title, body: out.body as object },
+    });
+    id = created.id;
+  } catch (e) {
+    console.error(e);
+    return { error: isAiUnavailable(e) ? "ai" : "error" };
+  }
+  revalidatePath("/teacher/content");
+  redirect(`/teacher/content/${id}`);
+}
+
+// Öğretmenin kendi metni: metin aynen saklanır, YZ yalnızca kelime listesi ve sorular üretir
+
+export async function createFromText(_prev: FormState, formData: FormData): Promise<FormState> {
+  const teacher = await requireTeacher();
+  const skill = z.enum(["READING", "LISTENING"]).parse(formData.get("skill"));
+  const level = z.enum(Level).parse(formData.get("level"));
+  const count = z.coerce.number().int().min(3).max(10).parse(formData.get("count"));
+  const givenTitle = String(formData.get("title") ?? "").trim().slice(0, 200);
+  const text = String(formData.get("text") ?? "").replace(/\r\n?/g, "\n").trim();
+  if (text.split(/\s+/).length < 30) return { error: "tooShort" };
+  if (text.length > MAX_TEXT_CHARS) return { error: "tooLong" };
+  // Boş satırlar paragrafları ayırır; hiç boş satır yoksa her satır ayrı paragraf (diyaloglar için)
+  const blocks = /\n\s*\n/.test(text) ? text.split(/\n\s*\n/) : text.split("\n");
+  const parts = blocks.map((p) => p.replace(/\s+/g, " ").trim()).filter(Boolean);
+  let id: string;
+  try {
+    const quiz = await quizForText({ text: parts.join("\n\n"), level, skill, count });
+    const body = { [skill === "READING" ? "passage" : "script"]: parts, glossary: quiz.glossary, questions: quiz.questions };
+    const missing = missingPart(skill, body);
+    if (missing) throw new Error(`Text quiz incomplete (no ${missing})`);
+    const created = await db.content.create({
+      data: { skill, level, topic: quiz.topic, title: givenTitle || quiz.title, body, aiGenerated: false, createdById: teacher.id },
     });
     id = created.id;
   } catch (e) {

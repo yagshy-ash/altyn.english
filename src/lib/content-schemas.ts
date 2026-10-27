@@ -65,6 +65,9 @@ const MIN_ITEMS: Record<string, [field: string, min: number][]> = {
   WRITING: [],
   SPEAKING: [],
 };
+// Öğretmenin yapıştırabileceği metnin üst sınırı
+export const MAX_TEXT_CHARS = 15000;
+
 export function missingPart(skill: string, body: unknown): string | null {
   for (const [field, min] of MIN_ITEMS[skill] ?? []) {
     const value = (body as Record<string, unknown>)[field];

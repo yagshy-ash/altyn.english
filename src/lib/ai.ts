@@ -4,7 +4,7 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { betaZodOutputFormat } from "@anthropic-ai/sdk/helpers/beta/zod";
 import { z } from "zod";
-import { BODY_SCHEMAS, Feedback, missingPart } from "./content-schemas";
+import { BODY_SCHEMAS, Feedback, missingPart, ReadingBody } from "./content-schemas";
 import type { Level, Skill } from "@/generated/prisma/enums";
 
 const MODEL = "claude-haiku-5-5";
@@ -91,6 +91,31 @@ export async function generateContent(job: ContentJob): Promise<GeneratedContent
   const missing = missingPart(job.skill, body);
   if (missing) throw new Error(`Generation incomplete (no ${missing}) for ${job.skill} ${job.level} "${job.topic}"`);
   return { title: out.title, topic: out.topic, body };
+}
+
+// Öğretmenin kendi metni: metin olduğu gibi kalır, yalnızca kelime listesi ve sorular üretilir
+const TextQuiz = ReadingBody.pick({ glossary: true, questions: true }).extend({ title: z.string(), topic: z.string() });
+
+export async function quizForText(opts: { text: string; level: Level; skill: "READING" | "LISTENING"; count: number }) {
+  const user = `Level: ${LEVEL_GUIDE[opts.level]}
+The teacher wrote the text below for ${opts.skill === "LISTENING" ? "a listening exercise (students hear it read aloud and do not see it)" : "a reading exercise"}. Do not rewrite or correct the text.
+Create:
+- "glossary": 8–12 words or phrases that appear in the text and may be new at this level, with tr/tk/ru meanings as used in the text.
+- "questions": exactly ${opts.count} multiple-choice comprehension questions in English with 4 options each, answerable only from the text${opts.skill === "LISTENING" ? " by listening" : ""}. Mix detail, main-idea and inference questions suited to the level; each has a short explanation in all three languages.
+- "title": a short English title for the text; "topic": the topic in a few English words.
+
+<text>
+${opts.text}
+</text>`;
+  const response = await client().beta.messages.parse({
+    model: MODEL,
+    max_tokens: 16000,
+    output_config: { effort: "low", format: betaZodOutputFormat(TextQuiz) },
+    system: [{ type: "text", text: SYSTEM, cache_control: { type: "ephemeral" } }],
+    messages: [{ role: "user", content: user }],
+  });
+  if (response.stop_reason === "refusal" || !response.parsed_output) throw new Error(`Text quiz failed (${response.stop_reason})`);
+  return sanitize(response.parsed_output);
 }
 
 // Model bazen Latin Türkmence/Türkçe içine Kiril harf karıştırıyor (bölegінде, toparы).

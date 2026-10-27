@@ -538,6 +538,32 @@
       "filename": "src/app/actions/teacher.ts",
       "exportedName": "createPost"
     },
+    "606ca0797d2058546a7ed095728bb54b6229d1ef92": {
+      "workers": {
+        "app/teacher/assignments/page": {
+          "moduleId": 14051,
+          "async": true
+        },
+        "app/teacher/calendar/page": {
+          "moduleId": 99293,
+          "async": true
+        },
+        "app/teacher/content/page": {
+          "moduleId": 2775,
+          "async": true
+        },
+        "app/teacher/posts/page": {
+          "moduleId": 32996,
+          "async": true
+        },
+        "app/teacher/videos/page": {
+          "moduleId": 57348,
+          "async": true
+        }
+      },
+      "filename": "src/app/actions/teacher.ts",
+      "exportedName": "createFromText"
+    },
     "6086ba70255f3dd8b13a6ce41e147bedde840b5379": {
       "workers": {
         "app/teacher/assignments/page": {

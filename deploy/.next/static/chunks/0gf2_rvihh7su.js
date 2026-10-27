@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,68903,A=>{"use strict";A.s(["c",0,{A1:"A1",A2:"A2",B1:"B1",B2:"B2",C1:"C1",C2:"C2",TOEFL:"TOEFL"},"r",0,{READING:"READING",LISTENING:"LISTENING",WRITING:"WRITING",SPEAKING:"SPEAKING",VOCABULARY:"VOCABULARY",GRAMMAR:"GRAMMAR"}])}]);

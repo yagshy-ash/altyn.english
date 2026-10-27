@@ -7,6 +7,7 @@ import { SKILLS } from "@/lib/skills";
 import { SkillIcon } from "@/components/skill-icon";
 import { Level, Skill } from "@/generated/prisma/enums";
 import { GenerateForm } from "./generate-form";
+import { TextForm } from "./text-form";
 
 export default async function ContentLibrary({ searchParams }: PageProps<"/teacher/content">) {
   await requireTeacher();
@@ -62,6 +63,7 @@ export default async function ContentLibrary({ searchParams }: PageProps<"/teach
                     <p className="truncate text-sm font-semibold text-muted">{c.topic}</p>
                     <div className="mt-2 flex flex-wrap gap-1">
                       <span className="chip bg-yellow-soft text-yellow-dark">{c.level}</span>
+                      {!c.aiGenerated && <span className="chip bg-blue-soft text-blue-dark">{t.ownText.own}</span>}
                       {!c.published && <span className="chip bg-line">{t.content.hidden}</span>}
                       {c._count.attempts > 0 && <span className="chip bg-green-soft text-green-dark">✓ {c._count.attempts}</span>}
                       {c._count.assignments > 0 && <span className="chip bg-purple-soft text-purple-dark">📌 {c._count.assignments}</span>}
@@ -75,10 +77,16 @@ export default async function ContentLibrary({ searchParams }: PageProps<"/teach
           <p className="card font-semibold text-muted">{t.content.empty}</p>
         )}
       </section>
-      <section className="card border-b-4 xl:sticky xl:top-8">
-        <h2 className="h2 mb-4">✨ {t.content.generate}</h2>
-        <GenerateForm t={t} defaultLevel={level} defaultSkill={skill} />
-      </section>
+      <div className="flex flex-col gap-6">
+        <section className="card border-b-4">
+          <h2 className="h2 mb-4">📝 {t.ownText.heading}</h2>
+          <TextForm t={t} defaultLevel={level} />
+        </section>
+        <section className="card border-b-4">
+          <h2 className="h2 mb-4">✨ {t.content.generate}</h2>
+          <GenerateForm t={t} defaultLevel={level} defaultSkill={skill} />
+        </section>
+      </div>
     </div>
   );
 }
