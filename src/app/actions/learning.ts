@@ -3,7 +3,7 @@
 import { revalidatePath } from "next/cache";
 import { db } from "@/lib/db";
 import { requireStudent } from "@/lib/dal";
-import { visibleContentWhere } from "@/lib/content";
+import { openableContentWhere } from "@/lib/content";
 import { chatOpening, chatTurn, evaluateAnswer, explainText, isAiUnavailable } from "@/lib/ai";
 import { SCENARIOS } from "@/lib/scenarios";
 import type { Feedback, GrammarBody, ListeningBody, ReadingBody, VocabularyBody, WritingBody, SpeakingBody } from "@/lib/content-schemas";
@@ -14,7 +14,7 @@ const INTERVALS = [0, 1, 3, 7, 14, 30, 60];
 
 async function visibleContent(contentId: string) {
   const student = await requireStudent();
-  const content = await db.content.findFirst({ where: { id: contentId, ...visibleContentWhere(student.level) } });
+  const content = await db.content.findFirst({ where: { id: contentId, ...openableContentWhere(student) } });
   if (!content) throw new Error("Content not available");
   return { student, content };
 }

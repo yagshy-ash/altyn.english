@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
 import { db } from "@/lib/db";
 import { requireStudent } from "@/lib/dal";
-import { visibleContentWhere } from "@/lib/content";
+import { openableContentWhere } from "@/lib/content";
 import { getT } from "@/i18n/server";
 import { isSkillSlug, SKILL_SLUGS } from "@/lib/skills";
 import { formatDate } from "@/lib/format";
@@ -17,7 +17,7 @@ export default async function ContentPage({ params }: PageProps<"/student/[skill
   if (!isSkillSlug(slug)) notFound();
   const student = await requireStudent();
   const { locale, t } = await getT();
-  const content = await db.content.findFirst({ where: { id, ...visibleContentWhere(student.level, SKILL_SLUGS[slug]) } });
+  const content = await db.content.findFirst({ where: { id, ...openableContentWhere(student, SKILL_SLUGS[slug]) } });
   if (!content) notFound();
 
   let added = false;

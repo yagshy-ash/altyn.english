@@ -8,6 +8,15 @@ export function visibleContentWhere(level: Level, skill?: Skill) {
   return { level, published: true, ...(skill ? { skill } : {}) };
 }
 
+// Tek bir içeriği açarken: seviyesindeki içerik + öğretmenin bu öğrenciye özellikle atadığı içerik
+// (öğretmen başka seviyeden de ödev verebilir)
+export function openableContentWhere(student: { id: string; level: Level }, skill?: Skill) {
+  return {
+    ...(skill ? { skill } : {}),
+    OR: [visibleContentWhere(student.level), { assignments: { some: { studentId: student.id } } }],
+  };
+}
+
 export async function contentCountsBySkill(level: Level) {
   const rows = await db.content.groupBy({
     by: ["skill"],
