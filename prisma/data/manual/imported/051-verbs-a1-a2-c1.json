@@ -1,0 +1,76 @@
+[
+  {
+    "skill": "VOCABULARY", "level": "A1", "topic": "Common verbs A1 · 4", "title": "Common Verbs A1 · Part 4",
+    "body": { "words": [
+      { "word": "need", "pos": "verb", "example": "I need a new pen.", "tr": "ihtiyacı olmak", "tk": "gerek bolmak, mätäç bolmak", "ru": "нуждаться, нужно" },
+      { "word": "open", "pos": "verb", "example": "Can you open the window, please?", "tr": "açmak", "tk": "açmak", "ru": "открывать" },
+      { "word": "close", "pos": "verb", "example": "The shop closes at nine.", "tr": "kapatmak, kapanmak", "tk": "ýapmak, ýapylmak", "ru": "закрывать(ся)" },
+      { "word": "plan", "pos": "verb", "example": "We are planning a trip to the mountains.", "tr": "planlamak", "tk": "meýilleşdirmek", "ru": "планировать" },
+      { "word": "remember", "pos": "verb", "example": "Do you remember her name?", "tr": "hatırlamak", "tk": "ýatlamak, ýadyňda saklamak", "ru": "помнить, вспоминать" },
+      { "word": "stop", "pos": "verb", "example": "The bus stops near my house.", "tr": "durmak, durdurmak", "tk": "durmak, saklamak", "ru": "останавливать(ся)" },
+      { "word": "wait", "pos": "verb", "example": "Please wait here for a minute.", "tr": "beklemek", "tk": "garaşmak", "ru": "ждать" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "A1", "topic": "Common verbs A1 · 5", "title": "Common Verbs A1 · Part 5",
+    "body": { "words": [
+      { "word": "want", "pos": "verb", "example": "I want a glass of water.", "tr": "istemek", "tk": "islemek", "ru": "хотеть" },
+      { "word": "wash", "pos": "verb", "example": "Wash your hands before dinner.", "tr": "yıkamak", "tk": "ýuwmak", "ru": "мыть, стирать" },
+      { "word": "watch", "pos": "verb", "example": "We watch TV in the evening.", "tr": "izlemek, seyretmek", "tk": "görmek, tomaşa etmek", "ru": "смотреть" },
+      { "word": "clean", "pos": "verb", "example": "I clean my room every Saturday.", "tr": "temizlemek", "tk": "arassalamak", "ru": "убирать, чистить" },
+      { "word": "should", "pos": "modal verb", "example": "You should go to bed early.", "tr": "-meli, -malı (tavsiye)", "tk": "-meli, -maly (maslahat)", "ru": "следует, стоит" },
+      { "word": "will", "pos": "modal verb", "example": "I will call you tomorrow.", "tr": "-ecek, -acak (gelecek)", "tk": "-jak, -jek (geljek zaman)", "ru": "будет (будущее время)" },
+      { "word": "would", "pos": "modal verb", "example": "Would you like some tea?", "tr": "-er miydin, ister misin (kibar istek)", "tk": "-armydyň (sypaýy haýyş)", "ru": "бы, не хотите ли (вежливо)" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "A2", "topic": "Common verbs A2 · 4", "title": "Common Verbs A2 · Part 4",
+    "body": { "words": [
+      { "word": "hope", "pos": "verb", "example": "I hope you feel better soon.", "tr": "ummak", "tk": "umyt etmek", "ru": "надеяться" },
+      { "word": "hurry", "pos": "verb", "example": "Hurry up! The train is leaving.", "tr": "acele etmek", "tk": "howlukmak", "ru": "спешить" },
+      { "word": "imagine", "pos": "verb", "example": "Imagine a world without cars.", "tr": "hayal etmek", "tk": "göz öňüne getirmek", "ru": "представлять" },
+      { "word": "improve", "pos": "verb", "example": "My English has improved a lot this year.", "tr": "geliştirmek, gelişmek", "tk": "gowulandyrmak, ösmek", "ru": "улучшать(ся)" },
+      { "word": "include", "pos": "verb", "example": "The price includes breakfast.", "tr": "içermek, dahil etmek", "tk": "öz içine almak", "ru": "включать" },
+      { "word": "introduce", "pos": "verb", "example": "Let me introduce my friend Aylin.", "tr": "tanıştırmak, tanıtmak", "tk": "tanyşdyrmak", "ru": "представлять, знакомить" },
+      { "word": "kiss", "pos": "verb", "example": "She kissed her baby goodnight.", "tr": "öpmek", "tk": "ogşamak", "ru": "целовать" },
+      { "word": "laugh", "pos": "verb", "example": "We laughed at his funny joke.", "tr": "gülmek", "tk": "gülmek", "ru": "смеяться" },
+      { "word": "might", "pos": "modal verb", "example": "It might rain this afternoon.", "tr": "-ebilir (belki)", "tk": "-yp biler (belki)", "ru": "может быть, возможно" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "A2", "topic": "Common verbs A2 · 5", "title": "Common Verbs A2 · Part 5",
+    "body": { "words": [
+      { "word": "miss", "pos": "verb", "example": "I missed the bus this morning.", "tr": "kaçırmak, özlemek", "tk": "gijä galmak, küýsemek", "ru": "пропускать, опаздывать, скучать" },
+      { "word": "mix", "pos": "verb", "example": "Mix the flour and the eggs.", "tr": "karıştırmak", "tk": "garyşdyrmak", "ru": "смешивать" },
+      { "word": "must", "pos": "modal verb", "example": "You must wear a seat belt.", "tr": "-meli, zorunda olmak", "tk": "-meli, hökman", "ru": "должен" },
+      { "word": "offer", "pos": "verb", "example": "He offered me a cup of coffee.", "tr": "teklif etmek, ikram etmek", "tk": "hödürlemek, teklip etmek", "ru": "предлагать" },
+      { "word": "order", "pos": "verb", "example": "We ordered pizza for dinner.", "tr": "sipariş etmek", "tk": "sargyt etmek", "ru": "заказывать" },
+      { "word": "organize", "pos": "verb", "example": "She organized a party for her friend.", "tr": "düzenlemek, organize etmek", "tk": "guramak", "ru": "организовывать" },
+      { "word": "pick", "pos": "verb", "example": "Pick a card, any card.", "tr": "seçmek, toplamak", "tk": "saýlamak, ýygnamak", "ru": "выбирать, собирать" },
+      { "word": "practice", "pos": "verb", "example": "I practice the piano every day.", "tr": "pratik yapmak, çalışmak", "tk": "türgenleşmek", "ru": "практиковаться, тренироваться" },
+      { "word": "prefer", "pos": "verb", "example": "I prefer tea to coffee.", "tr": "tercih etmek", "tk": "ileri tutmak, saýlamak", "ru": "предпочитать" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "A2", "topic": "Common verbs A2 · 6", "title": "Common Verbs A2 · Part 6",
+    "body": { "words": [
+      { "word": "prepare", "pos": "verb", "example": "I need to prepare for my exam.", "tr": "hazırlamak, hazırlanmak", "tk": "taýýarlamak, taýýarlanmak", "ru": "готовить(ся)" },
+      { "word": "receive", "pos": "verb", "example": "Did you receive my email?", "tr": "almak (gelen bir şeyi)", "tk": "almak (iberilen zady)", "ru": "получать" },
+      { "word": "repair", "pos": "verb", "example": "My father repaired the broken chair.", "tr": "tamir etmek", "tk": "abatlamak, bejermek", "ru": "чинить" },
+      { "word": "seem", "pos": "verb", "example": "She seems very happy today.", "tr": "gibi görünmek", "tk": "ýaly görünmek", "ru": "казаться" },
+      { "word": "shall", "pos": "modal verb", "example": "Shall we go to the cinema?", "tr": "-elim mi? (öneri)", "tk": "-alymmy? (teklip)", "ru": "давай...? (предложение)" },
+      { "word": "ski", "pos": "verb", "example": "We go skiing every winter.", "tr": "kayak yapmak", "tk": "lyža sürmek", "ru": "кататься на лыжах" },
+      { "word": "suggest", "pos": "verb", "example": "I suggest we leave early.", "tr": "önermek", "tk": "teklip etmek", "ru": "предлагать, советовать" },
+      { "word": "taste", "pos": "verb", "example": "This soup tastes delicious.", "tr": "tadına bakmak, tadı olmak", "tk": "dadyny görmek, tagamly bolmak", "ru": "пробовать, иметь вкус" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "C1", "topic": "Common verbs C1 · 4", "title": "Common Verbs C1 · Part 4",
+    "body": { "words": [
+      { "word": "tolerate", "pos": "verb", "example": "The school will not tolerate bullying of any kind.", "tr": "hoş görmek, katlanmak", "tk": "çydamak, sabyr etmek", "ru": "терпеть, допускать" },
+      { "word": "whip", "pos": "verb", "example": "Whip the cream until it is thick.", "tr": "çırpmak, kırbaçlamak", "tk": "çaltlyk bilen çalmak (krem), gamçylamak", "ru": "взбивать, хлестать" },
+      { "word": "grate", "pos": "verb", "example": "Grate some cheese over the pasta.", "tr": "rendelemek", "tk": "syrgyçdan geçirmek", "ru": "тереть на тёрке" },
+      { "word": "layer", "pos": "verb", "example": "Layer the potatoes and onions in the dish.", "tr": "kat kat dizmek", "tk": "gatlak-gatlak goýmak", "ru": "укладывать слоями" }
+    ] }
+  }
+]

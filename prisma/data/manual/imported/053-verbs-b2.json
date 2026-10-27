@@ -1,0 +1,90 @@
+[
+  {
+    "skill": "VOCABULARY", "level": "B2", "topic": "Common verbs B2 · 4", "title": "Common Verbs B2 · Part 4",
+    "body": { "words": [
+      { "word": "distribute", "pos": "verb", "example": "Volunteers distributed food to families in need.", "tr": "dağıtmak", "tk": "paýlamak", "ru": "распределять, раздавать" },
+      { "word": "doubt", "pos": "verb", "example": "I doubt that he will arrive on time.", "tr": "şüphe etmek", "tk": "şübhelenmek", "ru": "сомневаться" },
+      { "word": "drag", "pos": "verb", "example": "He dragged the heavy suitcase up the stairs.", "tr": "sürüklemek", "tk": "süýremek", "ru": "тащить, волочить" },
+      { "word": "emphasize", "pos": "verb", "example": "The teacher emphasized the importance of reading.", "tr": "vurgulamak", "tk": "nygtamak", "ru": "подчёркивать" },
+      { "word": "enable", "pos": "verb", "example": "The new app enables users to pay by phone.", "tr": "olanak sağlamak", "tk": "mümkinçilik bermek", "ru": "давать возможность" },
+      { "word": "ensure", "pos": "verb", "example": "Please ensure that all doors are locked.", "tr": "sağlamak, emin olmak", "tk": "üpjün etmek, göz ýetirmek", "ru": "обеспечивать, гарантировать" },
+      { "word": "establish", "pos": "verb", "example": "The school was established in 1995.", "tr": "kurmak", "tk": "esaslandyrmak, döretmek", "ru": "основывать, устанавливать" },
+      { "word": "examine", "pos": "verb", "example": "The doctor examined my throat.", "tr": "incelemek, muayene etmek", "tk": "barlamak", "ru": "осматривать, исследовать" },
+      { "word": "expand", "pos": "verb", "example": "The company plans to expand into new markets.", "tr": "genişlemek, büyümek", "tk": "giňeltmek, giňemek", "ru": "расширять(ся)" },
+      { "word": "extend", "pos": "verb", "example": "They extended the deadline by one week.", "tr": "uzatmak", "tk": "uzaltmak", "ru": "продлевать" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "B2", "topic": "Common verbs B2 · 5", "title": "Common Verbs B2 · Part 5",
+    "body": { "words": [
+      { "word": "fold", "pos": "verb", "example": "Fold the paper in half.", "tr": "katlamak", "tk": "epläp goýmak, bukmak", "ru": "складывать, сгибать" },
+      { "word": "generate", "pos": "verb", "example": "Solar panels generate electricity from sunlight.", "tr": "üretmek", "tk": "öndürmek", "ru": "производить, вырабатывать" },
+      { "word": "hesitate", "pos": "verb", "example": "Don't hesitate to ask if you need help.", "tr": "tereddüt etmek", "tk": "ikirjiňlenmek", "ru": "колебаться, стесняться" },
+      { "word": "identify", "pos": "verb", "example": "Can you identify the man in this photo?", "tr": "tanımlamak, teşhis etmek", "tk": "kesgitlemek, tanamak", "ru": "определять, опознавать" },
+      { "word": "illustrate", "pos": "verb", "example": "These examples illustrate the main problem.", "tr": "örneklerle açıklamak, resimlemek", "tk": "mysal bilen düşündirmek, suratlandyrmak", "ru": "иллюстрировать" },
+      { "word": "impress", "pos": "verb", "example": "Her speech really impressed the audience.", "tr": "etkilemek", "tk": "täsir galdyrmak", "ru": "производить впечатление" },
+      { "word": "indicate", "pos": "verb", "example": "The results indicate a clear improvement.", "tr": "göstermek, işaret etmek", "tk": "görkezmek, alamat bermek", "ru": "указывать, показывать" },
+      { "word": "insist", "pos": "verb", "example": "She insisted on paying for dinner.", "tr": "ısrar etmek", "tk": "yzygiderli talap etmek", "ru": "настаивать" },
+      { "word": "install", "pos": "verb", "example": "We installed a new program on the computer.", "tr": "kurmak, yüklemek", "tk": "gurnamak", "ru": "устанавливать" },
+      { "word": "investigate", "pos": "verb", "example": "The police are investigating the robbery.", "tr": "soruşturmak, araştırmak", "tk": "derňemek, barlag geçirmek", "ru": "расследовать" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "B2", "topic": "Common verbs B2 · 6", "title": "Common Verbs B2 · Part 6",
+    "body": { "words": [
+      { "word": "lack", "pos": "verb", "example": "The team lacks experience.", "tr": "eksikliği olmak", "tk": "ýetmezçilik etmek", "ru": "не хватать, недоставать" },
+      { "word": "maintain", "pos": "verb", "example": "It is important to maintain a healthy diet.", "tr": "sürdürmek, korumak", "tk": "saklamak, dowam etdirmek", "ru": "поддерживать, сохранять" },
+      { "word": "observe", "pos": "verb", "example": "Scientists observed the birds for six months.", "tr": "gözlemlemek", "tk": "synlamak", "ru": "наблюдать" },
+      { "word": "obtain", "pos": "verb", "example": "You must obtain a visa before you travel.", "tr": "elde etmek", "tk": "almak, gazanmak", "ru": "получать, приобретать" },
+      { "word": "occur", "pos": "verb", "example": "The accident occurred late at night.", "tr": "meydana gelmek", "tk": "ýüze çykmak, bolup geçmek", "ru": "происходить" },
+      { "word": "operate", "pos": "verb", "example": "Do you know how to operate this machine?", "tr": "çalıştırmak, ameliyat etmek", "tk": "işletmek, operasiýa etmek", "ru": "управлять, работать, оперировать" },
+      { "word": "overcome", "pos": "verb", "example": "She overcame her fear of flying.", "tr": "üstesinden gelmek", "tk": "ýeňip geçmek", "ru": "преодолевать" },
+      { "word": "owe", "pos": "verb", "example": "I owe my brother twenty dollars.", "tr": "borçlu olmak", "tk": "bergili bolmak", "ru": "быть должным" },
+      { "word": "participate", "pos": "verb", "example": "All students are invited to participate in the debate.", "tr": "katılmak", "tk": "gatnaşmak", "ru": "участвовать" },
+      { "word": "postpone", "pos": "verb", "example": "The match was postponed because of the rain.", "tr": "ertelemek", "tk": "yza süýşürmek", "ru": "откладывать" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "B2", "topic": "Common verbs B2 · 7", "title": "Common Verbs B2 · Part 7",
+    "body": { "words": [
+      { "word": "propose", "pos": "verb", "example": "He proposed a new plan at the meeting.", "tr": "önermek; evlenme teklif etmek", "tk": "teklip etmek; durmuş gurmagy teklip etmek", "ru": "предлагать; делать предложение" },
+      { "word": "punch", "pos": "verb", "example": "The boxer punched his opponent hard.", "tr": "yumruklamak", "tk": "ýumruk bilen urmak", "ru": "бить кулаком" },
+      { "word": "qualify", "pos": "verb", "example": "Our team qualified for the final.", "tr": "hak kazanmak, yeterli olmak", "tk": "hukuk gazanmak, laýyk gelmek", "ru": "проходить отбор, получать квалификацию" },
+      { "word": "recall", "pos": "verb", "example": "I can't recall where I put my glasses.", "tr": "hatırlamak", "tk": "ýatlamak", "ru": "вспоминать" },
+      { "word": "refer", "pos": "verb", "example": "Please refer to page 20 for more details.", "tr": "başvurmak, atıfta bulunmak", "tk": "ýüzlenmek, salgylanmak", "ru": "ссылаться, обращаться" },
+      { "word": "reflect", "pos": "verb", "example": "The lake reflected the mountains.", "tr": "yansıtmak, düşünmek", "tk": "şöhlelendirmek, oýlanmak", "ru": "отражать, размышлять" },
+      { "word": "relate", "pos": "verb", "example": "I can relate to the main character in the book.", "tr": "ilişkilendirmek, kendini bağdaştırmak", "tk": "baglanyşdyrmak, özüňi ýakyn duýmak", "ru": "относиться, понимать (чувства)" },
+      { "word": "rely", "pos": "verb", "example": "You can always rely on your friends.", "tr": "güvenmek, bel bağlamak", "tk": "bil baglamak, ynanmak", "ru": "полагаться" },
+      { "word": "represent", "pos": "verb", "example": "She represented her country at the Olympics.", "tr": "temsil etmek", "tk": "wekilçilik etmek", "ru": "представлять" },
+      { "word": "resist", "pos": "verb", "example": "I couldn't resist eating another piece of cake.", "tr": "direnmek, karşı koymak", "tk": "garşy durmak, saklanmak", "ru": "сопротивляться, удерживаться" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "B2", "topic": "Common verbs B2 · 8", "title": "Common Verbs B2 · Part 8",
+    "body": { "words": [
+      { "word": "risk", "pos": "verb", "example": "He risked his life to save the child.", "tr": "riske atmak", "tk": "töwekgelçilik etmek", "ru": "рисковать" },
+      { "word": "satisfy", "pos": "verb", "example": "The answer didn't satisfy the teacher.", "tr": "tatmin etmek", "tk": "kanagatlandyrmak", "ru": "удовлетворять" },
+      { "word": "settle", "pos": "verb", "example": "They settled in a small village near the coast.", "tr": "yerleşmek; (sorunu) çözmek", "tk": "ornaşmak; (meseläni) çözmek", "ru": "поселяться; улаживать" },
+      { "word": "skip", "pos": "verb", "example": "Don't skip breakfast before an exam.", "tr": "atlamak, geçmek", "tk": "geçirmek, taşlap geçmek", "ru": "пропускать" },
+      { "word": "slice", "pos": "verb", "example": "Slice the bread into thin pieces.", "tr": "dilimlemek", "tk": "dilimlemek, inçe kesmek", "ru": "нарезать ломтиками" },
+      { "word": "slip", "pos": "verb", "example": "She slipped on the ice and fell.", "tr": "kaymak", "tk": "typmak", "ru": "поскользнуться" },
+      { "word": "steam", "pos": "verb", "example": "Steam the vegetables for five minutes.", "tr": "buharda pişirmek", "tk": "bugda bişirmek", "ru": "готовить на пару" },
+      { "word": "stir", "pos": "verb", "example": "Stir the soup so it doesn't burn.", "tr": "karıştırmak", "tk": "garyşdyrmak, bulamak", "ru": "помешивать" },
+      { "word": "stretch", "pos": "verb", "example": "Stretch your legs before you run.", "tr": "esnetmek, gerinmek", "tk": "süýndürmek, gerilmek", "ru": "растягивать(ся)" },
+      { "word": "struggle", "pos": "verb", "example": "Many students struggle with grammar.", "tr": "zorlanmak, mücadele etmek", "tk": "kynçylyk çekmek, göreşmek", "ru": "бороться, с трудом справляться" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "B2", "topic": "Common verbs B2 · 9", "title": "Common Verbs B2 · Part 9",
+    "body": { "words": [
+      { "word": "submit", "pos": "verb", "example": "Please submit your essay by Friday.", "tr": "teslim etmek, sunmak", "tk": "tabşyrmak", "ru": "подавать, сдавать" },
+      { "word": "tend", "pos": "verb", "example": "People tend to eat more in winter.", "tr": "eğiliminde olmak", "tk": "meýilli bolmak", "ru": "иметь склонность" },
+      { "word": "threaten", "pos": "verb", "example": "Pollution threatens many species of fish.", "tr": "tehdit etmek", "tk": "howp salmak", "ru": "угрожать" },
+      { "word": "trip", "pos": "verb", "example": "He tripped over a stone and hurt his knee.", "tr": "takılıp tökezlemek", "tk": "büdremek", "ru": "спотыкаться" },
+      { "word": "vacuum", "pos": "verb", "example": "I vacuum the carpet every weekend.", "tr": "elektrikli süpürgeyle süpürmek", "tk": "tozsorujy bilen arassalamak", "ru": "пылесосить" },
+      { "word": "value", "pos": "verb", "example": "I really value your opinion.", "tr": "değer vermek", "tk": "gadyryny bilmek, baha bermek", "ru": "ценить" },
+      { "word": "vary", "pos": "verb", "example": "Prices vary from shop to shop.", "tr": "değişmek, farklılık göstermek", "tk": "üýtgemek, tapawutlanmak", "ru": "различаться, варьироваться" },
+      { "word": "volunteer", "pos": "verb", "example": "She volunteers at the animal shelter on Sundays.", "tr": "gönüllü olmak", "tk": "meýletin işlemek", "ru": "работать волонтёром, вызваться" }
+    ] }
+  }
+]

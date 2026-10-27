@@ -1,0 +1,113 @@
+[
+  {
+    "skill": "VOCABULARY", "level": "A1", "topic": "Irregular verbs A1 · 3", "title": "Irregular Verbs A1 · Part 3",
+    "body": { "words": [
+      { "word": "learn – learned/learnt – learned/learnt", "pos": "irregular verb", "example": "I learned ten new words yesterday.", "tr": "öğrenmek", "tk": "öwrenmek", "ru": "учить, узнавать" },
+      { "word": "leave – left – left", "pos": "irregular verb", "example": "She left the house at eight o'clock.", "tr": "ayrılmak, bırakmak", "tk": "gitmek, galdyrmak", "ru": "уходить, оставлять" },
+      { "word": "lose – lost – lost", "pos": "irregular verb", "example": "I lost my keys on the bus.", "tr": "kaybetmek", "tk": "ýitirmek", "ru": "терять" },
+      { "word": "make – made – made", "pos": "irregular verb", "example": "My mother made a cake for my birthday.", "tr": "yapmak", "tk": "etmek, bişirmek", "ru": "делать" },
+      { "word": "meet – met – met", "pos": "irregular verb", "example": "We met at the café after school.", "tr": "buluşmak, tanışmak", "tk": "duşuşmak, tanyşmak", "ru": "встречать(ся)" },
+      { "word": "pay – paid – paid", "pos": "irregular verb", "example": "He paid for the tickets.", "tr": "ödemek", "tk": "tölemek", "ru": "платить" },
+      { "word": "put – put – put", "pos": "irregular verb", "example": "I put the milk in the fridge.", "tr": "koymak", "tk": "goýmak", "ru": "класть, ставить" },
+      { "word": "read – read – read", "pos": "irregular verb", "example": "I read a good book last week.", "tr": "okumak", "tk": "okamak", "ru": "читать" },
+      { "word": "ride – rode – ridden", "pos": "irregular verb", "example": "She rode her bike to the park.", "tr": "(bisiklet, at) sürmek", "tk": "(welosiped, at) münmek", "ru": "ехать верхом, кататься" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "A1", "topic": "Irregular verbs A1 · 4", "title": "Irregular Verbs A1 · Part 4",
+    "body": { "words": [
+      { "word": "run – ran – run", "pos": "irregular verb", "example": "The children ran to the playground.", "tr": "koşmak", "tk": "ylgamak", "ru": "бегать" },
+      { "word": "say – said – said", "pos": "irregular verb", "example": "He said goodbye and left.", "tr": "söylemek", "tk": "aýtmak", "ru": "говорить, сказать" },
+      { "word": "see – saw – seen", "pos": "irregular verb", "example": "I saw a beautiful bird in the garden.", "tr": "görmek", "tk": "görmek", "ru": "видеть" },
+      { "word": "sell – sold – sold", "pos": "irregular verb", "example": "They sold their old car.", "tr": "satmak", "tk": "satmak", "ru": "продавать" },
+      { "word": "send – sent – sent", "pos": "irregular verb", "example": "I sent you a message this morning.", "tr": "göndermek", "tk": "ibermek", "ru": "отправлять" },
+      { "word": "show – showed – shown", "pos": "irregular verb", "example": "She showed me her new phone.", "tr": "göstermek", "tk": "görkezmek", "ru": "показывать" },
+      { "word": "sing – sang – sung", "pos": "irregular verb", "example": "We sang a song together.", "tr": "şarkı söylemek", "tk": "aýdym aýtmak", "ru": "петь" },
+      { "word": "sit – sat – sat", "pos": "irregular verb", "example": "He sat next to me in class.", "tr": "oturmak", "tk": "oturmak", "ru": "сидеть, садиться" },
+      { "word": "sleep – slept – slept", "pos": "irregular verb", "example": "I slept for nine hours last night.", "tr": "uyumak", "tk": "uklamak", "ru": "спать" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "A1", "topic": "Irregular verbs A1 · 5", "title": "Irregular Verbs A1 · Part 5",
+    "body": { "words": [
+      { "word": "speak – spoke – spoken", "pos": "irregular verb", "example": "She spoke to the teacher after the lesson.", "tr": "konuşmak", "tk": "gürlemek", "ru": "говорить" },
+      { "word": "swim – swam – swum", "pos": "irregular verb", "example": "We swam in the sea every day.", "tr": "yüzmek", "tk": "ýüzmek", "ru": "плавать" },
+      { "word": "take – took – taken", "pos": "irregular verb", "example": "I took a photo of the mountains.", "tr": "almak, götürmek", "tk": "almak, alyp gitmek", "ru": "брать" },
+      { "word": "teach – taught – taught", "pos": "irregular verb", "example": "Mr Brown taught us English.", "tr": "öğretmek", "tk": "öwretmek", "ru": "учить, преподавать" },
+      { "word": "tell – told – told", "pos": "irregular verb", "example": "He told me a funny story.", "tr": "anlatmak, söylemek", "tk": "gürrüň bermek, aýtmak", "ru": "рассказывать, сказать" },
+      { "word": "think – thought – thought", "pos": "irregular verb", "example": "I thought the film was great.", "tr": "düşünmek", "tk": "pikir etmek", "ru": "думать" },
+      { "word": "understand – understood – understood", "pos": "irregular verb", "example": "I understood everything in the lesson.", "tr": "anlamak", "tk": "düşünmek", "ru": "понимать" },
+      { "word": "win – won – won", "pos": "irregular verb", "example": "Our team won the match.", "tr": "kazanmak", "tk": "ýeňmek", "ru": "выигрывать" },
+      { "word": "write – wrote – written", "pos": "irregular verb", "example": "She wrote a letter to her grandmother.", "tr": "yazmak", "tk": "ýazmak", "ru": "писать" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "A2", "topic": "Irregular verbs A2 · 3", "title": "Irregular Verbs A2 · Part 3",
+    "body": { "words": [
+      { "word": "shut – shut – shut", "pos": "irregular verb", "example": "Please shut the door behind you.", "tr": "kapatmak", "tk": "ýapmak", "ru": "закрывать" },
+      { "word": "smell – smelled/smelt – smelled/smelt", "pos": "irregular verb", "example": "The kitchen smelled of fresh bread.", "tr": "kokmak, koklamak", "tk": "ys bermek, ysgamak", "ru": "пахнуть, нюхать" },
+      { "word": "spend – spent – spent", "pos": "irregular verb", "example": "We spent our holiday by the sea.", "tr": "harcamak, geçirmek", "tk": "sarp etmek, geçirmek", "ru": "тратить, проводить" },
+      { "word": "stand – stood – stood", "pos": "irregular verb", "example": "We stood in the queue for an hour.", "tr": "ayakta durmak", "tk": "durmak", "ru": "стоять" },
+      { "word": "throw – threw – thrown", "pos": "irregular verb", "example": "He threw the ball to his dog.", "tr": "atmak, fırlatmak", "tk": "zyňmak, taşlamak", "ru": "бросать" },
+      { "word": "wake – woke – woken", "pos": "irregular verb", "example": "I woke up early this morning.", "tr": "uyanmak, uyandırmak", "tk": "oýanmak, oýarmak", "ru": "просыпаться, будить" },
+      { "word": "wear – wore – worn", "pos": "irregular verb", "example": "She wore a red dress to the party.", "tr": "giymek, takmak", "tk": "geýmek, dakynmak", "ru": "носить, быть одетым" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "B1", "topic": "Irregular verbs B1 · 3", "title": "Irregular Verbs B1 · Part 3",
+    "body": { "words": [
+      { "word": "shine – shone – shone", "pos": "irregular verb", "example": "The sun shone all day.", "tr": "parlamak", "tk": "ýagtylyk saçmak, lowurdamak", "ru": "светить, сиять" },
+      { "word": "shoot – shot – shot", "pos": "irregular verb", "example": "The player shot the ball into the goal.", "tr": "ateş etmek, şut çekmek", "tk": "atmak (ok, top)", "ru": "стрелять, бить (по мячу)" },
+      { "word": "steal – stole – stolen", "pos": "irregular verb", "example": "Someone stole my bike last night.", "tr": "çalmak", "tk": "ogurlamak", "ru": "красть" },
+      { "word": "stick – stuck – stuck", "pos": "irregular verb", "example": "I stuck a photo on the fridge.", "tr": "yapıştırmak, takılmak", "tk": "ýelmemek, ilişip galmak", "ru": "приклеивать, застревать" },
+      { "word": "upset – upset – upset", "pos": "irregular verb", "example": "The bad news upset her.", "tr": "üzmek", "tk": "gussa batyrmak", "ru": "расстраивать" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "B2", "topic": "Irregular verbs B2 · 3", "title": "Irregular Verbs B2 · Part 3",
+    "body": { "words": [
+      { "word": "speed – sped – sped", "pos": "irregular verb", "example": "The car sped away before the police arrived.", "tr": "hızla gitmek", "tk": "çalt sürmek", "ru": "мчаться" },
+      { "word": "spin – spun – spun", "pos": "irregular verb", "example": "The dancer spun around on one foot.", "tr": "dönmek, döndürmek", "tk": "aýlanmak, aýlamak", "ru": "вращать(ся), кружиться" },
+      { "word": "split – split – split", "pos": "irregular verb", "example": "We split the bill between the four of us.", "tr": "bölmek, paylaşmak", "tk": "bölmek, paýlaşmak", "ru": "делить, разделять" },
+      { "word": "spoil – spoiled/spoilt – spoiled/spoilt", "pos": "irregular verb", "example": "The rain spoiled our picnic.", "tr": "bozmak, mahvetmek", "tk": "bozmak, harap etmek", "ru": "портить" },
+      { "word": "spread – spread – spread", "pos": "irregular verb", "example": "The news spread quickly across the town.", "tr": "yaymak, yayılmak", "tk": "ýaýratmak, ýaýramak", "ru": "распространять(ся), намазывать" },
+      { "word": "strike – struck – struck", "pos": "irregular verb", "example": "The tree was struck by lightning.", "tr": "vurmak, çarpmak", "tk": "urmak", "ru": "ударять" },
+      { "word": "swear – swore – sworn", "pos": "irregular verb", "example": "He swore that he was telling the truth.", "tr": "yemin etmek, küfretmek", "tk": "kasam içmek, sögünmek", "ru": "клясться, ругаться" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "B2", "topic": "Irregular verbs B2 · 4", "title": "Irregular Verbs B2 · Part 4",
+    "body": { "words": [
+      { "word": "sweep – swept – swept", "pos": "irregular verb", "example": "She swept the floor after dinner.", "tr": "süpürmek", "tk": "süpürmek", "ru": "подметать" },
+      { "word": "swing – swung – swung", "pos": "irregular verb", "example": "The door swung open in the wind.", "tr": "sallanmak, sallamak", "tk": "yralmak, yrgyldamak", "ru": "качать(ся), раскачиваться" },
+      { "word": "tear – tore – torn", "pos": "irregular verb", "example": "He tore his jeans on a nail.", "tr": "yırtmak", "tk": "ýyrtmak", "ru": "рвать" },
+      { "word": "undo – undid – undone", "pos": "irregular verb", "example": "She undid the knot with her fingers.", "tr": "çözmek, geri almak", "tk": "çözmek, yzyna gaýtarmak", "ru": "развязывать, отменять" },
+      { "word": "wet – wet/wetted – wet/wetted", "pos": "irregular verb", "example": "Wet the cloth before you clean the table.", "tr": "ıslatmak", "tk": "öllemek", "ru": "мочить, смачивать" },
+      { "word": "wind – wound – wound", "pos": "irregular verb", "example": "The road wound through the mountains.", "tr": "dolanmak, sarmak, kurmak", "tk": "towlanmak, saramak", "ru": "виться, наматывать, заводить" },
+      { "word": "withdraw – withdrew – withdrawn", "pos": "irregular verb", "example": "I withdrew some money from the bank.", "tr": "(para) çekmek, geri çekilmek", "tk": "(pul) almak, yza çekilmek", "ru": "снимать (деньги), отзывать" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "C1", "topic": "Irregular verbs C1 · 3", "title": "Irregular Verbs C1 · Part 3",
+    "body": { "words": [
+      { "word": "undertake – undertook – undertaken", "pos": "irregular verb", "example": "The company undertook a major review of its policies.", "tr": "üstlenmek", "tk": "öz üstüne almak", "ru": "предпринимать, браться" },
+      { "word": "weave – wove – woven", "pos": "irregular verb", "example": "The carpet was woven by hand in Turkmenistan.", "tr": "dokumak", "tk": "dokamak", "ru": "ткать" },
+      { "word": "weep – wept – wept", "pos": "irregular verb", "example": "She wept quietly at the end of the film.", "tr": "ağlamak (gözyaşı dökmek)", "tk": "aglamak", "ru": "плакать" },
+      { "word": "withstand – withstood – withstood", "pos": "irregular verb", "example": "The bridge has withstood several earthquakes.", "tr": "dayanmak, karşı koymak", "tk": "çydamak, garşy durmak", "ru": "выдерживать" }
+    ] }
+  },
+  {
+    "skill": "VOCABULARY", "level": "C2", "topic": "Irregular verbs C2 · 3", "title": "Irregular Verbs C2 · Part 3",
+    "body": { "words": [
+      { "word": "slit – slit – slit", "pos": "irregular verb", "example": "He slit the envelope open with a knife.", "tr": "yarmak, kesmek", "tk": "kesip açmak", "ru": "разрезать (вдоль)" },
+      { "word": "smite – smote – smitten", "pos": "irregular verb", "example": "He was smitten with her from the moment they met.", "tr": "vurmak; (smitten) vurulmak, âşık olmak", "tk": "urmak; (smitten) aşyk bolmak", "ru": "поражать; (smitten) влюблённый" },
+      { "word": "stride – strode – stridden", "pos": "irregular verb", "example": "She strode confidently into the meeting room.", "tr": "uzun adımlarla yürümek", "tk": "uly ädimler bilen ýöremek", "ru": "шагать широким шагом" },
+      { "word": "string – strung – strung", "pos": "irregular verb", "example": "Lights were strung across the street for the festival.", "tr": "ipe dizmek, asmak", "tk": "ýüpe düzmek, asmak", "ru": "нанизывать, натягивать" },
+      { "word": "strive – strove – striven", "pos": "irregular verb", "example": "We strive to give every student the best support.", "tr": "çabalamak", "tk": "jan etmek, ymtylmak", "ru": "стремиться" },
+      { "word": "thrust – thrust – thrust", "pos": "irregular verb", "example": "He thrust the papers into my hands and left.", "tr": "itmek, sokmak", "tk": "güýç bilen itmek, sokmak", "ru": "толкать, совать" },
+      { "word": "tread – trod – trodden", "pos": "irregular verb", "example": "Be careful not to tread on the flowers.", "tr": "basmak, ayak basmak", "tk": "basmak, aýak basmak", "ru": "ступать, наступать" },
+      { "word": "wed – wed/wedded – wed/wedded", "pos": "irregular verb", "example": "They were wed in a small village church.", "tr": "evlenmek", "tk": "öýlenmek, durmuşa çykmak", "ru": "венчаться, сочетаться браком" },
+      { "word": "wring – wrung – wrung", "pos": "irregular verb", "example": "She wrung the water out of the towel.", "tr": "sıkmak (çamaşır)", "tk": "sykmak (suwuny)", "ru": "выжимать" }
+    ] }
+  }
+]
